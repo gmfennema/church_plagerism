@@ -1,0 +1,8 @@
+# Downloaded source audio is intentionally kept local and out of git.
+fbc_tucson/source_audio/
+
+# Temporary delivery copies and Python-generated artifacts.
+fbc_tucson/.outgoing_transcripts/
+fbc_tucson/__pycache__/
+*.py[cod]
+.DS_Store
