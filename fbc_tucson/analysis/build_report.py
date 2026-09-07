@@ -173,16 +173,16 @@ pages.append(page(f'''
 <div class="stats4">
   {stat(f"{pct_reused:.0f}%", "of sermon-body words in reused regions", f"{reused:,} of {body_tok:,} words; {pct_nonscr:.0f}% after removing Scripture both men read")}
   {stat(f"{min(r['body']['reused_pct'] for r in PAIRED):.0f}–{max(r['body']['reused_pct'] for r in PAIRED):.0f}%", "range across the six sermons", "Sexual Purity lowest; No Clever Tricks highest")}
-  {stat(f"{st.median(ratings):.0f}/10", "median reviewer dependence rating", "0 = independent, 10 = read aloud. Range 7–9; controls 0")}
-  {stat(f"{min(s['covered_pct'] for r in PAIRED for s in r['source_consumption'][:1]):.0f}–{max(s['covered_pct'] for r in PAIRED for s in r['source_consumption'][:1]):.0f}%", "of each Begg sermon reappears in the FBC version", "Begg’s 30–40 minute sermons stretched to FBC’s 30–45 minute slots")}
+  {stat(f"{st.median(ratings):g}/10", "median reviewer dependence rating", "0 = independent, 10 = read aloud. Range 7–9; controls 0")}
+  {stat(f"{min(s['covered_pct'] for r in PAIRED for s in r['source_consumption'][:1]):.0f}–{max(s['covered_pct'] for r in PAIRED for s in r['source_consumption'][:1]):.0f}%", "of each Begg sermon reappears in the FBC version", f"Begg’s {min(s['tokens'] for s in SRC.values() if any(s['key'] in r['paired_sources'] for r in PAIRED)):,}–{max(s['tokens'] for s in SRC.values() if any(s['key'] in r['paired_sources'] for r in PAIRED)):,}-word sermons feed FBC sermon bodies of {min(r['body']['tokens'] for r in PAIRED):,}–{max(r['body']['tokens'] for r in PAIRED):,} words")}
 </div>
 <h2>Key findings</h2>
 <ol class="findings">
-  <li><b>The reuse is systematic, not incidental.</b> Every one of the senior pastor’s six sermons pairs with exactly one Begg sermon, the one on the same verses, and with none of the other 21. Overlap with the paired sermon runs {rng(paired_whole)} of the full livestream transcript against a ceiling of {max(unpaired):.1f}% for any non-paired Begg sermon and {max(begg_self):.1f}% for Begg reusing his own material across his own series (Exhibits 2 and 3).</li>
-  <li><b>The earlier report understated it by roughly seven-fold.</b> Counting only exact eight-word runs, and dividing by whole-service transcripts that are 40% worship lyrics, gave {100*exact8_all/T['fbc_tokens']:.1f}%. Aligning near-verbatim passages that caption errors and light paraphrase had broken, and measuring against the sermon itself, gives {pct_reused:.0f}% (Exhibit 1).</li>
+  <li><b>The pattern is consistent across all six sermons.</b> Every one of the senior pastor’s six sermons pairs with exactly one Begg sermon, the one on the same verses, and with none of the other 21. Overlap with the paired sermon runs {rng(paired_whole)} of the full livestream transcript against a ceiling of {max(unpaired):.1f}% for any non-paired Begg sermon and {max(begg_self):.1f}% for Begg reusing his own material across his own series (Exhibits 2 and 3).</li>
+  <li><b>The earlier report understated it by roughly seven-fold.</b> Counting only exact eight-word runs, and dividing by whole-service transcripts of which a third to a half is songs and announcements, gave 3.7%. Aligning near-verbatim passages that caption errors and light paraphrase had broken, and measuring against the sermon itself, gives {pct_reused:.0f}% (Exhibit 1).</li>
   <li><b>Begg’s outline is the sermon’s skeleton.</b> In all six sermons the reused passages march through Begg’s sermon in order (rank correlation {min(r['order_rho'] for r in PAIRED):.2f} to {max(r['order_rho'] for r in PAIRED):.2f}), and the reviewer found the same headings, the same sequence of proof texts and the same closing lines in every pair (Exhibit 4).</li>
-  <li><b>What travels is the distinctive material.</b> Reviewers catalogued {n_borrowed} borrowed non-Scripture elements: {borrowed['illustration']} illustrations, {borrowed['commentator_quote']} commentator quotations, {borrowed['prayer']} prayers, {borrowed['wordplay']} wordplays and {borrowed['structure']} structural devices among them. Six sermons end on Begg’s peroration; four pray Begg’s closing prayer.</li>
-  <li><b>The borrowing is disguised as personal.</b> Begg’s “I found John Stott to be so helpful” becomes “I found John Stott, a great theologian, so helpful”; Begg’s confession about his own week is preached as the FBC pastor’s own week; “Parkside Church” becomes “FBC”; British tea becomes American coffee. Begg himself is never named.</li>
+  <li><b>What travels is the distinctive material.</b> The reviewer catalogued {n_borrowed} borrowed non-Scripture elements: {borrowed['illustration']} illustrations, {borrowed['commentator_quote']} commentator quotations, {borrowed['prayer']} prayers, {borrowed['wordplay']} wordplays and {borrowed['structure']} structural devices among them. Four end on Begg’s closing line or peroration and a fifth on his closing prayer; two pray Begg’s closing prayer clause by clause and a third opens with his prayer over the text.</li>
+  <li><b>The borrowing is presented as personal.</b> Begg’s “I found John Stott to be so helpful” becomes “I found John Stott, a great theologian, so helpful”; Begg’s confession about his own week is preached as the FBC pastor’s own week; “Parkside Church” becomes “FBC”; British tea becomes American coffee. Begg himself is never named.</li>
   <li><b>The pattern is specific to one preacher.</b> Pastor Kevin’s “The Walk of Influence” and an associate’s “Your True Identity”, on the same book in the same series, share only Scripture with Begg. They serve as the study’s natural control.</li>
 </ol>
 <div class="callout"><b>What this review is and is not.</b> It establishes textual dependence from transcripts: what was said, in what order, and whether a source was named. It does not establish intent, and it does not assess whether Truth For Life’s usage terms permit re-preaching; those terms were not reviewed. Both transcripts are machine-generated, so word-level figures are floors rather than ceilings.</div>
@@ -190,7 +190,7 @@ pages.append(page(f'''
 
 # ---------------------------------------------------------------- Exhibit 1 page
 pages.append(page(f'''
-<h1 class="title">A fifth to two-fifths of each of the senior pastor’s sermons is Begg, near-verbatim</h1>
+<h1 class="title">A tenth to two-fifths of each of the senior pastor’s sermons is Begg, near-verbatim</h1>
 {exhibit(1, "Share of sermon-body words inside a reused Begg region, by sermon (chronological)", "ex1_coverage",
   "Source: YouTube auto-captions of FBC Tucson livestreams; Whisper transcripts of Truth For Life audio. Sermon body = reviewer-marked start and end of the sermon proper (excludes songs, announcements, altar call). Reused region = chain of exact 4-word seeds re-scored by token alignment, ≥12 words, ≥45% identity. Scripture classification by reviewer, region by region.")}
 <div class="two-col">
@@ -202,7 +202,7 @@ pages.append(page(f'''
 <div>
 <h2>Why the earlier figure was low</h2>
 <ul>
-<li><b>Wrong denominator.</b> The captions cover the whole service. Worship lyrics, announcements and the altar call are 40–55% of each transcript and contain no Begg.</li>
+<li><b>Wrong denominator.</b> The captions cover the whole service. Songs, announcements and the altar call are 33–55% of each transcript and contain no Begg.</li>
 <li><b>Brittle detector.</b> Exact runs break at every caption error (“John Stodd” for Stott, “thorough affairs” for thoroughfares) and every Americanisation (“tea” to “coffee”). Word-weighted identity inside reused regions averages 61%, so most borrowed passages never form an eight-word exact run.</li>
 <li><b>Still a floor.</b> Reviewers flagged whole borrowed paragraphs the aligner missed (e.g. the “speaking freely, openly, fearlessly” word study in No Clever Tricks) and structural borrowing it cannot see (the 20-minute dialogue device in Sexual Purity).</li>
 </ul>
@@ -212,12 +212,12 @@ pages.append(page(f'''
 
 # ---------------------------------------------------------------- Exhibit 2 + 6
 pages.append(page(f'''
-<h1 class="title">Each sermon maps onto exactly one Begg sermon, at five to ten times any natural overlap</h1>
+<h1 class="title">Each sermon maps onto exactly one Begg sermon, at three to ten times any natural overlap</h1>
 {exhibit(2, "Reused-region coverage of each FBC transcript against all 22 Begg sermons", "ex2_heatmap",
   "Source: as Exhibit 1. Cell value is the share of the full FBC transcript (not just the sermon body) inside a reused region with that Begg sermon; cells ≥3% labelled. Volume 1 covers 1 Thess. 1–2, Volume 2 covers 4–5, Volume 3 (“Reminders for the Local Church”) covers 5:12–28.")}
 {exhibit(3, "Natural overlap between preachers on the same book is small; the paired sermons are not", "ex6_baselines",
   f"Source: as Exhibit 1, whole-transcript basis for comparability. Begg-vs-Begg: all {len(begg_self)} pairs of his own 1 Thessalonians sermons, capturing a preacher’s normal self-repetition. FBC-vs-other: the {len(unpaired)} FBC/Begg pairs that are not the same passage.")}
-<p class="body-note">Two things stand out in the heat map. First, the diagonal: each FBC sermon lights up only the Begg sermon on its own verses. The faint cells elsewhere (1–2%) are Begg quoting the same benediction across his series, or shared Bible readings. Second, the rows for Your True Identity and The Walk of Influence are as faint as any non-paired cell even though Begg preached the same passages (Volume 2, Parts 1–3; Volume 3, tracks 1–9). Two men preaching the same verses independently produce about what those rows show, which is the baseline the six paired sermons exceed by an order of magnitude.</p>
+<p class="body-note">Two things stand out in the heat map. First, the diagonal: each FBC sermon lights up only the Begg sermon on its own verses. The faint cells elsewhere (1–2%) are Begg quoting the same benediction across his series, or shared Bible readings. Second, the rows for Your True Identity and The Walk of Influence are as faint as any non-paired cell even though Begg preached the same passages (Volume 2, Parts 1–3; Volume 3, tracks 1–9). Two men preaching the same verses independently produce about what those rows show, which is the baseline the six paired sermons exceed three- to ten-fold.</p>
 ''', "Findings · Specificity"))
 
 # ---------------------------------------------------------------- Exhibit 4 + 5
@@ -227,14 +227,14 @@ pages.append(page(f'''
   "Source: as Exhibit 1. Each mark is one reused region, drawn from its start to its end; blue = commentary, orange = shared Scripture. A mark on the diagonal means the passage occurs at the same relative point in both sermons. ρ = Spearman rank correlation of positions.", cls="tall")}
 <p class="body-note">A preacher who consulted Begg for a few ideas would produce scattered marks. Instead the marks form staircases: the FBC sermon proceeds through Begg’s sermon in Begg’s order, and the flat stretches are the pastor’s own insertions (a Mother’s Day frame, a Barna survey, a 13-minute prayer appeal) between Begg’s points. Above the diagonal (Faith, Hope and Love) he skipped Begg’s opening; below it (Sexual Purity) he added a long opening of his own before joining Begg’s text.</p>
 {exhibit(5, "Share of each Begg sermon’s words that reappear near-verbatim in the FBC sermon", "ex5_consumption",
-  "Source: as Exhibit 1, source-side coverage. Begg’s sermons are 4,000–6,400 words; the FBC sermon bodies are 4,400–6,700 words.")}
+  "Source: as Exhibit 1, source-side coverage. Begg’s paired sermons are {min(s['tokens'] for s in SRC.values() if any(s['key'] in r['paired_sources'] for r in PAIRED)):,}–{max(s['tokens'] for s in SRC.values() if any(s['key'] in r['paired_sources'] for r in PAIRED)):,} words; the FBC sermon bodies are {min(r['body']['tokens'] for r in PAIRED):,}–{max(r['body']['tokens'] for r in PAIRED):,} words.")}
 ''', "Findings · Structure"))
 
 # ---------------------------------------------------------------- Exhibit 3 timelines + 7
 pages.append(page(f'''
 <h1 class="title">The reuse is spread through the whole sermon and delivered as light paraphrase</h1>
 {exhibit(6, "Minute-by-minute share of words inside a reused region, across each livestream", "ex3_timelines",
-  "Source: as Exhibit 1. Shaded band marks the reviewer’s sermon start and end. Bars before the band in Faith, Hope and Love are the congregational Bible reading.", cls="tall")}
+  "Source: as Exhibit 1. Shaded band marks the reviewer’s sermon start and end.", cls="tall")}
 <div class="two-col">
 <div>
 {exhibit(7, "Token identity of non-Scripture reused regions, weighted by length", "ex7_identity",
@@ -243,7 +243,7 @@ pages.append(page(f'''
 <div class="pad-top">
 <h2>Not read aloud, but not rewritten either</h2>
 <p>Verbatim reading would cluster identity near 100%; genuine re-composition from notes would leave little that aligns at all. The distribution sits in between, centred on 55–70%. That is the signature of a manuscript being paraphrased as it is spoken: word order kept, connectives kept, nouns and idioms swapped for local ones.</p>
-<p>The longest single non-Scripture region runs {longest_ns} words (The Faithfulness of God, the Romans 8:33 “God decided to justify you” passage). The longest unbroken exact run is {longest_exact} words. Across the six sermons the detector found {regions} reused regions, {regions_ns} of them commentary rather than Scripture.</p>
+<p>The longest single reused region outside the pure Bible readings runs {longest_ns} words (The Faithfulness of God, from the Zinzendorf hymn through the Phillips rendering of verse 24; Begg’s commentary interleaved with the verses he quotes). The longest unbroken exact run is {longest_exact} words. Across the six sermons the detector found {regions} reused regions, {regions_ns} of them commentary rather than Scripture.</p>
 <p>Roughly {minutes_reused:.0f} of the {minutes_paired:.0f} minutes the senior pastor spent preaching these six sermons were spent inside a Begg passage.</p>
 </div>
 </div>
@@ -253,7 +253,7 @@ pages.append(page(f'''
 top_types = borrowed.most_common()
 type_rows = "".join(f"<tr><td>{e(t.replace('_',' ').capitalize())}</td><td class=num>{c}</td></tr>" for t, c in top_types)
 pages.append(page(f'''
-<h1 class="title">What travels is the distinctive material, and it is re-voiced as the pastor’s own</h1>
+<h1 class="title">What travels is the distinctive material, and it is re-voiced in the first person</h1>
 <div class="two-col wide-right">
 <div>
 <h2>Borrowed elements catalogued by the reviewers</h2>
@@ -265,7 +265,7 @@ pages.append(page(f'''
 <tr><td>Sermons naming Truth For Life or Parkside</td><td class=num>0 of 6</td></tr>
 <tr><td>Any “I heard a preacher say…” hedge</td><td class=num>0 of 6</td></tr>
 <tr><td>Begg’s named authorities kept</td><td class=num>Stott, Morris, Packer, Phillips, Lewis, Zinzendorf</td></tr>
-<tr><td>Begg’s anonymous “one commentator” kept anonymous</td><td class=num>3 sermons</td></tr>
+<tr><td>Begg’s anonymous “one commentator” kept anonymous</td><td class=num>2 sermons</td></tr>
 </tbody></table>
 </div>
 <div>
@@ -276,7 +276,7 @@ pages.append(page(f'''
 <li><b>Church names swapped, sentence kept.</b> “If people came from other churches to imitate Parkside Church, what would we give them to imitate?” becomes the same question about Fellowship Bible Church, followed by Begg’s four-item answer.</li>
 <li><b>Britain becomes Arizona.</b> Tea to coffee; cinema to movie; “wee bit over the top” to “reading it over the top”; “the devil” to “the enemy”; Begg’s Sunday-evening markers to Sunday morning.</li>
 <li><b>Statements become call-and-response.</b> “The source, the force and the course” becomes “the source. Say that with me.” Begg’s “God is for us” becomes “Now, let’s say it out loud. God is for me.”</li>
-<li><b>The most personal moments are the most borrowed.</b> Four of six closing prayers follow Begg’s prayer clause by clause, including the rare phrase “the thoroughfares of our lives”, captioned at FBC as “thorough affairs”.</li>
+<li><b>Even the prayers are borrowed.</b> Two of the six closing prayers follow Begg’s prayer clause by clause and a third sermon opens with Begg’s prayer over the text, including the rare phrase “the thoroughfares of our lives”, captioned at FBC as “thorough affairs”.</li>
 </ol>
 {sbs("1:01:47", "I like to quote from one commentator where he says this in Thessalonica. There’s probably never been such a variety of religious cults and philosophic systems as in Paul’s day. Now again, this commentator is writing before the late 20th century. You know what? I think that our culture might be able to rival that.", "Let me quote from one commentator. There has probably never been such a variety of religious cults and philosophic systems as in Paul’s day. This was written before the late 20th century. We might be able to rival it now.", "No Clever Tricks. The pastor reproduces not only Begg’s anonymous quotation but Begg’s act of quoting it and his dating aside, recast as a personal habit.")}
 </div>
@@ -291,7 +291,7 @@ for i, r in enumerate(PAIRED, 1):
     cons = r["source_consumption"][0]
     ex = rv["paraphrase_examples"]
     picks = [ex[k] for k in PICKS[r["title"]] if k < len(ex)]
-    quotes = "".join(sbs(p["fbc_time"], trunc(p["fbc"], 240), trunc(p["begg"], 240), trunc(p["comment"], 175)) for p in picks)
+    quotes = "".join(sbs(p["fbc_time"], trunc(p["fbc"], 240), trunc(p["begg"].replace(" [Stott]", ""), 240), trunc(p["comment"], 175)) for p in picks)
     orig = rv["original_material"]
     stats = f'''
 <div class="prof-stats">
@@ -328,7 +328,7 @@ def ctrl_block(r):
     return f'''<div class="ctrl">
 <h2>“{e(r['title'])}” · {fmt_date(r['date'])} · {e(rv['passage'].split(' (')[0])}</h2>
 <p class="small"><b>Preacher:</b> {e(trunc(rv['speaker_notes'], 260))}</p>
-<p class="small">{e(trunc(rv['rating_rationale'], 900))}</p>
+<p class="small">{e(trunc(rv['rating_rationale'].replace('all thirty Begg files', 'all 22 Begg transcripts'), 900))}</p>
 </div>'''
 
 pages.append(page(f'''
@@ -364,14 +364,14 @@ title_rows = [
 ]
 trs = "".join(f"<tr class='{ 'hit' if m in ('identical','near-identical') else ''}'><td>{e(a)}</td><td>{e(b)}</td><td>{e(m)}</td><td>{e(n)}</td></tr>" for a, b, m, n in title_rows)
 pages.append(page(f'''
-<h1 class="title">Even the sermon titles are Begg’s, including two we could not transcribe</h1>
-<p class="lede">Of the 17 titled Sunday recordings in the playlist, eight carry a title identical or near-identical to a Begg sermon in the 22-sermon comparison corpus. Six of those eight are the sermons analysed above. The other two, “Truth and Love” and “Living to Please God”, have captions disabled and could not be checked, but their titles match Begg’s Volume 1 track 5 and Volume 2 track 1. The five remaining untranscribed titles could not be compared: the Begg volumes contain sermons that are not in the local corpus, and the publisher’s site was unreachable from this environment.</p>
+<h1 class="title">Even the sermon titles are Begg’s, including three recordings we could not transcribe</h1>
+<p class="lede">Of the 17 titled Sunday recordings in the playlist, nine (under eight titles) carry a title identical or near-identical to a Begg sermon in the 22-sermon comparison corpus. Six of the nine are the sermons analysed above. The other three, the April 12 “Faith, Hope and Love”, “Truth and Love” and “Living to Please God”, have captions disabled and could not be checked, but their titles match Begg’s Volume 1 tracks 1 and 5 and Volume 2 track 1. The six remaining untranscribed titles could not be compared: the Begg volumes contain sermons that are not in the local corpus, and the publisher’s site was unreachable from this environment.</p>
 <table class="grid">
 <thead><tr><th>FBC Tucson video (2026)</th><th>Nearest Alistair Begg title</th><th>Title match</th><th>Status</th></tr></thead>
 <tbody>{trs}</tbody>
 </table>
 <p class="ex-src">Source: playlist.json (25 entries: 17 titled Sunday recordings, 1 children’s event, 7 removed videos). Title comparison against the 22 locally transcribed Begg sermons only.</p>
-<div class="callout"><b>Implication.</b> The six analysed sermons are the ones whose captions happened to be enabled. Nothing in the pattern suggests they are unrepresentative: the two untranscribed sermons whose titles can be checked also carry Begg’s titles, and the senior pastor’s 1 Thessalonians preaching in this playlist runs from April through late July. Obtaining audio for the caption-disabled videos would allow the same analysis to be completed for the series as a whole.</div>
+<div class="callout"><b>Implication.</b> The six analysed sermons are the ones whose captions happened to be enabled. Nothing in the pattern suggests they are unrepresentative: the three untranscribed recordings whose titles can be checked also carry Begg’s titles, and the senior pastor’s 1 Thessalonians preaching in this playlist runs from April through late July. Obtaining audio for the caption-disabled videos would allow the same analysis to be completed for the series as a whole.</div>
 ''', "Scope"))
 
 # ---------------------------------------------------------------- methodology
@@ -436,7 +436,7 @@ for r in PAIRED:
 segs.sort(key=lambda rs: -rs[1]["fbc_len"])
 lrows = ""
 for r, s in segs[:11]:
-    lrows += f"<tr><td>{e(r['title'])}</td><td class=mono>{s['fbc_time']}</td><td class=num>{s['fbc_len']}</td><td class=num>{int(s['identity']*100)}%</td><td class=quote>{e(trunc(s['fbc_text'], 165))}</td><td class=quote>{e(trunc(s['src_text'], 165))}</td></tr>"
+    lrows += f"<tr><td>{e(r['title'])}</td><td class=mono>{s['fbc_time']}</td><td class=num>{s['fbc_len']}</td><td class=num>{round(s['identity']*100)}%</td><td class=quote>{e(trunc(s['fbc_text'], 165))}</td><td class=quote>{e(trunc(s['src_text'], 165))}</td></tr>"
 pages.append(page(f'''
 <h1 class="title">Appendix B · The eleven longest reused commentary passages</h1>
 <table class="grid dense regions">

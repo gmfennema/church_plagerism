@@ -256,8 +256,8 @@ def ex6_baselines():
     paired = [R["matrix"][f"{r['key']}||{r['paired_sources'][0]}"]["fuzzy_cov_fbc_pct"] for r in PAIRED]
     # express as share of sermon body for paired for comparability? keep whole-transcript for apples-to-apples
     groups = [("FBC sermon vs. its\nsame-title Begg sermon", paired, C_REUSE),
-              ("Begg vs. his own other\n1 Thess. sermons (231 pairs)", begg_self, C_BASE),
-              ("FBC sermon vs. every\nother Begg sermon (169 pairs)", unpaired, C_BASE)]
+              (f"Begg vs. his own other\n1 Thess. sermons ({len(begg_self)} pairs)", begg_self, C_BASE),
+              (f"FBC sermon vs. every\nother Begg sermon ({len(unpaired)} pairs)", unpaired, C_BASE)]
     fig, ax = plt.subplots(figsize=(7.6, 2.9))
     rng = np.random.default_rng(3)
     for gi, (name, vals, col) in enumerate(groups):
