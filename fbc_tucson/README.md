@@ -15,10 +15,9 @@ The parent project and folder names intentionally match the requested spelling:
 - `transcripts/*.txt` — readable timestamped transcripts
 - `transcripts/*.json` — structured transcript snippets and metadata
 - `source_transcripts/volume*/` — locally generated transcripts of the public Truth For Life source audio
-- `plagiarism_report.pdf` — formatted evidence review
-- `plagiarism_report.md` — readable report text
-- `plagiarism_analysis.json` — machine-readable comparison results
-- `generate_plagiarism_report.py` — reproducible exact-match analysis and PDF generator
+- `sermon_dependence_report.pdf` — current (v2) evidence review; built by `analysis/`
+- `analysis/` — v2 pipeline: fuzzy alignment, baselines, reviewer close-reads, exhibits, report builder
+- `plagiarism_report.pdf`, `plagiarism_report.md`, `plagiarism_analysis.json`, `generate_plagiarism_report.py` — superseded v1 exact-match review
 
 The downloaded source MP3s live in `source_audio/` locally but are intentionally excluded from version control because of their size and copyright status.
 
