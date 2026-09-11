@@ -1,0 +1,108 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/gmfennema/church_plagerism/docs/submission.schema.json",
+  "title": "Sermon integrity research submission",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["schema_version", "rubric_version", "submission_key", "church_slug", "pastor_name", "finding", "attestation"],
+  "properties": {
+    "schema_version": { "const": "1.0" },
+    "rubric_version": { "type": "string", "minLength": 1 },
+    "submission_key": { "type": "string", "minLength": 8, "maxLength": 200 },
+    "task_id": { "type": "string" },
+    "church_slug": { "type": "string", "pattern": "^[a-z0-9]+(-[a-z0-9]+)*$" },
+    "pastor_name": { "type": "string", "minLength": 2 },
+    "pastor_role": { "type": "string" },
+    "finding": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["kind", "status", "summary", "sermons_reviewed", "methods", "metrics"],
+      "properties": {
+        "kind": { "enum": ["plagiarism", "ai_writing"] },
+        "status": { "enum": ["cleared", "flagged", "inconclusive"] },
+        "confidence": { "enum": ["low", "medium", "high"] },
+        "summary": { "type": "string", "minLength": 30, "maxLength": 8000 },
+        "sermons_reviewed": { "type": "integer", "minimum": 0 },
+        "methods": { "type": "array", "maxItems": 30, "items": { "type": "string" } },
+        "metrics": { "type": "object" }
+      }
+    },
+    "review_period": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "from": { "type": "string", "format": "date" },
+        "to": { "type": "string", "format": "date" }
+      }
+    },
+    "sources_compared": {
+      "type": "array",
+      "maxItems": 40,
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["author", "title"],
+        "properties": {
+          "author": { "type": "string" },
+          "title": { "type": "string" },
+          "url": { "type": "string", "format": "uri" },
+          "attributed_in_sermon": { "type": ["boolean", "null"] }
+        }
+      }
+    },
+    "evidence": {
+      "type": "array",
+      "maxItems": 100,
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["type", "description"],
+        "properties": {
+          "type": { "enum": ["verbatim_overlap", "paraphrase_overlap", "structural_similarity", "attribution_present", "attribution_absent", "ai_phrase_density", "stylometric_shift", "low_disfluency", "manuscript_published", "other"] },
+          "description": { "type": "string", "maxLength": 4000 },
+          "sermon_title": { "type": "string" },
+          "sermon_date": { "type": "string", "format": "date" },
+          "sermon_url": { "type": "string", "format": "uri" },
+          "sermon_excerpt": { "type": "string", "maxLength": 2000 },
+          "sermon_timestamp": { "type": "string" },
+          "source_author": { "type": "string" },
+          "source_title": { "type": "string" },
+          "source_url": { "type": "string", "format": "uri" },
+          "source_excerpt": { "type": "string", "maxLength": 2000 },
+          "matched_words": { "type": "number", "minimum": 0 },
+          "metric_name": { "type": "string" },
+          "metric_value": { "type": ["number", "string"] },
+          "scripture_excluded": { "type": "boolean" },
+          "attribution_status": { "enum": ["found", "not_found", "not_checked"] }
+        }
+      }
+    },
+    "artifacts": {
+      "type": "array",
+      "maxItems": 30,
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["storage_id", "kind", "file_name", "content_type"],
+        "properties": {
+          "storage_id": { "type": "string" },
+          "kind": { "enum": ["transcript", "source_transcript", "comparison_report", "ai_signal_report", "research_notes", "other"] },
+          "file_name": { "type": "string" },
+          "content_type": { "type": "string" },
+          "sermon_url": { "type": "string", "format": "uri" },
+          "description": { "type": "string" }
+        }
+      }
+    },
+    "attestation": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["rubric_reviewed", "scripture_liturgy_exclusions_reviewed"],
+      "properties": {
+        "rubric_reviewed": { "const": true },
+        "scripture_liturgy_exclusions_reviewed": { "const": true }
+      }
+    },
+    "notes": { "type": "string", "maxLength": 20000 }
+  }
+}

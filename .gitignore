@@ -17,3 +17,10 @@ __pycache__/
 *.py[cod]
 .DS_Store
 .venv/
+
+# Local JavaScript dependencies and deployment credentials
+node_modules/
+.env.local
+
+# Local browser verification artifacts
+output/playwright/

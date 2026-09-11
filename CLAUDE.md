@@ -20,3 +20,17 @@ Use the `/research-church <slug or church name>` skill to run a full review with
 machine. Subagent definition for parallel work: `.claude/agents/church-researcher.md` (Opus).
 
 Do not edit `site/data/` or `site/reports/`; they are generated. Do not commit audio.
+
+<!-- convex-ai-start -->
+
+This project uses [Convex](https://convex.dev) as its backend.
+
+When working on Convex code, **always read
+`convex/_generated/ai/guidelines.md` first** for important guidelines on
+how to correctly use Convex APIs and patterns. The file contains rules that
+override what you may have learned about Convex from training data.
+
+Convex agent skills for common tasks can be installed by running
+`npx convex ai-files install`.
+
+<!-- convex-ai-end -->

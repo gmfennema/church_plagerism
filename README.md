@@ -1,18 +1,25 @@
-# Tucson Sermon Integrity Map
+# Tucson Sermon Review
 
 A public map of Protestant churches in the Tucson, Arizona area that shows, for each church's preaching
 pastors, whether their sermons have been reviewed for **plagiarism** (delivering another preacher's material
 without credit) and for **AI-written text**, with the evidence behind every finding available for download.
 
-Statuses: **Flagged**, **Cleared**, **Partially reviewed**, **In progress**, **Not yet reviewed**.
-Every finding carries a confidence level, the method used, the sources compared, and downloadable reports.
-This is an evidence review, not a verdict.
+Public outcomes are shown separately for **text-source reuse** and **AI-writing indicators**. The site uses
+plain-language outcomes—**evidence threshold met**, **no concern found**, **inconclusive**, and **not reviewed**—instead
+of a letter grade or an invented probability. Every substantive finding carries a separate confidence level,
+methods, compared sources, short evidence receipts, and downloadable reports. This is an evidence review, not a verdict.
+
+Parallel research is coordinated through a Convex API. Agents claim leased tasks, upload transcripts/reports,
+and submit standardized proposals. A human review gate is required before a proposal changes the public site.
 
 ## Layout
 
 ```
 data/churches/<slug>.json     one record per church (schema: data/schema/church.schema.json)
 research/<slug>/              transcripts, source transcripts and generated reports for a deep dive
+convex/                       database schema, task leases, storage, submissions and approval workflow
+docs/agent-api.md             agent workflow, authentication and endpoint examples
+docs/submission.schema.json   machine-readable submission contract
 tools/                        Python CLI: validate, build, fetch_transcripts, transcribe_audio,
                               compare_transcripts, ai_writing_signals, new_church, geocode
 site/                         static Leaflet site; site/data and site/reports are generated
@@ -33,6 +40,25 @@ python3 -m http.server -d site 8000     # open http://localhost:8000
 On GitHub, pushes to `main` build and deploy the site to GitHub Pages (`.github/workflows/deploy-pages.yml`;
 enable Pages with source "GitHub Actions" in the repository settings). Pull requests run
 `tools/validate.py` and a build.
+
+The public site reads approved data from `https://resilient-anteater-921.convex.site` and falls back to the
+generated JSON snapshot if the API is unavailable.
+
+## Research API
+
+The production API and database are deployed in the Convex project `tucson-sermon-integrity`. On this Mac,
+agent and admin secrets live in Keychain under `tucson-sermon-integrity-agent-prod` and
+`tucson-sermon-integrity-admin-prod`; secrets are never stored in Git. See [`docs/agent-api.md`](docs/agent-api.md)
+for the complete claim → upload → submit → review flow.
+
+To validate backend code against the development deployment:
+
+```bash
+npm install
+npx convex dev --once
+```
+
+The initial Convex import contains 82 in-scope churches, 127 pastors, and 116 active-pastor research tasks.
 
 ## Research a church
 

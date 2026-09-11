@@ -18,6 +18,13 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+          cache: npm
+      - run: npm ci
+      - name: Typecheck Convex backend
+        run: npx tsc -p convex/tsconfig.json
       - run: python3 -m pip install jsonschema
       - name: Validate records
         run: python3 tools/validate.py
