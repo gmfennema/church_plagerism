@@ -1,329 +1,481 @@
-/* Tucson Sermon Review. Convex is preferred; the generated JSON remains an offline fallback. */
+/* Tucson Sermon Review. Convex is preferred; generated JSON is the offline fallback. */
 (function () {
   'use strict';
 
-  const STATUS = {
-    unchecked: { label: 'Not reviewed', color: '#788380' },
-    partial: { label: 'Inconclusive', color: '#b56d09' },
-    in_progress: { label: 'Review underway', color: '#286a8a' },
-    cleared: { label: 'No concern found', color: '#2f7d68' },
-    flagged: { label: 'Evidence threshold met', color: '#a33a4e' },
-    inconclusive: { label: 'Inconclusive', color: '#b56d09' },
+  const RESULTS = {
+    plagiarism: { label: 'Plagiarism evidence', color: '#d94a4a', priority: 5 },
+    ai: { label: 'AI-writing signs', color: '#7842ad', priority: 4 },
+    concern: { label: 'Attribution concern', color: '#e27b22', priority: 3 },
+    clear: { label: 'Reviewed — clear', color: '#2f9469', priority: 2 },
+    unreviewed: { label: 'Not reviewed', color: '#8290a3', priority: 1 },
   };
-  const FINDING_LABEL = { unchecked: 'Not reviewed', in_progress: 'Review underway', cleared: 'No concern found', flagged: 'Evidence threshold met', inconclusive: 'Inconclusive' };
-  const METRIC_LABEL = {
-    sermons_with_matches: 'Sermons with matches', sermons_compared: 'Sermons compared', corpus_coverage_pct: 'Corpus in exact matches',
-    max_sermon_coverage_pct: 'Highest sermon coverage', longest_non_scripture_run_words: 'Longest non-Scripture run',
-    min_run_length_words: 'Minimum run length', ai_phrase_rate_per_1000: 'AI-associated phrases / 1,000 words',
-    disfluency_rate_per_1000: 'Spoken disfluencies / 1,000 words', mattr: 'Lexical diversity', baseline_available: 'Same-preacher baseline',
-  };
+  const RESULT_ORDER = ['plagiarism', 'ai', 'concern', 'clear', 'unreviewed'];
   const REPO = 'https://github.com/gmfennema/church_plagerism';
   const TUCSON = [32.2226, -110.9247];
+  const state = {
+    data: null,
+    churches: [],
+    filtered: [],
+    activeResults: new Set(RESULT_ORDER),
+    query: '',
+    selected: null,
+    markers: new Map(),
+  };
 
-  const state = { data: null, churches: [], filtered: [], statuses: new Set(), tradition: '', query: '', selected: null, markers: new Map() };
-  const $ = (sel) => document.querySelector(sel);
-  const esc = (s) => String(s == null ? '' : s).replace(/[&<>"']/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]));
-  const fmtDate = (iso) => { if (!iso) return ''; const d = new Date(iso + 'T12:00:00'); return isNaN(d) ? iso : d.toLocaleDateString(undefined, { year: 'numeric', month: 'short', day: 'numeric' }); };
-  const fmtSize = (n) => (n > 1048576 ? (n / 1048576).toFixed(1) + ' MB' : n > 1024 ? Math.round(n / 1024) + ' KB' : n + ' B');
-  const badge = (status, extra) => `<span class="item-badge badge-${esc(status)} ${extra || ''}">${esc(FINDING_LABEL[status] || STATUS[status]?.label || status)}</span>`;
-  const confidence = (value) => value ? `<span class="confidence confidence-${esc(value)}">${esc(value[0].toUpperCase() + value.slice(1))} confidence</span>` : '';
-  const outcomeMini = (label, status) => `<span class="outcome-mini"><span>${esc(label)}</span>${badge(status || 'unchecked')}</span>`;
+  const $ = (selector) => document.querySelector(selector);
+  const esc = (value) => String(value == null ? '' : value).replace(/[&<>"']/g, (char) => ({
+    '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;',
+  }[char]));
+  const fmtDate = (iso) => {
+    if (!iso) return '';
+    const date = new Date(iso + 'T12:00:00');
+    return Number.isNaN(date.getTime()) ? iso : date.toLocaleDateString(undefined, {
+      year: 'numeric', month: 'long', day: 'numeric',
+    });
+  };
+  const short = (text, max = 260) => {
+    const clean = String(text || '').replace(/\s+/g, ' ').trim();
+    if (clean.length <= max) return clean;
+    const clipped = clean.slice(0, max);
+    return clipped.slice(0, clipped.lastIndexOf(' ')) + '…';
+  };
+  const activePastors = (church) => {
+    const pastors = church.pastors || [];
+    return pastors.filter((pastor) => pastor.active !== false).length
+      ? pastors.filter((pastor) => pastor.active !== false)
+      : pastors;
+  };
+
+  function churchResult(church) {
+    const pastors = activePastors(church);
+    if (!pastors.length) return 'unreviewed';
+    const plagiarism = pastors.map((pastor) => pastor.plagiarism?.status || 'unchecked');
+    const ai = pastors.map((pastor) => pastor.ai_writing?.status || 'unchecked');
+
+    // One color per church. The first matching rule wins.
+    if (plagiarism.includes('flagged')) return 'plagiarism';
+    if (ai.includes('flagged')) return 'ai';
+    if (plagiarism.includes('inconclusive')) return 'concern';
+    if (plagiarism.every((status) => status === 'cleared') && ai.every((status) => status === 'cleared')) return 'clear';
+    return 'unreviewed';
+  }
+
+  function strongestFinding(church, key) {
+    const weight = { flagged: 5, inconclusive: 3, cleared: 2, in_progress: 1, unchecked: 0 };
+    return activePastors(church)
+      .map((pastor) => ({ pastor, finding: pastor[key] || { status: 'unchecked' } }))
+      .sort((a, b) => (weight[b.finding.status] || 0) - (weight[a.finding.status] || 0))[0]
+      || { pastor: null, finding: { status: 'unchecked' } };
+  }
 
   // ---------- map ----------
   const map = L.map('map', { zoomControl: true, attributionControl: true }).setView(TUCSON, 11);
-  // CARTO's keyless basemap now returns "API KEY REQUIRED" watermarked tiles.
   L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
     maxZoom: 19,
-    attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors',
+    attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a>',
   }).addTo(map);
-  const layer = L.layerGroup().addTo(map);
-
-  const legend = L.control({ position: 'bottomleft' });
-  legend.onAdd = function () {
-    const div = L.DomUtil.create('div', 'map-legend');
-    div.innerHTML = ['flagged', 'cleared', 'partial', 'in_progress', 'unchecked']
-      .map((s) => `<div><span class="dot status-${s}"></span>${STATUS[s].label}</div>`).join('');
-    return div;
-  };
-  legend.addTo(map);
+  const markerLayer = L.layerGroup().addTo(map);
 
   function markerFor(church) {
-    const color = STATUS[church.status].color;
-    const approx = church.location.geocode === 'approximate';
-    const m = L.circleMarker([church.location.lat, church.location.lng], {
-      radius: church.status === 'flagged' ? 10 : 8,
-      color: church.status === 'flagged' ? '#7a1010' : '#ffffff',
-      weight: 2,
-      dashArray: approx ? '3 3' : null,
-      fillColor: color,
-      fillOpacity: 0.95,
+    const result = RESULTS[church._result];
+    const approximate = church.location.geocode === 'approximate';
+    const emphasized = church._result === 'plagiarism' || church._result === 'ai';
+    const marker = L.circleMarker([church.location.lat, church.location.lng], {
+      radius: emphasized ? 9 : 7.5,
+      color: emphasized ? '#ffffff' : '#f9faf7',
+      weight: emphasized ? 3 : 2,
+      dashArray: approximate ? '3 3' : null,
+      fillColor: result.color,
+      fillOpacity: .96,
       className: 'marker-pin',
     });
-    m.bindTooltip(`<b>${esc(church.name)}</b>Text reuse: ${esc(STATUS[church.plagiarism_status || church.status]?.label || 'Not reviewed')}<br>AI indicators: ${esc(STATUS[church.ai_status]?.label || 'Not reviewed')}${approx ? '<br>Approximate location' : ''}`, { direction: 'top', offset: [0, -8] });
-    m.on('click', () => select(church.slug, { pan: false, fromMarker: true }));
-    return m;
+    marker.bindTooltip(
+      `<strong>${esc(church.name)}</strong><span>${esc(result.label)}${approximate ? ' · approximate location' : ''}</span>`,
+      { direction: 'top', offset: [0, -8] },
+    );
+    marker.on('click', () => select(church.slug));
+    return marker;
   }
 
   function renderMarkers() {
-    layer.clearLayers();
+    markerLayer.clearLayers();
     state.markers.clear();
-    state.filtered.filter((c) => c.plotted).forEach((c) => {
-      const m = markerFor(c);
-      state.markers.set(c.slug, m);
-      m.addTo(layer);
+    state.filtered.filter((church) => church.plotted).forEach((church) => {
+      const marker = markerFor(church);
+      state.markers.set(church.slug, marker);
+      marker.addTo(markerLayer);
     });
   }
 
-  // ---------- mobile bottom sheet ----------
-  const mobile = window.matchMedia('(max-width: 860px)');
-  const isMobile = () => mobile.matches;
-  const sheet = () => $('#sidebar');
-
-  function sheetPeekHeight() {
-    const raw = getComputedStyle(sheet()).getPropertyValue('--sheet-peek').trim();
-    const n = parseFloat(raw);
-    return raw.endsWith('dvh') || raw.endsWith('vh') ? (window.innerHeight * n) / 100 : n;
+  function renderLegend() {
+    $('#map-legend').innerHTML = RESULT_ORDER.map((key) => `
+      <span class="legend-item"><span class="status-dot result-${key}"></span>${esc(RESULTS[key].label)}</span>
+    `).join('');
   }
 
-  function setSheet(open) {
-    const el = sheet();
-    el.classList.toggle('sheet-open', open);
-    $('#sheet-handle').setAttribute('aria-expanded', String(open));
+  // ---------- map filters and list ----------
+  function renderFilters() {
+    const counts = Object.fromEntries(RESULT_ORDER.map((key) => [key, 0]));
+    state.churches.forEach((church) => { counts[church._result] += 1; });
+    $('#status-filters').innerHTML = RESULT_ORDER.map((key) => {
+      const active = state.activeResults.has(key);
+      return `
+        <button type="button" class="filter-option result-${key}" data-result="${key}" aria-pressed="${active}">
+          <span class="status-dot"></span>
+          <span class="label">${esc(RESULTS[key].label)}</span>
+          <span class="count">${counts[key]}${active ? ' ✓' : ''}</span>
+        </button>`;
+    }).join('');
   }
 
-  function initSheet() {
-    const handle = $('#sheet-handle');
-    const el = sheet();
-    let startY = 0;
-    let startOpen = false;
-    let dragged = false;
-
-    handle.addEventListener('click', () => { if (!dragged) setSheet(!el.classList.contains('sheet-open')); });
-
-    handle.addEventListener('pointerdown', (e) => {
-      if (!isMobile()) return;
-      startY = e.clientY;
-      startOpen = el.classList.contains('sheet-open');
-      dragged = false;
-      handle.setPointerCapture(e.pointerId);
-      el.classList.add('sheet-dragging');
-    });
-
-    handle.addEventListener('pointermove', (e) => {
-      if (!el.classList.contains('sheet-dragging')) return;
-      const dy = e.clientY - startY;
-      if (Math.abs(dy) > 4) dragged = true;
-      const closedOffset = el.offsetHeight - sheetPeekHeight();
-      const base = startOpen ? 0 : closedOffset;
-      const next = Math.min(closedOffset, Math.max(0, base + dy));
-      el.style.transform = `translateY(${next}px)`;
-    });
-
-    const endDrag = (e) => {
-      if (!el.classList.contains('sheet-dragging')) return;
-      el.classList.remove('sheet-dragging');
-      el.style.transform = '';
-      if (!dragged) return;
-      const dy = e.clientY - startY;
-      setSheet(dy < -40 ? true : dy > 40 ? false : startOpen);
-    };
-    handle.addEventListener('pointerup', endDrag);
-    handle.addEventListener('pointercancel', endDrag);
-
-    mobile.addEventListener('change', () => { el.style.transform = ''; setSheet(false); setTimeout(() => map.invalidateSize(), 60); });
-  }
-
-  // ---------- filtering ----------
   function applyFilters() {
-    const q = state.query.trim().toLowerCase();
-    state.filtered = state.churches.filter((c) => {
-      if (state.statuses.size && !state.statuses.has(c.status)) return false;
-      if (state.tradition && c.tradition !== state.tradition) return false;
-      if (!q) return true;
-      const hay = [c.name, ...(c.aka || []), c.denomination, c.tradition_label, c.location.address, ...c.pastors.map((p) => p.name)].join(' ').toLowerCase();
-      return hay.includes(q);
+    const query = state.query.trim().toLowerCase();
+    state.filtered = state.churches.filter((church) => {
+      if (!state.activeResults.has(church._result)) return false;
+      if (!query) return true;
+      const haystack = [
+        church.name,
+        ...(church.aka || []),
+        church.denomination,
+        church.tradition_label,
+        church.location?.address,
+        church.location?.city,
+        ...activePastors(church).map((pastor) => pastor.name),
+      ].join(' ').toLowerCase();
+      return haystack.includes(query);
     });
+    renderFilters();
     renderList();
     renderMarkers();
   }
 
   function renderList() {
-    const ul = $('#church-list');
-    const plotted = state.filtered.filter((c) => c.plotted);
-    const unplotted = state.filtered.filter((c) => !c.plotted);
-    $('#result-count').textContent = `${state.filtered.length} of ${state.churches.length} churches`;
-    if (!state.filtered.length) { ul.innerHTML = $('#tpl-empty').innerHTML; return; }
-    const item = (c) => `
-      <li class="item ${state.selected === c.slug ? 'active' : ''}" data-slug="${esc(c.slug)}" tabindex="0" role="button">
-        <div>
-          <div class="item-name">${esc(c.name)}</div>
-          <div class="item-sub">${esc(c.tradition_label)}${c.pastors.length ? ' · ' + c.pastors.length + (c.pastors.length === 1 ? ' pastor' : ' pastors') : ' · pastors not yet identified'}</div>
-          <div class="item-outcomes">${outcomeMini('Text reuse', c.plagiarism_status || c.status)}${outcomeMini('AI indicators', c.ai_status)}</div>
-        </div>
-      </li>`;
-    ul.innerHTML = plotted.map(item).join('') + (unplotted.length ? `<li class="section-label">Not on the map yet (location pending)</li>` + unplotted.map(item).join('') : '');
-  }
-
-  // ---------- detail ----------
-  function findingHTML(label, f) {
-    const conf = confidence(f.confidence);
-    const reviewed = f.sermons_reviewed ? `<span class="conf">${f.sermons_reviewed} sermon${f.sermons_reviewed === 1 ? '' : 's'} reviewed${f.review_period?.from ? `, ${fmtDate(f.review_period.from)} to ${fmtDate(f.review_period.to)}` : ''}</span>` : '';
-    const metrics = f.metrics ? `<div class="metrics">${Object.entries(f.metrics).map(([k, v]) => `<span class="metric"><span>${esc(METRIC_LABEL[k] || k.replace(/_/g, ' '))}</span><b>${esc(typeof v === 'boolean' ? (v ? 'Yes' : 'No') : v)}${k.endsWith('_pct') ? '%' : ''}</b></span>`).join('')}</div>` : '';
-    const sources = f.sources_compared?.length ? `<details><summary>Sources compared (${f.sources_compared.length})</summary><ul class="sources">${f.sources_compared.map((s) => `<li>${esc(s.author)}, <em>${s.url ? `<a href="${esc(s.url)}" rel="noopener" target="_blank">${esc(s.title)}</a>` : esc(s.title)}</em>${s.attributed_in_sermon === true ? ' - credited in the sermon' : s.attributed_in_sermon === false ? ' - not credited in the sermon' : ' - attribution not yet checked'}</li>`).join('')}</ul></details>` : '';
-    const evidence = f.evidence?.length ? `<details ${f.status === 'flagged' ? 'open' : ''}><summary>Evidence receipts (${f.evidence.length})</summary><ol class="evidence">${f.evidence.map((e, index) => `
-        <li><div class="evidence-index" aria-hidden="true">${String(index + 1).padStart(2, '0')}</div><div class="ev-type">${esc(e.type.replace(/_/g, ' '))}${e.metric ? ` · ${esc(e.metric.name.replace(/_/g, ' '))} ${esc(e.metric.value)}` : ''}</div>
-        <div>${esc(e.description)}</div>
-        ${e.excerpt ? `<div class="ev-meta">“${esc(e.excerpt)}”${e.timestamp ? ` at ${esc(e.timestamp)}` : ''}</div>` : ''}
-        ${e.sermon_excerpt || e.source_excerpt ? `<div class="receipt-pair"><blockquote><span>Local sermon</span>${esc(e.sermon_excerpt || 'Excerpt not supplied')}</blockquote><blockquote><span>Compared source</span>${esc(e.source_excerpt || 'Excerpt not supplied')}</blockquote></div>` : ''}
-        <div class="ev-meta">${e.sermon_title ? (e.sermon_url ? `<a href="${esc(e.sermon_url)}" rel="noopener" target="_blank">${esc(e.sermon_title)}</a>` : esc(e.sermon_title)) + (e.sermon_date ? ` (${fmtDate(e.sermon_date)})` : '') : ''}${e.source_title ? ` → ${esc(e.source_author || '')} ${e.source_url ? `<a href="${esc(e.source_url)}" rel="noopener" target="_blank">${esc(e.source_title)}</a>` : esc(e.source_title)}` : ''}</div></li>`).join('')}</ol></details>` : '';
-    const methods = f.methods?.length ? `<div class="conf">Methods: ${f.methods.map((m) => esc(m.replace(/_/g, ' '))).join(', ')}</div>` : '';
-    return `<div class="finding"><div class="label">${label}</div><div>
-      <div class="badge-row">${badge(f.status)}${conf}${reviewed}</div>
-      ${f.summary ? `<p>${esc(f.summary)}</p>` : f.status === 'unchecked' ? `<p class="muted">No review yet.</p>` : ''}
-      ${metrics}${methods}${sources}${evidence}</div></div>`;
-  }
-
-  function reportsHTML(reports) {
-    if (!reports?.length) return '';
-    return `<ul class="reports">${reports.map((r) => `<li><a href="${esc(r.url)}" download target="_blank" rel="noopener"><span class="fmt">${esc(r.format.toUpperCase())}</span><span><div class="r-title">${esc(r.title)}</div>${r.description ? `<div class="r-desc">${esc(r.description)}</div>` : ''}</span><span class="r-size">${r.size_bytes ? fmtSize(r.size_bytes) : ''}</span></a></li>`).join('')}</ul>`;
-  }
-
-  function pastorHTML(p) {
-    return `<article class="pastor">
-      <div class="pastor-head"><h4>${esc(p.name)}${p.bio_url ? ` <a href="${esc(p.bio_url)}" rel="noopener" target="_blank" title="Church bio">↗</a>` : ''}</h4><span class="role">${esc(p.role)}${p.active === false ? ' · former' : ''}</span></div>
-      ${findingHTML('Plagiarism', p.plagiarism)}
-      ${findingHTML('AI writing', p.ai_writing)}
-      ${p.reports?.length ? `<h3 class="sec">Download the findings</h3>${reportsHTML(p.reports)}` : ''}
-      ${p.notes ? `<div class="notes">${esc(p.notes)}</div>` : ''}
-      ${p.last_reviewed ? `<div class="conf" style="margin-top:8px">Last reviewed ${fmtDate(p.last_reviewed)}${p.reviewed_by ? ` by ${esc(p.reviewed_by)}` : ''}</div>` : ''}
-    </article>`;
-  }
-
-  function renderDetail(c) {
-    const loc = c.location;
-    const addr = [loc.address, loc.city, loc.state, loc.postal_code].filter(Boolean).join(', ');
-    const mapsUrl = `https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(c.name + ' ' + addr)}`;
-    const yt = c.youtube?.channel_url || (c.youtube?.sermon_playlist_urls || [])[0];
-    const html = `
-      <div class="detail-head"><button id="back" aria-label="Back to list">← List</button><span class="muted" style="font-size:13px">${esc(c.tradition_label)}</span></div>
-      <div class="detail-body">
-        <h2>${esc(c.name)}</h2>
-        <p class="detail-meta">${c.aka?.length ? 'Also known as ' + esc(c.aka.join(', ')) + ' · ' : ''}${esc(c.denomination || c.tradition_label)}</p>
-        <div class="detail-links">
-          <a href="${mapsUrl}" rel="noopener" target="_blank">${esc(addr)}${loc.geocode === 'approximate' ? ' (map position approximate)' : loc.geocode === 'missing' ? ' (not yet geocoded)' : ''}</a>
-          ${c.website ? `<a href="${esc(c.website)}" rel="noopener" target="_blank">Website</a>` : ''}
-          ${yt ? `<a href="${esc(yt)}" rel="noopener" target="_blank">YouTube</a>` : ''}
-          ${(c.other_media || []).map((m) => `<a href="${esc(m.url)}" rel="noopener" target="_blank">${esc(m.label)}</a>`).join('')}
-        </div>
-        <div class="outcome-grid" aria-label="Published review outcomes">
-          <div class="outcome-card"><span class="outcome-kicker">Text-source review</span>${badge(c.plagiarism_status || c.status)}<p>${c.plagiarism_status === 'flagged' || c.status === 'flagged' ? 'Open the pastor finding below to inspect matched passages and attribution status.' : 'Outcome across the church’s active preaching pastors.'}</p></div>
-          <div class="outcome-card"><span class="outcome-kicker">AI-writing indicators</span>${badge(c.ai_status)}<p>Reported separately; a concern requires a same-preacher baseline and corroborating evidence.</p></div>
-        </div>
-        ${c.summary ? `<p class="summary">${esc(c.summary)}</p>` : ''}
-        <h3 class="sec">Preaching pastors${c.pastors.length ? ` (${c.pastors.length})` : ''}</h3>
-        ${c.pastors.length ? c.pastors.map(pastorHTML).join('') : '<p class="muted">No preaching pastors identified yet. Research agents add them from the church staff page.</p>'}
-        ${c.reports?.length ? `<h3 class="sec">Church-level reports</h3>${reportsHTML(c.reports)}` : ''}
-        ${c.notes ? `<h3 class="sec">Research notes</h3><div class="notes">${esc(c.notes)}</div>` : ''}
-        <h3 class="sec">How the church facts were verified</h3>
-        <ul class="sources">${(c.sources || []).map((s) => `<li><a href="${esc(s.url)}" rel="noopener" target="_blank">${esc(s.label)}</a>${s.accessed ? ` <span class="muted">(accessed ${fmtDate(s.accessed)})</span>` : ''}</li>`).join('')}</ul>
-        <p class="footnote">Record updated ${fmtDate(c.updated_at)} by ${esc(c.updated_by)} · <a href="${REPO}/blob/main/data/churches/${esc(c.slug)}.json" rel="noopener" target="_blank">view source data</a> · <a href="${REPO}/issues/new?title=${encodeURIComponent('Correction: ' + c.name)}" rel="noopener" target="_blank">suggest a correction</a></p>
-      </div>`;
-    const panel = $('#detail-panel');
-    panel.innerHTML = html;
-    panel.hidden = false;
-    $('#list-panel').hidden = true;
-    panel.scrollTop = 0;
-    $('#back').addEventListener('click', () => select(null));
-  }
-
-  function select(slug, opts = {}) {
-    state.selected = slug;
-    const c = slug ? state.churches.find((x) => x.slug === slug) : null;
-    if (!c) {
-      $('#detail-panel').hidden = true;
-      $('#list-panel').hidden = false;
-      history.replaceState(null, '', location.pathname + location.search);
-      renderList();
+    const list = $('#church-list');
+    const plotted = state.filtered.filter((church) => church.plotted);
+    const unplotted = state.filtered.filter((church) => !church.plotted);
+    const count = state.filtered.length;
+    $('#result-count').textContent = `${count} ${count === 1 ? 'church' : 'churches'}`;
+    if (!count) {
+      list.innerHTML = $('#tpl-empty').innerHTML;
       return;
     }
-    history.replaceState(null, '', `#/church/${slug}`);
-    renderDetail(c);
-    renderList();
-    if (isMobile()) setSheet(opts.fromMarker !== true);
-    const m = state.markers.get(slug);
-    if (m && opts.pan !== false) {
-      const zoom = Math.max(map.getZoom(), 13);
-      let target = m.getLatLng();
-      if (isMobile()) {
-        // Shift the centre up so the pin sits in the strip of map the sheet leaves visible.
-        const pt = map.project(target, zoom);
-        pt.y += sheetPeekHeight() / 2;
-        target = map.unproject(pt, zoom);
-      }
-      map.flyTo(target, zoom, { duration: 0.6 });
+
+    const item = (church) => {
+      const result = RESULTS[church._result];
+      const place = [church.denomination || church.tradition_label, church.location?.city].filter(Boolean).join(' · ');
+      return `
+        <li class="item" data-slug="${esc(church.slug)}" tabindex="0" role="button" aria-label="Open ${esc(church.name)}">
+          <span class="status-dot result-${church._result}" aria-hidden="true"></span>
+          <span>
+            <span class="item-name">${esc(church.name)}</span>
+            <span class="item-sub">${esc(place)}</span>
+            <span class="result-pill result-${church._result}">${esc(result.label)}</span>
+          </span>
+          <span class="item-arrow" aria-hidden="true">›</span>
+        </li>`;
+    };
+    list.innerHTML = plotted.map(item).join('')
+      + (unplotted.length
+        ? '<li class="section-label">Location pending</li>' + unplotted.map(item).join('')
+        : '');
+  }
+
+  // ---------- simple church view ----------
+  function plagiarismScale(info) {
+    const finding = info.finding;
+    const metrics = finding.metrics || {};
+    const attributionAbsent = (finding.sources_compared || []).some((source) => source.attributed_in_sermon === false)
+      || Number(metrics.sermons_without_source_attribution || 0) > 0;
+    const repeatedCount = Number(metrics.sermons_with_matches || finding.sermons_reviewed || 0);
+    const maximum = Number(metrics.max_sermon_body_overlap_pct || metrics.max_sermon_coverage_pct || 0);
+    let current = null;
+    if (finding.status === 'cleared') current = 0;
+    if (finding.status === 'inconclusive') current = 1;
+    if (finding.status === 'flagged') current = attributionAbsent && (repeatedCount >= 5 || maximum >= 20) ? 3 : 2;
+    return {
+      current,
+      result: current == null ? (finding.status === 'in_progress' ? 'Review underway' : 'Not reviewed') : [
+        'No evidence', 'Attribution unclear', 'Repeated overlap', 'Extensive unattributed pattern',
+      ][current],
+      steps: ['No evidence', 'Attribution unclear', 'Repeated overlap', 'Extensive unattributed pattern'],
+      support: plagiarismSupport(info),
+    };
+  }
+
+  function plagiarismSupport(info) {
+    const finding = info.finding;
+    const metrics = finding.metrics || {};
+    const min = metrics.min_sermon_body_overlap_pct;
+    const max = metrics.max_sermon_body_overlap_pct;
+    const aggregate = metrics.sermon_body_overlap_pct;
+    const sermonCount = Number(finding.sermons_reviewed || metrics.sermons_with_matches || 0);
+    const sourceAbsent = Number(metrics.sermons_without_source_attribution || 0);
+    if (min != null && max != null && aggregate != null) {
+      const whose = info.pastor?.name ? ` by ${info.pastor.name}` : '';
+      const attribution = sourceAbsent
+        ? ` The source was not named in those ${sourceAbsent} sermons.`
+        : '';
+      return `${sermonCount} sermons${whose}: ${min}–${max}% of sermon-body words fall inside reused regions (${aggregate}% overall).${attribution}`;
     }
-    if (m) m.openTooltip();
+    if (finding.status === 'cleared') return short(finding.summary || 'The completed review found no meaningful text reuse.');
+    if (finding.status === 'inconclusive') return short(finding.summary || 'The available evidence does not support a conclusion.');
+    if (finding.status === 'flagged') return short(finding.summary || 'Repeated text overlap met the project evidence threshold.');
+    if (finding.status === 'in_progress') return 'A review is underway; no finding has been published yet.';
+    return 'No text-reuse review has been published.';
   }
 
-  // ---------- controls ----------
-  function buildControls() {
-    const filters = $('#status-filters');
-    filters.innerHTML = ['flagged', 'cleared', 'partial', 'in_progress', 'unchecked'].map((s) => `<button class="chip" data-status="${s}" aria-pressed="false"><span class="dot status-${s}"></span>${STATUS[s].label} <span class="muted">${state.data.counts[s] || 0}</span></button>`).join('');
-    filters.querySelectorAll('.chip').forEach((b) => b.addEventListener('click', () => {
-      const s = b.dataset.status;
-      if (state.statuses.has(s)) state.statuses.delete(s); else state.statuses.add(s);
-      b.setAttribute('aria-pressed', String(state.statuses.has(s)));
-      applyFilters();
-    }));
-    const traditions = new Map();
-    state.churches.forEach((c) => traditions.set(c.tradition, c.tradition_label));
-    const sel = $('#tradition-filter');
-    [...traditions.entries()].sort((a, b) => a[1].localeCompare(b[1])).forEach(([k, v]) => { const o = document.createElement('option'); o.value = k; o.textContent = v; sel.appendChild(o); });
-    sel.addEventListener('change', () => { state.tradition = sel.value; applyFilters(); });
-    $('#search').addEventListener('input', (e) => { state.query = e.target.value; applyFilters(); });
-    $('#church-list').addEventListener('click', (e) => { const li = e.target.closest('li.item'); if (li) select(li.dataset.slug); });
-    $('#church-list').addEventListener('keydown', (e) => { if (e.key === 'Enter' || e.key === ' ') { const li = e.target.closest('li.item'); if (li) { e.preventDefault(); select(li.dataset.slug); } } });
-    $('#about-toggle').addEventListener('click', () => {
-      const a = $('#about');
-      a.hidden = !a.hidden;
-      $('#about-toggle').setAttribute('aria-expanded', String(!a.hidden));
-      $('#app').classList.toggle('about-open', !a.hidden);
-      setTimeout(() => map.invalidateSize(), 50);
+  function aiScale(info) {
+    const finding = info.finding;
+    let current = null;
+    if (finding.status === 'cleared') current = 0;
+    if (finding.status === 'inconclusive') current = 1;
+    if (finding.status === 'flagged') current = finding.confidence === 'high' ? 3 : 2;
+    return {
+      current,
+      result: current == null ? (finding.status === 'in_progress' ? 'Review underway' : 'Not reviewed') : [
+        'No evidence', 'Inconclusive', 'Signs detected', 'Strong unedited AI pattern',
+      ][current],
+      steps: ['No evidence', 'Inconclusive', 'Signs detected', 'Strong unedited AI pattern'],
+      support: finding.status === 'inconclusive'
+        ? 'No same-preacher baseline is available, so no conclusion is drawn.'
+        : finding.status === 'cleared'
+          ? short(finding.summary || 'The review found no converging AI-writing signal.')
+          : finding.status === 'flagged'
+            ? short(finding.summary || 'Multiple signals and corroborating evidence were found.')
+            : finding.status === 'in_progress'
+              ? 'A review is underway; no finding has been published yet.'
+              : 'No AI-writing review has been published.',
+    };
+  }
+
+  function scaleHTML(kind, view) {
+    const unreviewed = view.current == null;
+    const classes = [
+      'scale',
+      kind === 'text' ? 'scale-text' : 'scale-ai',
+      unreviewed ? 'scale-unreviewed' : '',
+      kind === 'ai' && view.current >= 2 ? 'ai-strong' : '',
+    ].filter(Boolean).join(' ');
+    return `
+      <section class="${classes}">
+        <div class="scale-head">
+          <span class="scale-title">${kind === 'text' ? 'Text reuse' : 'AI-writing indicators'}</span>
+          <span class="scale-result">${esc(view.result)}</span>
+        </div>
+        <p class="scale-support">${esc(view.support)}</p>
+        <div class="severity" aria-label="${kind === 'text' ? 'Text reuse' : 'AI-writing'} scale: ${esc(view.result)}">
+          ${view.steps.map((step, index) => `
+            <span class="severity-step ${view.current != null && index <= view.current ? 'reached' : ''} ${index === view.current ? 'is-current' : ''}">
+              <span class="severity-dot" aria-hidden="true"></span><span>${esc(step)}</span>
+            </span>`).join('')}
+        </div>
+      </section>`;
+  }
+
+  function reportFor(church) {
+    const reports = [
+      ...(church.reports || []),
+      ...activePastors(church).flatMap((pastor) => pastor.reports || []),
+    ];
+    return reports.find((report) => report.format === 'pdf' && /dependence|similarity|text/i.test(report.title))
+      || reports.find((report) => report.format === 'pdf')
+      || null;
+  }
+
+  function renderDetail(church) {
+    const plagiarism = strongestFinding(church, 'plagiarism');
+    const ai = strongestFinding(church, 'ai_writing');
+    const plagiarismView = plagiarismScale(plagiarism);
+    const aiView = aiScale(ai);
+    const latestReview = activePastors(church).map((pastor) => pastor.last_reviewed).filter(Boolean).sort().at(-1);
+    const location = [church.location?.city, church.location?.state].filter(Boolean).join(', ');
+    const subtitle = [church.denomination || church.tradition_label, location].filter(Boolean).join(' · ');
+    const report = reportFor(church);
+    const brief = church.summary
+      || plagiarism.finding.summary
+      || 'No published review summary is available for this church.';
+    const reportHTML = report ? `
+      <a class="report-button" href="${esc(report.url || report.path || '#')}" target="_blank" rel="noopener" download>
+        <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M6 2h8l4 4v16H6z"></path><path d="M14 2v5h5M9 16h6M9 12h6"></path></svg>
+        Download full report
+      </a>
+      <small>Sources, methods, excerpts, and sermon-by-sermon results are included in the report.</small>`
+      : '<span class="report-unavailable">A downloadable report is not available yet.</span>';
+
+    $('#detail-panel').innerHTML = `
+      <article class="detail-shell">
+        <button class="back-link" id="back-to-map" type="button">← Back to map</button>
+        <header class="detail-heading">
+          <h1>${esc(church.name)}</h1>
+          <p class="detail-sub">${esc(subtitle)}</p>
+          ${latestReview ? `<p class="detail-reviewed">Reviewed ${esc(fmtDate(latestReview))}</p>` : ''}
+          <p class="detail-notice">Evidence review, not a verdict.</p>
+        </header>
+        <section class="review-card">
+          <h2>Review summary</h2>
+          ${scaleHTML('text', plagiarismView)}
+          ${scaleHTML('ai', aiView)}
+        </section>
+        <section class="brief">
+          <h2>In brief</h2>
+          <p>${esc(short(brief, 520))}</p>
+        </section>
+        <div class="report-action">${reportHTML}</div>
+      </article>`;
+    $('#back-to-map').addEventListener('click', () => select(null));
+  }
+
+  function select(slug) {
+    const church = slug ? state.churches.find((item) => item.slug === slug) : null;
+    state.selected = church?.slug || null;
+    closeAbout();
+    if (!church) {
+      $('#detail-view').hidden = true;
+      $('#explore-view').hidden = false;
+      $('#explore-link').setAttribute('aria-current', 'page');
+      $('#correction-link').href = `${REPO}/issues/new`;
+      document.title = 'Tucson Sermon Review';
+      history.replaceState(null, '', location.pathname + location.search);
+      setTimeout(() => map.invalidateSize(), 40);
+      return;
+    }
+
+    renderDetail(church);
+    $('#explore-view').hidden = true;
+    $('#detail-view').hidden = false;
+    $('#explore-link').removeAttribute('aria-current');
+    $('#correction-link').href = `${REPO}/issues/new?title=${encodeURIComponent('Correction: ' + church.name)}`;
+    document.title = `${church.name} · Tucson Sermon Review`;
+    history.replaceState(null, '', `#/church/${church.slug}`);
+    $('#detail-view').scrollTop = 0;
+  }
+
+  // ---------- mobile result sheet ----------
+  const mobile = window.matchMedia('(max-width: 760px)');
+  function setSheet(open) {
+    const panel = $('#sidebar');
+    panel.classList.toggle('sheet-open', open);
+    $('#sheet-handle').setAttribute('aria-expanded', String(open));
+  }
+
+  function initSheet() {
+    const handle = $('#sheet-handle');
+    const panel = $('#sidebar');
+    let startY = 0;
+    let startedOpen = false;
+    let dragged = false;
+
+    handle.addEventListener('click', () => {
+      if (!dragged) setSheet(!panel.classList.contains('sheet-open'));
     });
-    initSheet();
-
-    const d = state.data;
-    $('#stats').innerHTML = `
-      <span class="stat"><span class="dot status-flagged"></span>${d.counts.flagged} threshold met</span>
-      <span class="stat"><span class="dot status-cleared"></span>${d.counts.cleared} no concern found</span>
-      <span class="stat"><span class="dot status-unchecked"></span>${d.counts.unchecked + d.counts.partial + d.counts.in_progress} awaiting review</span>
-      <span class="stat" title="Generated ${esc(d.generated_at)}">${d.church_count} churches · ${d.pastor_count} pastors</span>`;
+    handle.addEventListener('pointerdown', (event) => {
+      if (!mobile.matches) return;
+      startY = event.clientY;
+      startedOpen = panel.classList.contains('sheet-open');
+      dragged = false;
+      handle.setPointerCapture(event.pointerId);
+      panel.classList.add('sheet-dragging');
+    });
+    handle.addEventListener('pointermove', (event) => {
+      if (!panel.classList.contains('sheet-dragging')) return;
+      const delta = event.clientY - startY;
+      if (Math.abs(delta) > 4) dragged = true;
+      const closedOffset = panel.offsetHeight * .54;
+      panel.style.transform = `translateY(${Math.min(closedOffset, Math.max(0, (startedOpen ? 0 : closedOffset) + delta))}px)`;
+    });
+    const finish = (event) => {
+      if (!panel.classList.contains('sheet-dragging')) return;
+      panel.classList.remove('sheet-dragging');
+      panel.style.transform = '';
+      if (dragged) {
+        const delta = event.clientY - startY;
+        setSheet(delta < -40 ? true : delta > 40 ? false : startedOpen);
+      }
+    };
+    handle.addEventListener('pointerup', finish);
+    handle.addEventListener('pointercancel', finish);
+    mobile.addEventListener('change', () => { panel.style.transform = ''; setSheet(false); });
   }
 
-  // ---------- boot ----------
-  const API = window.SERMON_REVIEW_API || '';
-  const fallback = () => fetch('data/churches.json', { cache: 'no-cache' }).then((r) => {
-    if (!r.ok) throw new Error(r.status + ' ' + r.statusText);
-    return r.json();
+  // ---------- controls and loading ----------
+  function closeAbout() {
+    $('#about').hidden = true;
+    $('#about-toggle').setAttribute('aria-expanded', 'false');
+  }
+
+  function bindControls() {
+    $('#status-filters').addEventListener('click', (event) => {
+      const button = event.target.closest('[data-result]');
+      if (!button) return;
+      const key = button.dataset.result;
+      if (state.activeResults.has(key)) state.activeResults.delete(key);
+      else state.activeResults.add(key);
+      applyFilters();
+    });
+    $('#reset-filters').addEventListener('click', () => {
+      state.activeResults = new Set(RESULT_ORDER);
+      applyFilters();
+    });
+    $('#search').addEventListener('input', (event) => {
+      state.query = event.target.value;
+      applyFilters();
+    });
+    $('#church-list').addEventListener('click', (event) => {
+      const item = event.target.closest('[data-slug]');
+      if (item) select(item.dataset.slug);
+    });
+    $('#church-list').addEventListener('keydown', (event) => {
+      if (event.key !== 'Enter' && event.key !== ' ') return;
+      const item = event.target.closest('[data-slug]');
+      if (!item) return;
+      event.preventDefault();
+      select(item.dataset.slug);
+    });
+    $('#about-toggle').addEventListener('click', () => {
+      const panel = $('#about');
+      panel.hidden = !panel.hidden;
+      $('#about-toggle').setAttribute('aria-expanded', String(!panel.hidden));
+    });
+    $('#about-close').addEventListener('click', closeAbout);
+    document.addEventListener('keydown', (event) => { if (event.key === 'Escape') closeAbout(); });
+    initSheet();
+  }
+
+  renderLegend();
+  bindControls();
+
+  const API = new URLSearchParams(location.search).has('offline') ? '' : (window.SERMON_REVIEW_API || '');
+  const fallback = () => fetch('data/churches.json', { cache: 'no-cache' }).then((response) => {
+    if (!response.ok) throw new Error(response.status + ' ' + response.statusText);
+    return response.json();
   });
   const loadData = API
     ? fetch(`${API}/api/v1/public/churches`, { cache: 'no-cache' })
-      .then((r) => { if (!r.ok) throw new Error(r.status + ' ' + r.statusText); return r.json(); })
+      .then((response) => {
+        if (!response.ok) throw new Error(response.status + ' ' + response.statusText);
+        return response.json();
+      })
       .catch(fallback)
     : fallback();
+
   loadData
     .then((data) => {
       state.data = data;
-      state.churches = data.churches;
-      buildControls();
+      state.churches = data.churches.map((church) => ({ ...church, _result: churchResult(church) }));
       applyFilters();
-      const plotted = state.churches.filter((c) => c.plotted);
-      if (plotted.length > 1) map.fitBounds(L.latLngBounds(plotted.map((c) => [c.location.lat, c.location.lng])).pad(0.15));
-      const m = location.hash.match(/^#\/church\/([a-z0-9-]+)/);
-      if (m) select(m[1]);
+      const plotted = state.churches.filter((church) => church.plotted);
+      if (plotted.length > 1) {
+        map.fitBounds(L.latLngBounds(plotted.map((church) => [church.location.lat, church.location.lng])).pad(.12));
+      }
+      const match = location.hash.match(/^#\/church\/([a-z0-9-]+)/);
+      if (match) select(match[1]);
     })
-    .catch((err) => {
-      $('#church-list').innerHTML = `<li class="empty">Could not load data/churches.json (${esc(err.message)}). Run <code>python3 tools/build.py</code> and serve the site folder over HTTP.</li>`;
+    .catch((error) => {
+      $('#church-list').innerHTML = `<li class="empty">The church directory could not be loaded. ${esc(error.message)}</li>`;
     });
-  window.addEventListener('hashchange', () => { const m = location.hash.match(/^#\/church\/([a-z0-9-]+)/); select(m ? m[1] : null); });
+
+  window.addEventListener('hashchange', () => {
+    const match = location.hash.match(/^#\/church\/([a-z0-9-]+)/);
+    select(match ? match[1] : null);
+  });
 })();

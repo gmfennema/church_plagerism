@@ -4,72 +4,74 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Tucson Sermon Review</title>
-<meta name="description" content="Evidence-first reviews of public sermons from Protestant churches in Tucson, Arizona, covering unattributed text reuse and AI-writing indicators.">
-<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Ccircle cx='16' cy='16' r='13' fill='%232e9a5d'/%3E%3Ccircle cx='16' cy='16' r='5' fill='white'/%3E%3C/svg%3E">
-<link rel="alternate" type="text/markdown" href="agent-api.md" title="Research agent API documentation">
+<meta name="description" content="Evidence-first reviews of public sermons from Protestant churches in Tucson, Arizona.">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Ccircle cx='23' cy='8' r='5' fill='%23e7ad38'/%3E%3Cpath d='M2 27 12 14l5 6 4-5 9 12Z' fill='%232b7770'/%3E%3C/svg%3E">
 <link rel="stylesheet" href="vendor/leaflet/leaflet.css">
-<link rel="stylesheet" href="styles.css">
+<link rel="stylesheet" href="styles.css?v=20260911b">
 </head>
 <body>
 <div class="app" id="app">
   <header class="topbar">
-    <div class="brand">
-      <span class="brand-mark" aria-hidden="true"></span>
-      <div>
-        <h1>Tucson Sermon Review</h1>
-        <p class="tagline">Public evidence reviews for unattributed text reuse and AI-writing indicators.</p>
-      </div>
-    </div>
-    <div class="topbar-stats" id="stats" aria-live="polite"></div>
-    <button class="btn-ghost" id="about-toggle" aria-expanded="false" aria-controls="about">About &amp; statuses</button>
+    <a class="brand" href="#/" aria-label="Tucson Sermon Review map">
+      <span class="brand-mark" aria-hidden="true"><i></i></span>
+      <span>Tucson Sermon Review</span>
+    </a>
+    <nav class="topnav" aria-label="Primary navigation">
+      <a href="#/" id="explore-link" aria-current="page">Explore</a>
+      <button type="button" id="about-toggle" aria-expanded="false" aria-controls="about">About</button>
+      <a class="correction-link" id="correction-link" href="https://github.com/gmfennema/church_plagerism/issues/new" target="_blank" rel="noopener">Submit a correction</a>
+    </nav>
   </header>
 
-  <section class="about" id="about" hidden>
-    <div class="about-inner">
-      <div>
-        <h2>How to read a finding</h2>
-        <ul class="legend-list">
-          <li><span class="dot status-flagged"></span><strong>Evidence threshold met</strong> — the published evidence meets the project rubric. Read the excerpts and limitations before drawing a conclusion.</li>
-          <li><span class="dot status-cleared"></span><strong>No concern found</strong> — the review met the required coverage and did not find a meaningful signal.</li>
-          <li><span class="dot status-partial"></span><strong>Inconclusive</strong> — something was reviewed, but the evidence is not sufficient either way.</li>
-          <li><span class="dot status-in_progress"></span><strong>Review underway</strong> — research is active but nothing has been published.</li>
-          <li><span class="dot status-unchecked"></span><strong>Not reviewed</strong> — the church is in the directory, but no finding is available.</li>
-        </ul>
-        <p class="muted">Outcome and confidence are separate. “Inconclusive” does not mean “probably concerning.” A dashed map ring means the location is approximate.</p>
-      </div>
-      <div>
-        <h2>How reviews work</h2>
-        <p>Public sermon transcripts are compared word-for-word against suspected sources. Exact runs of eight or more words are counted, Scripture and liturgy are set aside, and the longest passages are read in context. A separate review looks for changes in writing style; AI-writing indicators are only published as concerning when a same-preacher baseline and corroborating evidence exist.</p>
-        <p>Each finding carries a confidence level and a downloadable report so anyone can check the work. This is an evidence review, not a verdict. Corrections are welcome through the project repository.</p>
-        <p><a href="agent-api.md">Research agent API</a> · <a href="submission.schema.json">Submission schema</a> · <a id="repo-link" href="https://github.com/gmfennema/church_plagerism" rel="noopener">Project repository and methodology</a></p>
-      </div>
-    </div>
-  </section>
+  <aside class="about-popover" id="about" hidden>
+    <button class="about-close" id="about-close" type="button" aria-label="Close about panel">×</button>
+    <p class="eyebrow">About this project</p>
+    <h2>Evidence review, not a verdict.</h2>
+    <p>We compare public sermon transcripts with published sources and report what the evidence supports. A church’s map color shows its highest-priority published finding.</p>
+    <p><a href="https://github.com/gmfennema/church_plagerism" target="_blank" rel="noopener">Read the project notes and methodology</a></p>
+  </aside>
 
-  <main class="layout">
-    <aside class="sidebar" id="sidebar">
-      <button class="sheet-handle" id="sheet-handle" aria-controls="sidebar" aria-expanded="false"><span class="sheet-grip" aria-hidden="true"></span><span class="sr-only">Expand the church list</span></button>
-      <div class="panel list-panel" id="list-panel">
-        <div class="controls">
-          <input type="search" id="search" placeholder="Search churches or pastors" aria-label="Search churches or pastors" autocomplete="off">
-          <div class="filter-row" id="status-filters" role="group" aria-label="Filter by status"></div>
-          <select id="tradition-filter" aria-label="Filter by tradition">
-            <option value="">All traditions</option>
-          </select>
-        </div>
-        <p class="result-count" id="result-count"></p>
-        <ul class="church-list" id="church-list"></ul>
-      </div>
-      <div class="panel detail-panel" id="detail-panel" hidden></div>
-    </aside>
+  <main class="explore-view" id="explore-view">
     <div class="map-wrap">
       <div id="map" role="region" aria-label="Map of Tucson churches"></div>
+      <div class="map-legend-ui" id="map-legend" aria-label="Map color legend"></div>
+      <div class="map-note">
+        <span class="note-icon" aria-hidden="true">i</span>
+        <span><strong>Evidence review, not a verdict</strong><small>Open a church for its summary and full report.</small></span>
+      </div>
     </div>
+
+    <aside class="explorer-panel" id="sidebar" aria-label="Church search and filters">
+      <button class="sheet-handle" id="sheet-handle" type="button" aria-controls="sidebar" aria-expanded="false">
+        <span class="sheet-grip" aria-hidden="true"></span><span class="sr-only">Expand church results</span>
+      </button>
+      <div class="panel-scroll">
+        <div class="controls">
+          <label class="search-box" for="search">
+            <svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="11" cy="11" r="6.5"></circle><path d="m16 16 4 4"></path></svg>
+            <input type="search" id="search" placeholder="Search churches or pastors" autocomplete="off">
+          </label>
+          <div class="filter-heading">
+            <span>Filter by finding</span>
+            <button type="button" id="reset-filters">Show all</button>
+          </div>
+          <div class="filter-list" id="status-filters" role="group" aria-label="Filter by finding"></div>
+          <p class="filter-note">Each church uses its highest-priority published finding. <span title="Plagiarism takes precedence over AI-writing signs, attribution concerns, clear reviews, and incomplete reviews.">ⓘ</span></p>
+        </div>
+        <div class="results-meta"><span id="result-count" aria-live="polite"></span><span>Alphabetical</span></div>
+        <ul class="church-list" id="church-list"></ul>
+      </div>
+    </aside>
+  </main>
+
+  <main class="detail-view" id="detail-view" hidden>
+    <div id="detail-panel"></div>
   </main>
 </div>
+
 <template id="tpl-empty"><li class="empty">No churches match these filters.</li></template>
 <script src="config.js"></script>
 <script src="vendor/leaflet/leaflet.js"></script>
-<script src="app.js"></script>
+<script src="app.js?v=20260911b"></script>
 </body>
 </html>

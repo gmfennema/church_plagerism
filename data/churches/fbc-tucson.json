@@ -26,7 +26,7 @@
     "lng": -110.8535,
     "geocode": "approximate"
   },
-  "summary": "Nine sermons from the 2026 '1 Thessalonians: A Church of Irresistible Influence' series were compared against Alistair Begg's three-volume 1 Thessalonians series (Truth For Life). Eight of nine contained verbatim runs of eight or more words, several matched sermon-for-sermon by title, with the longest non-Scripture passages running 25 to 31 words.",
+  "summary": "Six 2026 sermons by senior pastor Pat McClanahan map one-to-one onto same-titled sermons from Alistair Begg's Truth For Life series. Measured against the sermon body rather than the full livestream, 10% to 40% of each sermon falls inside near-verbatim reused regions (27.2% across the six sermons); Begg and Truth For Life were not named in any of the six sermons.",
   "pastors": [
     {
       "name": "Pat McClanahan",
@@ -34,98 +34,114 @@
       "active": true,
       "plagiarism": {
         "status": "flagged",
-        "confidence": "medium",
-        "summary": "Eight of nine available 2026 sermon transcripts from the 1 Thessalonians series contain exact word runs of eight or more words that also appear in Alistair Begg's Truth For Life 1 Thessalonians sermons, and most FBC sermons match the Begg sermon of the same title. Coverage by exact runs reached 6.5% of a sermon's words, with individual non-Scripture passages of 25 to 31 consecutive words. Whether Begg was credited from the pulpit or in printed notes has not yet been checked, which is why confidence is medium rather than high.",
-        "sermons_reviewed": 9,
+        "confidence": "high",
+        "summary": "All six reviewed 2026 sermons preached by Pat McClanahan in the 1 Thessalonians series track one same-titled Alistair Begg sermon. Sermon-body coverage ranges from 10% to 40%, with 27.2% of the six sermons inside near-verbatim reused regions (25.0% after shared Scripture is removed). Full-transcript review found no spoken mention of Alistair Begg or Truth For Life in any of the six sermons.",
+        "sermons_reviewed": 6,
         "review_period": {
           "from": "2026-04-19",
-          "to": "2026-08-01"
+          "to": "2026-07-26"
         },
         "methods": [
           "ngram_exact_run_comparison",
-          "manual_side_by_side"
+          "manual_side_by_side",
+          "outline_structure_comparison",
+          "attribution_check",
+          "other"
         ],
         "sources_compared": [
           {
             "author": "Alistair Begg",
             "title": "A Study in 1 Thessalonians, Volume 1",
             "url": "https://www.truthforlife.org/resources/series/study-in-1-thessalonians-volume-1/",
-            "attributed_in_sermon": null
+            "attributed_in_sermon": false
           },
           {
             "author": "Alistair Begg",
             "title": "A Study in 1 Thessalonians, Volume 2",
             "url": "https://www.truthforlife.org/resources/series/study-in-1-thessalonians-volume-2/",
-            "attributed_in_sermon": null
+            "attributed_in_sermon": false
           },
           {
             "author": "Alistair Begg",
             "title": "A Study in 1 Thessalonians, Volume 3",
             "url": "https://www.truthforlife.org/resources/series/study-in-1-thessalonians-volume-3/",
-            "attributed_in_sermon": null
+            "attributed_in_sermon": false
           }
         ],
         "evidence": [
           {
-            "type": "verbatim_overlap",
-            "description": "31 consecutive normalized words shared with Begg's sermon of the same title; the passage is a paraphrase of 1 Corinthians 4 with Begg's connective wording, not a straight Scripture quotation.",
+            "type": "paraphrase_overlap",
+            "description": "Near-verbatim reused regions cover 20% of the 44-minute sermon body. The sermon follows Begg's outline and carries across commentary, illustrations, the closing line, and a closing prayer while replacing some local details.",
+            "sermon_title": "Faith, Hope and Love",
+            "sermon_date": "2026-04-19",
+            "sermon_url": "https://www.youtube.com/watch?v=pgy_YF3x3gE",
+            "source_author": "Alistair Begg",
+            "source_title": "Faith, Hope and Love (Volume 1)",
+            "metric": {
+              "name": "sermon_body_overlap_pct",
+              "value": 20
+            }
+          },
+          {
+            "type": "paraphrase_overlap",
+            "description": "Near-verbatim reused regions cover 40% of the sermon body, the highest share in the six-sermon set. The review found the same outline, word studies, commentator material, applications, and closing formulation in the same order.",
             "sermon_title": "No Clever Tricks",
             "sermon_date": "2026-05-10",
             "sermon_url": "https://www.youtube.com/watch?v=j9oaoRg6kZ8",
             "source_author": "Alistair Begg",
             "source_title": "No Clever Tricks (Volume 1)",
             "metric": {
-              "name": "longest_exact_run_words",
-              "value": 31
+              "name": "sermon_body_overlap_pct",
+              "value": 40
             }
           },
           {
-            "type": "verbatim_overlap",
-            "description": "51 separate exact runs of 8+ words covering 6.48% of the sermon, including a 25-word passage of Begg's own commentary ('clear that paul was not only committed to the word of god but he was equally committed to the people of god and the pattern').",
+            "type": "paraphrase_overlap",
+            "description": "Near-verbatim reused regions cover 39% of the sermon body. The review identifies carried-over commentary, a John Stott quotation framed as the FBC preacher's own reading, the same outline, and matching applications.",
             "sermon_title": "Our Glory and Joy",
             "sermon_date": "2026-05-31",
             "sermon_url": "https://www.youtube.com/watch?v=U1kxopCXoNY",
             "source_author": "Alistair Begg",
             "source_title": "Our Glory and Joy (Volume 1)",
             "metric": {
-              "name": "local_coverage_pct",
-              "value": 6.48
+              "name": "sermon_body_overlap_pct",
+              "value": 39
             }
           },
           {
-            "type": "verbatim_overlap",
-            "description": "65 exact runs of 8+ words covering 6.45% of the sermon against Begg's 'The Faithfulness of God'. The single longest run (42 words) is 1 Thessalonians 5:23-24 and is excluded from the interpretation.",
+            "type": "paraphrase_overlap",
+            "description": "Near-verbatim reused regions cover 36% of the sermon body. The longest detected non-Scripture region runs 361 words, and the sermon carries over Begg's outline, cited authorities, applications, and closing prayer material.",
             "sermon_title": "The Faithfulness of God",
             "sermon_date": "2026-07-26",
             "sermon_url": "https://www.youtube.com/watch?v=MXAy4hKNfwc",
             "source_author": "Alistair Begg",
             "source_title": "The Faithfulness of God (Volume 3)",
             "metric": {
-              "name": "exact_run_count",
-              "value": 65
+              "name": "sermon_body_overlap_pct",
+              "value": 36
             }
           },
           {
-            "type": "verbatim_overlap",
-            "description": "46 exact runs covering 4.26% of the sermon, including a 23-word passage of Begg's commentary ('paul could preach with certainty and power for he had the profound conviction that what he said was not of man's devising but').",
-            "sermon_title": "God's Word... Not Man's",
-            "sermon_date": "2026-05-24",
-            "sermon_url": "https://www.youtube.com/watch?v=UA--g_npTNA",
+            "type": "attribution_absent",
+            "description": "Full-transcript close reading found no mention of Alistair Begg, Truth For Life, or Parkside Church in any of Pat McClanahan's six reviewed sermons. The report separately records other sources that were named.",
             "source_author": "Alistair Begg",
-            "source_title": "God's Word... Not Man's (Volume 1)",
+            "source_title": "A Study in 1 Thessalonians",
             "metric": {
-              "name": "local_coverage_pct",
-              "value": 4.26
+              "name": "sermons_without_source_attribution",
+              "value": 6
             }
           }
         ],
         "metrics": {
-          "sermons_with_matches": 8,
-          "sermons_compared": 9,
-          "corpus_coverage_pct": 3.72,
-          "max_sermon_coverage_pct": 6.48,
-          "longest_non_scripture_run_words": 31,
-          "min_run_length_words": 8
+          "sermons_with_matches": 6,
+          "sermons_compared": 6,
+          "sermon_body_overlap_pct": 27.2,
+          "non_scripture_sermon_body_overlap_pct": 25.0,
+          "min_sermon_body_overlap_pct": 10,
+          "max_sermon_body_overlap_pct": 40,
+          "sermons_without_source_attribution": 6,
+          "borrowed_non_scripture_elements": 119,
+          "median_dependence_rating_out_of_10": 8.5
         }
       },
       "ai_writing": {
@@ -150,23 +166,23 @@
       },
       "reports": [
         {
-          "title": "Sermon Text Similarity Review (PDF)",
+          "title": "Sermon Dependence Review (PDF)",
           "path": "research/fbc-tucson/reports/plagiarism_report.pdf",
           "format": "pdf",
-          "description": "Formatted evidence review comparing nine FBC Tucson sermons with Alistair Begg's 1 Thessalonians series.",
+          "description": "Final 18-page review of six sermons by Pat McClanahan, measured on sermon body with Scripture classified separately.",
           "generated_at": "2026-09-07"
         },
         {
-          "title": "Sermon Text Similarity Review (Markdown)",
+          "title": "Sermon Dependence Review (Markdown summary)",
           "path": "research/fbc-tucson/reports/plagiarism_report.md",
           "format": "md",
           "generated_at": "2026-09-07"
         },
         {
-          "title": "Machine-readable comparison results",
-          "path": "research/fbc-tucson/reports/plagiarism_analysis.json",
+          "title": "Machine-readable final analysis",
+          "path": "research/fbc-tucson/reports/sermon_dependence_analysis.json",
           "format": "json",
-          "description": "Every exact run, per sermon pair, with word offsets.",
+          "description": "Final sermon boundaries, near-verbatim alignments, Scripture classifications, attribution reviews, and aggregate coverage.",
           "generated_at": "2026-09-07"
         },
         {
@@ -185,7 +201,7 @@
       ],
       "last_reviewed": "2026-09-11",
       "reviewed_by": "gmfennema",
-      "notes": "Nine of the 25 playlist videos had captions disabled or were unavailable; those sermons were not analysed. Next steps: confirm from each video that Pat McClanahan is the speaker, listen to the opening and closing minutes of two or three matched sermons for any spoken attribution to Alistair Begg (set attributed_in_sermon accordingly), fetch pre-2023 sermons as a baseline and re-run tools/ai_writing_signals.py, and transcribe the caption-disabled sermons with --audio-fallback.",
+      "notes": "The final dependence review identifies six sermons in the series as Pat McClanahan's and two as sermons by other FBC preachers; the two comparison sermons by other preachers showed no Begg material. The 3.72% figure in the preliminary exact-eight-word-run analysis used whole-service transcripts and is not the sermon-body coverage figure. The final review segments the sermon proper, uses near-verbatim alignment plus independent close reading, and reports 10% to 40% per sermon and 27.2% across Pat McClanahan's six sermons. A same-preacher pre-2023 baseline is still needed for the separate AI-writing review.",
       "bio_url": "https://www.linkedin.com/in/pat-mcclanahan-89049714/"
     }
   ],

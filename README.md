@@ -84,7 +84,7 @@ Records created without internet access have `geocode: "missing"` or `"approxima
 
 ## Current studies
 
-- [`research/fbc-tucson/`](research/fbc-tucson/) - Fellowship Bible Church Tucson vs. Alistair Begg's 1 Thessalonians series (Truth For Life). Flagged, medium confidence: 8 of 9 sermons contain verbatim runs, up to 6.5% coverage, longest non-Scripture run 31 words.
+- [`research/fbc-tucson/`](research/fbc-tucson/) - Fellowship Bible Church Tucson vs. Alistair Begg's 1 Thessalonians series (Truth For Life). Flagged, high confidence: six sermons by Pat McClanahan contain 10% to 40% sermon-body overlap (27.2% overall; 25.0% after shared Scripture), with no attribution to Begg or Truth For Life found in the six transcripts.
 
 ## Ethics
 
