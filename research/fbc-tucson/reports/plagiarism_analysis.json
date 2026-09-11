@@ -1,0 +1,4997 @@
+{
+  "summary": {
+    "church": "Fellowship Bible Church Tucson",
+    "church_slug": "fbc-tucson",
+    "pastor": null,
+    "generated_at": "2026-09-11",
+    "min_run_words": 8,
+    "sermon_count": 9,
+    "source_count": 22,
+    "source_authors": [
+      "Alistair Begg"
+    ],
+    "source_series": [
+      "A Study in 1 Thessalonians, Volume 1",
+      "A Study in 1 Thessalonians, Volume 2",
+      "A Study in 1 Thessalonians, Volume 3"
+    ],
+    "total_sermon_words": 82449,
+    "covered_words": 3067,
+    "covered_pct": 3.72,
+    "sermons_with_matches": 8,
+    "sermons_exceeding_rubric": 6,
+    "longest_run": 42,
+    "rubric": {
+      "coverage_pct": 2.0,
+      "long_run_words": 20,
+      "min_sermons": 2
+    },
+    "suggested_outcome": "meets flag threshold - review the longest passages for Scripture/attribution before flagging"
+  },
+  "sermons": [
+    {
+      "file": "Big_Mess_8-1-2026_rI2h_cc-Kj4.txt",
+      "title": "Big Mess 8-1-2026",
+      "url": "https://www.youtube.com/watch?v=rI2h_cc-Kj4",
+      "upload_date": null,
+      "date_hint": "8-1-2026",
+      "word_count": 3364,
+      "matched_words_any_source": 0,
+      "matched_pct_any_source": 0.0,
+      "best_source": {
+        "source_author": "Alistair Begg",
+        "source_series": "A Study in 1 Thessalonians, Volume 1",
+        "source_title": "Faith, Hope and Love",
+        "source_file": "01-faithhopelove.txt",
+        "source_word_count": 6371,
+        "exact_run_count": 0,
+        "matched_words": 0,
+        "matched_pct": 0.0,
+        "longest_exact_run": 0
+      },
+      "exceeds_rubric": false,
+      "sources": [
+        {
+          "source_author": "Alistair Begg",
+          "source_series": "A Study in 1 Thessalonians, Volume 1",
+          "source_title": "Faith, Hope and Love",
+          "source_file": "01-faithhopelove.txt",
+          "source_word_count": 6371,
+          "exact_run_count": 0,
+          "matched_words": 0,
+          "matched_pct": 0.0,
+          "longest_exact_run": 0,
+          "runs": []
+        },
+        {
+          "source_author": "Alistair Begg",
+          "source_series": "A Study in 1 Thessalonians, Volume 1",
+          "source_title": "No Clever Tricks",
+          "source_file": "04-noclevertricks.txt",
+          "source_word_count": 4925,
+          "exact_run_count": 0,
+          "matched_words": 0,
+          "matched_pct": 0.0,
+          "longest_exact_run": 0,
+          "runs": []
+        },
+        {
+          "source_author": "Alistair Begg",
+          "source_series": "A Study in 1 Thessalonians, Volume 1",
+          "source_title": "Truth and Love",
+          "source_file": "05-truthandlove.txt",
+          "source_word_count": 6369,
+          "exact_run_count": 0,
+          "matched_words": 0,
+          "matched_pct": 0.0,
+          "longest_exact_run": 0,
+          "runs": []
+        },
+        {
+          "source_author": "Alistair Begg",
+          "source_series": "A Study in 1 Thessalonians, Volume 1",
+          "source_title": "God's Word... Not Man's",
+          "source_file": "06-thewordofgodnotmen.txt",
+          "source_word_count": 5820,
+          "exact_run_count": 0,
+          "matched_words": 0,
+          "matched_pct": 0.0,
+          "longest_exact_run": 0,
+          "runs": []
+        },
+        {
+          "source_author": "Alistair Begg",
+          "source_series": "A Study in 1 Thessalonians, Volume 1",
+          "source_title": "Our Glory and Joy",
+          "source_file": "07-ourgloryandjoy.txt",
+          "source_word_count": 4020,
+          "exact_run_count": 0,
+          "matched_words": 0,
+          "matched_pct": 0.0,
+          "longest_exact_run": 0,
+          "runs": []
+        },
+        {
+          "source_author": "Alistair Begg",
+          "source_series": "A Study in 1 Thessalonians, Volume 2",
+          "source_title": "Pleasing God",
+          "source_file": "01-pleasinggod.txt",
+          "source_word_count": 4791,
+          "exact_run_count": 0,
+          "matched_words": 0,
+          "matched_pct": 0.0,
+          "longest_exact_run": 0,
+          "runs": []
+        },
+        {
+          "source_author": "Alistair Begg",
+          "source_series": "A Study in 1 Thessalonians, Volume 2",
+          "source_title": "Sexual Purity, Part 1",
+          "source_file": "02-sexualpuritypartone.txt",
+          "source_word_count": 4724,
+          "exact_run_count": 0,
+          "matched_words": 0,
+          "matched_pct": 0.0,
+          "longest_exact_run": 0,
+          "runs": []
+        },
+        {
+          "source_author": "Alistair Begg",
+          "source_series": "A Study in 1 Thessalonians, Volume 2",
+          "source_title": "Sexual Purity, Part 2",
+          "source_file": "03-sexualpurityparttwo.txt",
+          "source_word_count": 3970,
+          "exact_run_count": 0,
+          "matched_words": 0,
+          "matched_pct": 0.0,
+          "longest_exact_run": 0,
+          "runs": []
+        },
+        {
+          "source_author": "Alistair Begg",
+          "source_series": "A Study in 1 Thessalonians, Volume 2",
+          "source_title": "Those Who Have Hope",
+          "source_file": "06-thosewhohavehope.txt",
+          "source_word_count": 6859,
+          "exact_run_count": 0,
+          "matched_words": 0,
+          "matched_pct": 0.0,
+          "longest_exact_run": 0,
+          "runs": []
+        },
+        {
+          "source_author": "Alistair Begg",
+          "source_series": "A Study in 1 Thessalonians, Volume 2",
+          "source_title": "The Coming of the Lord, Part 1",
+          "source_file": "07-thecomingofthelordpartone.txt",
+          "source_word_count": 7740,
+          "exact_run_count": 0,
+          "matched_words": 0,
+          "matched_pct": 0.0,
+          "longest_exact_run": 0,
+          "runs": []
+        },
+        {
+          "source_author": "Alistair Begg",
+          "source_series": "A Study in 1 Thessalonians, Volume 2",
+          "source_title": "The Coming of the Lord, Part 2",
+          "source_file": "08-thecomingofthelordparttwo.txt",
+          "source_word_count": 6849,
+          "exact_run_count": 0,
+          "matched_words": 0,
+          "matched_pct": 0.0,
+          "longest_exact_run": 0,
+          "runs": []
+        },
+        {
+          "source_author": "Alistair Begg",
+          "source_series": "A Study in 1 Thessalonians, Volume 2",
+          "source_title": "The Coming of the Lord, Part 3",
+          "source_file": "09-thecomingofthelordpartthree.txt",
+          "source_word_count": 7571,
+          "exact_run_count": 0,
+          "matched_words": 0,
+          "matched_pct": 0.0,
+          "longest_exact_run": 0,
+          "runs": []
+        },
+        {
+          "source_author": "Alistair Begg",
+          "source_series": "A Study in 1 Thessalonians, Volume 3",
+          "source_title": "Learning to Respect Our Leadership",
+          "source_file": "01-learningtorespectourleadership.txt",
+          "source_word_count": 8444,
+          "exact_run_count": 0,
+          "matched_words": 0,
+          "matched_pct": 0.0,
+          "longest_exact_run": 0,
+          "runs": []
+        },
+        {
+          "source_author": "Alistair Begg",
+          "source_series": "A Study in 1 Thessalonians, Volume 3",
+          "source_title": "Learning to Live in Peace",
+          "source_file": "02-learningtoliveinpeace.txt",
+          "source_word_count": 7865,
+          "exact_run_count": 0,
+          "matched_words": 0,
+          "matched_pct": 0.0,
+          "longest_exact_run": 0,
+          "runs": []
+        },
+        {
+          "source_author": "Alistair Begg",
+          "source_series": "A Study in 1 Thessalonians, Volume 3",
+          "source_title": "Practicing Patience",
+          "source_file": "03-practicingpatience.txt",
+          "source_word_count": 7282,
+          "exact_run_count": 0,
+          "matched_words": 0,
+          "matched_pct": 0.0,
+          "longest_exact_run": 0,
+          "runs": []
+        },
+        {
+          "source_author": "Alistair Begg",
+          "source_series": "A Study in 1 Thessalonians, Volume 3",
+          "source_title": "Cultivating Kindness",
+          "source_file": "04-cultivatingkindness.txt",
+          "source_word_count": 4076,
+          "exact_run_count": 0,
+          "matched_words": 0,
+          "matched_pct": 0.0,
+          "longest_exact_run": 0,
+          "runs": []
+        },
+        {
+          "source_author": "Alistair Begg",
+          "source_series": "A Study in 1 Thessalonians, Volume 3",
+          "source_title": "Learning How to Worship",
+          "source_file": "05-learninghowtoworshipanintroduction.txt",
+          "source_word_count": 8037,
+          "exact_run_count": 0,
+          "matched_words": 0,
+          "matched_pct": 0.0,
+          "longest_exact_run": 0,
+          "runs": []
+        },
+        {
+          "source_author": "Alistair Begg",
+          "source_series": "A Study in 1 Thessalonians, Volume 3",
+          "source_title": "Give Thanks",
+          "source_file": "06-givethanks.txt",
+          "source_word_count": 8423,
+          "exact_run_count": 0,
+          "matched_words": 0,
+          "matched_pct": 0.0,
+          "longest_exact_run": 0,
+          "runs": []
+        },
+        {
+          "source_author": "Alistair Begg",
+          "source_series": "A Study in 1 Thessalonians, Volume 3",
+          "source_title": "Do Not Grieve the Holy Spirit",
+          "source_file": "07-donotgrievetheholyspirit.txt",
+          "source_word_count": 7854,
+          "exact_run_count": 0,
+          "matched_words": 0,
+          "matched_pct": 0.0,
+          "longest_exact_run": 0,
+          "runs": []
+        },
+        {
+          "source_author": "Alistair Begg",
+          "source_series": "A Study in 1 Thessalonians, Volume 3",
+          "source_title": "Listening to the Word of God",
+          "source_file": "08-listeningtothewordofgod.txt",
+          "source_word_count": 6219,
+          "exact_run_count": 0,
+          "matched_words": 0,
+          "matched_pct": 0.0,
+          "longest_exact_run": 0,
+          "runs": []
+        },
+        {
+          "source_author": "Alistair Begg",
+          "source_series": "A Study in 1 Thessalonians, Volume 3",
+          "source_title": "Sanctification",
+          "source_file": "09-sanctification.txt",
+          "source_word_count": 7385,
+          "exact_run_count": 0,
+          "matched_words": 0,
+          "matched_pct": 0.0,
+          "longest_exact_run": 0,
+          "runs": []
+        },
+        {
+          "source_author": "Alistair Begg",
+          "source_series": "A Study in 1 Thessalonians, Volume 3",
+          "source_title": "The Faithfulness of God",
+          "source_file": "10-thefaithfulnessofgod.txt",
+          "source_word_count": 4727,
+          "exact_run_count": 0,
+          "matched_words": 0,
+          "matched_pct": 0.0,
+          "longest_exact_run": 0,
+          "runs": []
+        }
+      ]
+    },
+    {
+      "file": "Faith_Hope_and_Love_-_041926_pgy_YF3x3gE.txt",
+      "title": "Faith, Hope and Love - 041926",
+      "url": "https://www.youtube.com/watch?v=pgy_YF3x3gE",
+      "upload_date": null,
+      "date_hint": null,
+      "word_count": 10180,
+      "matched_words_any_source": 363,
+      "matched_pct_any_source": 3.57,
+      "best_source": {
+        "source_author": "Alistair Begg",
+        "source_series": "A Study in 1 Thessalonians, Volume 1",
+        "source_title": "Faith, Hope and Love",
+        "source_file": "01-faithhopelove.txt",
+        "source_word_count": 6371,
+        "exact_run_count": 38,
+        "matched_words": 363,
+        "matched_pct": 3.57,
+        "longest_exact_run": 19
+      },
+      "exceeds_rubric": true,
+      "sources": [
+        {
+          "source_author": "Alistair Begg",
+          "source_series": "A Study in 1 Thessalonians, Volume 1",
+          "source_title": "Faith, Hope and Love",
+          "source_file": "01-faithhopelove.txt",
+          "source_word_count": 6371,
+          "exact_run_count": 38,
+          "matched_words": 363,
+          "matched_pct": 3.57,
+          "longest_exact_run": 19,
+          "runs": [
+            {
+              "local_start": 6949,
+              "source_start": 4755,
+              "length": 19,
+              "phrase": "he said my peace i give to you my peace i leave with you not as the world gives"
+            },
+            {
+              "local_start": 7247,
+              "source_start": 5014,
+              "length": 13,
+              "phrase": "emphatic always that salvation is a matter of faith and not of works"
+            },
+            {
+              "local_start": 8306,
+              "source_start": 5416,
+              "length": 13,
+              "phrase": "here he says when i think of your love i think of passion"
+            },
+            {
+              "local_start": 7260,
+              "source_start": 5035,
+              "length": 12,
+              "phrase": "but when that issue is not at stake paul frequently speaks of"
+            },
+            {
+              "local_start": 5453,
+              "source_start": 4173,
+              "length": 11,
+              "phrase": "popular assembly of people for example in the city of athens"
+            },
+            {
+              "local_start": 6004,
+              "source_start": 4414,
+              "length": 11,
+              "phrase": "two members of the trinity the father and the son and"
+            },
+            {
+              "local_start": 8287,
+              "source_start": 5397,
+              "length": 11,
+              "phrase": "answer is no and our destiny is a lost eternity and"
+            },
+            {
+              "local_start": 9201,
+              "source_start": 6086,
+              "length": 11,
+              "phrase": "based on the solid certainty of the life and reality and"
+            },
+            {
+              "local_start": 4354,
+              "source_start": 3815,
+              "length": 10,
+              "phrase": "others have pointed out that irrespective of his physical stature"
+            },
+            {
+              "local_start": 5575,
+              "source_start": 4288,
+              "length": 10,
+              "phrase": "we're not just talking about a group of people who"
+            },
+            {
+              "local_start": 6339,
+              "source_start": 4641,
+              "length": 10,
+              "phrase": "to see those who name the name of jesus flogged"
+            },
+            {
+              "local_start": 8397,
+              "source_start": 5506,
+              "length": 10,
+              "phrase": "closing our bibles coming in and going out is because"
+            },
+            {
+              "local_start": 4311,
+              "source_start": 3742,
+              "length": 9,
+              "phrase": "at times he looked like a man and at"
+            },
+            {
+              "local_start": 4365,
+              "source_start": 3829,
+              "length": 9,
+              "phrase": "was destined by god's grace to regard himself as"
+            },
+            {
+              "local_start": 4496,
+              "source_start": 3892,
+              "length": 9,
+              "phrase": "large in his understanding of god and his purposes"
+            },
+            {
+              "local_start": 4819,
+              "source_start": 4041,
+              "length": 9,
+              "phrase": "known as silas we read of him in acts"
+            },
+            {
+              "local_start": 5643,
+              "source_start": 4335,
+              "length": 9,
+              "phrase": "if you let your eye go down to verse"
+            },
+            {
+              "local_start": 6379,
+              "source_start": 4662,
+              "length": 9,
+              "phrase": "that in such a relatively short period of time"
+            },
+            {
+              "local_start": 6679,
+              "source_start": 4734,
+              "length": 9,
+              "phrase": "grace is the fountain and peace is the stream"
+            },
+            {
+              "local_start": 7651,
+              "source_start": 5112,
+              "length": 9,
+              "phrase": "i cut the grass for the lady next door"
+            },
+            {
+              "local_start": 8242,
+              "source_start": 5370,
+              "length": 9,
+              "phrase": "shrug our shoulders and walk out the door and"
+            },
+            {
+              "local_start": 8604,
+              "source_start": 5579,
+              "length": 9,
+              "phrase": "in the face of extreme difficulty in other words"
+            },
+            {
+              "local_start": 9065,
+              "source_start": 5960,
+              "length": 9,
+              "phrase": "i know god has much to say to us"
+            },
+            {
+              "local_start": 9145,
+              "source_start": 6029,
+              "length": 9,
+              "phrase": "to be prepared to labor to the point of"
+            },
+            {
+              "local_start": 9183,
+              "source_start": 6064,
+              "length": 9,
+              "phrase": "not to face a monday with grim resignation but"
+            },
+            {
+              "local_start": 9219,
+              "source_start": 6102,
+              "length": 9,
+              "phrase": "we want to be passionate about the right things"
+            },
+            {
+              "local_start": 2853,
+              "source_start": 4392,
+              "length": 8,
+              "phrase": "god the father and the lord jesus christ"
+            },
+            {
+              "local_start": 2866,
+              "source_start": 4970,
+              "length": 8,
+              "phrase": "we always thank god for all of you"
+            },
+            {
+              "local_start": 4138,
+              "source_start": 3560,
+              "length": 8,
+              "phrase": "the name paul is not the same as"
+            },
+            {
+              "local_start": 4321,
+              "source_start": 3751,
+              "length": 8,
+              "phrase": "times he had the face of an angel"
+            },
+            {
+              "local_start": 4332,
+              "source_start": 3807,
+              "length": 8,
+              "phrase": "be characteristic of how the apostle paul looked"
+            },
+            {
+              "local_start": 5430,
+              "source_start": 4152,
+              "length": 8,
+              "phrase": "the word here for church is the word"
+            },
+            {
+              "local_start": 5565,
+              "source_start": 4277,
+              "length": 8,
+              "phrase": "when we speak in terms of the church"
+            },
+            {
+              "local_start": 5607,
+              "source_start": 4327,
+              "length": 8,
+              "phrase": "we're talking about an express group of people"
+            },
+            {
+              "local_start": 5833,
+              "source_start": 4363,
+              "length": 8,
+              "phrase": "to them not simply with words but with"
+            },
+            {
+              "local_start": 7169,
+              "source_start": 4970,
+              "length": 8,
+              "phrase": "we always thank god for all of you"
+            },
+            {
+              "local_start": 9134,
+              "source_start": 6018,
+              "length": 8,
+              "phrase": "this kind of working faith in increasing measure"
+            },
+            {
+              "local_start": 9159,
+              "source_start": 6042,
+              "length": 8,
+              "phrase": "because of your great love for us and"
+            }
+          ]
+        },
+        {
+          "source_author": "Alistair Begg",
+          "source_series": "A Study in 1 Thessalonians, Volume 1",
+          "source_title": "No Clever Tricks",
+          "source_file": "04-noclevertricks.txt",
+          "source_word_count": 4925,
+          "exact_run_count": 0,
+          "matched_words": 0,
+          "matched_pct": 0.0,
+          "longest_exact_run": 0,
+          "runs": []
+        },
+        {
+          "source_author": "Alistair Begg",
+          "source_series": "A Study in 1 Thessalonians, Volume 1",
+          "source_title": "Truth and Love",
+          "source_file": "05-truthandlove.txt",
+          "source_word_count": 6369,
+          "exact_run_count": 0,
+          "matched_words": 0,
+          "matched_pct": 0.0,
+          "longest_exact_run": 0,
+          "runs": []
+        },
+        {
+          "source_author": "Alistair Begg",
+          "source_series": "A Study in 1 Thessalonians, Volume 1",
+          "source_title": "God's Word... Not Man's",
+          "source_file": "06-thewordofgodnotmen.txt",
+          "source_word_count": 5820,
+          "exact_run_count": 0,
+          "matched_words": 0,
+          "matched_pct": 0.0,
+          "longest_exact_run": 0,
+          "runs": []
+        },
+        {
+          "source_author": "Alistair Begg",
+          "source_series": "A Study in 1 Thessalonians, Volume 1",
+          "source_title": "Our Glory and Joy",
+          "source_file": "07-ourgloryandjoy.txt",
+          "source_word_count": 4020,
+          "exact_run_count": 0,
+          "matched_words": 0,
+          "matched_pct": 0.0,
+          "longest_exact_run": 0,
+          "runs": []
+        },
+        {
+          "source_author": "Alistair Begg",
+          "source_series": "A Study in 1 Thessalonians, Volume 2",
+          "source_title": "Pleasing God",
+          "source_file": "01-pleasinggod.txt",
+          "source_word_count": 4791,
+          "exact_run_count": 0,
+          "matched_words": 0,
+          "matched_pct": 0.0,
+          "longest_exact_run": 0,
+          "runs": []
+        },
+        {
+          "source_author": "Alistair Begg",
+          "source_series": "A Study in 1 Thessalonians, Volume 2",
+          "source_title": "Sexual Purity, Part 1",
+          "source_file": "02-sexualpuritypartone.txt",
+          "source_word_count": 4724,
+          "exact_run_count": 0,
+          "matched_words": 0,
+          "matched_pct": 0.0,
+          "longest_exact_run": 0,
+          "runs": []
+        },
+        {
+          "source_author": "Alistair Begg",
+          "source_series": "A Study in 1 Thessalonians, Volume 2",
+          "source_title": "Sexual Purity, Part 2",
+          "source_file": "03-sexualpurityparttwo.txt",
+          "source_word_count": 3970,
+          "exact_run_count": 0,
+          "matched_words": 0,
+          "matched_pct": 0.0,
+          "longest_exact_run": 0,
+          "runs": []
+        },
+        {
+          "source_author": "Alistair Begg",
+          "source_series": "A Study in 1 Thessalonians, Volume 2",
+          "source_title": "Those Who Have Hope",
+          "source_file": "06-thosewhohavehope.txt",
+          "source_word_count": 6859,
+          "exact_run_count": 0,
+          "matched_words": 0,
+          "matched_pct": 0.0,
+          "longest_exact_run": 0,
+          "runs": []
+        },
+        {
+          "source_author": "Alistair Begg",
+          "source_series": "A Study in 1 Thessalonians, Volume 2",
+          "source_title": "The Coming of the Lord, Part 1",
+          "source_file": "07-thecomingofthelordpartone.txt",
+          "source_word_count": 7740,
+          "exact_run_count": 0,
+          "matched_words": 0,
+          "matched_pct": 0.0,
+          "longest_exact_run": 0,
+          "runs": []
+        },
+        {
+          "source_author": "Alistair Begg",
+          "source_series": "A Study in 1 Thessalonians, Volume 2",
+          "source_title": "The Coming of the Lord, Part 2",
+          "source_file": "08-thecomingofthelordparttwo.txt",
+          "source_word_count": 6849,
+          "exact_run_count": 0,
+          "matched_words": 0,
+          "matched_pct": 0.0,
+          "longest_exact_run": 0,
+          "runs": []
+        },
+        {
+          "source_author": "Alistair Begg",
+          "source_series": "A Study in 1 Thessalonians, Volume 2",
+          "source_title": "The Coming of the Lord, Part 3",
+          "source_file": "09-thecomingofthelordpartthree.txt",
+          "source_word_count": 7571,
+          "exact_run_count": 0,
+          "matched_words": 0,
+          "matched_pct": 0.0,
+          "longest_exact_run": 0,
+          "runs": []
+        },
+        {
+          "source_author": "Alistair Begg",
+          "source_series": "A Study in 1 Thessalonians, Volume 3",
+          "source_title": "Learning to Respect Our Leadership",
+          "source_file": "01-learningtorespectourleadership.txt",
+          "source_word_count": 8444,
+          "exact_run_count": 0,
+          "matched_words": 0,
+          "matched_pct": 0.0,
+          "longest_exact_run": 0,
+          "runs": []
+        },
+        {
+          "source_author": "Alistair Begg",
+          "source_series": "A Study in 1 Thessalonians, Volume 3",
+          "source_title": "Learning to Live in Peace",
+          "source_file": "02-learningtoliveinpeace.txt",
+          "source_word_count": 7865,
+          "exact_run_count": 0,
+          "matched_words": 0,
+          "matched_pct": 0.0,
+          "longest_exact_run": 0,
+          "runs": []
+        },
+        {
+          "source_author": "Alistair Begg",
+          "source_series": "A Study in 1 Thessalonians, Volume 3",
+          "source_title": "Practicing Patience",
+          "source_file": "03-practicingpatience.txt",
+          "source_word_count": 7282,
+          "exact_run_count": 0,
+          "matched_words": 0,
+          "matched_pct": 0.0,
+          "longest_exact_run": 0,
+          "runs": []
+        },
+        {
+          "source_author": "Alistair Begg",
+          "source_series": "A Study in 1 Thessalonians, Volume 3",
+          "source_title": "Cultivating Kindness",
+          "source_file": "04-cultivatingkindness.txt",
+          "source_word_count": 4076,
+          "exact_run_count": 0,
+          "matched_words": 0,
+          "matched_pct": 0.0,
+          "longest_exact_run": 0,
+          "runs": []
+        },
+        {
+          "source_author": "Alistair Begg",
+          "source_series": "A Study in 1 Thessalonians, Volume 3",
+          "source_title": "Learning How to Worship",
+          "source_file": "05-learninghowtoworshipanintroduction.txt",
+          "source_word_count": 8037,
+          "exact_run_count": 0,
+          "matched_words": 0,
+          "matched_pct": 0.0,
+          "longest_exact_run": 0,
+          "runs": []
+        },
+        {
+          "source_author": "Alistair Begg",
+          "source_series": "A Study in 1 Thessalonians, Volume 3",
+          "source_title": "Give Thanks",
+          "source_file": "06-givethanks.txt",
+          "source_word_count": 8423,
+          "exact_run_count": 0,
+          "matched_words": 0,
+          "matched_pct": 0.0,
+          "longest_exact_run": 0,
+          "runs": []
+        },
+        {
+          "source_author": "Alistair Begg",
+          "source_series": "A Study in 1 Thessalonians, Volume 3",
+          "source_title": "Do Not Grieve the Holy Spirit",
+          "source_file": "07-donotgrievetheholyspirit.txt",
+          "source_word_count": 7854,
+          "exact_run_count": 0,
+          "matched_words": 0,
+          "matched_pct": 0.0,
+          "longest_exact_run": 0,
+          "runs": []
+        },
+        {
+          "source_author": "Alistair Begg",
+          "source_series": "A Study in 1 Thessalonians, Volume 3",
+          "source_title": "Listening to the Word of God",
+          "source_file": "08-listeningtothewordofgod.txt",
+          "source_word_count": 6219,
+          "exact_run_count": 0,
+          "matched_words": 0,
+          "matched_pct": 0.0,
+          "longest_exact_run": 0,
+          "runs": []
+        },
+        {
+          "source_author": "Alistair Begg",
+          "source_series": "A Study in 1 Thessalonians, Volume 3",
+          "source_title": "Sanctification",
+          "source_file": "09-sanctification.txt",
+          "source_word_count": 7385,
+          "exact_run_count": 0,
+          "matched_words": 0,
+          "matched_pct": 0.0,
+          "longest_exact_run": 0,
+          "runs": []
+        },
+        {
+          "source_author": "Alistair Begg",
+          "source_series": "A Study in 1 Thessalonians, Volume 3",
+          "source_title": "The Faithfulness of God",
+          "source_file": "10-thefaithfulnessofgod.txt",
+          "source_word_count": 4727,
+          "exact_run_count": 0,
+          "matched_words": 0,
+          "matched_pct": 0.0,
+          "longest_exact_run": 0,
+          "runs": []
+        }
+      ]
+    },
+    {
+      "file": "God_s_Word...Not_Man_s_-_052426_UA--g_npTNA.txt",
+      "title": "God's Word...Not Man's - 052426",
+      "url": "https://www.youtube.com/watch?v=UA--g_npTNA",
+      "upload_date": null,
+      "date_hint": null,
+      "word_count": 11715,
+      "matched_words_any_source": 499,
+      "matched_pct_any_source": 4.26,
+      "best_source": {
+        "source_author": "Alistair Begg",
+        "source_series": "A Study in 1 Thessalonians, Volume 1",
+        "source_title": "God's Word... Not Man's",
+        "source_file": "06-thewordofgodnotmen.txt",
+        "source_word_count": 5820,
+        "exact_run_count": 46,
+        "matched_words": 499,
+        "matched_pct": 4.26,
+        "longest_exact_run": 26
+      },
+      "exceeds_rubric": true,
+      "sources": [
+        {
+          "source_author": "Alistair Begg",
+          "source_series": "A Study in 1 Thessalonians, Volume 1",
+          "source_title": "God's Word... Not Man's",
+          "source_file": "06-thewordofgodnotmen.txt",
+          "source_word_count": 5820,
+          "exact_run_count": 46,
+          "matched_words": 499,
+          "matched_pct": 4.26,
+          "longest_exact_run": 26,
+          "runs": [
+            {
+              "local_start": 10098,
+              "source_start": 3850,
+              "length": 26,
+              "phrase": "what advantage then is there in being a jew or what value is there in circumcision and we might expect him to say absolutely none but"
+            },
+            {
+              "local_start": 5266,
+              "source_start": 271,
+              "length": 24,
+              "phrase": "and we also thank god continually because when you receive the word of god which you heard from us you accepted it not as"
+            },
+            {
+              "local_start": 6080,
+              "source_start": 722,
+              "length": 23,
+              "phrase": "paul could preach with certainty and power for he had the profound conviction that what he said was not of man's devising but"
+            },
+            {
+              "local_start": 5383,
+              "source_start": 3318,
+              "length": 22,
+              "phrase": "in this way they always heap up their sins to the limit the wrath of god has come upon them at last"
+            },
+            {
+              "local_start": 10267,
+              "source_start": 4034,
+              "length": 22,
+              "phrase": "wish that i myself were cursed and cut off from christ for the sake of my brothers those of my own race"
+            },
+            {
+              "local_start": 5762,
+              "source_start": 281,
+              "length": 19,
+              "phrase": "the word of god which you heard from us you accepted it not as the word of men but"
+            },
+            {
+              "local_start": 8736,
+              "source_start": 1254,
+              "length": 19,
+              "phrase": "this of course is one of the great tests that we ought to look for in our lives concerning"
+            },
+            {
+              "local_start": 8982,
+              "source_start": 1778,
+              "length": 19,
+              "phrase": "and so the word of god began to work within their lives and its evidence was in their imitating"
+            },
+            {
+              "local_start": 9521,
+              "source_start": 2209,
+              "length": 18,
+              "phrase": "our brethren in all parts of the world and in all times in history as a result of"
+            },
+            {
+              "local_start": 10628,
+              "source_start": 5620,
+              "length": 18,
+              "phrase": "it's hard to engage people in fact the task is so daunting it drives us to our knees"
+            },
+            {
+              "local_start": 9120,
+              "source_start": 1890,
+              "length": 16,
+              "phrase": "how to be united how to be expectant how to be rejoicing how to be progressing"
+            },
+            {
+              "local_start": 5389,
+              "source_start": 3483,
+              "length": 15,
+              "phrase": "up their sins to the limit the wrath of god has come upon them at"
+            },
+            {
+              "local_start": 10158,
+              "source_start": 3905,
+              "length": 15,
+              "phrase": "a wonderful thing to be brought up in this jewish heritage for the gospel is"
+            },
+            {
+              "local_start": 10437,
+              "source_start": 3565,
+              "length": 13,
+              "phrase": "paul may be referring to the great famine which took place in judea"
+            },
+            {
+              "local_start": 5592,
+              "source_start": 156,
+              "length": 12,
+              "phrase": "love that is not hardened by truth can become dreadfully soft and"
+            },
+            {
+              "local_start": 5794,
+              "source_start": 305,
+              "length": 12,
+              "phrase": "word of god which is at work in those of you who"
+            },
+            {
+              "local_start": 5293,
+              "source_start": 1345,
+              "length": 11,
+              "phrase": "but as it actually is the word of god which is"
+            },
+            {
+              "local_start": 8876,
+              "source_start": 1416,
+              "length": 11,
+              "phrase": "there were some other churches that had been planted before them"
+            },
+            {
+              "local_start": 9251,
+              "source_start": 2023,
+              "length": 11,
+              "phrase": "they pursued him to thessalonica and then when he went to"
+            },
+            {
+              "local_start": 10361,
+              "source_start": 3418,
+              "length": 11,
+              "phrase": "no other way for them to go and eventually god's patience"
+            },
+            {
+              "local_start": 5320,
+              "source_start": 1943,
+              "length": 10,
+              "phrase": "of god's churches in judea which are in christ jesus"
+            },
+            {
+              "local_start": 5771,
+              "source_start": 1336,
+              "length": 10,
+              "phrase": "you accepted it not as the word of men but"
+            },
+            {
+              "local_start": 9237,
+              "source_start": 2013,
+              "length": 10,
+              "phrase": "opponents in the preaching of the gospel were jewish and"
+            },
+            {
+              "local_start": 9268,
+              "source_start": 2028,
+              "length": 10,
+              "phrase": "and then when he went to athens they pursued him"
+            },
+            {
+              "local_start": 9392,
+              "source_start": 2131,
+              "length": 10,
+              "phrase": "suffering and one of the things that we ought to"
+            },
+            {
+              "local_start": 5395,
+              "source_start": 4614,
+              "length": 9,
+              "phrase": "the wrath of god has come upon them at"
+            },
+            {
+              "local_start": 5612,
+              "source_start": 175,
+              "length": 9,
+              "phrase": "us to this wonderful holding of these two principles"
+            },
+            {
+              "local_start": 5752,
+              "source_start": 271,
+              "length": 9,
+              "phrase": "and we also thank god continually because when you"
+            },
+            {
+              "local_start": 8762,
+              "source_start": 1280,
+              "length": 9,
+              "phrase": "james says don't merely be hearers of the word"
+            },
+            {
+              "local_start": 9319,
+              "source_start": 2067,
+              "length": 9,
+              "phrase": "it was jewish opposition which led him to take"
+            },
+            {
+              "local_start": 9507,
+              "source_start": 2194,
+              "length": 9,
+              "phrase": "at least as we read our bibles to be"
+            },
+            {
+              "local_start": 10611,
+              "source_start": 5605,
+              "length": 9,
+              "phrase": "so much confusion abounds in our schools and universities"
+            },
+            {
+              "local_start": 5344,
+              "source_start": 2547,
+              "length": 8,
+              "phrase": "the jews who killed the lord jesus and"
+            },
+            {
+              "local_start": 5347,
+              "source_start": 3042,
+              "length": 8,
+              "phrase": "killed the lord jesus and the prophets and"
+            },
+            {
+              "local_start": 5395,
+              "source_start": 4168,
+              "length": 8,
+              "phrase": "the wrath of god has come upon them"
+            },
+            {
+              "local_start": 5631,
+              "source_start": 198,
+              "length": 8,
+              "phrase": "those under his care dealing with them as"
+            },
+            {
+              "local_start": 5794,
+              "source_start": 1351,
+              "length": 8,
+              "phrase": "word of god which is at work in"
+            },
+            {
+              "local_start": 6145,
+              "source_start": 777,
+              "length": 8,
+              "phrase": "an adequate substitute for the word which comes"
+            },
+            {
+              "local_start": 6159,
+              "source_start": 788,
+              "length": 8,
+              "phrase": "that of course is the process that remains"
+            },
+            {
+              "local_start": 8825,
+              "source_start": 1328,
+              "length": 8,
+              "phrase": "and the product is defined for us here"
+            },
+            {
+              "local_start": 9270,
+              "source_start": 2041,
+              "length": 8,
+              "phrase": "when he went to athens they pursued him"
+            },
+            {
+              "local_start": 9285,
+              "source_start": 2057,
+              "length": 8,
+              "phrase": "and it was in corinth that he wrote"
+            },
+            {
+              "local_start": 9355,
+              "source_start": 2095,
+              "length": 8,
+              "phrase": "a reminder that in generations not our own"
+            },
+            {
+              "local_start": 9649,
+              "source_start": 2317,
+              "length": 8,
+              "phrase": "you suffered from your own countrymen the same"
+            },
+            {
+              "local_start": 10685,
+              "source_start": 5670,
+              "length": 8,
+              "phrase": "to this end we commit ourselves to you"
+            },
+            {
+              "local_start": 11467,
+              "source_start": 461,
+              "length": 8,
+              "phrase": "that and for those of you who were"
+            }
+          ]
+        },
+        {
+          "source_author": "Alistair Begg",
+          "source_series": "A Study in 1 Thessalonians, Volume 2",
+          "source_title": "Sexual Purity, Part 1",
+          "source_file": "02-sexualpuritypartone.txt",
+          "source_word_count": 4724,
+          "exact_run_count": 3,
+          "matched_words": 47,
+          "matched_pct": 0.4,
+          "longest_exact_run": 21,
+          "runs": [
+            {
+              "local_start": 5269,
+              "source_start": 254,
+              "length": 21,
+              "phrase": "thank god continually because when you receive the word of god which you heard from us you accepted it not as"
+            },
+            {
+              "local_start": 5762,
+              "source_start": 261,
+              "length": 17,
+              "phrase": "the word of god which you heard from us you accepted it not as the word of"
+            },
+            {
+              "local_start": 5293,
+              "source_start": 279,
+              "length": 9,
+              "phrase": "but as it actually is the word of god"
+            }
+          ]
+        },
+        {
+          "source_author": "Alistair Begg",
+          "source_series": "A Study in 1 Thessalonians, Volume 1",
+          "source_title": "Truth and Love",
+          "source_file": "05-truthandlove.txt",
+          "source_word_count": 6369,
+          "exact_run_count": 1,
+          "matched_words": 8,
+          "matched_pct": 0.07,
+          "longest_exact_run": 8,
+          "runs": [
+            {
+              "local_start": 8736,
+              "source_start": 895,
+              "length": 8,
+              "phrase": "this of course is one of the great"
+            }
+          ]
+        },
+        {
+          "source_author": "Alistair Begg",
+          "source_series": "A Study in 1 Thessalonians, Volume 1",
+          "source_title": "Faith, Hope and Love",
+          "source_file": "01-faithhopelove.txt",
+          "source_word_count": 6371,
+          "exact_run_count": 0,
+          "matched_words": 0,
+          "matched_pct": 0.0,
+          "longest_exact_run": 0,
+          "runs": []
+        },
+        {
+          "source_author": "Alistair Begg",
+          "source_series": "A Study in 1 Thessalonians, Volume 1",
+          "source_title": "No Clever Tricks",
+          "source_file": "04-noclevertricks.txt",
+          "source_word_count": 4925,
+          "exact_run_count": 0,
+          "matched_words": 0,
+          "matched_pct": 0.0,
+          "longest_exact_run": 0,
+          "runs": []
+        },
+        {
+          "source_author": "Alistair Begg",
+          "source_series": "A Study in 1 Thessalonians, Volume 1",
+          "source_title": "Our Glory and Joy",
+          "source_file": "07-ourgloryandjoy.txt",
+          "source_word_count": 4020,
+          "exact_run_count": 0,
+          "matched_words": 0,
+          "matched_pct": 0.0,
+          "longest_exact_run": 0,
+          "runs": []
+        },
+        {
+          "source_author": "Alistair Begg",
+          "source_series": "A Study in 1 Thessalonians, Volume 2",
+          "source_title": "Pleasing God",
+          "source_file": "01-pleasinggod.txt",
+          "source_word_count": 4791,
+          "exact_run_count": 0,
+          "matched_words": 0,
+          "matched_pct": 0.0,
+          "longest_exact_run": 0,
+          "runs": []
+        },
+        {
+          "source_author": "Alistair Begg",
+          "source_series": "A Study in 1 Thessalonians, Volume 2",
+          "source_title": "Sexual Purity, Part 2",
+          "source_file": "03-sexualpurityparttwo.txt",
+          "source_word_count": 3970,
+          "exact_run_count": 0,
+          "matched_words": 0,
+          "matched_pct": 0.0,
+          "longest_exact_run": 0,
+          "runs": []
+        },
+        {
+          "source_author": "Alistair Begg",
+          "source_series": "A Study in 1 Thessalonians, Volume 2",
+          "source_title": "Those Who Have Hope",
+          "source_file": "06-thosewhohavehope.txt",
+          "source_word_count": 6859,
+          "exact_run_count": 0,
+          "matched_words": 0,
+          "matched_pct": 0.0,
+          "longest_exact_run": 0,
+          "runs": []
+        },
+        {
+          "source_author": "Alistair Begg",
+          "source_series": "A Study in 1 Thessalonians, Volume 2",
+          "source_title": "The Coming of the Lord, Part 1",
+          "source_file": "07-thecomingofthelordpartone.txt",
+          "source_word_count": 7740,
+          "exact_run_count": 0,
+          "matched_words": 0,
+          "matched_pct": 0.0,
+          "longest_exact_run": 0,
+          "runs": []
+        },
+        {
+          "source_author": "Alistair Begg",
+          "source_series": "A Study in 1 Thessalonians, Volume 2",
+          "source_title": "The Coming of the Lord, Part 2",
+          "source_file": "08-thecomingofthelordparttwo.txt",
+          "source_word_count": 6849,
+          "exact_run_count": 0,
+          "matched_words": 0,
+          "matched_pct": 0.0,
+          "longest_exact_run": 0,
+          "runs": []
+        },
+        {
+          "source_author": "Alistair Begg",
+          "source_series": "A Study in 1 Thessalonians, Volume 2",
+          "source_title": "The Coming of the Lord, Part 3",
+          "source_file": "09-thecomingofthelordpartthree.txt",
+          "source_word_count": 7571,
+          "exact_run_count": 0,
+          "matched_words": 0,
+          "matched_pct": 0.0,
+          "longest_exact_run": 0,
+          "runs": []
+        },
+        {
+          "source_author": "Alistair Begg",
+          "source_series": "A Study in 1 Thessalonians, Volume 3",
+          "source_title": "Learning to Respect Our Leadership",
+          "source_file": "01-learningtorespectourleadership.txt",
+          "source_word_count": 8444,
+          "exact_run_count": 0,
+          "matched_words": 0,
+          "matched_pct": 0.0,
+          "longest_exact_run": 0,
+          "runs": []
+        },
+        {
+          "source_author": "Alistair Begg",
+          "source_series": "A Study in 1 Thessalonians, Volume 3",
+          "source_title": "Learning to Live in Peace",
+          "source_file": "02-learningtoliveinpeace.txt",
+          "source_word_count": 7865,
+          "exact_run_count": 0,
+          "matched_words": 0,
+          "matched_pct": 0.0,
+          "longest_exact_run": 0,
+          "runs": []
+        },
+        {
+          "source_author": "Alistair Begg",
+          "source_series": "A Study in 1 Thessalonians, Volume 3",
+          "source_title": "Practicing Patience",
+          "source_file": "03-practicingpatience.txt",
+          "source_word_count": 7282,
+          "exact_run_count": 0,
+          "matched_words": 0,
+          "matched_pct": 0.0,
+          "longest_exact_run": 0,
+          "runs": []
+        },
+        {
+          "source_author": "Alistair Begg",
+          "source_series": "A Study in 1 Thessalonians, Volume 3",
+          "source_title": "Cultivating Kindness",
+          "source_file": "04-cultivatingkindness.txt",
+          "source_word_count": 4076,
+          "exact_run_count": 0,
+          "matched_words": 0,
+          "matched_pct": 0.0,
+          "longest_exact_run": 0,
+          "runs": []
+        },
+        {
+          "source_author": "Alistair Begg",
+          "source_series": "A Study in 1 Thessalonians, Volume 3",
+          "source_title": "Learning How to Worship",
+          "source_file": "05-learninghowtoworshipanintroduction.txt",
+          "source_word_count": 8037,
+          "exact_run_count": 0,
+          "matched_words": 0,
+          "matched_pct": 0.0,
+          "longest_exact_run": 0,
+          "runs": []
+        },
+        {
+          "source_author": "Alistair Begg",
+          "source_series": "A Study in 1 Thessalonians, Volume 3",
+          "source_title": "Give Thanks",
+          "source_file": "06-givethanks.txt",
+          "source_word_count": 8423,
+          "exact_run_count": 0,
+          "matched_words": 0,
+          "matched_pct": 0.0,
+          "longest_exact_run": 0,
+          "runs": []
+        },
+        {
+          "source_author": "Alistair Begg",
+          "source_series": "A Study in 1 Thessalonians, Volume 3",
+          "source_title": "Do Not Grieve the Holy Spirit",
+          "source_file": "07-donotgrievetheholyspirit.txt",
+          "source_word_count": 7854,
+          "exact_run_count": 0,
+          "matched_words": 0,
+          "matched_pct": 0.0,
+          "longest_exact_run": 0,
+          "runs": []
+        },
+        {
+          "source_author": "Alistair Begg",
+          "source_series": "A Study in 1 Thessalonians, Volume 3",
+          "source_title": "Listening to the Word of God",
+          "source_file": "08-listeningtothewordofgod.txt",
+          "source_word_count": 6219,
+          "exact_run_count": 0,
+          "matched_words": 0,
+          "matched_pct": 0.0,
+          "longest_exact_run": 0,
+          "runs": []
+        },
+        {
+          "source_author": "Alistair Begg",
+          "source_series": "A Study in 1 Thessalonians, Volume 3",
+          "source_title": "Sanctification",
+          "source_file": "09-sanctification.txt",
+          "source_word_count": 7385,
+          "exact_run_count": 0,
+          "matched_words": 0,
+          "matched_pct": 0.0,
+          "longest_exact_run": 0,
+          "runs": []
+        },
+        {
+          "source_author": "Alistair Begg",
+          "source_series": "A Study in 1 Thessalonians, Volume 3",
+          "source_title": "The Faithfulness of God",
+          "source_file": "10-thefaithfulnessofgod.txt",
+          "source_word_count": 4727,
+          "exact_run_count": 0,
+          "matched_words": 0,
+          "matched_pct": 0.0,
+          "longest_exact_run": 0,
+          "runs": []
+        }
+      ]
+    },
+    {
+      "file": "No_Clever_Tricks_-_051026_j9oaoRg6kZ8.txt",
+      "title": "No Clever Tricks - 051026",
+      "url": "https://www.youtube.com/watch?v=j9oaoRg6kZ8",
+      "upload_date": null,
+      "date_hint": null,
+      "word_count": 10026,
+      "matched_words_any_source": 596,
+      "matched_pct_any_source": 5.94,
+      "best_source": {
+        "source_author": "Alistair Begg",
+        "source_series": "A Study in 1 Thessalonians, Volume 1",
+        "source_title": "No Clever Tricks",
+        "source_file": "04-noclevertricks.txt",
+        "source_word_count": 4925,
+        "exact_run_count": 54,
+        "matched_words": 525,
+        "matched_pct": 5.24,
+        "longest_exact_run": 31
+      },
+      "exceeds_rubric": true,
+      "sources": [
+        {
+          "source_author": "Alistair Begg",
+          "source_series": "A Study in 1 Thessalonians, Volume 1",
+          "source_title": "No Clever Tricks",
+          "source_file": "04-noclevertricks.txt",
+          "source_word_count": 4925,
+          "exact_run_count": 54,
+          "matched_words": 525,
+          "matched_pct": 5.24,
+          "longest_exact_run": 31,
+          "runs": [
+            {
+              "local_start": 7950,
+              "source_start": 4149,
+              "length": 31,
+              "phrase": "i do not even judge myself my conscience is clear but that doesn't make me innocent it is the lord who judges me therefore judge nothing before the appointed time wait"
+            },
+            {
+              "local_start": 8528,
+              "source_start": 4364,
+              "length": 20,
+              "phrase": "of the gospel is so significant and so immense and so profound that no seminary can ever make a pastor"
+            },
+            {
+              "local_start": 5999,
+              "source_start": 2516,
+              "length": 19,
+              "phrase": "holy men of all creeds and countries popular philosophers magicians astrologers crackpots and cranks the sincere and the spurious"
+            },
+            {
+              "local_start": 7105,
+              "source_start": 3656,
+              "length": 19,
+              "phrase": "does he endeavor to tell them what they want to hear so that they may love him for that"
+            },
+            {
+              "local_start": 7335,
+              "source_start": 3956,
+              "length": 17,
+              "phrase": "a much higher task than that because the minister of the gospel is responsible to god himself"
+            },
+            {
+              "local_start": 7994,
+              "source_start": 4192,
+              "length": 17,
+              "phrase": "darkness and he will expose the motives of men's hearts and at that time each will receive"
+            },
+            {
+              "local_start": 5923,
+              "source_start": 2436,
+              "length": 16,
+              "phrase": "probably never been such a variety of religious cults and philosophic systems as in paul's day"
+            },
+            {
+              "local_start": 6002,
+              "source_start": 2577,
+              "length": 16,
+              "phrase": "all creeds and countries popular philosophers magicians astrologers crackpots and cranks the sincere and the spurious"
+            },
+            {
+              "local_start": 7074,
+              "source_start": 3634,
+              "length": 15,
+              "phrase": "a flatterer in the way he uses the bible does he seek to curry favor"
+            },
+            {
+              "local_start": 7259,
+              "source_start": 3812,
+              "length": 14,
+              "phrase": "primarily responsible neither to the church nor to its boards but to god himself"
+            },
+            {
+              "local_start": 4199,
+              "source_start": 175,
+              "length": 13,
+              "phrase": "mind works how his emotions are moved and how his soul is stirred"
+            },
+            {
+              "local_start": 4224,
+              "source_start": 197,
+              "length": 13,
+              "phrase": "is directly related to the historical context out of which the birth of"
+            },
+            {
+              "local_start": 5627,
+              "source_start": 1665,
+              "length": 13,
+              "phrase": "has to do with speaking freely speaking openly speaking fearlessly in other words"
+            },
+            {
+              "local_start": 8549,
+              "source_start": 4384,
+              "length": 13,
+              "phrase": "no church can ever make a pastor only god can do that and"
+            },
+            {
+              "local_start": 3896,
+              "source_start": 2141,
+              "length": 12,
+              "phrase": "the appeal we make does not spring from error or impure motives"
+            },
+            {
+              "local_start": 3948,
+              "source_start": 3541,
+              "length": 12,
+              "phrase": "flattery nor did we put on a mask to cover up greed"
+            },
+            {
+              "local_start": 5732,
+              "source_start": 1759,
+              "length": 12,
+              "phrase": "he says as you know and then again in verse he begins"
+            },
+            {
+              "local_start": 6132,
+              "source_start": 2697,
+              "length": 12,
+              "phrase": "i want you to understand for the sake of the gospel and"
+            },
+            {
+              "local_start": 4145,
+              "source_start": 130,
+              "length": 11,
+              "phrase": "say that first thessalonians in a particular and special way reveals"
+            },
+            {
+              "local_start": 5118,
+              "source_start": 1056,
+              "length": 11,
+              "phrase": "the truth of the gospel and the future of the church"
+            },
+            {
+              "local_start": 6225,
+              "source_start": 2780,
+              "length": 11,
+              "phrase": "not speaking anything but the gospel which god has given us"
+            },
+            {
+              "local_start": 6378,
+              "source_start": 3094,
+              "length": 11,
+              "phrase": "around offering things to people which they can neither substantiate from"
+            },
+            {
+              "local_start": 6486,
+              "source_start": 3195,
+              "length": 11,
+              "phrase": "not trying to please men but god who tests our hearts"
+            },
+            {
+              "local_start": 6486,
+              "source_start": 3324,
+              "length": 11,
+              "phrase": "not trying to please men but god who tests our hearts"
+            },
+            {
+              "local_start": 5758,
+              "source_start": 1792,
+              "length": 10,
+              "phrase": "very important because what he's pointing out is that all"
+            },
+            {
+              "local_start": 5844,
+              "source_start": 2141,
+              "length": 10,
+              "phrase": "the appeal we make does not spring from error or"
+            },
+            {
+              "local_start": 3922,
+              "source_start": 2254,
+              "length": 9,
+              "phrase": "approved by god to be entrusted with the gospel"
+            },
+            {
+              "local_start": 4132,
+              "source_start": 115,
+              "length": 9,
+              "phrase": "the book of romans reveals the mind of the"
+            },
+            {
+              "local_start": 4312,
+              "source_start": 303,
+              "length": 9,
+              "phrase": "reasoned with them from the scriptures explaining and proving"
+            },
+            {
+              "local_start": 4379,
+              "source_start": 361,
+              "length": 9,
+              "phrase": "crazy and the end of their mission is quite"
+            },
+            {
+              "local_start": 4503,
+              "source_start": 544,
+              "length": 9,
+              "phrase": "in verse as soon as it was night the"
+            },
+            {
+              "local_start": 5017,
+              "source_start": 1048,
+              "length": 9,
+              "phrase": "out of a deep concern for two things the"
+            },
+            {
+              "local_start": 5037,
+              "source_start": 1056,
+              "length": 9,
+              "phrase": "the truth of the gospel and the future of"
+            },
+            {
+              "local_start": 5120,
+              "source_start": 2705,
+              "length": 9,
+              "phrase": "of the gospel and the future of the church"
+            },
+            {
+              "local_start": 5807,
+              "source_start": 2099,
+              "length": 9,
+              "phrase": "able to make an honest assessment of his coming"
+            },
+            {
+              "local_start": 6186,
+              "source_start": 2749,
+              "length": 9,
+              "phrase": "marked by error by impurity and by dirty dealings"
+            },
+            {
+              "local_start": 6245,
+              "source_start": 2798,
+              "length": 9,
+              "phrase": "of all kinds of things but let them not"
+            },
+            {
+              "local_start": 6286,
+              "source_start": 2888,
+              "length": 9,
+              "phrase": "we are merely the stewards of what is proclaimed"
+            },
+            {
+              "local_start": 6410,
+              "source_start": 3132,
+              "length": 9,
+              "phrase": "and follow christ without facing the hard edge of"
+            },
+            {
+              "local_start": 7512,
+              "source_start": 4019,
+              "length": 9,
+              "phrase": "it is really freeing to be in this situation"
+            },
+            {
+              "local_start": 7936,
+              "source_start": 4140,
+              "length": 9,
+              "phrase": "judged by you or by any human court indeed"
+            },
+            {
+              "local_start": 4363,
+              "source_start": 349,
+              "length": 8,
+              "phrase": "a few prominent women but at that point"
+            },
+            {
+              "local_start": 4404,
+              "source_start": 427,
+              "length": 8,
+              "phrase": "jews were jealous so they rounded up some"
+            },
+            {
+              "local_start": 4904,
+              "source_start": 771,
+              "length": 8,
+              "phrase": "he ran away didn't he i mean he"
+            },
+            {
+              "local_start": 5383,
+              "source_start": 1484,
+              "length": 8,
+              "phrase": "you were stark naked they gave you a"
+            },
+            {
+              "local_start": 6216,
+              "source_start": 2770,
+              "length": 8,
+              "phrase": "we're not trying to please men but god"
+            },
+            {
+              "local_start": 6216,
+              "source_start": 3194,
+              "length": 8,
+              "phrase": "we're not trying to please men but god"
+            },
+            {
+              "local_start": 6216,
+              "source_start": 3323,
+              "length": 8,
+              "phrase": "we're not trying to please men but god"
+            },
+            {
+              "local_start": 6658,
+              "source_start": 2770,
+              "length": 8,
+              "phrase": "we're not trying to please men but god"
+            },
+            {
+              "local_start": 6658,
+              "source_start": 3194,
+              "length": 8,
+              "phrase": "we're not trying to please men but god"
+            },
+            {
+              "local_start": 6658,
+              "source_start": 3323,
+              "length": 8,
+              "phrase": "we're not trying to please men but god"
+            },
+            {
+              "local_start": 7444,
+              "source_start": 2770,
+              "length": 8,
+              "phrase": "we're not trying to please men but god"
+            },
+            {
+              "local_start": 7444,
+              "source_start": 3194,
+              "length": 8,
+              "phrase": "we're not trying to please men but god"
+            },
+            {
+              "local_start": 7444,
+              "source_start": 3323,
+              "length": 8,
+              "phrase": "we're not trying to please men but god"
+            }
+          ]
+        },
+        {
+          "source_author": "Alistair Begg",
+          "source_series": "A Study in 1 Thessalonians, Volume 1",
+          "source_title": "Truth and Love",
+          "source_file": "05-truthandlove.txt",
+          "source_word_count": 6369,
+          "exact_run_count": 3,
+          "matched_words": 35,
+          "matched_pct": 0.35,
+          "longest_exact_run": 21,
+          "runs": [
+            {
+              "local_start": 8669,
+              "source_start": 2774,
+              "length": 21,
+              "phrase": "we loved you so much that we were delighted to share with you not only the gospel of god but our"
+            },
+            {
+              "local_start": 4019,
+              "source_start": 2782,
+              "length": 9,
+              "phrase": "delighted to share with you not only the gospel"
+            },
+            {
+              "local_start": 4024,
+              "source_start": 3737,
+              "length": 9,
+              "phrase": "not only the gospel but our lives as well"
+            }
+          ]
+        },
+        {
+          "source_author": "Alistair Begg",
+          "source_series": "A Study in 1 Thessalonians, Volume 3",
+          "source_title": "Learning How to Worship",
+          "source_file": "05-learninghowtoworshipanintroduction.txt",
+          "source_word_count": 8037,
+          "exact_run_count": 2,
+          "matched_words": 20,
+          "matched_pct": 0.2,
+          "longest_exact_run": 10,
+          "runs": [
+            {
+              "local_start": 1596,
+              "source_start": 7312,
+              "length": 10,
+              "phrase": "where the spirit of the lord is there is freedom"
+            },
+            {
+              "local_start": 1688,
+              "source_start": 7312,
+              "length": 10,
+              "phrase": "where the spirit of the lord is there is freedom"
+            }
+          ]
+        },
+        {
+          "source_author": "Alistair Begg",
+          "source_series": "A Study in 1 Thessalonians, Volume 3",
+          "source_title": "Listening to the Word of God",
+          "source_file": "08-listeningtothewordofgod.txt",
+          "source_word_count": 6219,
+          "exact_run_count": 1,
+          "matched_words": 14,
+          "matched_pct": 0.14,
+          "longest_exact_run": 14,
+          "runs": [
+            {
+              "local_start": 3922,
+              "source_start": 1786,
+              "length": 14,
+              "phrase": "approved by god to be entrusted with the gospel we're not trying to please"
+            }
+          ]
+        },
+        {
+          "source_author": "Alistair Begg",
+          "source_series": "A Study in 1 Thessalonians, Volume 1",
+          "source_title": "Faith, Hope and Love",
+          "source_file": "01-faithhopelove.txt",
+          "source_word_count": 6371,
+          "exact_run_count": 1,
+          "matched_words": 11,
+          "matched_pct": 0.11,
+          "longest_exact_run": 11,
+          "runs": [
+            {
+              "local_start": 4413,
+              "source_start": 2148,
+              "length": 11,
+              "phrase": "bad characters from the marketplace they formed a mob and they"
+            }
+          ]
+        },
+        {
+          "source_author": "Alistair Begg",
+          "source_series": "A Study in 1 Thessalonians, Volume 1",
+          "source_title": "God's Word... Not Man's",
+          "source_file": "06-thewordofgodnotmen.txt",
+          "source_word_count": 5820,
+          "exact_run_count": 0,
+          "matched_words": 0,
+          "matched_pct": 0.0,
+          "longest_exact_run": 0,
+          "runs": []
+        },
+        {
+          "source_author": "Alistair Begg",
+          "source_series": "A Study in 1 Thessalonians, Volume 1",
+          "source_title": "Our Glory and Joy",
+          "source_file": "07-ourgloryandjoy.txt",
+          "source_word_count": 4020,
+          "exact_run_count": 0,
+          "matched_words": 0,
+          "matched_pct": 0.0,
+          "longest_exact_run": 0,
+          "runs": []
+        },
+        {
+          "source_author": "Alistair Begg",
+          "source_series": "A Study in 1 Thessalonians, Volume 2",
+          "source_title": "Pleasing God",
+          "source_file": "01-pleasinggod.txt",
+          "source_word_count": 4791,
+          "exact_run_count": 0,
+          "matched_words": 0,
+          "matched_pct": 0.0,
+          "longest_exact_run": 0,
+          "runs": []
+        },
+        {
+          "source_author": "Alistair Begg",
+          "source_series": "A Study in 1 Thessalonians, Volume 2",
+          "source_title": "Sexual Purity, Part 1",
+          "source_file": "02-sexualpuritypartone.txt",
+          "source_word_count": 4724,
+          "exact_run_count": 0,
+          "matched_words": 0,
+          "matched_pct": 0.0,
+          "longest_exact_run": 0,
+          "runs": []
+        },
+        {
+          "source_author": "Alistair Begg",
+          "source_series": "A Study in 1 Thessalonians, Volume 2",
+          "source_title": "Sexual Purity, Part 2",
+          "source_file": "03-sexualpurityparttwo.txt",
+          "source_word_count": 3970,
+          "exact_run_count": 0,
+          "matched_words": 0,
+          "matched_pct": 0.0,
+          "longest_exact_run": 0,
+          "runs": []
+        },
+        {
+          "source_author": "Alistair Begg",
+          "source_series": "A Study in 1 Thessalonians, Volume 2",
+          "source_title": "Those Who Have Hope",
+          "source_file": "06-thosewhohavehope.txt",
+          "source_word_count": 6859,
+          "exact_run_count": 0,
+          "matched_words": 0,
+          "matched_pct": 0.0,
+          "longest_exact_run": 0,
+          "runs": []
+        },
+        {
+          "source_author": "Alistair Begg",
+          "source_series": "A Study in 1 Thessalonians, Volume 2",
+          "source_title": "The Coming of the Lord, Part 1",
+          "source_file": "07-thecomingofthelordpartone.txt",
+          "source_word_count": 7740,
+          "exact_run_count": 0,
+          "matched_words": 0,
+          "matched_pct": 0.0,
+          "longest_exact_run": 0,
+          "runs": []
+        },
+        {
+          "source_author": "Alistair Begg",
+          "source_series": "A Study in 1 Thessalonians, Volume 2",
+          "source_title": "The Coming of the Lord, Part 2",
+          "source_file": "08-thecomingofthelordparttwo.txt",
+          "source_word_count": 6849,
+          "exact_run_count": 0,
+          "matched_words": 0,
+          "matched_pct": 0.0,
+          "longest_exact_run": 0,
+          "runs": []
+        },
+        {
+          "source_author": "Alistair Begg",
+          "source_series": "A Study in 1 Thessalonians, Volume 2",
+          "source_title": "The Coming of the Lord, Part 3",
+          "source_file": "09-thecomingofthelordpartthree.txt",
+          "source_word_count": 7571,
+          "exact_run_count": 0,
+          "matched_words": 0,
+          "matched_pct": 0.0,
+          "longest_exact_run": 0,
+          "runs": []
+        },
+        {
+          "source_author": "Alistair Begg",
+          "source_series": "A Study in 1 Thessalonians, Volume 3",
+          "source_title": "Learning to Respect Our Leadership",
+          "source_file": "01-learningtorespectourleadership.txt",
+          "source_word_count": 8444,
+          "exact_run_count": 0,
+          "matched_words": 0,
+          "matched_pct": 0.0,
+          "longest_exact_run": 0,
+          "runs": []
+        },
+        {
+          "source_author": "Alistair Begg",
+          "source_series": "A Study in 1 Thessalonians, Volume 3",
+          "source_title": "Learning to Live in Peace",
+          "source_file": "02-learningtoliveinpeace.txt",
+          "source_word_count": 7865,
+          "exact_run_count": 0,
+          "matched_words": 0,
+          "matched_pct": 0.0,
+          "longest_exact_run": 0,
+          "runs": []
+        },
+        {
+          "source_author": "Alistair Begg",
+          "source_series": "A Study in 1 Thessalonians, Volume 3",
+          "source_title": "Practicing Patience",
+          "source_file": "03-practicingpatience.txt",
+          "source_word_count": 7282,
+          "exact_run_count": 0,
+          "matched_words": 0,
+          "matched_pct": 0.0,
+          "longest_exact_run": 0,
+          "runs": []
+        },
+        {
+          "source_author": "Alistair Begg",
+          "source_series": "A Study in 1 Thessalonians, Volume 3",
+          "source_title": "Cultivating Kindness",
+          "source_file": "04-cultivatingkindness.txt",
+          "source_word_count": 4076,
+          "exact_run_count": 0,
+          "matched_words": 0,
+          "matched_pct": 0.0,
+          "longest_exact_run": 0,
+          "runs": []
+        },
+        {
+          "source_author": "Alistair Begg",
+          "source_series": "A Study in 1 Thessalonians, Volume 3",
+          "source_title": "Give Thanks",
+          "source_file": "06-givethanks.txt",
+          "source_word_count": 8423,
+          "exact_run_count": 0,
+          "matched_words": 0,
+          "matched_pct": 0.0,
+          "longest_exact_run": 0,
+          "runs": []
+        },
+        {
+          "source_author": "Alistair Begg",
+          "source_series": "A Study in 1 Thessalonians, Volume 3",
+          "source_title": "Do Not Grieve the Holy Spirit",
+          "source_file": "07-donotgrievetheholyspirit.txt",
+          "source_word_count": 7854,
+          "exact_run_count": 0,
+          "matched_words": 0,
+          "matched_pct": 0.0,
+          "longest_exact_run": 0,
+          "runs": []
+        },
+        {
+          "source_author": "Alistair Begg",
+          "source_series": "A Study in 1 Thessalonians, Volume 3",
+          "source_title": "Sanctification",
+          "source_file": "09-sanctification.txt",
+          "source_word_count": 7385,
+          "exact_run_count": 0,
+          "matched_words": 0,
+          "matched_pct": 0.0,
+          "longest_exact_run": 0,
+          "runs": []
+        },
+        {
+          "source_author": "Alistair Begg",
+          "source_series": "A Study in 1 Thessalonians, Volume 3",
+          "source_title": "The Faithfulness of God",
+          "source_file": "10-thefaithfulnessofgod.txt",
+          "source_word_count": 4727,
+          "exact_run_count": 0,
+          "matched_words": 0,
+          "matched_pct": 0.0,
+          "longest_exact_run": 0,
+          "runs": []
+        }
+      ]
+    },
+    {
+      "file": "Our_Glory_and_Joy_-_053126_U1kxopCXoNY.txt",
+      "title": "Our Glory and Joy - 053126",
+      "url": "https://www.youtube.com/watch?v=U1kxopCXoNY",
+      "upload_date": null,
+      "date_hint": null,
+      "word_count": 8699,
+      "matched_words_any_source": 572,
+      "matched_pct_any_source": 6.58,
+      "best_source": {
+        "source_author": "Alistair Begg",
+        "source_series": "A Study in 1 Thessalonians, Volume 1",
+        "source_title": "Our Glory and Joy",
+        "source_file": "07-ourgloryandjoy.txt",
+        "source_word_count": 4020,
+        "exact_run_count": 51,
+        "matched_words": 564,
+        "matched_pct": 6.48,
+        "longest_exact_run": 25
+      },
+      "exceeds_rubric": true,
+      "sources": [
+        {
+          "source_author": "Alistair Begg",
+          "source_series": "A Study in 1 Thessalonians, Volume 1",
+          "source_title": "Our Glory and Joy",
+          "source_file": "07-ourgloryandjoy.txt",
+          "source_word_count": 4020,
+          "exact_run_count": 51,
+          "matched_words": 564,
+          "matched_pct": 6.48,
+          "longest_exact_run": 25,
+          "runs": [
+            {
+              "local_start": 3700,
+              "source_start": 387,
+              "length": 25,
+              "phrase": "clear that paul was not only committed to the word of god but he was equally committed to the people of god and the pattern"
+            },
+            {
+              "local_start": 6835,
+              "source_start": 2767,
+              "length": 25,
+              "phrase": "he thinks of these dear ones who have been brought to christ under the ministry that god has given him that they represent his hope"
+            },
+            {
+              "local_start": 3416,
+              "source_start": 51,
+              "length": 24,
+              "phrase": "not in thought out of our intense longing we made every effort to see you for we wanted to come to you certainly i"
+            },
+            {
+              "local_start": 3442,
+              "source_start": 77,
+              "length": 20,
+              "phrase": "again and again but satan stopped us for what is our hope our joy or the crown in which we"
+            },
+            {
+              "local_start": 7246,
+              "source_start": 3118,
+              "length": 20,
+              "phrase": "seeing them in eternity and he says after jesus himself you my dear ones are the only prize worth having"
+            },
+            {
+              "local_start": 4524,
+              "source_start": 876,
+              "length": 19,
+              "phrase": "in verse and we know that in all things god works for the good of those who love him"
+            },
+            {
+              "local_start": 3468,
+              "source_start": 104,
+              "length": 17,
+              "phrase": "lord jesus when he comes is it not you indeed you are our glory and joy father"
+            },
+            {
+              "local_start": 3399,
+              "source_start": 35,
+              "length": 16,
+              "phrase": "verse but brothers when we were torn away from you for a short time in person"
+            },
+            {
+              "local_start": 4197,
+              "source_start": 721,
+              "length": 16,
+              "phrase": "he called you to this through our gospel that you might share in the glory of"
+            },
+            {
+              "local_start": 6228,
+              "source_start": 2448,
+              "length": 16,
+              "phrase": "intense longing we made every effort to see you verse we wanted to come to you"
+            },
+            {
+              "local_start": 5187,
+              "source_start": 1262,
+              "length": 15,
+              "phrase": "all of us shared the same predicament and all of us have been redeemed by"
+            },
+            {
+              "local_start": 7294,
+              "source_start": 3158,
+              "length": 15,
+              "phrase": "though i am free and belong to no man i make myself a slave to"
+            },
+            {
+              "local_start": 7489,
+              "source_start": 3226,
+              "length": 15,
+              "phrase": "be able to look across and see those who are your glory and your joy"
+            },
+            {
+              "local_start": 7577,
+              "source_start": 3705,
+              "length": 15,
+              "phrase": "a course that began in eternity walks through time and looks forward to the day"
+            },
+            {
+              "local_start": 5524,
+              "source_start": 1621,
+              "length": 14,
+              "phrase": "away from you physically as a result of being wrenched away from you but"
+            },
+            {
+              "local_start": 6794,
+              "source_start": 2734,
+              "length": 14,
+              "phrase": "when he comes isn't it you indeed you are our glory and our joy"
+            },
+            {
+              "local_start": 3449,
+              "source_start": 2712,
+              "length": 13,
+              "phrase": "for what is our hope our joy or the crown in which we"
+            },
+            {
+              "local_start": 6454,
+              "source_start": 2577,
+              "length": 13,
+              "phrase": "better for us to confess our ignorance than to express an unwarranted confidence"
+            },
+            {
+              "local_start": 7063,
+              "source_start": 2860,
+              "length": 13,
+              "phrase": "this is interestingly not any kind of random phrase on paul's part he"
+            },
+            {
+              "local_start": 3401,
+              "source_start": 1583,
+              "length": 12,
+              "phrase": "brothers when we were torn away from you for a short time"
+            },
+            {
+              "local_start": 4184,
+              "source_start": 709,
+              "length": 12,
+              "phrase": "the sanctifying work of the spirit and through belief in the truth"
+            },
+            {
+              "local_start": 6597,
+              "source_start": 2679,
+              "length": 12,
+              "phrase": "display of genuine affection has its source in the grace of god"
+            },
+            {
+              "local_start": 3462,
+              "source_start": 2726,
+              "length": 11,
+              "phrase": "glory in the presence of the lord jesus when he comes"
+            },
+            {
+              "local_start": 3602,
+              "source_start": 204,
+              "length": 11,
+              "phrase": "that not only had paul and silas and timothy been doing"
+            },
+            {
+              "local_start": 4127,
+              "source_start": 671,
+              "length": 11,
+              "phrase": "but we ought always to thank god for you he says"
+            },
+            {
+              "local_start": 5800,
+              "source_start": 1828,
+              "length": 11,
+              "phrase": "it speaks not only of those who have been deprived of"
+            },
+            {
+              "local_start": 4790,
+              "source_start": 1062,
+              "length": 10,
+              "phrase": "substantial because it unites those who were once faced with"
+            },
+            {
+              "local_start": 5071,
+              "source_start": 1186,
+              "length": 10,
+              "phrase": "are to have no basis in the family of god"
+            },
+            {
+              "local_start": 6403,
+              "source_start": 2538,
+              "length": 10,
+              "phrase": "four or five suggestions for you where they got them"
+            },
+            {
+              "local_start": 7344,
+              "source_start": 3196,
+              "length": 10,
+              "phrase": "your objective as a disciple of the lord jesus christ"
+            },
+            {
+              "local_start": 3422,
+              "source_start": 2448,
+              "length": 9,
+              "phrase": "intense longing we made every effort to see you"
+            },
+            {
+              "local_start": 4544,
+              "source_start": 897,
+              "length": 9,
+              "phrase": "been called according to his purpose for those god"
+            },
+            {
+              "local_start": 4779,
+              "source_start": 1001,
+              "length": 9,
+              "phrase": "genuine affection within the body of christ is not"
+            },
+            {
+              "local_start": 4780,
+              "source_start": 1051,
+              "length": 9,
+              "phrase": "affection within the body of christ is not superficial"
+            },
+            {
+              "local_start": 4814,
+              "source_start": 1118,
+              "length": 9,
+              "phrase": "who were once far away have been brought near"
+            },
+            {
+              "local_start": 5513,
+              "source_start": 1611,
+              "length": 9,
+              "phrase": "we would never be away from you indeed we"
+            },
+            {
+              "local_start": 5732,
+              "source_start": 1781,
+              "length": 9,
+              "phrase": "torn away from you we left with great reluctance"
+            },
+            {
+              "local_start": 6228,
+              "source_start": 57,
+              "length": 9,
+              "phrase": "intense longing we made every effort to see you"
+            },
+            {
+              "local_start": 6248,
+              "source_start": 2469,
+              "length": 9,
+              "phrase": "again and again i wanted to come to you"
+            },
+            {
+              "local_start": 6980,
+              "source_start": 2793,
+              "length": 9,
+              "phrase": "as he anticipates the spirit of god bringing them"
+            },
+            {
+              "local_start": 7077,
+              "source_start": 2874,
+              "length": 9,
+              "phrase": "this idea in his letters with frequency in philippians"
+            },
+            {
+              "local_start": 7479,
+              "source_start": 3216,
+              "length": 9,
+              "phrase": "so that on the day of his return you"
+            },
+            {
+              "local_start": 7609,
+              "source_start": 3733,
+              "length": 9,
+              "phrase": "have the privilege of seeing many come to christ"
+            },
+            {
+              "local_start": 4436,
+              "source_start": 845,
+              "length": 8,
+              "phrase": "the love of god for them extended back"
+            },
+            {
+              "local_start": 4563,
+              "source_start": 917,
+              "length": 8,
+              "phrase": "of his son that he might be the"
+            },
+            {
+              "local_start": 5175,
+              "source_start": 1242,
+              "length": 8,
+              "phrase": "when the family of god begins to understand"
+            },
+            {
+              "local_start": 5674,
+              "source_start": 1754,
+              "length": 8,
+              "phrase": "wonder of what it means to be placed"
+            },
+            {
+              "local_start": 5900,
+              "source_start": 1942,
+              "length": 8,
+              "phrase": "i think there are things that yet await"
+            },
+            {
+              "local_start": 6238,
+              "source_start": 67,
+              "length": 8,
+              "phrase": "we wanted to come to you certainly i"
+            },
+            {
+              "local_start": 7119,
+              "source_start": 2904,
+              "length": 8,
+              "phrase": "boast on the day of christ that i"
+            },
+            {
+              "local_start": 7233,
+              "source_start": 3107,
+              "length": 8,
+              "phrase": "an athlete anticipates a crown for victory paul"
+            }
+          ]
+        },
+        {
+          "source_author": "Alistair Begg",
+          "source_series": "A Study in 1 Thessalonians, Volume 2",
+          "source_title": "Those Who Have Hope",
+          "source_file": "06-thosewhohavehope.txt",
+          "source_word_count": 6859,
+          "exact_run_count": 1,
+          "matched_words": 8,
+          "matched_pct": 0.09,
+          "longest_exact_run": 8,
+          "runs": [
+            {
+              "local_start": 4764,
+              "source_start": 4018,
+              "length": 8,
+              "phrase": "without hope and without god in the world"
+            }
+          ]
+        },
+        {
+          "source_author": "Alistair Begg",
+          "source_series": "A Study in 1 Thessalonians, Volume 3",
+          "source_title": "Give Thanks",
+          "source_file": "06-givethanks.txt",
+          "source_word_count": 8423,
+          "exact_run_count": 2,
+          "matched_words": 8,
+          "matched_pct": 0.09,
+          "longest_exact_run": 8,
+          "runs": [
+            {
+              "local_start": 4764,
+              "source_start": 5119,
+              "length": 8,
+              "phrase": "without hope and without god in the world"
+            },
+            {
+              "local_start": 4764,
+              "source_start": 7502,
+              "length": 8,
+              "phrase": "without hope and without god in the world"
+            }
+          ]
+        },
+        {
+          "source_author": "Alistair Begg",
+          "source_series": "A Study in 1 Thessalonians, Volume 1",
+          "source_title": "Faith, Hope and Love",
+          "source_file": "01-faithhopelove.txt",
+          "source_word_count": 6371,
+          "exact_run_count": 0,
+          "matched_words": 0,
+          "matched_pct": 0.0,
+          "longest_exact_run": 0,
+          "runs": []
+        },
+        {
+          "source_author": "Alistair Begg",
+          "source_series": "A Study in 1 Thessalonians, Volume 1",
+          "source_title": "No Clever Tricks",
+          "source_file": "04-noclevertricks.txt",
+          "source_word_count": 4925,
+          "exact_run_count": 0,
+          "matched_words": 0,
+          "matched_pct": 0.0,
+          "longest_exact_run": 0,
+          "runs": []
+        },
+        {
+          "source_author": "Alistair Begg",
+          "source_series": "A Study in 1 Thessalonians, Volume 1",
+          "source_title": "Truth and Love",
+          "source_file": "05-truthandlove.txt",
+          "source_word_count": 6369,
+          "exact_run_count": 0,
+          "matched_words": 0,
+          "matched_pct": 0.0,
+          "longest_exact_run": 0,
+          "runs": []
+        },
+        {
+          "source_author": "Alistair Begg",
+          "source_series": "A Study in 1 Thessalonians, Volume 1",
+          "source_title": "God's Word... Not Man's",
+          "source_file": "06-thewordofgodnotmen.txt",
+          "source_word_count": 5820,
+          "exact_run_count": 0,
+          "matched_words": 0,
+          "matched_pct": 0.0,
+          "longest_exact_run": 0,
+          "runs": []
+        },
+        {
+          "source_author": "Alistair Begg",
+          "source_series": "A Study in 1 Thessalonians, Volume 2",
+          "source_title": "Pleasing God",
+          "source_file": "01-pleasinggod.txt",
+          "source_word_count": 4791,
+          "exact_run_count": 0,
+          "matched_words": 0,
+          "matched_pct": 0.0,
+          "longest_exact_run": 0,
+          "runs": []
+        },
+        {
+          "source_author": "Alistair Begg",
+          "source_series": "A Study in 1 Thessalonians, Volume 2",
+          "source_title": "Sexual Purity, Part 1",
+          "source_file": "02-sexualpuritypartone.txt",
+          "source_word_count": 4724,
+          "exact_run_count": 0,
+          "matched_words": 0,
+          "matched_pct": 0.0,
+          "longest_exact_run": 0,
+          "runs": []
+        },
+        {
+          "source_author": "Alistair Begg",
+          "source_series": "A Study in 1 Thessalonians, Volume 2",
+          "source_title": "Sexual Purity, Part 2",
+          "source_file": "03-sexualpurityparttwo.txt",
+          "source_word_count": 3970,
+          "exact_run_count": 0,
+          "matched_words": 0,
+          "matched_pct": 0.0,
+          "longest_exact_run": 0,
+          "runs": []
+        },
+        {
+          "source_author": "Alistair Begg",
+          "source_series": "A Study in 1 Thessalonians, Volume 2",
+          "source_title": "The Coming of the Lord, Part 1",
+          "source_file": "07-thecomingofthelordpartone.txt",
+          "source_word_count": 7740,
+          "exact_run_count": 0,
+          "matched_words": 0,
+          "matched_pct": 0.0,
+          "longest_exact_run": 0,
+          "runs": []
+        },
+        {
+          "source_author": "Alistair Begg",
+          "source_series": "A Study in 1 Thessalonians, Volume 2",
+          "source_title": "The Coming of the Lord, Part 2",
+          "source_file": "08-thecomingofthelordparttwo.txt",
+          "source_word_count": 6849,
+          "exact_run_count": 0,
+          "matched_words": 0,
+          "matched_pct": 0.0,
+          "longest_exact_run": 0,
+          "runs": []
+        },
+        {
+          "source_author": "Alistair Begg",
+          "source_series": "A Study in 1 Thessalonians, Volume 2",
+          "source_title": "The Coming of the Lord, Part 3",
+          "source_file": "09-thecomingofthelordpartthree.txt",
+          "source_word_count": 7571,
+          "exact_run_count": 0,
+          "matched_words": 0,
+          "matched_pct": 0.0,
+          "longest_exact_run": 0,
+          "runs": []
+        },
+        {
+          "source_author": "Alistair Begg",
+          "source_series": "A Study in 1 Thessalonians, Volume 3",
+          "source_title": "Learning to Respect Our Leadership",
+          "source_file": "01-learningtorespectourleadership.txt",
+          "source_word_count": 8444,
+          "exact_run_count": 0,
+          "matched_words": 0,
+          "matched_pct": 0.0,
+          "longest_exact_run": 0,
+          "runs": []
+        },
+        {
+          "source_author": "Alistair Begg",
+          "source_series": "A Study in 1 Thessalonians, Volume 3",
+          "source_title": "Learning to Live in Peace",
+          "source_file": "02-learningtoliveinpeace.txt",
+          "source_word_count": 7865,
+          "exact_run_count": 0,
+          "matched_words": 0,
+          "matched_pct": 0.0,
+          "longest_exact_run": 0,
+          "runs": []
+        },
+        {
+          "source_author": "Alistair Begg",
+          "source_series": "A Study in 1 Thessalonians, Volume 3",
+          "source_title": "Practicing Patience",
+          "source_file": "03-practicingpatience.txt",
+          "source_word_count": 7282,
+          "exact_run_count": 0,
+          "matched_words": 0,
+          "matched_pct": 0.0,
+          "longest_exact_run": 0,
+          "runs": []
+        },
+        {
+          "source_author": "Alistair Begg",
+          "source_series": "A Study in 1 Thessalonians, Volume 3",
+          "source_title": "Cultivating Kindness",
+          "source_file": "04-cultivatingkindness.txt",
+          "source_word_count": 4076,
+          "exact_run_count": 0,
+          "matched_words": 0,
+          "matched_pct": 0.0,
+          "longest_exact_run": 0,
+          "runs": []
+        },
+        {
+          "source_author": "Alistair Begg",
+          "source_series": "A Study in 1 Thessalonians, Volume 3",
+          "source_title": "Learning How to Worship",
+          "source_file": "05-learninghowtoworshipanintroduction.txt",
+          "source_word_count": 8037,
+          "exact_run_count": 0,
+          "matched_words": 0,
+          "matched_pct": 0.0,
+          "longest_exact_run": 0,
+          "runs": []
+        },
+        {
+          "source_author": "Alistair Begg",
+          "source_series": "A Study in 1 Thessalonians, Volume 3",
+          "source_title": "Do Not Grieve the Holy Spirit",
+          "source_file": "07-donotgrievetheholyspirit.txt",
+          "source_word_count": 7854,
+          "exact_run_count": 0,
+          "matched_words": 0,
+          "matched_pct": 0.0,
+          "longest_exact_run": 0,
+          "runs": []
+        },
+        {
+          "source_author": "Alistair Begg",
+          "source_series": "A Study in 1 Thessalonians, Volume 3",
+          "source_title": "Listening to the Word of God",
+          "source_file": "08-listeningtothewordofgod.txt",
+          "source_word_count": 6219,
+          "exact_run_count": 0,
+          "matched_words": 0,
+          "matched_pct": 0.0,
+          "longest_exact_run": 0,
+          "runs": []
+        },
+        {
+          "source_author": "Alistair Begg",
+          "source_series": "A Study in 1 Thessalonians, Volume 3",
+          "source_title": "Sanctification",
+          "source_file": "09-sanctification.txt",
+          "source_word_count": 7385,
+          "exact_run_count": 0,
+          "matched_words": 0,
+          "matched_pct": 0.0,
+          "longest_exact_run": 0,
+          "runs": []
+        },
+        {
+          "source_author": "Alistair Begg",
+          "source_series": "A Study in 1 Thessalonians, Volume 3",
+          "source_title": "The Faithfulness of God",
+          "source_file": "10-thefaithfulnessofgod.txt",
+          "source_word_count": 4727,
+          "exact_run_count": 0,
+          "matched_words": 0,
+          "matched_pct": 0.0,
+          "longest_exact_run": 0,
+          "runs": []
+        }
+      ]
+    },
+    {
+      "file": "Sexual_Purity_-_062826_B1H7S1-j6ag.txt",
+      "title": "Sexual Purity - 062826",
+      "url": "https://www.youtube.com/watch?v=B1H7S1-j6ag",
+      "upload_date": null,
+      "date_hint": null,
+      "word_count": 10194,
+      "matched_words_any_source": 225,
+      "matched_pct_any_source": 2.21,
+      "best_source": {
+        "source_author": "Alistair Begg",
+        "source_series": "A Study in 1 Thessalonians, Volume 2",
+        "source_title": "Sexual Purity, Part 1",
+        "source_file": "02-sexualpuritypartone.txt",
+        "source_word_count": 4724,
+        "exact_run_count": 21,
+        "matched_words": 207,
+        "matched_pct": 2.03,
+        "longest_exact_run": 25
+      },
+      "exceeds_rubric": true,
+      "sources": [
+        {
+          "source_author": "Alistair Begg",
+          "source_series": "A Study in 1 Thessalonians, Volume 2",
+          "source_title": "Sexual Purity, Part 1",
+          "source_file": "02-sexualpuritypartone.txt",
+          "source_word_count": 4724,
+          "exact_run_count": 21,
+          "matched_words": 207,
+          "matched_pct": 2.03,
+          "longest_exact_run": 25,
+          "runs": [
+            {
+              "local_start": 4780,
+              "source_start": 178,
+              "length": 25,
+              "phrase": "exist in order that he might fulfill our aspirations but we exist in order that we might live to the praise of his glory and"
+            },
+            {
+              "local_start": 8117,
+              "source_start": 1648,
+              "length": 17,
+              "phrase": "so that you will be blameless and holy in the presence of our god and father when"
+            },
+            {
+              "local_start": 3545,
+              "source_start": 1441,
+              "length": 14,
+              "phrase": "god did not call us to be impure but to live a holy life"
+            },
+            {
+              "local_start": 8663,
+              "source_start": 3933,
+              "length": 14,
+              "phrase": "what exactly do you mean by that could you give me a concrete example"
+            },
+            {
+              "local_start": 8185,
+              "source_start": 1785,
+              "length": 13,
+              "phrase": "and body be kept blameless at the coming of our lord jesus christ"
+            },
+            {
+              "local_start": 5886,
+              "source_start": 1294,
+              "length": 12,
+              "phrase": "in verse three it is god's will that you should be sanctified"
+            },
+            {
+              "local_start": 5886,
+              "source_start": 1582,
+              "length": 12,
+              "phrase": "in verse three it is god's will that you should be sanctified"
+            },
+            {
+              "local_start": 7686,
+              "source_start": 1443,
+              "length": 12,
+              "phrase": "not call us to be impure but to live a holy life"
+            },
+            {
+              "local_start": 8203,
+              "source_start": 1798,
+              "length": 12,
+              "phrase": "the one who calls you is faithful and he will do it"
+            },
+            {
+              "local_start": 3401,
+              "source_start": 52,
+              "length": 11,
+              "phrase": "we instructed you how to live in order to please god"
+            },
+            {
+              "local_start": 3401,
+              "source_start": 341,
+              "length": 11,
+              "phrase": "we instructed you how to live in order to please god"
+            },
+            {
+              "local_start": 3438,
+              "source_start": 366,
+              "length": 11,
+              "phrase": "instructions we gave you by the authority of the lord jesus"
+            },
+            {
+              "local_start": 4830,
+              "source_start": 366,
+              "length": 11,
+              "phrase": "instructions we gave you by the authority of the lord jesus"
+            },
+            {
+              "local_start": 5272,
+              "source_start": 610,
+              "length": 11,
+              "phrase": "if you think about it there are no more prominent notions"
+            },
+            {
+              "local_start": 5643,
+              "source_start": 770,
+              "length": 11,
+              "phrase": "and this temple was a standing testimony to all kinds of"
+            },
+            {
+              "local_start": 5889,
+              "source_start": 1617,
+              "length": 9,
+              "phrase": "it is god's will that you should be sanctified"
+            },
+            {
+              "local_start": 5889,
+              "source_start": 1983,
+              "length": 9,
+              "phrase": "it is god's will that you should be sanctified"
+            },
+            {
+              "local_start": 6116,
+              "source_start": 4321,
+              "length": 9,
+              "phrase": "that each of you should learn how to control"
+            },
+            {
+              "local_start": 8428,
+              "source_start": 3685,
+              "length": 8,
+              "phrase": "how can a young man keep his way"
+            },
+            {
+              "local_start": 8451,
+              "source_start": 3764,
+              "length": 8,
+              "phrase": "are just ordinary people like you and me"
+            },
+            {
+              "local_start": 8790,
+              "source_start": 3993,
+              "length": 8,
+              "phrase": "some poor creature that got mangled and you"
+            }
+          ]
+        },
+        {
+          "source_author": "Alistair Begg",
+          "source_series": "A Study in 1 Thessalonians, Volume 2",
+          "source_title": "Sexual Purity, Part 2",
+          "source_file": "03-sexualpurityparttwo.txt",
+          "source_word_count": 3970,
+          "exact_run_count": 3,
+          "matched_words": 35,
+          "matched_pct": 0.34,
+          "longest_exact_run": 14,
+          "runs": [
+            {
+              "local_start": 3545,
+              "source_start": 3018,
+              "length": 14,
+              "phrase": "god did not call us to be impure but to live a holy life"
+            },
+            {
+              "local_start": 7686,
+              "source_start": 3020,
+              "length": 12,
+              "phrase": "not call us to be impure but to live a holy life"
+            },
+            {
+              "local_start": 3487,
+              "source_start": 294,
+              "length": 9,
+              "phrase": "own body in a way that is holy and"
+            }
+          ]
+        },
+        {
+          "source_author": "Alistair Begg",
+          "source_series": "A Study in 1 Thessalonians, Volume 3",
+          "source_title": "The Faithfulness of God",
+          "source_file": "10-thefaithfulnessofgod.txt",
+          "source_word_count": 4727,
+          "exact_run_count": 6,
+          "matched_words": 35,
+          "matched_pct": 0.34,
+          "longest_exact_run": 12,
+          "runs": [
+            {
+              "local_start": 8121,
+              "source_start": 287,
+              "length": 12,
+              "phrase": "be blameless and holy in the presence of our god and father"
+            },
+            {
+              "local_start": 8203,
+              "source_start": 865,
+              "length": 12,
+              "phrase": "the one who calls you is faithful and he will do it"
+            },
+            {
+              "local_start": 8203,
+              "source_start": 992,
+              "length": 12,
+              "phrase": "the one who calls you is faithful and he will do it"
+            },
+            {
+              "local_start": 8203,
+              "source_start": 2737,
+              "length": 12,
+              "phrase": "the one who calls you is faithful and he will do it"
+            },
+            {
+              "local_start": 8203,
+              "source_start": 4311,
+              "length": 12,
+              "phrase": "the one who calls you is faithful and he will do it"
+            },
+            {
+              "local_start": 8187,
+              "source_start": 114,
+              "length": 11,
+              "phrase": "be kept blameless at the coming of our lord jesus christ"
+            }
+          ]
+        },
+        {
+          "source_author": "Alistair Begg",
+          "source_series": "A Study in 1 Thessalonians, Volume 2",
+          "source_title": "Those Who Have Hope",
+          "source_file": "06-thosewhohavehope.txt",
+          "source_word_count": 6859,
+          "exact_run_count": 1,
+          "matched_words": 11,
+          "matched_pct": 0.11,
+          "longest_exact_run": 11,
+          "runs": [
+            {
+              "local_start": 3401,
+              "source_start": 3902,
+              "length": 11,
+              "phrase": "we instructed you how to live in order to please god"
+            }
+          ]
+        },
+        {
+          "source_author": "Alistair Begg",
+          "source_series": "A Study in 1 Thessalonians, Volume 3",
+          "source_title": "Sanctification",
+          "source_file": "09-sanctification.txt",
+          "source_word_count": 7385,
+          "exact_run_count": 2,
+          "matched_words": 11,
+          "matched_pct": 0.11,
+          "longest_exact_run": 11,
+          "runs": [
+            {
+              "local_start": 8187,
+              "source_start": 2959,
+              "length": 11,
+              "phrase": "be kept blameless at the coming of our lord jesus christ"
+            },
+            {
+              "local_start": 8187,
+              "source_start": 6811,
+              "length": 11,
+              "phrase": "be kept blameless at the coming of our lord jesus christ"
+            }
+          ]
+        },
+        {
+          "source_author": "Alistair Begg",
+          "source_series": "A Study in 1 Thessalonians, Volume 1",
+          "source_title": "No Clever Tricks",
+          "source_file": "04-noclevertricks.txt",
+          "source_word_count": 4925,
+          "exact_run_count": 1,
+          "matched_words": 9,
+          "matched_pct": 0.09,
+          "longest_exact_run": 9,
+          "runs": [
+            {
+              "local_start": 3544,
+              "source_start": 2935,
+              "length": 9,
+              "phrase": "for god did not call us to be impure"
+            }
+          ]
+        },
+        {
+          "source_author": "Alistair Begg",
+          "source_series": "A Study in 1 Thessalonians, Volume 3",
+          "source_title": "Learning to Respect Our Leadership",
+          "source_file": "01-learningtorespectourleadership.txt",
+          "source_word_count": 8444,
+          "exact_run_count": 1,
+          "matched_words": 8,
+          "matched_pct": 0.08,
+          "longest_exact_run": 8,
+          "runs": [
+            {
+              "local_start": 3404,
+              "source_start": 7318,
+              "length": 8,
+              "phrase": "how to live in order to please god"
+            }
+          ]
+        },
+        {
+          "source_author": "Alistair Begg",
+          "source_series": "A Study in 1 Thessalonians, Volume 3",
+          "source_title": "Give Thanks",
+          "source_file": "06-givethanks.txt",
+          "source_word_count": 8423,
+          "exact_run_count": 1,
+          "matched_words": 8,
+          "matched_pct": 0.08,
+          "longest_exact_run": 8,
+          "runs": [
+            {
+              "local_start": 3468,
+              "source_start": 685,
+              "length": 8,
+              "phrase": "be sanctified that you should avoid sexual immorality"
+            }
+          ]
+        },
+        {
+          "source_author": "Alistair Begg",
+          "source_series": "A Study in 1 Thessalonians, Volume 1",
+          "source_title": "Faith, Hope and Love",
+          "source_file": "01-faithhopelove.txt",
+          "source_word_count": 6371,
+          "exact_run_count": 0,
+          "matched_words": 0,
+          "matched_pct": 0.0,
+          "longest_exact_run": 0,
+          "runs": []
+        },
+        {
+          "source_author": "Alistair Begg",
+          "source_series": "A Study in 1 Thessalonians, Volume 1",
+          "source_title": "Truth and Love",
+          "source_file": "05-truthandlove.txt",
+          "source_word_count": 6369,
+          "exact_run_count": 0,
+          "matched_words": 0,
+          "matched_pct": 0.0,
+          "longest_exact_run": 0,
+          "runs": []
+        },
+        {
+          "source_author": "Alistair Begg",
+          "source_series": "A Study in 1 Thessalonians, Volume 1",
+          "source_title": "God's Word... Not Man's",
+          "source_file": "06-thewordofgodnotmen.txt",
+          "source_word_count": 5820,
+          "exact_run_count": 0,
+          "matched_words": 0,
+          "matched_pct": 0.0,
+          "longest_exact_run": 0,
+          "runs": []
+        },
+        {
+          "source_author": "Alistair Begg",
+          "source_series": "A Study in 1 Thessalonians, Volume 1",
+          "source_title": "Our Glory and Joy",
+          "source_file": "07-ourgloryandjoy.txt",
+          "source_word_count": 4020,
+          "exact_run_count": 0,
+          "matched_words": 0,
+          "matched_pct": 0.0,
+          "longest_exact_run": 0,
+          "runs": []
+        },
+        {
+          "source_author": "Alistair Begg",
+          "source_series": "A Study in 1 Thessalonians, Volume 2",
+          "source_title": "Pleasing God",
+          "source_file": "01-pleasinggod.txt",
+          "source_word_count": 4791,
+          "exact_run_count": 0,
+          "matched_words": 0,
+          "matched_pct": 0.0,
+          "longest_exact_run": 0,
+          "runs": []
+        },
+        {
+          "source_author": "Alistair Begg",
+          "source_series": "A Study in 1 Thessalonians, Volume 2",
+          "source_title": "The Coming of the Lord, Part 1",
+          "source_file": "07-thecomingofthelordpartone.txt",
+          "source_word_count": 7740,
+          "exact_run_count": 0,
+          "matched_words": 0,
+          "matched_pct": 0.0,
+          "longest_exact_run": 0,
+          "runs": []
+        },
+        {
+          "source_author": "Alistair Begg",
+          "source_series": "A Study in 1 Thessalonians, Volume 2",
+          "source_title": "The Coming of the Lord, Part 2",
+          "source_file": "08-thecomingofthelordparttwo.txt",
+          "source_word_count": 6849,
+          "exact_run_count": 0,
+          "matched_words": 0,
+          "matched_pct": 0.0,
+          "longest_exact_run": 0,
+          "runs": []
+        },
+        {
+          "source_author": "Alistair Begg",
+          "source_series": "A Study in 1 Thessalonians, Volume 2",
+          "source_title": "The Coming of the Lord, Part 3",
+          "source_file": "09-thecomingofthelordpartthree.txt",
+          "source_word_count": 7571,
+          "exact_run_count": 0,
+          "matched_words": 0,
+          "matched_pct": 0.0,
+          "longest_exact_run": 0,
+          "runs": []
+        },
+        {
+          "source_author": "Alistair Begg",
+          "source_series": "A Study in 1 Thessalonians, Volume 3",
+          "source_title": "Learning to Live in Peace",
+          "source_file": "02-learningtoliveinpeace.txt",
+          "source_word_count": 7865,
+          "exact_run_count": 0,
+          "matched_words": 0,
+          "matched_pct": 0.0,
+          "longest_exact_run": 0,
+          "runs": []
+        },
+        {
+          "source_author": "Alistair Begg",
+          "source_series": "A Study in 1 Thessalonians, Volume 3",
+          "source_title": "Practicing Patience",
+          "source_file": "03-practicingpatience.txt",
+          "source_word_count": 7282,
+          "exact_run_count": 0,
+          "matched_words": 0,
+          "matched_pct": 0.0,
+          "longest_exact_run": 0,
+          "runs": []
+        },
+        {
+          "source_author": "Alistair Begg",
+          "source_series": "A Study in 1 Thessalonians, Volume 3",
+          "source_title": "Cultivating Kindness",
+          "source_file": "04-cultivatingkindness.txt",
+          "source_word_count": 4076,
+          "exact_run_count": 0,
+          "matched_words": 0,
+          "matched_pct": 0.0,
+          "longest_exact_run": 0,
+          "runs": []
+        },
+        {
+          "source_author": "Alistair Begg",
+          "source_series": "A Study in 1 Thessalonians, Volume 3",
+          "source_title": "Learning How to Worship",
+          "source_file": "05-learninghowtoworshipanintroduction.txt",
+          "source_word_count": 8037,
+          "exact_run_count": 0,
+          "matched_words": 0,
+          "matched_pct": 0.0,
+          "longest_exact_run": 0,
+          "runs": []
+        },
+        {
+          "source_author": "Alistair Begg",
+          "source_series": "A Study in 1 Thessalonians, Volume 3",
+          "source_title": "Do Not Grieve the Holy Spirit",
+          "source_file": "07-donotgrievetheholyspirit.txt",
+          "source_word_count": 7854,
+          "exact_run_count": 0,
+          "matched_words": 0,
+          "matched_pct": 0.0,
+          "longest_exact_run": 0,
+          "runs": []
+        },
+        {
+          "source_author": "Alistair Begg",
+          "source_series": "A Study in 1 Thessalonians, Volume 3",
+          "source_title": "Listening to the Word of God",
+          "source_file": "08-listeningtothewordofgod.txt",
+          "source_word_count": 6219,
+          "exact_run_count": 0,
+          "matched_words": 0,
+          "matched_pct": 0.0,
+          "longest_exact_run": 0,
+          "runs": []
+        }
+      ]
+    },
+    {
+      "file": "The_Faithfulness_of_God_-_072626_MXAy4hKNfwc.txt",
+      "title": "The Faithfulness of God - 072626",
+      "url": "https://www.youtube.com/watch?v=MXAy4hKNfwc",
+      "upload_date": null,
+      "date_hint": null,
+      "word_count": 9037,
+      "matched_words_any_source": 664,
+      "matched_pct_any_source": 7.35,
+      "best_source": {
+        "source_author": "Alistair Begg",
+        "source_series": "A Study in 1 Thessalonians, Volume 3",
+        "source_title": "The Faithfulness of God",
+        "source_file": "10-thefaithfulnessofgod.txt",
+        "source_word_count": 4727,
+        "exact_run_count": 65,
+        "matched_words": 583,
+        "matched_pct": 6.45,
+        "longest_exact_run": 19
+      },
+      "exceeds_rubric": true,
+      "sources": [
+        {
+          "source_author": "Alistair Begg",
+          "source_series": "A Study in 1 Thessalonians, Volume 3",
+          "source_title": "The Faithfulness of God",
+          "source_file": "10-thefaithfulnessofgod.txt",
+          "source_word_count": 4727,
+          "exact_run_count": 65,
+          "matched_words": 583,
+          "matched_pct": 6.45,
+          "longest_exact_run": 19,
+          "runs": [
+            {
+              "local_start": 7107,
+              "source_start": 3306,
+              "length": 19,
+              "phrase": "the only thing is you don't understand me the way god understands me and frankly it's just as well"
+            },
+            {
+              "local_start": 4531,
+              "source_start": 862,
+              "length": 17,
+              "phrase": "the answer is the one who calls you is faithful and he will do it or in"
+            },
+            {
+              "local_start": 4226,
+              "source_start": 557,
+              "length": 16,
+              "phrase": "a good work in you will bring it to completion at the day of jesus christ"
+            },
+            {
+              "local_start": 5144,
+              "source_start": 1466,
+              "length": 16,
+              "phrase": "to avoid all the evil that we plan to renounce and that's been true this week"
+            },
+            {
+              "local_start": 6935,
+              "source_start": 3237,
+              "length": 16,
+              "phrase": "justified me therefore who will lay any charge against god's elect this is the way to"
+            },
+            {
+              "local_start": 7240,
+              "source_start": 2599,
+              "length": 15,
+              "phrase": "he who did not spare his own son but gave him up for us all"
+            },
+            {
+              "local_start": 4352,
+              "source_start": 682,
+              "length": 14,
+              "phrase": "no age can change its glorious hue the robe of christ is ever new"
+            },
+            {
+              "local_start": 6624,
+              "source_start": 2390,
+              "length": 14,
+              "phrase": "what are we going to say to it what are we going to do"
+            },
+            {
+              "local_start": 7452,
+              "source_start": 3712,
+              "length": 14,
+              "phrase": "separate us from the love of christ and then he goes on to ask"
+            },
+            {
+              "local_start": 4551,
+              "source_start": 880,
+              "length": 13,
+              "phrase": "he who calls you is utterly faithful and he will finish what he"
+            },
+            {
+              "local_start": 3327,
+              "source_start": 865,
+              "length": 12,
+              "phrase": "the one who calls you is faithful and he will do it"
+            },
+            {
+              "local_start": 3327,
+              "source_start": 992,
+              "length": 12,
+              "phrase": "the one who calls you is faithful and he will do it"
+            },
+            {
+              "local_start": 3327,
+              "source_start": 2737,
+              "length": 12,
+              "phrase": "the one who calls you is faithful and he will do it"
+            },
+            {
+              "local_start": 3327,
+              "source_start": 4311,
+              "length": 12,
+              "phrase": "the one who calls you is faithful and he will do it"
+            },
+            {
+              "local_start": 4534,
+              "source_start": 992,
+              "length": 12,
+              "phrase": "the one who calls you is faithful and he will do it"
+            },
+            {
+              "local_start": 4534,
+              "source_start": 2737,
+              "length": 12,
+              "phrase": "the one who calls you is faithful and he will do it"
+            },
+            {
+              "local_start": 4534,
+              "source_start": 4311,
+              "length": 12,
+              "phrase": "the one who calls you is faithful and he will do it"
+            },
+            {
+              "local_start": 5131,
+              "source_start": 1453,
+              "length": 12,
+              "phrase": "never fully achieve the good that we hope for and we never"
+            },
+            {
+              "local_start": 7467,
+              "source_start": 3730,
+              "length": 12,
+              "phrase": "trouble or hardship or persecution or famine or nakedness or danger or"
+            },
+            {
+              "local_start": 3316,
+              "source_start": 114,
+              "length": 11,
+              "phrase": "be kept blameless at the coming of our lord jesus christ"
+            },
+            {
+              "local_start": 3842,
+              "source_start": 114,
+              "length": 11,
+              "phrase": "be kept blameless at the coming of our lord jesus christ"
+            },
+            {
+              "local_start": 4505,
+              "source_start": 829,
+              "length": 11,
+              "phrase": "all believers in every generation how could it possibly be that"
+            },
+            {
+              "local_start": 4633,
+              "source_start": 1629,
+              "length": 11,
+              "phrase": "believer who truly trusts in christ has made a commitment to"
+            },
+            {
+              "local_start": 4867,
+              "source_start": 1195,
+              "length": 11,
+              "phrase": "we were helpless and then in the goodness of god we"
+            },
+            {
+              "local_start": 5902,
+              "source_start": 1906,
+              "length": 11,
+              "phrase": "by the memory of a moral lapse the christian whose integrity"
+            },
+            {
+              "local_start": 5946,
+              "source_start": 1946,
+              "length": 11,
+              "phrase": "burdened by the death of someone he feels should have lived"
+            },
+            {
+              "local_start": 7256,
+              "source_start": 2616,
+              "length": 11,
+              "phrase": "he not also along with him graciously give us all things"
+            },
+            {
+              "local_start": 7628,
+              "source_start": 114,
+              "length": 11,
+              "phrase": "be kept blameless at the coming of our lord jesus christ"
+            },
+            {
+              "local_start": 4259,
+              "source_start": 592,
+              "length": 10,
+              "phrase": "bold shall i stand in that great day for who"
+            },
+            {
+              "local_start": 4472,
+              "source_start": 797,
+              "length": 10,
+              "phrase": "will that be me and that brings us to the"
+            },
+            {
+              "local_start": 5586,
+              "source_start": 1782,
+              "length": 10,
+              "phrase": "total onslaught of hell against the life of a christian"
+            },
+            {
+              "local_start": 6487,
+              "source_start": 2307,
+              "length": 10,
+              "phrase": "himself to uphold us and to protect us from all"
+            },
+            {
+              "local_start": 6900,
+              "source_start": 3208,
+              "length": 10,
+              "phrase": "and the answer is god does know that about me"
+            },
+            {
+              "local_start": 4282,
+              "source_start": 618,
+              "length": 9,
+              "phrase": "from sin and fear from guilt and shame and"
+            },
+            {
+              "local_start": 4384,
+              "source_start": 718,
+              "length": 9,
+              "phrase": "we will stand blameless before him in eternity now"
+            },
+            {
+              "local_start": 4490,
+              "source_start": 814,
+              "length": 9,
+              "phrase": "provided for us the promise by which he assures"
+            },
+            {
+              "local_start": 4846,
+              "source_start": 1176,
+              "length": 9,
+              "phrase": "and two and into the first half of chapter"
+            },
+            {
+              "local_start": 5208,
+              "source_start": 1513,
+              "length": 9,
+              "phrase": "and therefore i find myself in the midst of"
+            },
+            {
+              "local_start": 5241,
+              "source_start": 1551,
+              "length": 9,
+              "phrase": "i am who will rescue me from this body"
+            },
+            {
+              "local_start": 6023,
+              "source_start": 2070,
+              "length": 9,
+              "phrase": "the foundation of my house and the answer is"
+            },
+            {
+              "local_start": 6453,
+              "source_start": 2285,
+              "length": 9,
+              "phrase": "of the evil one take this and take it"
+            },
+            {
+              "local_start": 6522,
+              "source_start": 2333,
+              "length": 9,
+              "phrase": "will last and then finally to bring us blameless"
+            },
+            {
+              "local_start": 6697,
+              "source_start": 2950,
+              "length": 9,
+              "phrase": "can alter his decision god decided to justify you"
+            },
+            {
+              "local_start": 7091,
+              "source_start": 3290,
+              "length": 9,
+              "phrase": "don't understand me i'm a lot better than that"
+            },
+            {
+              "local_start": 7126,
+              "source_start": 3330,
+              "length": 9,
+              "phrase": "because if you understood me to the depth that"
+            },
+            {
+              "local_start": 3373,
+              "source_start": 3657,
+              "length": 8,
+              "phrase": "consider god's faithfulness expressed in the love of"
+            },
+            {
+              "local_start": 3386,
+              "source_start": 3657,
+              "length": 8,
+              "phrase": "consider god's faithfulness expressed in the love of"
+            },
+            {
+              "local_start": 3415,
+              "source_start": 3681,
+              "length": 8,
+              "phrase": "in light of the provision of his son"
+            },
+            {
+              "local_start": 3885,
+              "source_start": 166,
+              "length": 8,
+              "phrase": "striking in its impact archaeologists and historians have"
+            },
+            {
+              "local_start": 4450,
+              "source_start": 772,
+              "length": 8,
+              "phrase": "i can understand that about so and so"
+            },
+            {
+              "local_start": 4572,
+              "source_start": 908,
+              "length": 8,
+              "phrase": "god is not the author of unfinished business"
+            },
+            {
+              "local_start": 4939,
+              "source_start": 1270,
+              "length": 8,
+              "phrase": "who raised jesus our lord from the dead"
+            },
+            {
+              "local_start": 4948,
+              "source_start": 1280,
+              "length": 8,
+              "phrase": "delivered over to death for our sins and"
+            },
+            {
+              "local_start": 5413,
+              "source_start": 1586,
+              "length": 8,
+              "phrase": "no condemnation for those who are in christ"
+            },
+            {
+              "local_start": 5915,
+              "source_start": 1919,
+              "length": 8,
+              "phrase": "him a friend or a job the christian"
+            },
+            {
+              "local_start": 5958,
+              "source_start": 1987,
+              "length": 8,
+              "phrase": "we do no service to the new testament"
+            },
+            {
+              "local_start": 6578,
+              "source_start": 2366,
+              "length": 8,
+              "phrase": "some of us are buffeted by fear others"
+            },
+            {
+              "local_start": 6796,
+              "source_start": 3049,
+              "length": 8,
+              "phrase": "been chosen by god no one will come"
+            },
+            {
+              "local_start": 7136,
+              "source_start": 3340,
+              "length": 8,
+              "phrase": "does you'd never talk to me again but"
+            },
+            {
+              "local_start": 7174,
+              "source_start": 3373,
+              "length": 8,
+              "phrase": "been settled at calvary long ago don't allow"
+            },
+            {
+              "local_start": 7443,
+              "source_start": 3703,
+              "length": 8,
+              "phrase": "expressed in the love of christ verse who"
+            },
+            {
+              "local_start": 7639,
+              "source_start": 865,
+              "length": 8,
+              "phrase": "the one who calls you is faithful and"
+            },
+            {
+              "local_start": 7639,
+              "source_start": 992,
+              "length": 8,
+              "phrase": "the one who calls you is faithful and"
+            },
+            {
+              "local_start": 7639,
+              "source_start": 2737,
+              "length": 8,
+              "phrase": "the one who calls you is faithful and"
+            },
+            {
+              "local_start": 7639,
+              "source_start": 4311,
+              "length": 8,
+              "phrase": "the one who calls you is faithful and"
+            }
+          ]
+        },
+        {
+          "source_author": "Alistair Begg",
+          "source_series": "A Study in 1 Thessalonians, Volume 2",
+          "source_title": "Sexual Purity, Part 1",
+          "source_file": "02-sexualpuritypartone.txt",
+          "source_word_count": 4724,
+          "exact_run_count": 7,
+          "matched_words": 133,
+          "matched_pct": 1.47,
+          "longest_exact_run": 42,
+          "runs": [
+            {
+              "local_start": 3297,
+              "source_start": 1768,
+              "length": 42,
+              "phrase": "may god himself the god of peace sanctify you through and through may your whole spirit soul and body be kept blameless at the coming of our lord jesus christ the one who calls you is faithful and he will do it"
+            },
+            {
+              "local_start": 7617,
+              "source_start": 1776,
+              "length": 30,
+              "phrase": "you through and through may your whole spirit soul and body be kept blameless at the coming of our lord jesus christ the one who calls you is faithful and"
+            },
+            {
+              "local_start": 3835,
+              "source_start": 1780,
+              "length": 18,
+              "phrase": "may your whole spirit soul and body be kept blameless at the coming of our lord jesus christ"
+            },
+            {
+              "local_start": 3793,
+              "source_start": 1768,
+              "length": 12,
+              "phrase": "may god himself the god of peace sanctify you through and through"
+            },
+            {
+              "local_start": 4534,
+              "source_start": 1798,
+              "length": 12,
+              "phrase": "the one who calls you is faithful and he will do it"
+            },
+            {
+              "local_start": 4122,
+              "source_start": 3108,
+              "length": 11,
+              "phrase": "be like him for we will see him as he is"
+            },
+            {
+              "local_start": 7608,
+              "source_start": 1768,
+              "length": 8,
+              "phrase": "may god himself the god of peace sanctify"
+            }
+          ]
+        },
+        {
+          "source_author": "Alistair Begg",
+          "source_series": "A Study in 1 Thessalonians, Volume 3",
+          "source_title": "Sanctification",
+          "source_file": "09-sanctification.txt",
+          "source_word_count": 7385,
+          "exact_run_count": 7,
+          "matched_words": 41,
+          "matched_pct": 0.45,
+          "longest_exact_run": 11,
+          "runs": [
+            {
+              "local_start": 3316,
+              "source_start": 2959,
+              "length": 11,
+              "phrase": "be kept blameless at the coming of our lord jesus christ"
+            },
+            {
+              "local_start": 3316,
+              "source_start": 6811,
+              "length": 11,
+              "phrase": "be kept blameless at the coming of our lord jesus christ"
+            },
+            {
+              "local_start": 3842,
+              "source_start": 2959,
+              "length": 11,
+              "phrase": "be kept blameless at the coming of our lord jesus christ"
+            },
+            {
+              "local_start": 3842,
+              "source_start": 6811,
+              "length": 11,
+              "phrase": "be kept blameless at the coming of our lord jesus christ"
+            },
+            {
+              "local_start": 7628,
+              "source_start": 2959,
+              "length": 11,
+              "phrase": "be kept blameless at the coming of our lord jesus christ"
+            },
+            {
+              "local_start": 7628,
+              "source_start": 6811,
+              "length": 11,
+              "phrase": "be kept blameless at the coming of our lord jesus christ"
+            },
+            {
+              "local_start": 3518,
+              "source_start": 387,
+              "length": 8,
+              "phrase": "for this is god's will for you in"
+            }
+          ]
+        },
+        {
+          "source_author": "Alistair Begg",
+          "source_series": "A Study in 1 Thessalonians, Volume 3",
+          "source_title": "Learning to Live in Peace",
+          "source_file": "02-learningtoliveinpeace.txt",
+          "source_word_count": 7865,
+          "exact_run_count": 1,
+          "matched_words": 13,
+          "matched_pct": 0.14,
+          "longest_exact_run": 13,
+          "runs": [
+            {
+              "local_start": 3513,
+              "source_start": 128,
+              "length": 13,
+              "phrase": "give thanks in all circumstances for this is god's will for you in"
+            }
+          ]
+        },
+        {
+          "source_author": "Alistair Begg",
+          "source_series": "A Study in 1 Thessalonians, Volume 3",
+          "source_title": "Learning How to Worship",
+          "source_file": "05-learninghowtoworshipanintroduction.txt",
+          "source_word_count": 8037,
+          "exact_run_count": 1,
+          "matched_words": 13,
+          "matched_pct": 0.14,
+          "longest_exact_run": 13,
+          "runs": [
+            {
+              "local_start": 3513,
+              "source_start": 31,
+              "length": 13,
+              "phrase": "give thanks in all circumstances for this is god's will for you in"
+            }
+          ]
+        },
+        {
+          "source_author": "Alistair Begg",
+          "source_series": "A Study in 1 Thessalonians, Volume 3",
+          "source_title": "Give Thanks",
+          "source_file": "06-givethanks.txt",
+          "source_word_count": 8423,
+          "exact_run_count": 3,
+          "matched_words": 13,
+          "matched_pct": 0.14,
+          "longest_exact_run": 13,
+          "runs": [
+            {
+              "local_start": 3513,
+              "source_start": 170,
+              "length": 13,
+              "phrase": "give thanks in all circumstances for this is god's will for you in"
+            },
+            {
+              "local_start": 3518,
+              "source_start": 802,
+              "length": 8,
+              "phrase": "for this is god's will for you in"
+            },
+            {
+              "local_start": 3518,
+              "source_start": 1135,
+              "length": 8,
+              "phrase": "for this is god's will for you in"
+            }
+          ]
+        },
+        {
+          "source_author": "Alistair Begg",
+          "source_series": "A Study in 1 Thessalonians, Volume 3",
+          "source_title": "Do Not Grieve the Holy Spirit",
+          "source_file": "07-donotgrievetheholyspirit.txt",
+          "source_word_count": 7854,
+          "exact_run_count": 1,
+          "matched_words": 13,
+          "matched_pct": 0.14,
+          "longest_exact_run": 13,
+          "runs": [
+            {
+              "local_start": 3513,
+              "source_start": 153,
+              "length": 13,
+              "phrase": "give thanks in all circumstances for this is god's will for you in"
+            }
+          ]
+        },
+        {
+          "source_author": "Alistair Begg",
+          "source_series": "A Study in 1 Thessalonians, Volume 1",
+          "source_title": "Faith, Hope and Love",
+          "source_file": "01-faithhopelove.txt",
+          "source_word_count": 6371,
+          "exact_run_count": 0,
+          "matched_words": 0,
+          "matched_pct": 0.0,
+          "longest_exact_run": 0,
+          "runs": []
+        },
+        {
+          "source_author": "Alistair Begg",
+          "source_series": "A Study in 1 Thessalonians, Volume 1",
+          "source_title": "No Clever Tricks",
+          "source_file": "04-noclevertricks.txt",
+          "source_word_count": 4925,
+          "exact_run_count": 0,
+          "matched_words": 0,
+          "matched_pct": 0.0,
+          "longest_exact_run": 0,
+          "runs": []
+        },
+        {
+          "source_author": "Alistair Begg",
+          "source_series": "A Study in 1 Thessalonians, Volume 1",
+          "source_title": "Truth and Love",
+          "source_file": "05-truthandlove.txt",
+          "source_word_count": 6369,
+          "exact_run_count": 0,
+          "matched_words": 0,
+          "matched_pct": 0.0,
+          "longest_exact_run": 0,
+          "runs": []
+        },
+        {
+          "source_author": "Alistair Begg",
+          "source_series": "A Study in 1 Thessalonians, Volume 1",
+          "source_title": "God's Word... Not Man's",
+          "source_file": "06-thewordofgodnotmen.txt",
+          "source_word_count": 5820,
+          "exact_run_count": 0,
+          "matched_words": 0,
+          "matched_pct": 0.0,
+          "longest_exact_run": 0,
+          "runs": []
+        },
+        {
+          "source_author": "Alistair Begg",
+          "source_series": "A Study in 1 Thessalonians, Volume 1",
+          "source_title": "Our Glory and Joy",
+          "source_file": "07-ourgloryandjoy.txt",
+          "source_word_count": 4020,
+          "exact_run_count": 0,
+          "matched_words": 0,
+          "matched_pct": 0.0,
+          "longest_exact_run": 0,
+          "runs": []
+        },
+        {
+          "source_author": "Alistair Begg",
+          "source_series": "A Study in 1 Thessalonians, Volume 2",
+          "source_title": "Pleasing God",
+          "source_file": "01-pleasinggod.txt",
+          "source_word_count": 4791,
+          "exact_run_count": 0,
+          "matched_words": 0,
+          "matched_pct": 0.0,
+          "longest_exact_run": 0,
+          "runs": []
+        },
+        {
+          "source_author": "Alistair Begg",
+          "source_series": "A Study in 1 Thessalonians, Volume 2",
+          "source_title": "Sexual Purity, Part 2",
+          "source_file": "03-sexualpurityparttwo.txt",
+          "source_word_count": 3970,
+          "exact_run_count": 0,
+          "matched_words": 0,
+          "matched_pct": 0.0,
+          "longest_exact_run": 0,
+          "runs": []
+        },
+        {
+          "source_author": "Alistair Begg",
+          "source_series": "A Study in 1 Thessalonians, Volume 2",
+          "source_title": "Those Who Have Hope",
+          "source_file": "06-thosewhohavehope.txt",
+          "source_word_count": 6859,
+          "exact_run_count": 0,
+          "matched_words": 0,
+          "matched_pct": 0.0,
+          "longest_exact_run": 0,
+          "runs": []
+        },
+        {
+          "source_author": "Alistair Begg",
+          "source_series": "A Study in 1 Thessalonians, Volume 2",
+          "source_title": "The Coming of the Lord, Part 1",
+          "source_file": "07-thecomingofthelordpartone.txt",
+          "source_word_count": 7740,
+          "exact_run_count": 0,
+          "matched_words": 0,
+          "matched_pct": 0.0,
+          "longest_exact_run": 0,
+          "runs": []
+        },
+        {
+          "source_author": "Alistair Begg",
+          "source_series": "A Study in 1 Thessalonians, Volume 2",
+          "source_title": "The Coming of the Lord, Part 2",
+          "source_file": "08-thecomingofthelordparttwo.txt",
+          "source_word_count": 6849,
+          "exact_run_count": 0,
+          "matched_words": 0,
+          "matched_pct": 0.0,
+          "longest_exact_run": 0,
+          "runs": []
+        },
+        {
+          "source_author": "Alistair Begg",
+          "source_series": "A Study in 1 Thessalonians, Volume 2",
+          "source_title": "The Coming of the Lord, Part 3",
+          "source_file": "09-thecomingofthelordpartthree.txt",
+          "source_word_count": 7571,
+          "exact_run_count": 0,
+          "matched_words": 0,
+          "matched_pct": 0.0,
+          "longest_exact_run": 0,
+          "runs": []
+        },
+        {
+          "source_author": "Alistair Begg",
+          "source_series": "A Study in 1 Thessalonians, Volume 3",
+          "source_title": "Learning to Respect Our Leadership",
+          "source_file": "01-learningtorespectourleadership.txt",
+          "source_word_count": 8444,
+          "exact_run_count": 0,
+          "matched_words": 0,
+          "matched_pct": 0.0,
+          "longest_exact_run": 0,
+          "runs": []
+        },
+        {
+          "source_author": "Alistair Begg",
+          "source_series": "A Study in 1 Thessalonians, Volume 3",
+          "source_title": "Practicing Patience",
+          "source_file": "03-practicingpatience.txt",
+          "source_word_count": 7282,
+          "exact_run_count": 0,
+          "matched_words": 0,
+          "matched_pct": 0.0,
+          "longest_exact_run": 0,
+          "runs": []
+        },
+        {
+          "source_author": "Alistair Begg",
+          "source_series": "A Study in 1 Thessalonians, Volume 3",
+          "source_title": "Cultivating Kindness",
+          "source_file": "04-cultivatingkindness.txt",
+          "source_word_count": 4076,
+          "exact_run_count": 0,
+          "matched_words": 0,
+          "matched_pct": 0.0,
+          "longest_exact_run": 0,
+          "runs": []
+        },
+        {
+          "source_author": "Alistair Begg",
+          "source_series": "A Study in 1 Thessalonians, Volume 3",
+          "source_title": "Listening to the Word of God",
+          "source_file": "08-listeningtothewordofgod.txt",
+          "source_word_count": 6219,
+          "exact_run_count": 0,
+          "matched_words": 0,
+          "matched_pct": 0.0,
+          "longest_exact_run": 0,
+          "runs": []
+        }
+      ]
+    },
+    {
+      "file": "The_Walk_of_Influence_-_071926_EuKaZ_afxRo.txt",
+      "title": "The Walk of Influence - 071926",
+      "url": "https://www.youtube.com/watch?v=EuKaZ_afxRo",
+      "upload_date": null,
+      "date_hint": null,
+      "word_count": 9528,
+      "matched_words_any_source": 50,
+      "matched_pct_any_source": 0.52,
+      "best_source": {
+        "source_author": "Alistair Begg",
+        "source_series": "A Study in 1 Thessalonians, Volume 3",
+        "source_title": "Learning to Live in Peace",
+        "source_file": "02-learningtoliveinpeace.txt",
+        "source_word_count": 7865,
+        "exact_run_count": 4,
+        "matched_words": 38,
+        "matched_pct": 0.4,
+        "longest_exact_run": 10
+      },
+      "exceeds_rubric": false,
+      "sources": [
+        {
+          "source_author": "Alistair Begg",
+          "source_series": "A Study in 1 Thessalonians, Volume 3",
+          "source_title": "Learning to Live in Peace",
+          "source_file": "02-learningtoliveinpeace.txt",
+          "source_word_count": 7865,
+          "exact_run_count": 4,
+          "matched_words": 38,
+          "matched_pct": 0.4,
+          "longest_exact_run": 10,
+          "runs": [
+            {
+              "local_start": 4267,
+              "source_start": 70,
+              "length": 10,
+              "phrase": "in love because of their work live in peace with"
+            },
+            {
+              "local_start": 4560,
+              "source_start": 70,
+              "length": 10,
+              "phrase": "in love because of their work live in peace with"
+            },
+            {
+              "local_start": 6141,
+              "source_start": 133,
+              "length": 10,
+              "phrase": "for this is god's will for you in christ jesus"
+            },
+            {
+              "local_start": 4332,
+              "source_start": 133,
+              "length": 8,
+              "phrase": "for this is god's will for you in"
+            }
+          ]
+        },
+        {
+          "source_author": "Alistair Begg",
+          "source_series": "A Study in 1 Thessalonians, Volume 3",
+          "source_title": "Do Not Grieve the Holy Spirit",
+          "source_file": "07-donotgrievetheholyspirit.txt",
+          "source_word_count": 7854,
+          "exact_run_count": 4,
+          "matched_words": 38,
+          "matched_pct": 0.4,
+          "longest_exact_run": 10,
+          "runs": [
+            {
+              "local_start": 4267,
+              "source_start": 94,
+              "length": 10,
+              "phrase": "in love because of their work live in peace with"
+            },
+            {
+              "local_start": 4560,
+              "source_start": 94,
+              "length": 10,
+              "phrase": "in love because of their work live in peace with"
+            },
+            {
+              "local_start": 6141,
+              "source_start": 158,
+              "length": 10,
+              "phrase": "for this is god's will for you in christ jesus"
+            },
+            {
+              "local_start": 4332,
+              "source_start": 158,
+              "length": 8,
+              "phrase": "for this is god's will for you in"
+            }
+          ]
+        },
+        {
+          "source_author": "Alistair Begg",
+          "source_series": "A Study in 1 Thessalonians, Volume 3",
+          "source_title": "Give Thanks",
+          "source_file": "06-givethanks.txt",
+          "source_word_count": 8423,
+          "exact_run_count": 8,
+          "matched_words": 26,
+          "matched_pct": 0.27,
+          "longest_exact_run": 10,
+          "runs": [
+            {
+              "local_start": 6141,
+              "source_start": 175,
+              "length": 10,
+              "phrase": "for this is god's will for you in christ jesus"
+            },
+            {
+              "local_start": 6141,
+              "source_start": 802,
+              "length": 10,
+              "phrase": "for this is god's will for you in christ jesus"
+            },
+            {
+              "local_start": 6141,
+              "source_start": 1135,
+              "length": 10,
+              "phrase": "for this is god's will for you in christ jesus"
+            },
+            {
+              "local_start": 6142,
+              "source_start": 622,
+              "length": 9,
+              "phrase": "this is god's will for you in christ jesus"
+            },
+            {
+              "local_start": 4332,
+              "source_start": 175,
+              "length": 8,
+              "phrase": "for this is god's will for you in"
+            },
+            {
+              "local_start": 4332,
+              "source_start": 802,
+              "length": 8,
+              "phrase": "for this is god's will for you in"
+            },
+            {
+              "local_start": 4332,
+              "source_start": 1135,
+              "length": 8,
+              "phrase": "for this is god's will for you in"
+            },
+            {
+              "local_start": 6963,
+              "source_start": 1733,
+              "length": 8,
+              "phrase": "this is the will of god for you"
+            }
+          ]
+        },
+        {
+          "source_author": "Alistair Begg",
+          "source_series": "A Study in 1 Thessalonians, Volume 3",
+          "source_title": "Sanctification",
+          "source_file": "09-sanctification.txt",
+          "source_word_count": 7385,
+          "exact_run_count": 2,
+          "matched_words": 22,
+          "matched_pct": 0.23,
+          "longest_exact_run": 12,
+          "runs": [
+            {
+              "local_start": 6139,
+              "source_start": 385,
+              "length": 12,
+              "phrase": "give thanks for this is god's will for you in christ jesus"
+            },
+            {
+              "local_start": 4330,
+              "source_start": 385,
+              "length": 10,
+              "phrase": "give thanks for this is god's will for you in"
+            }
+          ]
+        },
+        {
+          "source_author": "Alistair Begg",
+          "source_series": "A Study in 1 Thessalonians, Volume 3",
+          "source_title": "Learning How to Worship",
+          "source_file": "05-learninghowtoworshipanintroduction.txt",
+          "source_word_count": 8037,
+          "exact_run_count": 2,
+          "matched_words": 18,
+          "matched_pct": 0.19,
+          "longest_exact_run": 10,
+          "runs": [
+            {
+              "local_start": 6141,
+              "source_start": 36,
+              "length": 10,
+              "phrase": "for this is god's will for you in christ jesus"
+            },
+            {
+              "local_start": 4332,
+              "source_start": 36,
+              "length": 8,
+              "phrase": "for this is god's will for you in"
+            }
+          ]
+        },
+        {
+          "source_author": "Alistair Begg",
+          "source_series": "A Study in 1 Thessalonians, Volume 1",
+          "source_title": "Faith, Hope and Love",
+          "source_file": "01-faithhopelove.txt",
+          "source_word_count": 6371,
+          "exact_run_count": 0,
+          "matched_words": 0,
+          "matched_pct": 0.0,
+          "longest_exact_run": 0,
+          "runs": []
+        },
+        {
+          "source_author": "Alistair Begg",
+          "source_series": "A Study in 1 Thessalonians, Volume 1",
+          "source_title": "No Clever Tricks",
+          "source_file": "04-noclevertricks.txt",
+          "source_word_count": 4925,
+          "exact_run_count": 0,
+          "matched_words": 0,
+          "matched_pct": 0.0,
+          "longest_exact_run": 0,
+          "runs": []
+        },
+        {
+          "source_author": "Alistair Begg",
+          "source_series": "A Study in 1 Thessalonians, Volume 1",
+          "source_title": "Truth and Love",
+          "source_file": "05-truthandlove.txt",
+          "source_word_count": 6369,
+          "exact_run_count": 0,
+          "matched_words": 0,
+          "matched_pct": 0.0,
+          "longest_exact_run": 0,
+          "runs": []
+        },
+        {
+          "source_author": "Alistair Begg",
+          "source_series": "A Study in 1 Thessalonians, Volume 1",
+          "source_title": "God's Word... Not Man's",
+          "source_file": "06-thewordofgodnotmen.txt",
+          "source_word_count": 5820,
+          "exact_run_count": 0,
+          "matched_words": 0,
+          "matched_pct": 0.0,
+          "longest_exact_run": 0,
+          "runs": []
+        },
+        {
+          "source_author": "Alistair Begg",
+          "source_series": "A Study in 1 Thessalonians, Volume 1",
+          "source_title": "Our Glory and Joy",
+          "source_file": "07-ourgloryandjoy.txt",
+          "source_word_count": 4020,
+          "exact_run_count": 0,
+          "matched_words": 0,
+          "matched_pct": 0.0,
+          "longest_exact_run": 0,
+          "runs": []
+        },
+        {
+          "source_author": "Alistair Begg",
+          "source_series": "A Study in 1 Thessalonians, Volume 2",
+          "source_title": "Pleasing God",
+          "source_file": "01-pleasinggod.txt",
+          "source_word_count": 4791,
+          "exact_run_count": 0,
+          "matched_words": 0,
+          "matched_pct": 0.0,
+          "longest_exact_run": 0,
+          "runs": []
+        },
+        {
+          "source_author": "Alistair Begg",
+          "source_series": "A Study in 1 Thessalonians, Volume 2",
+          "source_title": "Sexual Purity, Part 1",
+          "source_file": "02-sexualpuritypartone.txt",
+          "source_word_count": 4724,
+          "exact_run_count": 0,
+          "matched_words": 0,
+          "matched_pct": 0.0,
+          "longest_exact_run": 0,
+          "runs": []
+        },
+        {
+          "source_author": "Alistair Begg",
+          "source_series": "A Study in 1 Thessalonians, Volume 2",
+          "source_title": "Sexual Purity, Part 2",
+          "source_file": "03-sexualpurityparttwo.txt",
+          "source_word_count": 3970,
+          "exact_run_count": 0,
+          "matched_words": 0,
+          "matched_pct": 0.0,
+          "longest_exact_run": 0,
+          "runs": []
+        },
+        {
+          "source_author": "Alistair Begg",
+          "source_series": "A Study in 1 Thessalonians, Volume 2",
+          "source_title": "Those Who Have Hope",
+          "source_file": "06-thosewhohavehope.txt",
+          "source_word_count": 6859,
+          "exact_run_count": 0,
+          "matched_words": 0,
+          "matched_pct": 0.0,
+          "longest_exact_run": 0,
+          "runs": []
+        },
+        {
+          "source_author": "Alistair Begg",
+          "source_series": "A Study in 1 Thessalonians, Volume 2",
+          "source_title": "The Coming of the Lord, Part 1",
+          "source_file": "07-thecomingofthelordpartone.txt",
+          "source_word_count": 7740,
+          "exact_run_count": 0,
+          "matched_words": 0,
+          "matched_pct": 0.0,
+          "longest_exact_run": 0,
+          "runs": []
+        },
+        {
+          "source_author": "Alistair Begg",
+          "source_series": "A Study in 1 Thessalonians, Volume 2",
+          "source_title": "The Coming of the Lord, Part 2",
+          "source_file": "08-thecomingofthelordparttwo.txt",
+          "source_word_count": 6849,
+          "exact_run_count": 0,
+          "matched_words": 0,
+          "matched_pct": 0.0,
+          "longest_exact_run": 0,
+          "runs": []
+        },
+        {
+          "source_author": "Alistair Begg",
+          "source_series": "A Study in 1 Thessalonians, Volume 2",
+          "source_title": "The Coming of the Lord, Part 3",
+          "source_file": "09-thecomingofthelordpartthree.txt",
+          "source_word_count": 7571,
+          "exact_run_count": 0,
+          "matched_words": 0,
+          "matched_pct": 0.0,
+          "longest_exact_run": 0,
+          "runs": []
+        },
+        {
+          "source_author": "Alistair Begg",
+          "source_series": "A Study in 1 Thessalonians, Volume 3",
+          "source_title": "Learning to Respect Our Leadership",
+          "source_file": "01-learningtorespectourleadership.txt",
+          "source_word_count": 8444,
+          "exact_run_count": 0,
+          "matched_words": 0,
+          "matched_pct": 0.0,
+          "longest_exact_run": 0,
+          "runs": []
+        },
+        {
+          "source_author": "Alistair Begg",
+          "source_series": "A Study in 1 Thessalonians, Volume 3",
+          "source_title": "Practicing Patience",
+          "source_file": "03-practicingpatience.txt",
+          "source_word_count": 7282,
+          "exact_run_count": 0,
+          "matched_words": 0,
+          "matched_pct": 0.0,
+          "longest_exact_run": 0,
+          "runs": []
+        },
+        {
+          "source_author": "Alistair Begg",
+          "source_series": "A Study in 1 Thessalonians, Volume 3",
+          "source_title": "Cultivating Kindness",
+          "source_file": "04-cultivatingkindness.txt",
+          "source_word_count": 4076,
+          "exact_run_count": 0,
+          "matched_words": 0,
+          "matched_pct": 0.0,
+          "longest_exact_run": 0,
+          "runs": []
+        },
+        {
+          "source_author": "Alistair Begg",
+          "source_series": "A Study in 1 Thessalonians, Volume 3",
+          "source_title": "Listening to the Word of God",
+          "source_file": "08-listeningtothewordofgod.txt",
+          "source_word_count": 6219,
+          "exact_run_count": 0,
+          "matched_words": 0,
+          "matched_pct": 0.0,
+          "longest_exact_run": 0,
+          "runs": []
+        },
+        {
+          "source_author": "Alistair Begg",
+          "source_series": "A Study in 1 Thessalonians, Volume 3",
+          "source_title": "The Faithfulness of God",
+          "source_file": "10-thefaithfulnessofgod.txt",
+          "source_word_count": 4727,
+          "exact_run_count": 0,
+          "matched_words": 0,
+          "matched_pct": 0.0,
+          "longest_exact_run": 0,
+          "runs": []
+        }
+      ]
+    },
+    {
+      "file": "Your_True_Identity_-_071226_T-_Xdtb-Ync.txt",
+      "title": "Your True Identity - 071226",
+      "url": "https://www.youtube.com/watch?v=T-_Xdtb-Ync",
+      "upload_date": null,
+      "date_hint": null,
+      "word_count": 9706,
+      "matched_words_any_source": 98,
+      "matched_pct_any_source": 1.01,
+      "best_source": {
+        "source_author": "Alistair Begg",
+        "source_series": "A Study in 1 Thessalonians, Volume 2",
+        "source_title": "The Coming of the Lord, Part 1",
+        "source_file": "07-thecomingofthelordpartone.txt",
+        "source_word_count": 7740,
+        "exact_run_count": 8,
+        "matched_words": 79,
+        "matched_pct": 0.81,
+        "longest_exact_run": 17
+      },
+      "exceeds_rubric": false,
+      "sources": [
+        {
+          "source_author": "Alistair Begg",
+          "source_series": "A Study in 1 Thessalonians, Volume 2",
+          "source_title": "The Coming of the Lord, Part 1",
+          "source_file": "07-thecomingofthelordpartone.txt",
+          "source_word_count": 7740,
+          "exact_run_count": 8,
+          "matched_words": 79,
+          "matched_pct": 0.81,
+          "longest_exact_run": 17,
+          "runs": [
+            {
+              "local_start": 4734,
+              "source_start": 4881,
+              "length": 17,
+              "phrase": "will be caught up together with them in the clouds to meet the lord in the air"
+            },
+            {
+              "local_start": 4735,
+              "source_start": 5898,
+              "length": 16,
+              "phrase": "be caught up together with them in the clouds to meet the lord in the air"
+            },
+            {
+              "local_start": 5003,
+              "source_start": 2926,
+              "length": 15,
+              "phrase": "well that the day of the lord will come like a thief in the night"
+            },
+            {
+              "local_start": 5608,
+              "source_start": 2928,
+              "length": 13,
+              "phrase": "the day of the lord will come like a thief in the night"
+            },
+            {
+              "local_start": 4306,
+              "source_start": 2926,
+              "length": 9,
+              "phrase": "well that the day of the lord will come"
+            },
+            {
+              "local_start": 5245,
+              "source_start": 2926,
+              "length": 9,
+              "phrase": "well that the day of the lord will come"
+            },
+            {
+              "local_start": 4517,
+              "source_start": 2927,
+              "length": 8,
+              "phrase": "that the day of the lord will come"
+            },
+            {
+              "local_start": 4640,
+              "source_start": 3702,
+              "length": 8,
+              "phrase": "that the dead in christ will rise first"
+            }
+          ]
+        },
+        {
+          "source_author": "Alistair Begg",
+          "source_series": "A Study in 1 Thessalonians, Volume 2",
+          "source_title": "The Coming of the Lord, Part 2",
+          "source_file": "08-thecomingofthelordparttwo.txt",
+          "source_word_count": 6849,
+          "exact_run_count": 10,
+          "matched_words": 54,
+          "matched_pct": 0.56,
+          "longest_exact_run": 15,
+          "runs": [
+            {
+              "local_start": 5003,
+              "source_start": 1960,
+              "length": 15,
+              "phrase": "well that the day of the lord will come like a thief in the night"
+            },
+            {
+              "local_start": 5003,
+              "source_start": 2695,
+              "length": 15,
+              "phrase": "well that the day of the lord will come like a thief in the night"
+            },
+            {
+              "local_start": 5608,
+              "source_start": 1962,
+              "length": 13,
+              "phrase": "the day of the lord will come like a thief in the night"
+            },
+            {
+              "local_start": 5608,
+              "source_start": 2697,
+              "length": 13,
+              "phrase": "the day of the lord will come like a thief in the night"
+            },
+            {
+              "local_start": 4306,
+              "source_start": 1960,
+              "length": 9,
+              "phrase": "well that the day of the lord will come"
+            },
+            {
+              "local_start": 4306,
+              "source_start": 2695,
+              "length": 9,
+              "phrase": "well that the day of the lord will come"
+            },
+            {
+              "local_start": 5245,
+              "source_start": 1960,
+              "length": 9,
+              "phrase": "well that the day of the lord will come"
+            },
+            {
+              "local_start": 5245,
+              "source_start": 2695,
+              "length": 9,
+              "phrase": "well that the day of the lord will come"
+            },
+            {
+              "local_start": 4517,
+              "source_start": 1961,
+              "length": 8,
+              "phrase": "that the day of the lord will come"
+            },
+            {
+              "local_start": 4517,
+              "source_start": 2696,
+              "length": 8,
+              "phrase": "that the day of the lord will come"
+            }
+          ]
+        },
+        {
+          "source_author": "Alistair Begg",
+          "source_series": "A Study in 1 Thessalonians, Volume 2",
+          "source_title": "Those Who Have Hope",
+          "source_file": "06-thosewhohavehope.txt",
+          "source_word_count": 6859,
+          "exact_run_count": 1,
+          "matched_words": 20,
+          "matched_pct": 0.21,
+          "longest_exact_run": 20,
+          "runs": [
+            {
+              "local_start": 4734,
+              "source_start": 164,
+              "length": 20,
+              "phrase": "will be caught up together with them in the clouds to meet the lord in the air and so we"
+            }
+          ]
+        },
+        {
+          "source_author": "Alistair Begg",
+          "source_series": "A Study in 1 Thessalonians, Volume 2",
+          "source_title": "The Coming of the Lord, Part 3",
+          "source_file": "09-thecomingofthelordpartthree.txt",
+          "source_word_count": 7571,
+          "exact_run_count": 2,
+          "matched_words": 16,
+          "matched_pct": 0.16,
+          "longest_exact_run": 8,
+          "runs": [
+            {
+              "local_start": 4490,
+              "source_start": 6980,
+              "length": 8,
+              "phrase": "encourage one another and build one another up"
+            },
+            {
+              "local_start": 7541,
+              "source_start": 6980,
+              "length": 8,
+              "phrase": "encourage one another and build one another up"
+            }
+          ]
+        },
+        {
+          "source_author": "Alistair Begg",
+          "source_series": "A Study in 1 Thessalonians, Volume 1",
+          "source_title": "Faith, Hope and Love",
+          "source_file": "01-faithhopelove.txt",
+          "source_word_count": 6371,
+          "exact_run_count": 0,
+          "matched_words": 0,
+          "matched_pct": 0.0,
+          "longest_exact_run": 0,
+          "runs": []
+        },
+        {
+          "source_author": "Alistair Begg",
+          "source_series": "A Study in 1 Thessalonians, Volume 1",
+          "source_title": "No Clever Tricks",
+          "source_file": "04-noclevertricks.txt",
+          "source_word_count": 4925,
+          "exact_run_count": 0,
+          "matched_words": 0,
+          "matched_pct": 0.0,
+          "longest_exact_run": 0,
+          "runs": []
+        },
+        {
+          "source_author": "Alistair Begg",
+          "source_series": "A Study in 1 Thessalonians, Volume 1",
+          "source_title": "Truth and Love",
+          "source_file": "05-truthandlove.txt",
+          "source_word_count": 6369,
+          "exact_run_count": 0,
+          "matched_words": 0,
+          "matched_pct": 0.0,
+          "longest_exact_run": 0,
+          "runs": []
+        },
+        {
+          "source_author": "Alistair Begg",
+          "source_series": "A Study in 1 Thessalonians, Volume 1",
+          "source_title": "God's Word... Not Man's",
+          "source_file": "06-thewordofgodnotmen.txt",
+          "source_word_count": 5820,
+          "exact_run_count": 0,
+          "matched_words": 0,
+          "matched_pct": 0.0,
+          "longest_exact_run": 0,
+          "runs": []
+        },
+        {
+          "source_author": "Alistair Begg",
+          "source_series": "A Study in 1 Thessalonians, Volume 1",
+          "source_title": "Our Glory and Joy",
+          "source_file": "07-ourgloryandjoy.txt",
+          "source_word_count": 4020,
+          "exact_run_count": 0,
+          "matched_words": 0,
+          "matched_pct": 0.0,
+          "longest_exact_run": 0,
+          "runs": []
+        },
+        {
+          "source_author": "Alistair Begg",
+          "source_series": "A Study in 1 Thessalonians, Volume 2",
+          "source_title": "Pleasing God",
+          "source_file": "01-pleasinggod.txt",
+          "source_word_count": 4791,
+          "exact_run_count": 0,
+          "matched_words": 0,
+          "matched_pct": 0.0,
+          "longest_exact_run": 0,
+          "runs": []
+        },
+        {
+          "source_author": "Alistair Begg",
+          "source_series": "A Study in 1 Thessalonians, Volume 2",
+          "source_title": "Sexual Purity, Part 1",
+          "source_file": "02-sexualpuritypartone.txt",
+          "source_word_count": 4724,
+          "exact_run_count": 0,
+          "matched_words": 0,
+          "matched_pct": 0.0,
+          "longest_exact_run": 0,
+          "runs": []
+        },
+        {
+          "source_author": "Alistair Begg",
+          "source_series": "A Study in 1 Thessalonians, Volume 2",
+          "source_title": "Sexual Purity, Part 2",
+          "source_file": "03-sexualpurityparttwo.txt",
+          "source_word_count": 3970,
+          "exact_run_count": 0,
+          "matched_words": 0,
+          "matched_pct": 0.0,
+          "longest_exact_run": 0,
+          "runs": []
+        },
+        {
+          "source_author": "Alistair Begg",
+          "source_series": "A Study in 1 Thessalonians, Volume 3",
+          "source_title": "Learning to Respect Our Leadership",
+          "source_file": "01-learningtorespectourleadership.txt",
+          "source_word_count": 8444,
+          "exact_run_count": 0,
+          "matched_words": 0,
+          "matched_pct": 0.0,
+          "longest_exact_run": 0,
+          "runs": []
+        },
+        {
+          "source_author": "Alistair Begg",
+          "source_series": "A Study in 1 Thessalonians, Volume 3",
+          "source_title": "Learning to Live in Peace",
+          "source_file": "02-learningtoliveinpeace.txt",
+          "source_word_count": 7865,
+          "exact_run_count": 0,
+          "matched_words": 0,
+          "matched_pct": 0.0,
+          "longest_exact_run": 0,
+          "runs": []
+        },
+        {
+          "source_author": "Alistair Begg",
+          "source_series": "A Study in 1 Thessalonians, Volume 3",
+          "source_title": "Practicing Patience",
+          "source_file": "03-practicingpatience.txt",
+          "source_word_count": 7282,
+          "exact_run_count": 0,
+          "matched_words": 0,
+          "matched_pct": 0.0,
+          "longest_exact_run": 0,
+          "runs": []
+        },
+        {
+          "source_author": "Alistair Begg",
+          "source_series": "A Study in 1 Thessalonians, Volume 3",
+          "source_title": "Cultivating Kindness",
+          "source_file": "04-cultivatingkindness.txt",
+          "source_word_count": 4076,
+          "exact_run_count": 0,
+          "matched_words": 0,
+          "matched_pct": 0.0,
+          "longest_exact_run": 0,
+          "runs": []
+        },
+        {
+          "source_author": "Alistair Begg",
+          "source_series": "A Study in 1 Thessalonians, Volume 3",
+          "source_title": "Learning How to Worship",
+          "source_file": "05-learninghowtoworshipanintroduction.txt",
+          "source_word_count": 8037,
+          "exact_run_count": 0,
+          "matched_words": 0,
+          "matched_pct": 0.0,
+          "longest_exact_run": 0,
+          "runs": []
+        },
+        {
+          "source_author": "Alistair Begg",
+          "source_series": "A Study in 1 Thessalonians, Volume 3",
+          "source_title": "Give Thanks",
+          "source_file": "06-givethanks.txt",
+          "source_word_count": 8423,
+          "exact_run_count": 0,
+          "matched_words": 0,
+          "matched_pct": 0.0,
+          "longest_exact_run": 0,
+          "runs": []
+        },
+        {
+          "source_author": "Alistair Begg",
+          "source_series": "A Study in 1 Thessalonians, Volume 3",
+          "source_title": "Do Not Grieve the Holy Spirit",
+          "source_file": "07-donotgrievetheholyspirit.txt",
+          "source_word_count": 7854,
+          "exact_run_count": 0,
+          "matched_words": 0,
+          "matched_pct": 0.0,
+          "longest_exact_run": 0,
+          "runs": []
+        },
+        {
+          "source_author": "Alistair Begg",
+          "source_series": "A Study in 1 Thessalonians, Volume 3",
+          "source_title": "Listening to the Word of God",
+          "source_file": "08-listeningtothewordofgod.txt",
+          "source_word_count": 6219,
+          "exact_run_count": 0,
+          "matched_words": 0,
+          "matched_pct": 0.0,
+          "longest_exact_run": 0,
+          "runs": []
+        },
+        {
+          "source_author": "Alistair Begg",
+          "source_series": "A Study in 1 Thessalonians, Volume 3",
+          "source_title": "Sanctification",
+          "source_file": "09-sanctification.txt",
+          "source_word_count": 7385,
+          "exact_run_count": 0,
+          "matched_words": 0,
+          "matched_pct": 0.0,
+          "longest_exact_run": 0,
+          "runs": []
+        },
+        {
+          "source_author": "Alistair Begg",
+          "source_series": "A Study in 1 Thessalonians, Volume 3",
+          "source_title": "The Faithfulness of God",
+          "source_file": "10-thefaithfulnessofgod.txt",
+          "source_word_count": 4727,
+          "exact_run_count": 0,
+          "matched_words": 0,
+          "matched_pct": 0.0,
+          "longest_exact_run": 0,
+          "runs": []
+        }
+      ]
+    }
+  ],
+  "top_passages": [
+    {
+      "local_start": 3297,
+      "source_start": 1768,
+      "length": 42,
+      "phrase": "may god himself the god of peace sanctify you through and through may your whole spirit soul and body be kept blameless at the coming of our lord jesus christ the one who calls you is faithful and he will do it",
+      "sermon_title": "The Faithfulness of God - 072626",
+      "sermon_file": "The_Faithfulness_of_God_-_072626_MXAy4hKNfwc.txt",
+      "source_author": "Alistair Begg",
+      "source_title": "Sexual Purity, Part 1",
+      "source_series": "A Study in 1 Thessalonians, Volume 2",
+      "source_file": "02-sexualpuritypartone.txt"
+    },
+    {
+      "local_start": 7950,
+      "source_start": 4149,
+      "length": 31,
+      "phrase": "i do not even judge myself my conscience is clear but that doesn't make me innocent it is the lord who judges me therefore judge nothing before the appointed time wait",
+      "sermon_title": "No Clever Tricks - 051026",
+      "sermon_file": "No_Clever_Tricks_-_051026_j9oaoRg6kZ8.txt",
+      "source_author": "Alistair Begg",
+      "source_title": "No Clever Tricks",
+      "source_series": "A Study in 1 Thessalonians, Volume 1",
+      "source_file": "04-noclevertricks.txt"
+    },
+    {
+      "local_start": 7617,
+      "source_start": 1776,
+      "length": 30,
+      "phrase": "you through and through may your whole spirit soul and body be kept blameless at the coming of our lord jesus christ the one who calls you is faithful and",
+      "sermon_title": "The Faithfulness of God - 072626",
+      "sermon_file": "The_Faithfulness_of_God_-_072626_MXAy4hKNfwc.txt",
+      "source_author": "Alistair Begg",
+      "source_title": "Sexual Purity, Part 1",
+      "source_series": "A Study in 1 Thessalonians, Volume 2",
+      "source_file": "02-sexualpuritypartone.txt"
+    },
+    {
+      "local_start": 10098,
+      "source_start": 3850,
+      "length": 26,
+      "phrase": "what advantage then is there in being a jew or what value is there in circumcision and we might expect him to say absolutely none but",
+      "sermon_title": "God's Word...Not Man's - 052426",
+      "sermon_file": "God_s_Word...Not_Man_s_-_052426_UA--g_npTNA.txt",
+      "source_author": "Alistair Begg",
+      "source_title": "God's Word... Not Man's",
+      "source_series": "A Study in 1 Thessalonians, Volume 1",
+      "source_file": "06-thewordofgodnotmen.txt"
+    },
+    {
+      "local_start": 3700,
+      "source_start": 387,
+      "length": 25,
+      "phrase": "clear that paul was not only committed to the word of god but he was equally committed to the people of god and the pattern",
+      "sermon_title": "Our Glory and Joy - 053126",
+      "sermon_file": "Our_Glory_and_Joy_-_053126_U1kxopCXoNY.txt",
+      "source_author": "Alistair Begg",
+      "source_title": "Our Glory and Joy",
+      "source_series": "A Study in 1 Thessalonians, Volume 1",
+      "source_file": "07-ourgloryandjoy.txt"
+    },
+    {
+      "local_start": 6835,
+      "source_start": 2767,
+      "length": 25,
+      "phrase": "he thinks of these dear ones who have been brought to christ under the ministry that god has given him that they represent his hope",
+      "sermon_title": "Our Glory and Joy - 053126",
+      "sermon_file": "Our_Glory_and_Joy_-_053126_U1kxopCXoNY.txt",
+      "source_author": "Alistair Begg",
+      "source_title": "Our Glory and Joy",
+      "source_series": "A Study in 1 Thessalonians, Volume 1",
+      "source_file": "07-ourgloryandjoy.txt"
+    },
+    {
+      "local_start": 4780,
+      "source_start": 178,
+      "length": 25,
+      "phrase": "exist in order that he might fulfill our aspirations but we exist in order that we might live to the praise of his glory and",
+      "sermon_title": "Sexual Purity - 062826",
+      "sermon_file": "Sexual_Purity_-_062826_B1H7S1-j6ag.txt",
+      "source_author": "Alistair Begg",
+      "source_title": "Sexual Purity, Part 1",
+      "source_series": "A Study in 1 Thessalonians, Volume 2",
+      "source_file": "02-sexualpuritypartone.txt"
+    },
+    {
+      "local_start": 5266,
+      "source_start": 271,
+      "length": 24,
+      "phrase": "and we also thank god continually because when you receive the word of god which you heard from us you accepted it not as",
+      "sermon_title": "God's Word...Not Man's - 052426",
+      "sermon_file": "God_s_Word...Not_Man_s_-_052426_UA--g_npTNA.txt",
+      "source_author": "Alistair Begg",
+      "source_title": "God's Word... Not Man's",
+      "source_series": "A Study in 1 Thessalonians, Volume 1",
+      "source_file": "06-thewordofgodnotmen.txt"
+    },
+    {
+      "local_start": 3416,
+      "source_start": 51,
+      "length": 24,
+      "phrase": "not in thought out of our intense longing we made every effort to see you for we wanted to come to you certainly i",
+      "sermon_title": "Our Glory and Joy - 053126",
+      "sermon_file": "Our_Glory_and_Joy_-_053126_U1kxopCXoNY.txt",
+      "source_author": "Alistair Begg",
+      "source_title": "Our Glory and Joy",
+      "source_series": "A Study in 1 Thessalonians, Volume 1",
+      "source_file": "07-ourgloryandjoy.txt"
+    },
+    {
+      "local_start": 6080,
+      "source_start": 722,
+      "length": 23,
+      "phrase": "paul could preach with certainty and power for he had the profound conviction that what he said was not of man's devising but",
+      "sermon_title": "God's Word...Not Man's - 052426",
+      "sermon_file": "God_s_Word...Not_Man_s_-_052426_UA--g_npTNA.txt",
+      "source_author": "Alistair Begg",
+      "source_title": "God's Word... Not Man's",
+      "source_series": "A Study in 1 Thessalonians, Volume 1",
+      "source_file": "06-thewordofgodnotmen.txt"
+    },
+    {
+      "local_start": 5383,
+      "source_start": 3318,
+      "length": 22,
+      "phrase": "in this way they always heap up their sins to the limit the wrath of god has come upon them at last",
+      "sermon_title": "God's Word...Not Man's - 052426",
+      "sermon_file": "God_s_Word...Not_Man_s_-_052426_UA--g_npTNA.txt",
+      "source_author": "Alistair Begg",
+      "source_title": "God's Word... Not Man's",
+      "source_series": "A Study in 1 Thessalonians, Volume 1",
+      "source_file": "06-thewordofgodnotmen.txt"
+    },
+    {
+      "local_start": 10267,
+      "source_start": 4034,
+      "length": 22,
+      "phrase": "wish that i myself were cursed and cut off from christ for the sake of my brothers those of my own race",
+      "sermon_title": "God's Word...Not Man's - 052426",
+      "sermon_file": "God_s_Word...Not_Man_s_-_052426_UA--g_npTNA.txt",
+      "source_author": "Alistair Begg",
+      "source_title": "God's Word... Not Man's",
+      "source_series": "A Study in 1 Thessalonians, Volume 1",
+      "source_file": "06-thewordofgodnotmen.txt"
+    }
+  ]
+}

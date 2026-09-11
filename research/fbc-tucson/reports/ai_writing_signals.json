@@ -1,0 +1,148 @@
+{
+  "church_slug": "fbc-tucson",
+  "pastor": null,
+  "generated_at": "2026-09-11",
+  "sermon_count": 9,
+  "sermons": [
+    {
+      "file": "Big_Mess_8-1-2026_rI2h_cc-Kj4.txt",
+      "title": "Big Mess 8-1-2026",
+      "word_count": 3364,
+      "ai_phrase_rate": 0.59,
+      "disfluency_rate": 12.78,
+      "connective_rate": 0.0,
+      "list_scaffold_rate": 0.0,
+      "personal_rate": 0.59,
+      "mattr": 0.3263
+    },
+    {
+      "file": "Faith_Hope_and_Love_-_041926_pgy_YF3x3gE.txt",
+      "title": "Faith, Hope and Love - 041926",
+      "word_count": 10180,
+      "ai_phrase_rate": 0.2,
+      "disfluency_rate": 14.44,
+      "connective_rate": 0.2,
+      "list_scaffold_rate": 0.2,
+      "personal_rate": 0.39,
+      "mattr": 0.4232
+    },
+    {
+      "file": "God_s_Word...Not_Man_s_-_052426_UA--g_npTNA.txt",
+      "title": "God's Word...Not Man's - 052426",
+      "word_count": 11715,
+      "ai_phrase_rate": 0.6,
+      "disfluency_rate": 11.95,
+      "connective_rate": 0.09,
+      "list_scaffold_rate": 0.09,
+      "personal_rate": 2.13,
+      "mattr": 0.4
+    },
+    {
+      "file": "No_Clever_Tricks_-_051026_j9oaoRg6kZ8.txt",
+      "title": "No Clever Tricks - 051026",
+      "word_count": 10026,
+      "ai_phrase_rate": 0.7,
+      "disfluency_rate": 17.16,
+      "connective_rate": 0.1,
+      "list_scaffold_rate": 0.0,
+      "personal_rate": 1.5,
+      "mattr": 0.4216
+    },
+    {
+      "file": "Our_Glory_and_Joy_-_053126_U1kxopCXoNY.txt",
+      "title": "Our Glory and Joy - 053126",
+      "word_count": 8699,
+      "ai_phrase_rate": 0.69,
+      "disfluency_rate": 24.37,
+      "connective_rate": 0.34,
+      "list_scaffold_rate": 0.23,
+      "personal_rate": 0.8,
+      "mattr": 0.4109
+    },
+    {
+      "file": "Sexual_Purity_-_062826_B1H7S1-j6ag.txt",
+      "title": "Sexual Purity - 062826",
+      "word_count": 10194,
+      "ai_phrase_rate": 0.69,
+      "disfluency_rate": 13.44,
+      "connective_rate": 0.29,
+      "list_scaffold_rate": 0.1,
+      "personal_rate": 0.49,
+      "mattr": 0.4214
+    },
+    {
+      "file": "The_Faithfulness_of_God_-_072626_MXAy4hKNfwc.txt",
+      "title": "The Faithfulness of God - 072626",
+      "word_count": 9037,
+      "ai_phrase_rate": 1.0,
+      "disfluency_rate": 10.62,
+      "connective_rate": 0.55,
+      "list_scaffold_rate": 0.55,
+      "personal_rate": 0.22,
+      "mattr": 0.4139
+    },
+    {
+      "file": "The_Walk_of_Influence_-_071926_EuKaZ_afxRo.txt",
+      "title": "The Walk of Influence - 071926",
+      "word_count": 9528,
+      "ai_phrase_rate": 0.84,
+      "disfluency_rate": 24.77,
+      "connective_rate": 0.21,
+      "list_scaffold_rate": 0.0,
+      "personal_rate": 0.21,
+      "mattr": 0.3894
+    },
+    {
+      "file": "Your_True_Identity_-_071226_T-_Xdtb-Ync.txt",
+      "title": "Your True Identity - 071226",
+      "word_count": 9706,
+      "ai_phrase_rate": 0.62,
+      "disfluency_rate": 12.57,
+      "connective_rate": 0.31,
+      "list_scaffold_rate": 0.0,
+      "personal_rate": 0.62,
+      "mattr": 0.4015
+    }
+  ],
+  "corpus": {
+    "ai_phrase_rate": {
+      "mean": 0.659,
+      "stdev": 0.204,
+      "min": 0.2,
+      "max": 1.0
+    },
+    "disfluency_rate": {
+      "mean": 15.789,
+      "stdev": 4.993,
+      "min": 10.62,
+      "max": 24.77
+    },
+    "connective_rate": {
+      "mean": 0.232,
+      "stdev": 0.155,
+      "min": 0.0,
+      "max": 0.55
+    },
+    "list_scaffold_rate": {
+      "mean": 0.13,
+      "stdev": 0.17,
+      "min": 0.0,
+      "max": 0.55
+    },
+    "personal_rate": {
+      "mean": 0.772,
+      "stdev": 0.603,
+      "min": 0.21,
+      "max": 2.13
+    },
+    "mattr": {
+      "mean": 0.401,
+      "stdev": 0.029,
+      "min": 0.3263,
+      "max": 0.4232
+    }
+  },
+  "baseline": null,
+  "shift_signals": [],
+  "suggested_outcome": "inconclusive - signals only; no baseline supplied"
+}
