@@ -1,0 +1,24 @@
+{
+  "name": "tucson-sermon-integrity",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Evidence-first sermon integrity research and public review site.",
+  "scripts": {
+    "convex:dev": "convex dev",
+    "convex:check": "convex dev --once",
+    "test": "vitest run"
+  },
+  "dependencies": {
+    "convex": "^1.45.0"
+  },
+  "devDependencies": {
+    "@edge-runtime/vm": "^5.0.0",
+    "convex-test": "^0.0.57",
+    "typescript": "^5.9.2",
+    "vite": "^8.3.0",
+    "vitest": "^5.0.0"
+  },
+  "engines": {
+    "node": ">=22"
+  }
+}

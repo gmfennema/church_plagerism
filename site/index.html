@@ -3,9 +3,10 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Tucson Sermon Integrity Map</title>
-<meta name="description" content="A map of Protestant churches in Tucson, Arizona showing which preaching pastors have been reviewed for sermon plagiarism and AI-written sermons, with downloadable evidence reports.">
+<title>Tucson Sermon Review</title>
+<meta name="description" content="Evidence-first reviews of public sermons from Protestant churches in Tucson, Arizona, covering unattributed text reuse and AI-writing indicators.">
 <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Ccircle cx='16' cy='16' r='13' fill='%232e9a5d'/%3E%3Ccircle cx='16' cy='16' r='5' fill='white'/%3E%3C/svg%3E">
+<link rel="alternate" type="text/markdown" href="agent-api.md" title="Research agent API documentation">
 <link rel="stylesheet" href="vendor/leaflet/leaflet.css">
 <link rel="stylesheet" href="styles.css">
 </head>
@@ -15,8 +16,8 @@
     <div class="brand">
       <span class="brand-mark" aria-hidden="true"></span>
       <div>
-        <h1>Tucson Sermon Integrity Map</h1>
-        <p class="tagline">Protestant churches in the Tucson area and whether their preaching has been reviewed for plagiarism or AI-written sermons.</p>
+        <h1>Tucson Sermon Review</h1>
+        <p class="tagline">Public evidence reviews for unattributed text reuse and AI-writing indicators.</p>
       </div>
     </div>
     <div class="topbar-stats" id="stats" aria-live="polite"></div>
@@ -26,21 +27,21 @@
   <section class="about" id="about" hidden>
     <div class="about-inner">
       <div>
-        <h2>What the colours mean</h2>
+        <h2>How to read a finding</h2>
         <ul class="legend-list">
-          <li><span class="dot status-flagged"></span><strong>Flagged</strong> - evidence meeting the project rubric that a preaching pastor delivered another preacher's material without credit, or that sermons show converging signs of AI generation.</li>
-          <li><span class="dot status-cleared"></span><strong>Cleared</strong> - every preaching pastor was reviewed against likely sources and no meaningful signal was found.</li>
-          <li><span class="dot status-partial"></span><strong>Partially reviewed</strong> - some pastors reviewed or a result was inconclusive (for example captions disabled).</li>
-          <li><span class="dot status-in_progress"></span><strong>In progress</strong> - a review is under way.</li>
-          <li><span class="dot status-unchecked"></span><strong>Not yet reviewed</strong> - listed, but nobody has looked.</li>
+          <li><span class="dot status-flagged"></span><strong>Evidence threshold met</strong> — the published evidence meets the project rubric. Read the excerpts and limitations before drawing a conclusion.</li>
+          <li><span class="dot status-cleared"></span><strong>No concern found</strong> — the review met the required coverage and did not find a meaningful signal.</li>
+          <li><span class="dot status-partial"></span><strong>Inconclusive</strong> — something was reviewed, but the evidence is not sufficient either way.</li>
+          <li><span class="dot status-in_progress"></span><strong>Review underway</strong> — research is active but nothing has been published.</li>
+          <li><span class="dot status-unchecked"></span><strong>Not reviewed</strong> — the church is in the directory, but no finding is available.</li>
         </ul>
-        <p class="muted">A dashed ring means the map position is approximate.</p>
+        <p class="muted">Outcome and confidence are separate. “Inconclusive” does not mean “probably concerning.” A dashed map ring means the location is approximate.</p>
       </div>
       <div>
         <h2>How reviews work</h2>
-        <p>Sermon transcripts are pulled from the church's public YouTube channel and compared word-for-word against suspected sources (Alistair Begg, Tim Keller, John Piper, and others). Exact runs of eight or more words are counted, Scripture quotations are set aside, and the longest passages are read in context. A second pass looks for stylometric signs of machine-written text, which is a weaker signal and is only flagged with corroboration.</p>
+        <p>Public sermon transcripts are compared word-for-word against suspected sources. Exact runs of eight or more words are counted, Scripture and liturgy are set aside, and the longest passages are read in context. A separate review looks for changes in writing style; AI-writing indicators are only published as concerning when a same-preacher baseline and corroborating evidence exist.</p>
         <p>Each finding carries a confidence level and a downloadable report so anyone can check the work. This is an evidence review, not a verdict. Corrections are welcome through the project repository.</p>
-        <p><a id="repo-link" href="https://github.com/gmfennema/church_plagerism" rel="noopener">Project repository and methodology</a></p>
+        <p><a href="agent-api.md">Research agent API</a> · <a href="submission.schema.json">Submission schema</a> · <a id="repo-link" href="https://github.com/gmfennema/church_plagerism" rel="noopener">Project repository and methodology</a></p>
       </div>
     </div>
   </section>
@@ -67,6 +68,7 @@
   </main>
 </div>
 <template id="tpl-empty"><li class="empty">No churches match these filters.</li></template>
+<script src="config.js"></script>
 <script src="vendor/leaflet/leaflet.js"></script>
 <script src="app.js"></script>
 </body>

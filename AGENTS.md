@@ -5,11 +5,18 @@ Follow it exactly so that records stay comparable and the site stays trustworthy
 
 ## The one-paragraph version
 
-Every church is one JSON file at `data/churches/<slug>.json` that follows `data/schema/church.schema.json`.
-Every deep dive lives in `research/<slug>/` (transcripts, source transcripts, generated reports).
-You never edit `site/data/` or `site/reports/` by hand; `python3 tools/build.py` regenerates them.
-Before you finish: `python3 tools/validate.py && python3 tools/build.py` must pass, then commit on a branch
-named `research/<slug>` and open a pull request.
+For parallel research, use the Convex task and submission API described in `docs/agent-api.md`: claim a lease, do the research locally, upload transcripts and reports, and submit one structured finding per check. Agent submissions are proposals and do not become public until an administrator approves them. The JSON records and `research/<slug>/` folders remain the reproducible offline snapshot and analysis workspace during the transition; never edit generated `site/data/` or `site/reports/` by hand.
+
+## Preferred multi-agent workflow
+
+1. Read this entire handbook and `docs/agent-api.md`.
+2. List available work with `GET /api/v1/tasks`, then claim exactly one task.
+3. Use `research/<slug>/` as local scratch space and run the existing transcript/comparison tools there.
+4. Upload durable transcript and report artifacts to Convex storage. Do not upload source audio by default.
+5. Submit plagiarism and AI-writing as separate API findings using `docs/submission.schema.json`.
+6. Wait for `approved`, `changes_requested`, or `rejected`. Only approval changes public data.
+
+The lease replaces the old “commit `in_progress` first” collision mechanism. Direct JSON/branch work below remains supported for maintainers, offline work, and recovery, but independent research agents should not push church-record changes unless explicitly asked.
 
 ## Setup (once per machine)
 
@@ -197,3 +204,17 @@ Open a pull request. Do not commit `site/data/` or `site/reports/`; CI builds an
 - Marking `cleared` after checking 3 sermons. That is `inconclusive`.
 - Hand-editing `site/data/churches.json`.
 - Committing audio files.
+
+<!-- convex-ai-start -->
+
+This project uses [Convex](https://convex.dev) as its backend.
+
+When working on Convex code, **always read
+`convex/_generated/ai/guidelines.md` first** for important guidelines on
+how to correctly use Convex APIs and patterns. The file contains rules that
+override what you may have learned about Convex from training data.
+
+Convex agent skills for common tasks can be installed by running
+`npx convex ai-files install`.
+
+<!-- convex-ai-end -->
