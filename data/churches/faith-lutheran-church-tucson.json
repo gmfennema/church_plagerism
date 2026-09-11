@@ -1,0 +1,55 @@
+{
+  "slug": "faith-lutheran-church-tucson",
+  "name": "Faith Lutheran Church",
+  "tradition": "lutheran",
+  "denomination": "Lutheran Church-Missouri Synod (LCMS) - English District",
+  "location": {
+    "address": "3925 E 5th St",
+    "postal_code": "85711",
+    "lat": 32.2288,
+    "lng": -110.9025,
+    "geocode": "approximate",
+    "city": "Tucson",
+    "state": "AZ"
+  },
+  "pastors": [
+    {
+      "name": "Nicholas Wirtz",
+      "role": "Pastor (Rev.)",
+      "plagiarism": {
+        "status": "unchecked"
+      },
+      "ai_writing": {
+        "status": "unchecked"
+      },
+      "active": true
+    },
+    {
+      "name": "Marcus Zill",
+      "role": "Campus Pastor (Rev.)",
+      "plagiarism": {
+        "status": "unchecked"
+      },
+      "ai_writing": {
+        "status": "unchecked"
+      },
+      "active": true
+    }
+  ],
+  "sources": [
+    {
+      "label": "LCMS church locator entry: Faith Lutheran Church, 3925 E 5th St, Tucson",
+      "url": "https://locator.lcms.org/church/C/914414",
+      "accessed": "2026-09-11"
+    },
+    {
+      "label": "LCMS English District listing: Faith Lutheran Church",
+      "url": "https://englishdistrict.org/faith-lutheran-church-2",
+      "accessed": "2026-09-11"
+    }
+  ],
+  "summary": "Not yet reviewed.",
+  "notes": "LCMS (English District) parish in midtown with a University of Arizona campus ministry component - Rev. Marcus Zill is listed as campus pastor, so he may preach at campus services rather than the main service. Confirm who preaches Sunday mornings. No church website or sermon archive confirmed. Coordinates are grid estimates from the street address, not map-verified.",
+  "updated_at": "2026-09-11",
+  "updated_by": "claude-opus-5 research agent (seed)"
+}

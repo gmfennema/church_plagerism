@@ -1,0 +1,86 @@
+{
+  "slug": "redemption-church-tucson",
+  "name": "Redemption Church Tucson",
+  "aka": [
+    "Redemption Tucson"
+  ],
+  "tradition": "non_denominational",
+  "denomination": "Redemption Church (Arizona network); Acts 29-style elder-led",
+  "website": "https://tucson.redemptionaz.com/",
+  "youtube": {
+    "channel_url": "https://www.youtube.com/channel/UCFjMwxaWd0dkX8PjYEnByLw",
+    "transcripts_available": "unknown"
+  },
+  "other_media": [
+    {
+      "label": "Redemption Church Tucson sermon podcast (Apple Podcasts)",
+      "url": "https://podcasts.apple.com/us/podcast/redemption-church-tucson/id1113230754"
+    },
+    {
+      "label": "Redemption Church Tucson podcast (Spotify)",
+      "url": "https://open.spotify.com/show/7xNeEwebeHHvyae1zxknmH"
+    },
+    {
+      "label": "Redemption Tucson sermons",
+      "url": "https://tucson.redemptionaz.com/sermons/standalone"
+    }
+  ],
+  "location": {
+    "address": "Address not confirmed",
+    "lat": null,
+    "lng": null,
+    "geocode": "missing",
+    "city": "Tucson",
+    "state": "AZ"
+  },
+  "pastors": [
+    {
+      "name": "Dave Goffeney",
+      "role": "Lead Pastor",
+      "bio_url": "https://tucson.redemptionaz.com/team-2",
+      "plagiarism": {
+        "status": "unchecked"
+      },
+      "ai_writing": {
+        "status": "unchecked"
+      },
+      "active": true
+    }
+  ],
+  "sources": [
+    {
+      "label": "Redemption Tucson official site",
+      "url": "https://tucson.redemptionaz.com/",
+      "accessed": "2026-09-11"
+    },
+    {
+      "label": "Redemption Tucson team page",
+      "url": "https://tucson.redemptionaz.com/team-2",
+      "accessed": "2026-09-11"
+    },
+    {
+      "label": "Redemption Tucson elders page",
+      "url": "https://tucson.redemptionaz.com/elders",
+      "accessed": "2026-09-11"
+    },
+    {
+      "label": "Redemption Tucson sermons page",
+      "url": "https://tucson.redemptionaz.com/sermons/standalone",
+      "accessed": "2026-09-11"
+    },
+    {
+      "label": "LinkedIn: Dave Goffeney, Lead Pastor at Redemption Church Tucson",
+      "url": "https://www.linkedin.com/in/dave-goffeney-088190b",
+      "accessed": "2026-09-11"
+    },
+    {
+      "label": "Redemption Church Tucson YouTube channel",
+      "url": "https://www.youtube.com/channel/UCFjMwxaWd0dkX8PjYEnByLw",
+      "accessed": "2026-09-11"
+    }
+  ],
+  "summary": "Not yet reviewed.",
+  "notes": "Tucson congregation of the multi-site Redemption Church network in Arizona. Sermons are published weekly to YouTube and to podcast feeds (recent examples from July 2026), so the corpus is easy to assemble - a strong candidate. Elder-led, and the elders page suggests several men may preach, so check attribution per sermon. Street address not confirmed in search results.",
+  "updated_at": "2026-09-11",
+  "updated_by": "claude-opus-5 research agent (seed)"
+}

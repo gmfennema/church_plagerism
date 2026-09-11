@@ -1,0 +1,70 @@
+{
+  "slug": "first-southern-baptist-tucson",
+  "name": "First Southern Baptist Church Tucson",
+  "aka": [
+    "First Southern Tucson",
+    "FSBC Tucson"
+  ],
+  "tradition": "baptist",
+  "denomination": "Southern Baptist Convention",
+  "website": "https://fsbctucson.org/",
+  "youtube": {
+    "channel_url": "https://www.youtube.com/@fsbctucson",
+    "handle": "@fsbctucson",
+    "transcripts_available": "unknown"
+  },
+  "location": {
+    "address": "445 E Speedway Blvd",
+    "postal_code": "85705",
+    "lat": 32.2363,
+    "lng": -110.9649,
+    "geocode": "approximate",
+    "city": "Tucson",
+    "state": "AZ"
+  },
+  "pastors": [
+    {
+      "name": "Ed Eddingfield",
+      "role": "Pastor",
+      "bio_url": "https://fsbctucson.org/leadership",
+      "plagiarism": {
+        "status": "unchecked"
+      },
+      "ai_writing": {
+        "status": "unchecked"
+      },
+      "active": true
+    }
+  ],
+  "sources": [
+    {
+      "label": "First Southern Baptist Church Tucson official site",
+      "url": "https://fsbctucson.org/",
+      "accessed": "2026-09-11"
+    },
+    {
+      "label": "First Southern Baptist Church Tucson leadership page",
+      "url": "https://fsbctucson.org/leadership",
+      "accessed": "2026-09-11"
+    },
+    {
+      "label": "YouTube channel: First Southern Tucson",
+      "url": "https://www.youtube.com/@fsbctucson",
+      "accessed": "2026-09-11"
+    },
+    {
+      "label": "Yelp: First Southern Baptist, 445 E Speedway Blvd",
+      "url": "https://www.yelp.com/biz/first-southern-baptist-tucson",
+      "accessed": "2026-09-11"
+    },
+    {
+      "label": "Google Maps listing (coordinates 32.23628, -110.96489)",
+      "url": "https://www.google.com/maps/place/First+Southern+Baptist+Church/@32.2362845,-110.967084,17z",
+      "accessed": "2026-09-11"
+    }
+  ],
+  "summary": "Not yet reviewed.",
+  "notes": "Coordinates taken from a Google Maps search result for this address (32.23628, -110.96489), which also matched the Tucson grid estimate. Pastor name 'Ed Eddingfield' came from a search snippet tied to the church leadership page; confirm role title (Senior/Lead Pastor) on fsbctucson.org/leadership. Check whether other staff preach regularly.",
+  "updated_at": "2026-09-11",
+  "updated_by": "claude-opus-5 research agent (seed)"
+}

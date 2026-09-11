@@ -1,0 +1,58 @@
+{
+  "slug": "community-christian-church-marana",
+  "name": "Community Christian Church of Marana",
+  "aka": [
+    "CCC of Marana"
+  ],
+  "tradition": "restoration_churches_of_christ",
+  "denomination": "Christian Church (Disciples of Christ)",
+  "website": "https://cccmarana.org/",
+  "youtube": {
+    "channel_url": "https://www.youtube.com/@CCCoM1953",
+    "handle": "@CCCoM1953",
+    "transcripts_available": "unknown"
+  },
+  "location": {
+    "address": "13610 N Sandario Rd",
+    "city": "Marana",
+    "postal_code": "85653",
+    "lat": null,
+    "lng": null,
+    "geocode": "missing",
+    "state": "AZ"
+  },
+  "pastors": [
+    {
+      "name": "David Hedgepeth",
+      "role": "Pastor",
+      "plagiarism": {
+        "status": "unchecked"
+      },
+      "ai_writing": {
+        "status": "unchecked"
+      },
+      "active": true
+    }
+  ],
+  "sources": [
+    {
+      "label": "Community Christian Church of Marana official site",
+      "url": "https://cccmarana.org/",
+      "accessed": "2026-09-11"
+    },
+    {
+      "label": "Community Christian Church of Marana YouTube channel",
+      "url": "https://www.youtube.com/@CCCoM1953",
+      "accessed": "2026-09-11"
+    },
+    {
+      "label": "Community Christian Church of Marana Facebook page",
+      "url": "https://www.facebook.com/maranadisciples/",
+      "accessed": "2026-09-11"
+    }
+  ],
+  "summary": "Not yet reviewed.",
+  "notes": "Congregation dates to 1953 (per the YouTube handle CCCoM1953). The Facebook handle 'maranadisciples' points to a Disciples of Christ affiliation - verify, since Independent Christian Churches and Disciples are different bodies. Sermons are on YouTube, so reviewable. Marana addresses are off the Tucson reference grid, so coordinates are missing.",
+  "updated_at": "2026-09-11",
+  "updated_by": "claude-opus-5 research agent (seed)"
+}

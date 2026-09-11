@@ -1,0 +1,47 @@
+{
+  "slug": "christian-faith-fellowship-tucson",
+  "name": "Christian Faith Fellowship",
+  "aka": [
+    "Catalina American Baptist Church (former occupant of the building)",
+    "Catalina Church of Midtown"
+  ],
+  "tradition": "methodist_wesleyan",
+  "denomination": "The Wesleyan Church",
+  "other_media": [
+    {
+      "label": "Christian Faith Fellowship Tucson sermon podcast (Apple Podcasts)",
+      "url": "https://podcasts.apple.com/us/podcast/christian-faith-fellowship-tucson-sermons/id1076217186"
+    }
+  ],
+  "location": {
+    "address": "1900 N Country Club Rd",
+    "postal_code": "85716",
+    "lat": null,
+    "lng": null,
+    "geocode": "missing",
+    "city": "Tucson",
+    "state": "AZ"
+  },
+  "pastors": [],
+  "sources": [
+    {
+      "label": "Wikipedia: Catalina American Baptist Church (building now home to Christian Faith Fellowship, a Wesleyan church)",
+      "url": "https://en.wikipedia.org/wiki/Catalina_American_Baptist_Church",
+      "accessed": "2026-09-11"
+    },
+    {
+      "label": "Christian Faith Fellowship Tucson sermon podcast (Apple Podcasts)",
+      "url": "https://podcasts.apple.com/us/podcast/christian-faith-fellowship-tucson-sermons/id1076217186",
+      "accessed": "2026-09-11"
+    },
+    {
+      "label": "FaithStreet: Catalina Church of Midtown, American Baptist Churches USA, Tucson AZ",
+      "url": "https://www.faithstreet.com/church/catalina-church-of-midtown-tucson-az",
+      "accessed": "2026-09-11"
+    }
+  ],
+  "summary": "Not yet reviewed.",
+  "notes": "CAREFUL - the 1900 N Country Club Rd building has a tangled history: it was built for Catalina American Baptist Church, a FaithStreet listing calls the American Baptist congregation there 'Catalina Church of Midtown', and Wikipedia says the building is now home to Christian Faith Fellowship, a Wesleyan church. This record is filed under the Wesleyan congregation; if research shows the American Baptist congregation is a separate live body, split this into two records. A sermon podcast exists, which gives a usable corpus. No pastor name confirmed. Coordinates missing: Country Club Rd is not on the reference grid.",
+  "updated_at": "2026-09-11",
+  "updated_by": "claude-opus-5 research agent (seed)"
+}

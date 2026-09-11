@@ -1,0 +1,70 @@
+{
+  "slug": "cdo-bible-church",
+  "name": "Canyon Del Oro Bible Church",
+  "aka": [
+    "CDO Bible Church",
+    "Canyon Del Oro Baptist Church"
+  ],
+  "tradition": "non_denominational",
+  "denomination": "Bible church; affiliated with Venture Church Network (Southwest)",
+  "website": "https://cdobible.org/",
+  "other_media": [
+    {
+      "label": "CDO Bible Church sermon archive",
+      "url": "https://cdobible.org/sermons/"
+    },
+    {
+      "label": "Canyon Del Oro Bible Church app (Subsplash)",
+      "url": "https://subsplash.com/cdobaptist/app"
+    }
+  ],
+  "location": {
+    "address": "9200 N Oracle Rd",
+    "city": "Tucson",
+    "postal_code": "85704",
+    "lat": 32.3549,
+    "lng": -110.977,
+    "geocode": "approximate",
+    "state": "AZ"
+  },
+  "pastors": [
+    {
+      "name": "Steve Van Kley",
+      "role": "Pastor",
+      "bio_url": "https://cdobible.org/our-story/",
+      "plagiarism": {
+        "status": "unchecked"
+      },
+      "ai_writing": {
+        "status": "unchecked"
+      },
+      "active": true
+    }
+  ],
+  "sources": [
+    {
+      "label": "CDO Bible Church official site",
+      "url": "https://cdobible.org/",
+      "accessed": "2026-09-11"
+    },
+    {
+      "label": "CDO Bible Church sermon archive",
+      "url": "https://cdobible.org/sermons/",
+      "accessed": "2026-09-11"
+    },
+    {
+      "label": "Yelp: Canyon Del Oro Bible Church, 9200 N Oracle Rd",
+      "url": "https://www.yelp.com/biz/canyon-del-oro-bible-church-tucson",
+      "accessed": "2026-09-11"
+    },
+    {
+      "label": "Venture Church Network Southwest directory listing",
+      "url": "https://www.vcnsw.org/churches/canyon-del-oro-church",
+      "accessed": "2026-09-11"
+    }
+  ],
+  "summary": "Not yet reviewed.",
+  "notes": "Formerly Canyon Del Oro Baptist Church (the Subsplash app is still under the 'cdobaptist' handle), now branded as a Bible church. Sermon audio and video are downloadable from cdobible.org/sermons, which may be easier to work with than YouTube. No YouTube channel confirmed from search results. Confirm Steve Van Kley's exact title and whether associate pastors preach.",
+  "updated_at": "2026-09-11",
+  "updated_by": "claude-opus-5 research agent (seed)"
+}

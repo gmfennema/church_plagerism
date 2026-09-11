@@ -1,0 +1,62 @@
+{
+  "slug": "tucson-mountain-baptist-church",
+  "name": "Tucson Mountain Baptist Church",
+  "tradition": "baptist",
+  "denomination": "Southern Baptist Convention",
+  "website": "https://tucsonmountainchurch.org/",
+  "other_media": [
+    {
+      "label": "Tucson Mountain Baptist Church sermons and messages",
+      "url": "https://tucsonmountainchurch.org/sermons"
+    }
+  ],
+  "location": {
+    "address": "5757 W Ajo Hwy",
+    "postal_code": "85735",
+    "lat": null,
+    "lng": null,
+    "geocode": "missing",
+    "city": "Tucson",
+    "state": "AZ"
+  },
+  "pastors": [
+    {
+      "name": "Lynn Spoon",
+      "role": "Lead Pastor",
+      "bio_url": "https://tucsonmountainchurch.org/staff",
+      "plagiarism": {
+        "status": "unchecked"
+      },
+      "ai_writing": {
+        "status": "unchecked"
+      },
+      "active": true
+    }
+  ],
+  "sources": [
+    {
+      "label": "Tucson Mountain Baptist Church sermons page",
+      "url": "https://tucsonmountainchurch.org/sermons",
+      "accessed": "2026-09-11"
+    },
+    {
+      "label": "Tucson Mountain Baptist Church staff page",
+      "url": "https://tucsonmountainchurch.org/staff",
+      "accessed": "2026-09-11"
+    },
+    {
+      "label": "SBC church directory: Tucson Mountain Baptist Church",
+      "url": "https://churches.sbc.net/church/tucson-mountain-baptist-church/",
+      "accessed": "2026-09-11"
+    },
+    {
+      "label": "Tucson Mountain Baptist Church Facebook page",
+      "url": "https://www.facebook.com/tucsonmountainchurch/",
+      "accessed": "2026-09-11"
+    }
+  ],
+  "summary": "Not yet reviewed.",
+  "notes": "Southern Baptist church west of the Tucson Mountains on Ajo Hwy, listed in the SBC directory. Sermons and messages are published on the church site. Coordinates missing: Ajo Hwy is not on the reference grid and runs diagonally.",
+  "updated_at": "2026-09-11",
+  "updated_by": "claude-opus-5 research agent (seed)"
+}

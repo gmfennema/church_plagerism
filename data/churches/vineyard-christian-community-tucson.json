@@ -1,0 +1,52 @@
+{
+  "slug": "vineyard-christian-community-tucson",
+  "name": "Vineyard Christian Community",
+  "aka": [
+    "VCC Tucson"
+  ],
+  "tradition": "pentecostal_charismatic",
+  "denomination": "Vineyard",
+  "website": "https://www.vineyardcc.net/",
+  "other_media": [
+    {
+      "label": "Vineyard Christian Community media / sermon archive",
+      "url": "https://www.vineyardcc.net/media?id=2463027"
+    }
+  ],
+  "location": {
+    "address": "625 N 2nd Ave",
+    "postal_code": "85705",
+    "lat": 32.2306,
+    "lng": -110.9625,
+    "geocode": "approximate",
+    "city": "Tucson",
+    "state": "AZ"
+  },
+  "pastors": [],
+  "sources": [
+    {
+      "label": "Vineyard Christian Community official site",
+      "url": "https://www.vineyardcc.net/",
+      "accessed": "2026-09-11"
+    },
+    {
+      "label": "Vineyard Christian Community elders, staff and ministry leaders page",
+      "url": "https://www.vineyardcc.net/who-we-are/elders-staff-ministry-leaders",
+      "accessed": "2026-09-11"
+    },
+    {
+      "label": "Vineyard Christian Community media page",
+      "url": "https://www.vineyardcc.net/media?id=2463027",
+      "accessed": "2026-09-11"
+    },
+    {
+      "label": "ChurchFinder listing: Vineyard Christian Community, Tucson AZ",
+      "url": "https://www.churchfinder.com/churches/az/tucson/vineyard-christian-community",
+      "accessed": "2026-09-11"
+    }
+  ],
+  "summary": "Not yet reviewed.",
+  "notes": "Vineyard congregation just north of Tucson High and west of the University of Arizona, with recent and past sermons on its media page. A search snippet mentioned 'Chris Dehaan and his family' sharing the journey at the church, which is not clear enough to record as a pastor - get names from the elders/staff page. Coordinates estimated from 2nd Ave being one block west of 1st Ave.",
+  "updated_at": "2026-09-11",
+  "updated_by": "claude-opus-5 research agent (seed)"
+}

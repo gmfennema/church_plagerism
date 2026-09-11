@@ -1,0 +1,39 @@
+{
+  "slug": "christs-church-of-tucson",
+  "name": "Christ's Church of Tucson",
+  "tradition": "restoration_churches_of_christ",
+  "denomination": "Christian Church / Churches of Christ",
+  "website": "https://cctworship.org/",
+  "other_media": [
+    {
+      "label": "Christ's Church of Tucson sermons page",
+      "url": "https://cctworship.org/pulpit/sermons/"
+    }
+  ],
+  "location": {
+    "address": "Mailing address only: P.O. Box 17388",
+    "postal_code": "85731",
+    "lat": null,
+    "lng": null,
+    "geocode": "missing",
+    "city": "Tucson",
+    "state": "AZ"
+  },
+  "pastors": [],
+  "sources": [
+    {
+      "label": "Christ's Church of Tucson sermons page",
+      "url": "https://cctworship.org/pulpit/sermons/",
+      "accessed": "2026-09-11"
+    },
+    {
+      "label": "Christ's Church of Tucson embedded sermons page",
+      "url": "https://cctworship.org/sermons_embed/",
+      "accessed": "2026-09-11"
+    }
+  ],
+  "summary": "Not yet reviewed.",
+  "notes": "Only a PO box was found in search results, not a street address - find the meeting location. Sermons are published under a '/pulpit/sermons/' section of the church site. No preacher name confirmed.",
+  "updated_at": "2026-09-11",
+  "updated_by": "claude-opus-5 research agent (seed)"
+}

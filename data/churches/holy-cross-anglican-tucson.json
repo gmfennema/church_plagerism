@@ -1,0 +1,27 @@
+{
+  "slug": "holy-cross-anglican-tucson",
+  "name": "Holy Cross Anglican Church",
+  "tradition": "anglican_episcopal",
+  "denomination": "Anglican (jurisdiction to verify)",
+  "location": {
+    "address": "3264 N Country Club Rd",
+    "postal_code": "85716",
+    "lat": null,
+    "lng": null,
+    "geocode": "missing",
+    "city": "Tucson",
+    "state": "AZ"
+  },
+  "pastors": [],
+  "sources": [
+    {
+      "label": "ChurchFinder listing: Holy Cross Anglican Church, Tucson AZ",
+      "url": "https://www.churchfinder.com/churches/az/tucson/holy-cross-anglican-church",
+      "accessed": "2026-09-11"
+    }
+  ],
+  "summary": "Not yet reviewed.",
+  "notes": "Small Anglican congregation on N Country Club Rd. Only a directory listing was confirmed; the listing was inconsistent about whether it is Episcopal or a continuing-Anglican body, so the jurisdiction needs checking. No website, pastor or sermon archive found. Third of three 'Holy Cross' churches in Tucson - keep separate from the Lutheran and Presbyterian ones.",
+  "updated_at": "2026-09-11",
+  "updated_by": "claude-opus-5 research agent (seed)"
+}

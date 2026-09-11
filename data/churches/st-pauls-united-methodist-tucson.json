@@ -1,0 +1,50 @@
+{
+  "slug": "st-pauls-united-methodist-tucson",
+  "name": "St. Paul's United Methodist Church",
+  "tradition": "methodist_wesleyan",
+  "denomination": "United Methodist Church",
+  "website": "https://stpaulsumctucson.org/",
+  "other_media": [
+    {
+      "label": "St. Paul's UMC Tucson sermons archive",
+      "url": "https://stpaulsumctucson.org/worship/"
+    }
+  ],
+  "location": {
+    "address": "Address not confirmed",
+    "lat": null,
+    "lng": null,
+    "geocode": "missing",
+    "city": "Tucson",
+    "state": "AZ"
+  },
+  "pastors": [
+    {
+      "name": "Ron Bartlow",
+      "role": "Pastor (Rev.)",
+      "plagiarism": {
+        "status": "unchecked"
+      },
+      "ai_writing": {
+        "status": "unchecked"
+      },
+      "active": true
+    }
+  ],
+  "sources": [
+    {
+      "label": "St. Paul's United Methodist Church Tucson sermons archive",
+      "url": "https://stpaulsumctucson.org/worship/",
+      "accessed": "2026-09-11"
+    },
+    {
+      "label": "UMData listing: St. Paul's United Methodist Church, Tucson - Active",
+      "url": "https://www.umdata.org/church?church=882285",
+      "accessed": "2026-09-11"
+    }
+  ],
+  "summary": "Not yet reviewed.",
+  "notes": "United Methodist congregation with a sermons archive on its own site. Rev. Ron Bartlow was named in a search snippet as writing/speaking for the church; confirm he is the appointed pastor and current preacher (UMC clergy are reappointed regularly, so tenure changes often). Address not confirmed.",
+  "updated_at": "2026-09-11",
+  "updated_by": "claude-opus-5 research agent (seed)"
+}

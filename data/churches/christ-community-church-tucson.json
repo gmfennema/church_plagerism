@@ -1,0 +1,80 @@
+{
+  "slug": "christ-community-church-tucson",
+  "name": "Christ Community Church",
+  "aka": [
+    "CCC Tucson"
+  ],
+  "tradition": "non_denominational",
+  "denomination": "Evangelical / non-denominational",
+  "website": "https://www.ccctucson.org/",
+  "location": {
+    "address": "530 S Pantano Rd",
+    "postal_code": "85710",
+    "lat": 32.2138,
+    "lng": -110.823,
+    "geocode": "approximate",
+    "city": "Tucson",
+    "state": "AZ"
+  },
+  "pastors": [
+    {
+      "name": "Eric Naus",
+      "role": "Executive Pastor for Preaching",
+      "active": true,
+      "bio_url": "https://www.ccctucson.org/eric-naus",
+      "plagiarism": {
+        "status": "unchecked"
+      },
+      "ai_writing": {
+        "status": "unchecked"
+      },
+      "notes": "Confirmed from his staff page at ccctucson.org: teaches weekly and gives overall leadership to worship services. Previously at The Moody Church, Chicago; Wheaton College BA, Trinity Evangelical Divinity School MDiv."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Christ Community Church Tucson official site",
+      "url": "https://www.ccctucson.org/",
+      "accessed": "2026-09-11"
+    },
+    {
+      "label": "Christ Community Church Tucson Facebook page",
+      "url": "https://www.facebook.com/ccctucson/",
+      "accessed": "2026-09-11"
+    },
+    {
+      "label": "Yellow Pages listing: Christ Community Church, Tucson AZ 85710",
+      "url": "https://www.yellowpages.com/tucson-az/mip/christ-community-church-8214239",
+      "accessed": "2026-09-11"
+    },
+    {
+      "label": "Christ Community Church Tucson - Eric Naus staff page",
+      "url": "https://www.ccctucson.org/eric-naus",
+      "accessed": "2026-09-11"
+    },
+    {
+      "label": "Christ Community Church Tucson - Meet Our Staff (Church Center)",
+      "url": "https://ccctucson.churchcenter.com/pages/meet-our-staff",
+      "accessed": "2026-09-11"
+    },
+    {
+      "label": "Christ Community Church Tucson sermon archive",
+      "url": "https://www.ccctucson.org/sermons/page/60",
+      "accessed": "2026-09-11"
+    }
+  ],
+  "summary": "Not yet reviewed.",
+  "notes": "Evangelical non-denominational church on the east side at Pantano and Broadway. Eric Naus is confirmed as Executive Pastor for Preaching - he teaches weekly - and is the right person to review first. The sermon archive is indexed by preacher (ccctucson.org/sermons/preacher/...), which makes attribution easy; other names seen in search snippets (Tim Sheaffer, Brett Inman, Joel Harris, Randy Reynolds, a 'Pastor Floyd') were NOT added because their roles and whether they still preach could not be confirmed - resolve them from the staff page. A sermon dated 2026-08-23 ('When Life Gets Comfortable') shows the archive is current.",
+  "updated_at": "2026-09-11",
+  "updated_by": "claude-opus-5 research agent (seed)",
+  "other_media": [
+    {
+      "label": "Christ Community Church Tucson sermon archive",
+      "url": "https://www.ccctucson.org/sermons/page/60"
+    },
+    {
+      "label": "Sermons filtered by preacher (example: Randy Reynolds)",
+      "url": "https://www.ccctucson.org/sermons/preacher/u/38/randy-reynolds"
+    }
+  ]
+}

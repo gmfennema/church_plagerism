@@ -1,0 +1,74 @@
+{
+  "slug": "casas-church",
+  "name": "Casas Church",
+  "aka": [
+    "Casas Adobes Baptist Church"
+  ],
+  "tradition": "baptist",
+  "denomination": "Southern Baptist Convention (Arizona Mission Network)",
+  "website": "https://casaschurch.org/",
+  "youtube": {
+    "channel_url": "https://www.youtube.com/@CasasChurch",
+    "handle": "@CasasChurch",
+    "transcripts_available": "unknown"
+  },
+  "location": {
+    "address": "10801 N La Cholla Blvd",
+    "postal_code": "85742",
+    "lat": 32.3781,
+    "lng": -111.011,
+    "geocode": "approximate",
+    "city": "Tucson",
+    "state": "AZ"
+  },
+  "pastors": [
+    {
+      "name": "Glenn Barteau",
+      "role": "Senior Pastor",
+      "bio_url": "https://casaschurch.org/team/glenn-barteau/",
+      "plagiarism": {
+        "status": "unchecked"
+      },
+      "ai_writing": {
+        "status": "unchecked"
+      },
+      "active": true
+    }
+  ],
+  "sources": [
+    {
+      "label": "Casas Church official site",
+      "url": "https://casaschurch.org/",
+      "accessed": "2026-09-11"
+    },
+    {
+      "label": "Casas Church leadership page",
+      "url": "https://casaschurch.org/about/leadership/",
+      "accessed": "2026-09-11"
+    },
+    {
+      "label": "Glenn Barteau staff bio page",
+      "url": "https://casaschurch.org/team/glenn-barteau/",
+      "accessed": "2026-09-11"
+    },
+    {
+      "label": "Casas Church YouTube channel",
+      "url": "https://www.youtube.com/@CasasChurch",
+      "accessed": "2026-09-11"
+    },
+    {
+      "label": "Yelp: Casas Church, 10801 N La Cholla Blvd",
+      "url": "https://www.yelp.com/biz/casas-church-tucson",
+      "accessed": "2026-09-11"
+    },
+    {
+      "label": "Arizona Mission Network (Southern Baptist) listing: Casas Adobes Baptist Church / Casas Church",
+      "url": "https://azmn.org/churches/casas-adobes-baptist-church/",
+      "accessed": "2026-09-11"
+    }
+  ],
+  "summary": "Not yet reviewed.",
+  "notes": "One of the larger evangelical churches in the Tucson metro (north-west, Casas Adobes area). Southern Baptist affiliation is CONFIRMED: it appears in the Arizona Mission Network (Arizona Southern Baptist Convention) church directory as Casas Adobes Baptist Church. Founded 1961 as Casas Adobes Baptist by T.P. Lott and Irving Childress; contemporary worship style. Active YouTube channel with weekly services - a good candidate for transcript review. Do not confuse with Casas Adobes Congregational Church (UCC) at 6801 N Oracle Rd, a different congregation.",
+  "updated_at": "2026-09-11",
+  "updated_by": "claude-opus-5 research agent (seed)"
+}

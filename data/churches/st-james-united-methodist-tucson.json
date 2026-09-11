@@ -1,0 +1,39 @@
+{
+  "slug": "st-james-united-methodist-tucson",
+  "name": "St. James United Methodist Church",
+  "tradition": "methodist_wesleyan",
+  "denomination": "United Methodist Church",
+  "website": "https://stjamestucson.com/",
+  "location": {
+    "address": "Address not confirmed",
+    "lat": null,
+    "lng": null,
+    "geocode": "missing",
+    "city": "Tucson",
+    "state": "AZ"
+  },
+  "pastors": [
+    {
+      "name": "Mel Roberts",
+      "role": "Pastor (Rev.); also described as University of Arizona campus pastor",
+      "plagiarism": {
+        "status": "unchecked"
+      },
+      "ai_writing": {
+        "status": "unchecked"
+      },
+      "active": true
+    }
+  ],
+  "sources": [
+    {
+      "label": "St James United Methodist Church Tucson official site",
+      "url": "https://stjamestucson.com/",
+      "accessed": "2026-09-11"
+    }
+  ],
+  "summary": "Not yet reviewed.",
+  "notes": "United Methodist congregation; Rev. Mel Roberts is described in search results as the preacher and as UA campus pastor. Confirm current appointment and find a sermon archive - none was located. Address not confirmed.",
+  "updated_at": "2026-09-11",
+  "updated_by": "claude-opus-5 research agent (seed)"
+}

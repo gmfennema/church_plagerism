@@ -1,0 +1,64 @@
+{
+  "slug": "christ-presbyterian-church-tucson",
+  "name": "Christ Presbyterian Church",
+  "aka": [
+    "CPC Tucson"
+  ],
+  "tradition": "presbyterian_reformed",
+  "denomination": "Presbyterian Church (USA) - Presbytery de Cristo",
+  "website": "https://cpctucsonaz.org/",
+  "location": {
+    "address": "6565 E Broadway Blvd",
+    "postal_code": "85710",
+    "lat": 32.2215,
+    "lng": -110.8571,
+    "geocode": "approximate",
+    "city": "Tucson",
+    "state": "AZ"
+  },
+  "pastors": [
+    {
+      "name": "Steve Melde",
+      "role": "Pastor",
+      "bio_url": "http://cpctucsonaz.org/about-cpc/our-staff/",
+      "plagiarism": {
+        "status": "unchecked"
+      },
+      "ai_writing": {
+        "status": "unchecked"
+      },
+      "active": true
+    }
+  ],
+  "sources": [
+    {
+      "label": "Christ Presbyterian Church Tucson official site",
+      "url": "https://cpctucsonaz.org/",
+      "accessed": "2026-09-11"
+    },
+    {
+      "label": "Christ Presbyterian Church staff page",
+      "url": "http://cpctucsonaz.org/about-cpc/our-staff/",
+      "accessed": "2026-09-11"
+    },
+    {
+      "label": "Yelp: Christ Presbyterian Church, 6565 E Broadway Blvd",
+      "url": "https://www.yelp.com/biz/christ-presbyterian-church-tucson",
+      "accessed": "2026-09-11"
+    },
+    {
+      "label": "PC(USA) congregation directory: Christ Church, Tucson AZ",
+      "url": "https://pcusa.org/congregation/christ-church-tucson-az",
+      "accessed": "2026-09-11"
+    },
+    {
+      "label": "Christ Presbyterian Tucson Facebook page",
+      "url": "https://www.facebook.com/ChristPresbyterianTucson/",
+      "accessed": "2026-09-11"
+    }
+  ],
+  "summary": "Not yet reviewed.",
+  "notes": "Mainline PC(USA), not PCA - it sits in Presbytery de Cristo. Note it shares the Broadway corridor with Fellowship Bible Church (6700 E Broadway); different churches, do not conflate. No sermon video host confirmed from search results.",
+  "updated_at": "2026-09-11",
+  "updated_by": "claude-opus-5 research agent (seed)"
+}

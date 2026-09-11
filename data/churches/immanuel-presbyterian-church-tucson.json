@@ -1,0 +1,27 @@
+{
+  "slug": "immanuel-presbyterian-church-tucson",
+  "name": "Immanuel Presbyterian Church",
+  "tradition": "presbyterian_reformed",
+  "denomination": "Presbyterian (affiliation to verify)",
+  "location": {
+    "address": "9252 E 22nd St",
+    "postal_code": "85710",
+    "lat": 32.2065,
+    "lng": -110.8109,
+    "geocode": "approximate",
+    "city": "Tucson",
+    "state": "AZ"
+  },
+  "pastors": [],
+  "sources": [
+    {
+      "label": "Yelp: Immanuel Presbyterian Church, 9252 E 22nd St, Tucson",
+      "url": "https://www.yelp.com/biz/immanuel-presbyterian-church-tucson",
+      "accessed": "2026-09-11"
+    }
+  ],
+  "summary": "Not yet reviewed.",
+  "notes": "East-side Presbyterian congregation on 22nd St near Camino Seco. Only a Yelp listing was confirmed in search results - no church website, sermon archive or pastor name was found. Verify the denomination (PCA, PCUSA, EPC or other) and whether sermons are published anywhere before scheduling work.",
+  "updated_at": "2026-09-11",
+  "updated_by": "claude-opus-5 research agent (seed)"
+}

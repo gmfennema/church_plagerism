@@ -1,0 +1,30 @@
+{
+  "slug": "mountain-view-church-of-the-nazarene",
+  "name": "Mountain View Church of the Nazarene",
+  "aka": [
+    "MVNAZ"
+  ],
+  "tradition": "nazarene_holiness",
+  "denomination": "Church of the Nazarene",
+  "location": {
+    "address": "410 S Pantano Rd",
+    "postal_code": "85710",
+    "lat": 32.2156,
+    "lng": -110.823,
+    "geocode": "approximate",
+    "city": "Tucson",
+    "state": "AZ"
+  },
+  "pastors": [],
+  "sources": [
+    {
+      "label": "Mountain View Church of the Nazarene Facebook page",
+      "url": "https://www.facebook.com/mvnaz.org/",
+      "accessed": "2026-09-11"
+    }
+  ],
+  "summary": "Not yet reviewed.",
+  "notes": "Nazarene congregation on S Pantano Rd. A search snippet referred to a 'Pastor Albert' with no surname, so no pastor is recorded rather than guessing at a partial name - get the full name from mvnaz.org. No sermon archive confirmed.",
+  "updated_at": "2026-09-11",
+  "updated_by": "claude-opus-5 research agent (seed)"
+}

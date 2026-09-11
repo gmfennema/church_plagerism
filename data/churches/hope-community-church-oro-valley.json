@@ -1,0 +1,36 @@
+{
+  "slug": "hope-community-church-oro-valley",
+  "name": "Hope Community Church",
+  "aka": [
+    "Hope Tucson"
+  ],
+  "tradition": "non_denominational",
+  "denomination": "Independent / non-denominational (verify)",
+  "website": "https://hopetucson.com/",
+  "location": {
+    "address": "Meets at Wilson School, 2330 W Glover Rd",
+    "city": "Oro Valley",
+    "postal_code": "85742",
+    "lat": null,
+    "lng": null,
+    "geocode": "missing",
+    "state": "AZ"
+  },
+  "pastors": [],
+  "sources": [
+    {
+      "label": "Hope Community Church (Tucson) official site",
+      "url": "https://hopetucson.com/",
+      "accessed": "2026-09-11"
+    },
+    {
+      "label": "Hope Community Church staff page",
+      "url": "https://hopetucson.com/staff",
+      "accessed": "2026-09-11"
+    }
+  ],
+  "summary": "Not yet reviewed.",
+  "notes": "Church plant meeting in a school (Wilson School, 2330 W Glover Rd) on Sundays at 10am; sermons and announcements are posted to a YouTube page whose URL was not captured in search results. Staff page exists at hopetucson.com/staff but no name was visible in search snippets - do not guess. Distinct from Hope Church (Assemblies of God) on Houghton Rd.",
+  "updated_at": "2026-09-11",
+  "updated_by": "claude-opus-5 research agent (seed)"
+}

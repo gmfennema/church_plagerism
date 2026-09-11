@@ -1,0 +1,40 @@
+{
+  "slug": "calvary-oro-valley",
+  "name": "Calvary Oro Valley Church",
+  "tradition": "non_denominational",
+  "denomination": "Calvary Chapel",
+  "website": "https://calvaryov.org/",
+  "location": {
+    "address": "6901 N La Canada Dr",
+    "city": "Oro Valley",
+    "postal_code": "85704",
+    "lat": null,
+    "lng": null,
+    "geocode": "missing",
+    "state": "AZ"
+  },
+  "pastors": [
+    {
+      "name": "Craig Roters",
+      "role": "Pastor",
+      "plagiarism": {
+        "status": "unchecked"
+      },
+      "ai_writing": {
+        "status": "unchecked"
+      },
+      "active": true
+    }
+  ],
+  "sources": [
+    {
+      "label": "Calvary Oro Valley Church official site",
+      "url": "https://calvaryov.org/",
+      "accessed": "2026-09-11"
+    }
+  ],
+  "summary": "Not yet reviewed.",
+  "notes": "Calvary Chapel-style church in Oro Valley; the site says the latest sermon is posted on the homepage and a full archive lives on their YouTube page, but the YouTube URL was not captured in search results - find it. Search results also named 'Morgan Roters' alongside Pastor Craig Roters; that is likely a spouse/ministry partner rather than a separate preaching pastor, so only Craig Roters is listed. Coordinates missing: La Canada Dr is not on the reference grid.",
+  "updated_at": "2026-09-11",
+  "updated_by": "claude-opus-5 research agent (seed)"
+}

@@ -1,0 +1,43 @@
+{
+  "slug": "iglesia-de-cristo-en-tucson",
+  "name": "Iglesia de Cristo en Tucson",
+  "aka": [
+    "Church of Christ in Tucson (Spanish-language)"
+  ],
+  "tradition": "restoration_churches_of_christ",
+  "denomination": "Churches of Christ",
+  "website": "https://www.iccctucson.org/",
+  "location": {
+    "address": "4616 E Rex St",
+    "postal_code": "85706",
+    "lat": null,
+    "lng": null,
+    "geocode": "missing",
+    "city": "Tucson",
+    "state": "AZ"
+  },
+  "pastors": [
+    {
+      "name": "Carlos Garcia",
+      "role": "Preacher",
+      "plagiarism": {
+        "status": "unchecked"
+      },
+      "ai_writing": {
+        "status": "unchecked"
+      },
+      "active": true
+    }
+  ],
+  "sources": [
+    {
+      "label": "Iglesia De Cristo En Tucson / Church of Christ in Tucson contact page",
+      "url": "https://www.iccctucson.org/contact",
+      "accessed": "2026-09-11"
+    }
+  ],
+  "summary": "Not yet reviewed.",
+  "notes": "Spanish-language Churches of Christ congregation on the south side. Sermons are likely in Spanish, which changes the tooling needed for any plagiarism or AI-writing review (Spanish-language source corpora, Spanish captions). Coordinates missing: Rex St is not on the reference grid.",
+  "updated_at": "2026-09-11",
+  "updated_by": "claude-opus-5 research agent (seed)"
+}

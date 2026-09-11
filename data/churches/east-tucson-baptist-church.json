@@ -1,0 +1,47 @@
+{
+  "slug": "east-tucson-baptist-church",
+  "name": "East Tucson Baptist Church",
+  "tradition": "baptist",
+  "denomination": "Southern Baptist Convention",
+  "youtube": {
+    "channel_url": "https://www.youtube.com/channel/UCz1YFv2AqbAippXPTOjcn0w",
+    "transcripts_available": "unknown"
+  },
+  "location": {
+    "address": "Address not confirmed",
+    "lat": null,
+    "lng": null,
+    "geocode": "missing",
+    "city": "Tucson",
+    "state": "AZ"
+  },
+  "pastors": [
+    {
+      "name": "John Anderson",
+      "role": "Senior Pastor",
+      "plagiarism": {
+        "status": "unchecked"
+      },
+      "ai_writing": {
+        "status": "unchecked"
+      },
+      "active": true
+    }
+  ],
+  "sources": [
+    {
+      "label": "ChurchFinder listing: East Tucson Baptist Church, Tucson AZ",
+      "url": "https://www.churchfinder.com/churches/az/tucson/east-tucson-baptist-church",
+      "accessed": "2026-09-11"
+    },
+    {
+      "label": "East Tucson Baptist Church YouTube channel",
+      "url": "https://www.youtube.com/channel/UCz1YFv2AqbAippXPTOjcn0w",
+      "accessed": "2026-09-11"
+    }
+  ],
+  "summary": "Not yet reviewed.",
+  "notes": "Southern Baptist church on the east side with its own YouTube channel. Street address and a church website were not confirmed in search results - find them. Senior Pastor John Anderson came from a directory listing; confirm against the church's own staff page.",
+  "updated_at": "2026-09-11",
+  "updated_by": "claude-opus-5 research agent (seed)"
+}

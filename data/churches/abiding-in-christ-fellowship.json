@@ -1,0 +1,39 @@
+{
+  "slug": "abiding-in-christ-fellowship",
+  "name": "Abiding in Christ Fellowship",
+  "tradition": "nazarene_holiness",
+  "denomination": "Church of the Nazarene",
+  "website": "https://abiding-in-christ.org/",
+  "location": {
+    "address": "Address not confirmed",
+    "lat": null,
+    "lng": null,
+    "geocode": "missing",
+    "city": "Tucson",
+    "state": "AZ"
+  },
+  "pastors": [
+    {
+      "name": "Sam Hall",
+      "role": "Pastor",
+      "plagiarism": {
+        "status": "unchecked"
+      },
+      "ai_writing": {
+        "status": "unchecked"
+      },
+      "active": true
+    }
+  ],
+  "sources": [
+    {
+      "label": "Abiding in Christ Fellowship (Nazarene, Tucson) official site",
+      "url": "https://abiding-in-christ.org/",
+      "accessed": "2026-09-11"
+    }
+  ],
+  "summary": "Not yet reviewed.",
+  "notes": "Small Nazarene fellowship in Tucson led by Pastor Sam Hall. No sermon archive or address confirmed in search results.",
+  "updated_at": "2026-09-11",
+  "updated_by": "claude-opus-5 research agent (seed)"
+}

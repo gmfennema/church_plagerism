@@ -1,0 +1,26 @@
+{
+  "slug": "eastside-assembly-of-god-tucson",
+  "name": "Eastside Assembly of God",
+  "tradition": "pentecostal_charismatic",
+  "denomination": "Assemblies of God",
+  "location": {
+    "address": "Address not confirmed",
+    "lat": null,
+    "lng": null,
+    "geocode": "missing",
+    "city": "Tucson",
+    "state": "AZ"
+  },
+  "pastors": [],
+  "sources": [
+    {
+      "label": "FaithStreet: Eastside Assembly of God, Tucson AZ",
+      "url": "https://www.faithstreet.com/church/eastside-assembly-of-god-tucson-az",
+      "accessed": "2026-09-11"
+    }
+  ],
+  "summary": "Not yet reviewed.",
+  "notes": "East-side Assemblies of God congregation with a blend of traditional hymns and contemporary worship. Only a FaithStreet directory listing was confirmed - address, website, pastor and sermon host all still needed.",
+  "updated_at": "2026-09-11",
+  "updated_by": "claude-opus-5 research agent (seed)"
+}

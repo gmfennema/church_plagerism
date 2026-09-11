@@ -1,0 +1,34 @@
+{
+  "slug": "country-club-road-church-of-christ",
+  "name": "Country Club Road church of Christ",
+  "tradition": "restoration_churches_of_christ",
+  "denomination": "Churches of Christ",
+  "website": "http://churchofchristtucson.org/",
+  "other_media": [
+    {
+      "label": "Country Club Road church of Christ sermons page",
+      "url": "http://churchofchristtucson.org/sermons"
+    }
+  ],
+  "location": {
+    "address": "145 N Country Club Rd",
+    "postal_code": "85716",
+    "lat": null,
+    "lng": null,
+    "geocode": "missing",
+    "city": "Tucson",
+    "state": "AZ"
+  },
+  "pastors": [],
+  "sources": [
+    {
+      "label": "Country Club Road church of Christ sermons page",
+      "url": "http://churchofchristtucson.org/sermons",
+      "accessed": "2026-09-11"
+    }
+  ],
+  "summary": "Not yet reviewed.",
+  "notes": "Churches of Christ congregation in central Tucson with an online sermons page. Coordinates missing: Country Club Rd's longitude is not on the reference grid. No preacher name confirmed; Churches of Christ often rotate speakers.",
+  "updated_at": "2026-09-11",
+  "updated_by": "claude-opus-5 research agent (seed)"
+}

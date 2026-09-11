@@ -1,0 +1,26 @@
+{
+  "slug": "st-andrews-presbyterian-church-tucson",
+  "name": "St. Andrew's Presbyterian Church",
+  "tradition": "presbyterian_reformed",
+  "denomination": "Presbyterian (affiliation to verify)",
+  "location": {
+    "address": "Address not confirmed",
+    "lat": null,
+    "lng": null,
+    "geocode": "missing",
+    "city": "Tucson",
+    "state": "AZ"
+  },
+  "pastors": [],
+  "sources": [
+    {
+      "label": "St. Andrew's Presbyterian Church Tucson Facebook page",
+      "url": "https://www.facebook.com/sapctucson/",
+      "accessed": "2026-09-11"
+    }
+  ],
+  "summary": "Not yet reviewed.",
+  "notes": "Only a Facebook page was confirmed in search results. Address, denomination affiliation, pastor and sermon host all still need research. Low priority unless sermons turn out to be published.",
+  "updated_at": "2026-09-11",
+  "updated_by": "claude-opus-5 research agent (seed)"
+}

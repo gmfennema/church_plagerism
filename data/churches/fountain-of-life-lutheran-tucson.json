@@ -1,0 +1,47 @@
+{
+  "slug": "fountain-of-life-lutheran-tucson",
+  "name": "Fountain of Life Lutheran Church",
+  "tradition": "lutheran",
+  "denomination": "Lutheran Church-Missouri Synod (LCMS)",
+  "website": "https://www.follutheran.org/",
+  "youtube": {
+    "channel_url": "https://www.youtube.com/channel/UCdovNXbEU7aR-YG8F1UAEYA",
+    "transcripts_available": "unknown"
+  },
+  "location": {
+    "address": "710 S Kolb Rd",
+    "postal_code": "85710",
+    "lat": 32.2112,
+    "lng": -110.84,
+    "geocode": "approximate",
+    "city": "Tucson",
+    "state": "AZ"
+  },
+  "pastors": [],
+  "sources": [
+    {
+      "label": "Fountain of Life Lutheran Church official site",
+      "url": "https://www.follutheran.org/",
+      "accessed": "2026-09-11"
+    },
+    {
+      "label": "LCMS church locator entry: Fountain of Life Lutheran Church, 710 S Kolb Rd",
+      "url": "https://locator.lcms.org/church/C/914557",
+      "accessed": "2026-09-11"
+    },
+    {
+      "label": "Fountain of Life Lutheran Church - Tucson YouTube channel (live)",
+      "url": "https://www.youtube.com/channel/UCdovNXbEU7aR-YG8F1UAEYA/live",
+      "accessed": "2026-09-11"
+    },
+    {
+      "label": "Fountain of Life Lutheran Church Facebook page",
+      "url": "https://www.facebook.com/FountainofLifeLutheranChurch/",
+      "accessed": "2026-09-11"
+    }
+  ],
+  "summary": "Not yet reviewed.",
+  "notes": "LCMS parish on S Kolb Rd, Sunday worship 9am, with its own YouTube channel that streams services. WATCH OUT: there is a separate 'Fountain of Life Lutheran Church' in Sun City, Arizona with its own YouTube channels - make sure any videos pulled are from the Tucson channel (UCdovNXbEU7aR-YG8F1UAEYA). No pastor name confirmed. Lectionary preaching caveat applies.",
+  "updated_at": "2026-09-11",
+  "updated_by": "claude-opus-5 research agent (seed)"
+}

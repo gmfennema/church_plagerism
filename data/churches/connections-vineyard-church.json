@@ -1,0 +1,58 @@
+{
+  "slug": "connections-vineyard-church",
+  "name": "Connections Vineyard Church",
+  "aka": [
+    "Connections, a Vineyard Church"
+  ],
+  "tradition": "pentecostal_charismatic",
+  "denomination": "Vineyard USA",
+  "location": {
+    "address": "3150 E Fort Lowell Rd",
+    "postal_code": "85716",
+    "lat": 32.265,
+    "lng": -110.9158,
+    "geocode": "approximate",
+    "city": "Tucson",
+    "state": "AZ"
+  },
+  "pastors": [
+    {
+      "name": "David Petrash",
+      "role": "Senior Pastor",
+      "plagiarism": {
+        "status": "unchecked"
+      },
+      "ai_writing": {
+        "status": "unchecked"
+      },
+      "active": true
+    },
+    {
+      "name": "Trina Petrash",
+      "role": "Co-Senior Pastor",
+      "plagiarism": {
+        "status": "unchecked"
+      },
+      "ai_writing": {
+        "status": "unchecked"
+      },
+      "active": true
+    }
+  ],
+  "sources": [
+    {
+      "label": "USAChurches listing: Connections, a Vineyard Church, Tucson AZ",
+      "url": "https://www.usachurches.org/church/connections-a-vineyard-church.htm",
+      "accessed": "2026-09-11"
+    },
+    {
+      "label": "ChurchFinder listing: Connections Vineyard Church, Tucson AZ",
+      "url": "https://www.churchfinder.com/churches/az/tucson/connections-vineyard-church-0",
+      "accessed": "2026-09-11"
+    }
+  ],
+  "summary": "Not yet reviewed.",
+  "notes": "Vineyard USA congregation at Fort Lowell and Country Club, Sunday 10-11:30am. No church website or sermon archive was confirmed in search results - the only listings found were third-party directories, so check whether sermons are published at all before scheduling a review. Confirm which of the two co-senior pastors normally preaches.",
+  "updated_at": "2026-09-11",
+  "updated_by": "claude-opus-5 research agent (seed)"
+}

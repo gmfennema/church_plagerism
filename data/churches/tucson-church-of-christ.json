@@ -1,0 +1,59 @@
+{
+  "slug": "tucson-church-of-christ",
+  "name": "Tucson Church of Christ",
+  "tradition": "restoration_churches_of_christ",
+  "denomination": "Churches of Christ",
+  "website": "https://tucsonchurchofchrist.com/",
+  "other_media": [
+    {
+      "label": "Tucson Church of Christ Sunday sermons",
+      "url": "https://tucsonchurchofchrist.com/sunday-church-sermons/"
+    },
+    {
+      "label": "Tucson Church of Christ podcast",
+      "url": "https://tucsonchurchofchrist.com/podcast/"
+    }
+  ],
+  "location": {
+    "address": "Address not confirmed",
+    "lat": null,
+    "lng": null,
+    "geocode": "missing",
+    "city": "Tucson",
+    "state": "AZ"
+  },
+  "pastors": [
+    {
+      "name": "Billy Wilson",
+      "role": "Minister",
+      "plagiarism": {
+        "status": "unchecked"
+      },
+      "ai_writing": {
+        "status": "unchecked"
+      },
+      "active": true
+    }
+  ],
+  "sources": [
+    {
+      "label": "Tucson Church of Christ official site",
+      "url": "https://tucsonchurchofchrist.com/",
+      "accessed": "2026-09-11"
+    },
+    {
+      "label": "Tucson Church of Christ 'Our Minister' page",
+      "url": "https://sites.google.com/site/tucsonchurchofchrist/our-pastors",
+      "accessed": "2026-09-11"
+    },
+    {
+      "label": "Tucson Church of Christ Sunday sermons page",
+      "url": "https://tucsonchurchofchrist.com/sunday-church-sermons/",
+      "accessed": "2026-09-11"
+    }
+  ],
+  "summary": "Not yet reviewed.",
+  "notes": "Minister Billy Wilson is described as a graduate of the British Bible College who preached 15 years in Glasgow. Sermons are published both on the site and as a podcast, so a text corpus is obtainable. Street address not confirmed. Note there are several similarly named Churches of Christ in Tucson (Country Club Road, Christ's Church of Tucson, Iglesia de Cristo) - keep them separate.",
+  "updated_at": "2026-09-11",
+  "updated_by": "claude-opus-5 research agent (seed)"
+}

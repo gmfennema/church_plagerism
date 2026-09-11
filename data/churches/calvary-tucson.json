@@ -1,0 +1,69 @@
+{
+  "slug": "calvary-tucson",
+  "name": "Calvary Tucson",
+  "aka": [
+    "Calvary Chapel Tucson"
+  ],
+  "tradition": "non_denominational",
+  "denomination": "Calvary Chapel",
+  "website": "https://calvarytucson.com/",
+  "other_media": [
+    {
+      "label": "Calvary Tucson teachings archive",
+      "url": "https://calvarytucson.com/teachings"
+    },
+    {
+      "label": "Calvary Tucson live stream",
+      "url": "https://live.calvarytucson.com/"
+    }
+  ],
+  "location": {
+    "address": "8711 E Speedway Blvd",
+    "postal_code": "85710",
+    "lat": 32.236,
+    "lng": -110.8202,
+    "geocode": "approximate",
+    "city": "Tucson",
+    "state": "AZ"
+  },
+  "pastors": [
+    {
+      "name": "Robert Furrow",
+      "role": "Pastor",
+      "bio_url": "https://calvarytucson.com/people",
+      "plagiarism": {
+        "status": "unchecked"
+      },
+      "ai_writing": {
+        "status": "unchecked"
+      },
+      "active": true
+    }
+  ],
+  "sources": [
+    {
+      "label": "Calvary Tucson official site",
+      "url": "https://calvarytucson.com/",
+      "accessed": "2026-09-11"
+    },
+    {
+      "label": "Calvary Tucson pastors and staff page",
+      "url": "https://calvarytucson.com/people",
+      "accessed": "2026-09-11"
+    },
+    {
+      "label": "Yelp: Calvary Chapel Tucson, 8711 E Speedway Blvd",
+      "url": "https://www.yelp.com/biz/calvary-chapel-tucson-tucson-2",
+      "accessed": "2026-09-11"
+    },
+    {
+      "label": "Calvary Chapel Tucson Facebook page",
+      "url": "https://www.facebook.com/calvarychapeltucson/",
+      "accessed": "2026-09-11"
+    }
+  ],
+  "summary": "Not yet reviewed.",
+  "notes": "Calvary Chapel movement church; verse-by-verse expository preaching. Two campuses (East and West) - this record is the East/Speedway campus, which search results give as the main address. Sermons are archived on the church site at calvarytucson.com/teachings and streamed at live.calvarytucson.com; no dedicated YouTube channel was confirmed from search results, so the teachings archive may be the primary source for transcripts. Other staff pastors listed on calvarytucson.com/people may also preach - check before reviewing.",
+  "updated_at": "2026-09-11",
+  "updated_by": "claude-opus-5 research agent (seed)"
+}

@@ -1,0 +1,35 @@
+{
+  "slug": "cdo-assembly-of-god",
+  "name": "CDO Assembly of God",
+  "aka": [
+    "Canyon Del Oro Assembly of God"
+  ],
+  "tradition": "pentecostal_charismatic",
+  "denomination": "Assemblies of God",
+  "website": "https://www.cdoassemblyofgod.com/",
+  "location": {
+    "address": "Address not confirmed",
+    "lat": null,
+    "lng": null,
+    "geocode": "missing",
+    "city": "Tucson",
+    "state": "AZ"
+  },
+  "pastors": [],
+  "sources": [
+    {
+      "label": "CDO Assembly of God official site",
+      "url": "https://www.cdoassemblyofgod.com/",
+      "accessed": "2026-09-11"
+    },
+    {
+      "label": "CDO Assembly of God service times and location page",
+      "url": "https://www.cdoassemblyofgod.com/location/",
+      "accessed": "2026-09-11"
+    }
+  ],
+  "summary": "Not yet reviewed.",
+  "notes": "Assemblies of God church in the Canyon Del Oro / north Tucson area; Sunday School 9:00am, worship 10:15am, Wednesday Bible study 6:00pm. Distinct from CDO Bible Church on Oracle Rd. No pastor name or sermon archive confirmed.",
+  "updated_at": "2026-09-11",
+  "updated_by": "claude-opus-5 research agent (seed)"
+}

@@ -1,0 +1,43 @@
+{
+  "slug": "first-assembly-of-god-tucson",
+  "name": "First Assembly of God",
+  "tradition": "pentecostal_charismatic",
+  "denomination": "Assemblies of God",
+  "other_media": [
+    {
+      "label": "First Assembly of God Tucson live stream (Christian World Media)",
+      "url": "https://www.christianworldmedia.com/livechannel/FirstAssemblyofGodTucson"
+    }
+  ],
+  "location": {
+    "address": "1749 E Broadway Blvd",
+    "postal_code": "85719",
+    "lat": 32.2215,
+    "lng": -110.9399,
+    "geocode": "approximate",
+    "city": "Tucson",
+    "state": "AZ"
+  },
+  "pastors": [],
+  "sources": [
+    {
+      "label": "Assemblies of God (USA) church directory listing",
+      "url": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=ca9cd368-865d-4dca-b2f4-b8ec78f84127&d=False",
+      "accessed": "2026-09-11"
+    },
+    {
+      "label": "First Assembly of God Tucson live stream on Christian World Media",
+      "url": "https://www.christianworldmedia.com/livechannel/FirstAssemblyofGodTucson",
+      "accessed": "2026-09-11"
+    },
+    {
+      "label": "FaithStreet: Assemblies of God churches in Tucson, AZ",
+      "url": "https://www.faithstreet.com/tucson-az/denominations/assemblies-of-god",
+      "accessed": "2026-09-11"
+    }
+  ],
+  "summary": "Not yet reviewed.",
+  "notes": "Assemblies of God congregation on E Broadway near Campbell. Services stream through Christian World Media rather than YouTube, which may mean no captions and no permanent archive - check whether past services are retrievable before planning a review. No pastor name confirmed. Coordinates estimated from Broadway Blvd plus the 1749 E address number.",
+  "updated_at": "2026-09-11",
+  "updated_by": "claude-opus-5 research agent (seed)"
+}

@@ -1,0 +1,84 @@
+{
+  "slug": "sovereign-grace-church-tucson",
+  "name": "Sovereign Grace Church",
+  "aka": [
+    "Sovereign Grace Church Tucson",
+    "SGC Tucson"
+  ],
+  "tradition": "presbyterian_reformed",
+  "denomination": "Sovereign Grace Churches",
+  "website": "https://sovgracetucson.org/",
+  "youtube": {
+    "channel_url": "https://www.youtube.com/@sovereigngracechurchtucson1916",
+    "handle": "@sovereigngracechurchtucson1916",
+    "transcripts_available": "unknown"
+  },
+  "other_media": [
+    {
+      "label": "Sovereign Grace Church Tucson sermons page",
+      "url": "https://sovgracetucson.org/sermons/"
+    },
+    {
+      "label": "Sermon podcast (Apple Podcasts)",
+      "url": "https://podcasts.apple.com/us/podcast/sovereign-grace-church-tucson-az-sermons/id675826535"
+    },
+    {
+      "label": "Sermon podcast (Spotify)",
+      "url": "https://open.spotify.com/show/2i0drhIz83EkglFmcwNEj2"
+    }
+  ],
+  "location": {
+    "address": "1241 W Ina Rd",
+    "postal_code": "85704",
+    "lat": 32.337,
+    "lng": -110.9914,
+    "geocode": "approximate",
+    "city": "Tucson",
+    "state": "AZ"
+  },
+  "pastors": [
+    {
+      "name": "Ernie Blanco",
+      "role": "Pastor (confirmed as a sermon speaker; title unconfirmed)",
+      "active": true,
+      "plagiarism": {
+        "status": "unchecked"
+      },
+      "ai_writing": {
+        "status": "unchecked"
+      },
+      "notes": "Named as the preacher of a 29 March 2026 sermon in the church's podcast feed. The church leadership page also describes a senior pastor named 'Derek' whose surname was not visible in search results - find it and add him, since he is described as the primary preacher."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Sovereign Grace Church Tucson official site",
+      "url": "https://sovgracetucson.org/",
+      "accessed": "2026-09-11"
+    },
+    {
+      "label": "Sovereign Grace Church Tucson sermons page",
+      "url": "https://sovgracetucson.org/sermons/",
+      "accessed": "2026-09-11"
+    },
+    {
+      "label": "Sovereign Grace Church Tucson YouTube channel",
+      "url": "https://www.youtube.com/@sovereigngracechurchtucson1916",
+      "accessed": "2026-09-11"
+    },
+    {
+      "label": "Sovereign Grace Church Tucson Facebook page",
+      "url": "https://www.facebook.com/sovereigngracetucson/",
+      "accessed": "2026-09-11"
+    },
+    {
+      "label": "Sovereign Grace Church Tucson leadership page",
+      "url": "https://sovgracetucson.org/leadership/",
+      "accessed": "2026-09-11"
+    }
+  ],
+  "summary": "Not yet reviewed.",
+  "notes": "Reformed/complementarian congregation in the Sovereign Grace Churches network, meeting Sundays at 10am on W Ina Rd. Sermons are published weekly to a YouTube channel and to podcast feeds - one of the easier Tucson churches to pull a clean sermon corpus from. Ernie Blanco is confirmed as a sermon speaker (29 March 2026) from the podcast feed. The leadership page describes a senior pastor named 'Derek' who does most of the preaching, but his surname was not visible in any search snippet, so he is NOT recorded - retrieve it from sovgracetucson.org/leadership/ and add him.",
+  "updated_at": "2026-09-11",
+  "updated_by": "claude-opus-5 research agent (seed)"
+}

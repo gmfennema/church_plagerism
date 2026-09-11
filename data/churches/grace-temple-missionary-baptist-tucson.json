@@ -1,0 +1,41 @@
+{
+  "slug": "grace-temple-missionary-baptist-tucson",
+  "name": "Grace Temple Missionary Baptist Church",
+  "aka": [
+    "Grace Temple Baptist Church"
+  ],
+  "tradition": "baptist",
+  "denomination": "Missionary Baptist",
+  "website": "https://gracetemplembc.com/",
+  "location": {
+    "address": "1019 E 31st St",
+    "postal_code": "85713",
+    "lat": null,
+    "lng": null,
+    "geocode": "missing",
+    "city": "Tucson",
+    "state": "AZ"
+  },
+  "pastors": [],
+  "sources": [
+    {
+      "label": "Grace Temple Missionary Baptist Church official site",
+      "url": "https://gracetemplembc.com/",
+      "accessed": "2026-09-11"
+    },
+    {
+      "label": "Grace Temple church staff page",
+      "url": "https://gracetemplembc.com/about-us/church-staff/",
+      "accessed": "2026-09-11"
+    },
+    {
+      "label": "Grace Temple Baptist Church Tucson Facebook page",
+      "url": "https://www.facebook.com/gracetempletucson/",
+      "accessed": "2026-09-11"
+    }
+  ],
+  "summary": "Not yet reviewed.",
+  "notes": "Historically Black Missionary Baptist congregation on the south side. A church staff page exists but no name was visible in search snippets, so pastors is empty. No sermon archive URL confirmed - check the Facebook page for live streams. Coordinates missing: 31st St is not on the reference grid.",
+  "updated_at": "2026-09-11",
+  "updated_by": "claude-opus-5 research agent (seed)"
+}

@@ -1,0 +1,43 @@
+{
+  "slug": "tucson-central-church-of-the-nazarene",
+  "name": "Tucson Central Church of the Nazarene",
+  "tradition": "nazarene_holiness",
+  "denomination": "Church of the Nazarene",
+  "website": "https://www.tucsoncentral.org/",
+  "other_media": [
+    {
+      "label": "Tucson Central sermons by speaker",
+      "url": "https://www.tucsoncentral.org/sermons/speakers"
+    }
+  ],
+  "location": {
+    "address": "Address not confirmed",
+    "lat": null,
+    "lng": null,
+    "geocode": "missing",
+    "city": "Tucson",
+    "state": "AZ"
+  },
+  "pastors": [],
+  "sources": [
+    {
+      "label": "Tucson Central Church of the Nazarene official site",
+      "url": "https://www.tucsoncentral.org/",
+      "accessed": "2026-09-11"
+    },
+    {
+      "label": "Tucson Central staff and leaders page",
+      "url": "https://www.tucsoncentral.org/staff-leaders",
+      "accessed": "2026-09-11"
+    },
+    {
+      "label": "Tucson Central sermons-by-speaker index",
+      "url": "https://www.tucsoncentral.org/sermons/speakers",
+      "accessed": "2026-09-11"
+    }
+  ],
+  "summary": "Not yet reviewed.",
+  "notes": "Useful feature: the church site indexes sermons by speaker at /sermons/speakers, which makes per-preacher attribution easy and is the right page to harvest pastor names from. No name was visible in search snippets, so pastors is left empty. Street address not confirmed.",
+  "updated_at": "2026-09-11",
+  "updated_by": "claude-opus-5 research agent (seed)"
+}

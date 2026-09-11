@@ -1,0 +1,27 @@
+{
+  "slug": "church-of-the-brethren-tucson",
+  "name": "Church of the Brethren Tucson",
+  "tradition": "other_protestant",
+  "denomination": "Church of the Brethren",
+  "location": {
+    "address": "2200 N Dodge Blvd",
+    "postal_code": "85716",
+    "lat": null,
+    "lng": null,
+    "geocode": "missing",
+    "city": "Tucson",
+    "state": "AZ"
+  },
+  "pastors": [],
+  "sources": [
+    {
+      "label": "Yelp: Church of the Brethren Tucson, 2200 N Dodge Blvd",
+      "url": "https://www.yelp.com/biz/church-of-the-brethren-tucson-tucson",
+      "accessed": "2026-09-11"
+    }
+  ],
+  "summary": "Not yet reviewed.",
+  "notes": "Anabaptist-rooted Church of the Brethren congregation on N Dodge Blvd. Distinct from First Brethren Church of Tucson (a different body in the Brethren family) - see first-brethren-church-tucson. Only a Yelp listing was confirmed; no website, pastor or sermons found. Coordinates missing: Dodge Blvd is not on the reference grid.",
+  "updated_at": "2026-09-11",
+  "updated_by": "claude-opus-5 research agent (seed)"
+}

@@ -1,0 +1,70 @@
+{
+  "slug": "st-philips-in-the-hills",
+  "name": "St. Philip's in the Hills Episcopal Church",
+  "tradition": "anglican_episcopal",
+  "denomination": "The Episcopal Church - Diocese of Arizona",
+  "location": {
+    "address": "4440 N Campbell Ave",
+    "postal_code": "85718",
+    "lat": 32.2859,
+    "lng": -110.9435,
+    "geocode": "approximate",
+    "city": "Tucson",
+    "state": "AZ"
+  },
+  "pastors": [
+    {
+      "name": "Richard Mallory",
+      "role": "Interim Rector",
+      "active": true,
+      "plagiarism": {
+        "status": "unchecked"
+      },
+      "ai_writing": {
+        "status": "unchecked"
+      },
+      "tenure": {
+        "from": "2026",
+        "to": null
+      },
+      "notes": "Serving as interim while the parish runs a rector search (parish profile posted April 2026)."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Wikipedia: St. Philip's in the Hills Episcopal Church",
+      "url": "https://en.wikipedia.org/wiki/St._Philip%27s_in_the_Hills_Episcopal_Church",
+      "accessed": "2026-09-11"
+    },
+    {
+      "label": "St. Philip's in the Hills official site",
+      "url": "https://stphilipstucson.org/",
+      "accessed": "2026-09-11"
+    },
+    {
+      "label": "St. Philip's in the Hills parish profile, April 2026 (rector search)",
+      "url": "https://stphilipstucson.org/parish-profile-2/",
+      "accessed": "2026-09-11"
+    },
+    {
+      "label": "St. Philip's in the Hills: From the Interim Rector, January 9, 2026",
+      "url": "https://stphilipstucson.org/from-the-interim-rector-18/",
+      "accessed": "2026-09-11"
+    },
+    {
+      "label": "Yelp: Saint Philip's in the Hills Episcopal Church, 4440 N Campbell Ave",
+      "url": "https://www.yelp.com/biz/saint-philips-in-the-hills-episcopal-church-tucson",
+      "accessed": "2026-09-11"
+    },
+    {
+      "label": "Episcopal News Service job listing: Rector",
+      "url": "https://episcopalnewsservice.org/jobs/rector-1366/",
+      "accessed": "2026-09-11"
+    }
+  ],
+  "summary": "Not yet reviewed.",
+  "notes": "One of the largest Episcopal parishes in Arizona (about 400 households; reported average Sunday attendance around 404 in 2024), in the Catalina Foothills, and an architectural landmark. IN TRANSITION: the parish is in a rector search as of 2026 - Richard Mallory is interim rector and a parish profile was posted in April 2026. Expect the 2025-2026 pulpit to be shared among interim and supply clergy, so attribute sermons individually. Episcopal preaching follows the Revised Common Lectionary, which raises the baseline overlap with published lectionary commentaries; account for that in any similarity review. No sermon video host was confirmed - check stphilipstucson.org.",
+  "updated_at": "2026-09-11",
+  "updated_by": "claude-opus-5 research agent (seed)",
+  "website": "https://stphilipstucson.org/"
+}

@@ -1,0 +1,48 @@
+{
+  "slug": "marana-church-of-christ",
+  "name": "Marana Church of Christ",
+  "tradition": "restoration_churches_of_christ",
+  "denomination": "Churches of Christ",
+  "website": "https://maranachurchofchrist.com/",
+  "youtube": {
+    "channel_url": "https://www.youtube.com/channel/UCoYB7m4vupEVkM9PNTYNW9Q",
+    "transcripts_available": "unknown"
+  },
+  "other_media": [
+    {
+      "label": "Marana Church of Christ sermons page",
+      "url": "https://maranachurchofchrist.com/sermons/sermons"
+    }
+  ],
+  "location": {
+    "address": "12311 W Moore Rd",
+    "city": "Marana",
+    "postal_code": "85653",
+    "lat": null,
+    "lng": null,
+    "geocode": "missing",
+    "state": "AZ"
+  },
+  "pastors": [],
+  "sources": [
+    {
+      "label": "Marana Church of Christ official site",
+      "url": "https://maranachurchofchrist.com/",
+      "accessed": "2026-09-11"
+    },
+    {
+      "label": "Marana Church of Christ sermons page",
+      "url": "https://maranachurchofchrist.com/sermons/sermons",
+      "accessed": "2026-09-11"
+    },
+    {
+      "label": "Marana Church of Christ YouTube channel",
+      "url": "https://www.youtube.com/channel/UCoYB7m4vupEVkM9PNTYNW9Q",
+      "accessed": "2026-09-11"
+    }
+  ],
+  "summary": "Not yet reviewed.",
+  "notes": "Non-instrumental Churches of Christ congregation with both a sermons page and a YouTube channel. Churches of Christ often rotate preaching among elders and members, so identify the regular preacher(s) from the sermons page before attributing anything. No name confirmed.",
+  "updated_at": "2026-09-11",
+  "updated_by": "claude-opus-5 research agent (seed)"
+}

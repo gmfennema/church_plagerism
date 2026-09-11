@@ -1,0 +1,48 @@
+{
+  "slug": "morning-star-missionary-baptist-tucson",
+  "name": "Morning Star Missionary Baptist Church",
+  "aka": [
+    "The Love Camp of Tucson"
+  ],
+  "tradition": "baptist",
+  "denomination": "Missionary Baptist",
+  "website": "https://www.morningstaraz.org/",
+  "location": {
+    "address": "1201 E 26th St",
+    "postal_code": "85713",
+    "lat": null,
+    "lng": null,
+    "geocode": "missing",
+    "city": "Tucson",
+    "state": "AZ"
+  },
+  "pastors": [
+    {
+      "name": "Melissa R. Stanley",
+      "role": "Senior Pastor",
+      "plagiarism": {
+        "status": "unchecked"
+      },
+      "ai_writing": {
+        "status": "unchecked"
+      },
+      "active": true
+    }
+  ],
+  "sources": [
+    {
+      "label": "Morning Star Missionary Baptist Church official site",
+      "url": "https://www.morningstaraz.org/",
+      "accessed": "2026-09-11"
+    },
+    {
+      "label": "BibleTimes directory: Morning Star Baptist Church, Tucson AZ",
+      "url": "https://www.bibletimes.app/find-a-church/us/arizona/tucson/morning-star-baptist-church",
+      "accessed": "2026-09-11"
+    }
+  ],
+  "summary": "Not yet reviewed.",
+  "notes": "Historically Black Missionary Baptist congregation on the south side, self-described as 'The Love Camp of Tucson'. Senior Pastor Melissa R. Stanley - one of the few women senior pastors identified in this seeding pass. No sermon archive URL confirmed. Coordinates missing: 26th St is not on the reference grid.",
+  "updated_at": "2026-09-11",
+  "updated_by": "claude-opus-5 research agent (seed)"
+}

@@ -1,0 +1,31 @@
+{
+  "slug": "grace-lutheran-tucson",
+  "name": "Grace Lutheran Church Tucson",
+  "aka": [
+    "Grace Tucson"
+  ],
+  "tradition": "lutheran",
+  "denomination": "Lutheran (synod affiliation to verify)",
+  "website": "https://www.gracelutheransaz.org/tucson",
+  "location": {
+    "address": "830 N 1st Ave",
+    "postal_code": "85719",
+    "lat": 32.2335,
+    "lng": -110.96,
+    "geocode": "approximate",
+    "city": "Tucson",
+    "state": "AZ"
+  },
+  "pastors": [],
+  "sources": [
+    {
+      "label": "Grace Lutheran Church - Tucson campus page",
+      "url": "https://www.gracelutheransaz.org/tucson",
+      "accessed": "2026-09-11"
+    }
+  ],
+  "summary": "Not yet reviewed.",
+  "notes": "Lutheran congregation in the University of Arizona area, in existence since 1911. Search snippet says the church publishes both service videos and printed sermon manuscripts - printed manuscripts are unusually good source material for a text-similarity review, so this one is worth prioritising. Synod affiliation (ELCA vs LCMS vs other) was not confirmed; the site domain covers more than one campus, so check whether Tucson has its own preaching pastor.",
+  "updated_at": "2026-09-11",
+  "updated_by": "claude-opus-5 research agent (seed)"
+}

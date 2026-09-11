@@ -1,0 +1,43 @@
+{
+  "slug": "first-brethren-church-tucson",
+  "name": "First Brethren Church of Tucson",
+  "tradition": "other_protestant",
+  "denomination": "Brethren",
+  "location": {
+    "address": "Address not confirmed",
+    "lat": null,
+    "lng": null,
+    "geocode": "missing",
+    "city": "Tucson",
+    "state": "AZ"
+  },
+  "pastors": [
+    {
+      "name": "Roger O. Stogsdill",
+      "role": "Pastor",
+      "plagiarism": {
+        "status": "unchecked"
+      },
+      "ai_writing": {
+        "status": "unchecked"
+      },
+      "active": true
+    }
+  ],
+  "sources": [
+    {
+      "label": "USAChurches listing: First Brethren Church, Tucson AZ",
+      "url": "https://www.usachurches.org/church/first-brethren-church.htm",
+      "accessed": "2026-09-11"
+    },
+    {
+      "label": "First Brethren Church of Tucson Facebook page",
+      "url": "https://www.facebook.com/tucsonfbc/",
+      "accessed": "2026-09-11"
+    }
+  ],
+  "summary": "Not yet reviewed.",
+  "notes": "Brethren congregation. A separate 'Church of the Brethren Tucson' exists at 2200 N Dodge Blvd - these look like two different bodies (Brethren Church vs Church of the Brethren); confirm which is which before merging or adding a second record. No address or sermon archive confirmed.",
+  "updated_at": "2026-09-11",
+  "updated_by": "claude-opus-5 research agent (seed)"
+}

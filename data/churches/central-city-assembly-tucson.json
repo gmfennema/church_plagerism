@@ -1,0 +1,27 @@
+{
+  "slug": "central-city-assembly-tucson",
+  "name": "Central City Assembly",
+  "tradition": "pentecostal_charismatic",
+  "denomination": "Assemblies of God",
+  "location": {
+    "address": "Address not confirmed",
+    "postal_code": "85701",
+    "lat": null,
+    "lng": null,
+    "geocode": "missing",
+    "city": "Tucson",
+    "state": "AZ"
+  },
+  "pastors": [],
+  "sources": [
+    {
+      "label": "FaithStreet: Central City Assembly, Assemblies of God, Tucson AZ 85701",
+      "url": "https://www.faithstreet.com/church/central-city-assembly-tucson-az",
+      "accessed": "2026-09-11"
+    }
+  ],
+  "summary": "Not yet reviewed.",
+  "notes": "Downtown-area Assemblies of God congregation. A search snippet referred to a 'Pastor Kai' with no surname, so no pastor is recorded. Address, website and sermon host still needed.",
+  "updated_at": "2026-09-11",
+  "updated_by": "claude-opus-5 research agent (seed)"
+}

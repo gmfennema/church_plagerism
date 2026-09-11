@@ -1,0 +1,68 @@
+{
+  "slug": "st-michael-and-all-angels-tucson",
+  "name": "St. Michael and All Angels Episcopal Church",
+  "aka": [
+    "St. Michael's Tucson"
+  ],
+  "tradition": "anglican_episcopal",
+  "denomination": "The Episcopal Church - Diocese of Arizona",
+  "website": "https://www.smallangelstucson.org/",
+  "location": {
+    "address": "602 N Wilmot Rd",
+    "postal_code": "85711",
+    "lat": 32.2302,
+    "lng": -110.8575,
+    "geocode": "approximate",
+    "city": "Tucson",
+    "state": "AZ"
+  },
+  "pastors": [
+    {
+      "name": "David Benedict Hedges",
+      "role": "Rector",
+      "tenure": {
+        "from": "2016",
+        "to": null
+      },
+      "bio_url": "https://www.smallangelstucson.org/clergy-staff-and-leaders.html",
+      "plagiarism": {
+        "status": "unchecked"
+      },
+      "ai_writing": {
+        "status": "unchecked"
+      },
+      "active": true
+    }
+  ],
+  "sources": [
+    {
+      "label": "St. Michael & All Angels Church official site",
+      "url": "https://www.smallangelstucson.org/",
+      "accessed": "2026-09-11"
+    },
+    {
+      "label": "St. Michael & All Angels clergy, staff and leaders page",
+      "url": "https://www.smallangelstucson.org/clergy-staff-and-leaders.html",
+      "accessed": "2026-09-11"
+    },
+    {
+      "label": "Yelp: St. Michael & All Angels Episcopal Church, 602 N Wilmot Rd",
+      "url": "https://www.yelp.com/biz/st-michael-and-all-angels-episcopal-church-tucson",
+      "accessed": "2026-09-11"
+    },
+    {
+      "label": "Episcopal Asset Map: St. Michael and All Angels Church, Diocese of Arizona",
+      "url": "https://www.episcopalassetmap.org/dioceses/diocese-arizona/list/st-michael-and-all-angels-church",
+      "accessed": "2026-09-11"
+    },
+    {
+      "label": "Arizona Daily Star: St. Michael and All Angels welcomes new rector",
+      "url": "https://tucson.com/lifestyles/faith-and-values/st-michael-and-all-angels-welcomes-new-rector/article_aa11efa9-681c-5d7b-ba2e-04323275205f.html",
+      "accessed": "2026-09-11"
+    }
+  ],
+  "summary": "Not yet reviewed.",
+  "notes": "Episcopal parish known locally for its architecture and music programme. The Rev. Canon David Benedict Hedges (a member of the Brotherhood of St. Gregory) has been rector since 2016. Episcopal preaching often follows the Revised Common Lectionary, which means high baseline overlap with published lectionary commentaries - any similarity review needs to account for that before drawing conclusions. No sermon video host confirmed.",
+  "updated_at": "2026-09-11",
+  "updated_by": "claude-opus-5 research agent (seed)"
+}

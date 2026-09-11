@@ -1,0 +1,27 @@
+{
+  "slug": "holy-trinity-lutheran-tucson",
+  "name": "Holy Trinity Lutheran Church",
+  "tradition": "lutheran",
+  "denomination": "Lutheran Church-Missouri Synod (LCMS)",
+  "location": {
+    "address": "5975 W Western Way Cir, Suites 117-118",
+    "postal_code": "85713",
+    "lat": null,
+    "lng": null,
+    "geocode": "missing",
+    "city": "Tucson",
+    "state": "AZ"
+  },
+  "pastors": [],
+  "sources": [
+    {
+      "label": "LCMS church locator entry: Holy Trinity Lutheran Church, 5975 W Western Way Cir",
+      "url": "https://locator.lcms.org/church/C/914700",
+      "accessed": "2026-09-11"
+    }
+  ],
+  "summary": "Not yet reviewed.",
+  "notes": "Small LCMS congregation meeting in suites on the far west side. Only an LCMS locator entry was found - no website, pastor name or sermon archive. Low priority until a media source is identified.",
+  "updated_at": "2026-09-11",
+  "updated_by": "claude-opus-5 research agent (seed)"
+}

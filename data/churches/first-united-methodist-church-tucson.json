@@ -1,0 +1,41 @@
+{
+  "slug": "first-united-methodist-church-tucson",
+  "name": "First United Methodist Church of Tucson",
+  "aka": [
+    "First Church Tucson"
+  ],
+  "tradition": "methodist_wesleyan",
+  "denomination": "United Methodist Church",
+  "website": "https://firstchurchtucson.org/",
+  "location": {
+    "address": "915 E 4th St (near the University of Arizona main gate; street direction unconfirmed)",
+    "postal_code": "85719",
+    "lat": null,
+    "lng": null,
+    "geocode": "missing",
+    "city": "Tucson",
+    "state": "AZ"
+  },
+  "pastors": [],
+  "sources": [
+    {
+      "label": "First United Methodist Church of Tucson official site",
+      "url": "https://firstchurchtucson.org/",
+      "accessed": "2026-09-11"
+    },
+    {
+      "label": "UMC Find-A-Church listing: First United Methodist Church of Tucson",
+      "url": "https://www.umc.org/en/find-a-church/church?id=001Um00000PFLDtIAP",
+      "accessed": "2026-09-11"
+    },
+    {
+      "label": "FaithStreet: First United Methodist Church of Tucson",
+      "url": "https://www.faithstreet.com/church/first-united-methodist-church-of-tucson-tucson-az",
+      "accessed": "2026-09-11"
+    }
+  ],
+  "summary": "Not yet reviewed.",
+  "notes": "Established 1879 and described as the first Protestant church in Tucson; near the UA main gate. A search snippet referred to a 'Pastor Raven' leading the 10am service but gave no surname, so no pastor is recorded. The street direction prefix on '915 4th St' was not confirmed (E vs W), which is why coordinates are missing - fix the address first.",
+  "updated_at": "2026-09-11",
+  "updated_by": "claude-opus-5 research agent (seed)"
+}

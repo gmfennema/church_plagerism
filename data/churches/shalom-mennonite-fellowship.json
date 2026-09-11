@@ -1,0 +1,49 @@
+{
+  "slug": "shalom-mennonite-fellowship",
+  "name": "Shalom Mennonite Fellowship",
+  "tradition": "mennonite_anabaptist",
+  "denomination": "Mennonite Church USA",
+  "location": {
+    "address": "Address not confirmed",
+    "postal_code": "85711",
+    "lat": null,
+    "lng": null,
+    "geocode": "missing",
+    "city": "Tucson",
+    "state": "AZ"
+  },
+  "pastors": [
+    {
+      "name": "Tina Schlabach",
+      "role": "Co-Pastor",
+      "plagiarism": {
+        "status": "unchecked"
+      },
+      "ai_writing": {
+        "status": "unchecked"
+      },
+      "active": true
+    }
+  ],
+  "sources": [
+    {
+      "label": "Shalom Mennonite Fellowship Facebook page",
+      "url": "https://www.facebook.com/shalommennonite/",
+      "accessed": "2026-09-11"
+    },
+    {
+      "label": "FaithStreet: Shalom Mennonite Fellowship, Mennonite (MCUSA), Tucson AZ 85711",
+      "url": "https://www.faithstreet.com/church/shalom-mennonite-fellowship-tucson-arizona",
+      "accessed": "2026-09-11"
+    },
+    {
+      "label": "ChurchFinder listing: Shalom Mennonite Fellowship, Tucson AZ",
+      "url": "https://www.churchfinder.com/churches/az/tucson/shalom-mennonite-fellowship",
+      "accessed": "2026-09-11"
+    }
+  ],
+  "summary": "Not yet reviewed.",
+  "notes": "Appears to be the only Mennonite Church USA congregation in Tucson. Tina Schlabach is described as co-pastor, implying at least one other pastor whose name was not found. Small congregation, likely little or no sermon video - check the Facebook page for recordings.",
+  "updated_at": "2026-09-11",
+  "updated_by": "claude-opus-5 research agent (seed)"
+}

@@ -1,0 +1,36 @@
+{
+  "slug": "grace-community-covenant-church",
+  "name": "Grace Community Covenant Church",
+  "aka": [
+    "My Grace Church"
+  ],
+  "tradition": "other_protestant",
+  "denomination": "Evangelical Covenant Church (verify)",
+  "website": "https://www.mygrace.church/",
+  "location": {
+    "address": "9755 N La Cholla Blvd",
+    "postal_code": "85742",
+    "lat": 32.3629,
+    "lng": -111.011,
+    "geocode": "approximate",
+    "city": "Tucson",
+    "state": "AZ"
+  },
+  "pastors": [],
+  "sources": [
+    {
+      "label": "Grace Community Covenant Church official site",
+      "url": "https://www.mygrace.church/",
+      "accessed": "2026-09-11"
+    },
+    {
+      "label": "Yelp: Grace Community Covenant Church, 9755 N La Cholla Blvd",
+      "url": "https://www.yelp.com/biz/grace-community-covenant-church-tucson",
+      "accessed": "2026-09-11"
+    }
+  ],
+  "summary": "Not yet reviewed.",
+  "notes": "North-west Tucson (Oro Valley/Casas Adobes edge) on La Cholla Blvd. Name suggests Evangelical Covenant Church affiliation but that was not confirmed in search results - verify the denomination and correct 'tradition' if needed. A sermon archive exists on the church site; no YouTube channel or pastor name confirmed.",
+  "updated_at": "2026-09-11",
+  "updated_by": "claude-opus-5 research agent (seed)"
+}

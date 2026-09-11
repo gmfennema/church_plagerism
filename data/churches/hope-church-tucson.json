@@ -1,0 +1,86 @@
+{
+  "slug": "hope-church-tucson",
+  "name": "Hope Church",
+  "aka": [
+    "Hope Church Assemblies of God",
+    "Hope Church Tucson"
+  ],
+  "tradition": "pentecostal_charismatic",
+  "denomination": "Assemblies of God",
+  "website": "https://hopechurchtucson.org/",
+  "other_media": [
+    {
+      "label": "Hope Church sermon media library",
+      "url": "https://hopechurchtucson.org/media/speaker/Pastor+Marc+Cargill"
+    },
+    {
+      "label": "Hope Church: Houghton Campus (Church Center)",
+      "url": "https://hopechurchtucson.churchcenter.com/"
+    }
+  ],
+  "location": {
+    "address": "3353 N Houghton Rd",
+    "postal_code": "85749",
+    "lat": 32.2701,
+    "lng": -110.771,
+    "geocode": "approximate",
+    "city": "Tucson",
+    "state": "AZ"
+  },
+  "pastors": [
+    {
+      "name": "Marc Cargill",
+      "role": "Lead Pastor",
+      "tenure": {
+        "from": "2017",
+        "to": null
+      },
+      "bio_url": "https://hopechurchtucson.org/leadership",
+      "plagiarism": {
+        "status": "unchecked"
+      },
+      "ai_writing": {
+        "status": "unchecked"
+      },
+      "active": true
+    },
+    {
+      "name": "Cheryl Cargill",
+      "role": "Lead Pastor (co-lead with Marc Cargill)",
+      "bio_url": "https://hopechurchtucson.org/leadership",
+      "plagiarism": {
+        "status": "unchecked"
+      },
+      "ai_writing": {
+        "status": "unchecked"
+      },
+      "active": true
+    }
+  ],
+  "sources": [
+    {
+      "label": "Hope Church Tucson official site",
+      "url": "https://hopechurchtucson.org/",
+      "accessed": "2026-09-11"
+    },
+    {
+      "label": "Hope Church Tucson leadership page",
+      "url": "https://hopechurchtucson.org/leadership",
+      "accessed": "2026-09-11"
+    },
+    {
+      "label": "Hope Church sermon media, speaker: Pastor Marc Cargill",
+      "url": "https://hopechurchtucson.org/media/speaker/Pastor+Marc+Cargill",
+      "accessed": "2026-09-11"
+    },
+    {
+      "label": "Yelp: Hope Church Assemblies of God, 3353 N Houghton Rd",
+      "url": "https://www.yelp.com/biz/hope-church-assemblies-of-god-tucson",
+      "accessed": "2026-09-11"
+    }
+  ],
+  "summary": "Not yet reviewed.",
+  "notes": "Assemblies of God church on Houghton Rd, started in 1996 by Pastor Larry Rice; Marc and Cheryl Cargill became lead pastors in September 2017. The church site indexes sermons by speaker (hopechurchtucson.org/media/speaker/...), which makes per-preacher attribution straightforward. Search results also said sermons go to a YouTube channel but the channel URL was not confirmed - find it. Marc Cargill is the one confirmed to have a speaker page; check whether Cheryl Cargill preaches in her own right before reviewing her.",
+  "updated_at": "2026-09-11",
+  "updated_by": "claude-opus-5 research agent (seed)"
+}
