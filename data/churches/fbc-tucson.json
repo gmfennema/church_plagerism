@@ -129,7 +129,24 @@
         }
       },
       "ai_writing": {
-        "status": "unchecked"
+        "status": "inconclusive",
+        "confidence": "low",
+        "summary": "Stylometric signals (AI-associated vocabulary, disfluency rate, essay connectives, list scaffolding, personal-anecdote markers, lexical diversity) were computed for the nine 2026 transcripts. Without a baseline of the same preacher's older sermons the numbers cannot be interpreted, so no conclusion is drawn either way.",
+        "sermons_reviewed": 9,
+        "review_period": {
+          "from": "2026-04-19",
+          "to": "2026-08-01"
+        },
+        "methods": [
+          "ai_phrase_density",
+          "disfluency_rate"
+        ],
+        "metrics": {
+          "ai_phrase_rate_per_1000": 0.659,
+          "disfluency_rate_per_1000": 15.789,
+          "mattr": 0.401,
+          "baseline_available": false
+        }
       },
       "reports": [
         {
@@ -151,11 +168,24 @@
           "format": "json",
           "description": "Every exact run, per sermon pair, with word offsets.",
           "generated_at": "2026-09-07"
+        },
+        {
+          "title": "AI-writing signals (Markdown)",
+          "path": "research/fbc-tucson/reports/ai_writing_signals.md",
+          "format": "md",
+          "description": "Per-sermon stylometric signals; inconclusive without a baseline.",
+          "generated_at": "2026-09-11"
+        },
+        {
+          "title": "AI-writing signals (JSON)",
+          "path": "research/fbc-tucson/reports/ai_writing_signals.json",
+          "format": "json",
+          "generated_at": "2026-09-11"
         }
       ],
-      "last_reviewed": "2026-09-07",
+      "last_reviewed": "2026-09-11",
       "reviewed_by": "gmfennema",
-      "notes": "Nine of the 25 playlist videos had captions disabled or were unavailable; those sermons were not analysed. Next steps: confirm the preacher's name from the church staff page, listen for any verbal attribution to Begg in two or three of the matched sermons, and run the AI-writing signals tool.",
+      "notes": "Nine of the 25 playlist videos had captions disabled or were unavailable; those sermons were not analysed. Next steps: confirm from each video that Pat McClanahan is the speaker, listen to the opening and closing minutes of two or three matched sermons for any spoken attribution to Alistair Begg (set attributed_in_sermon accordingly), fetch pre-2023 sermons as a baseline and re-run tools/ai_writing_signals.py, and transcribe the caption-disabled sermons with --audio-fallback.",
       "bio_url": "https://www.linkedin.com/in/pat-mcclanahan-89049714/"
     }
   ],
@@ -198,5 +228,5 @@
   ],
   "notes": "CONFIRMED 2026-09-11 by web search: the YouTube channel @fbctucson310 ('FBC Tucson') belongs to Fellowship Bible Church Tucson, an independent non-denominational church at 6700 E Broadway Blvd, Tucson AZ 85710. The church's own domain is fbctucson.org (the previously recorded fellowshiptucson.org was wrong and has been replaced); it also uses fbctucson.churchcenter.com. PASTOR: Pat McClanahan is identified as Senior Pastor of Fellowship Bible Church Tucson by his LinkedIn profile, a ZoomInfo listing showing an @fbctucson.org email, and the church's sermon podcast, which podcast directories title 'Fellowship Bible Church Tucson - FBC by Pastor Pat McClanahan'. He planted the church in April 1989 and has served since. The placeholder pastor name has been replaced with his. STILL UNCONFIRMED: that Pat McClanahan personally preached every one of the nine 2026 '1 Thessalonians / A Church of Irresistible Influence' sermons that were analysed - no search result listed per-sermon speakers, and the church staff page could not be fetched in this sandbox. A reviewer should open the individual YouTube videos or the church staff page to confirm the speaker per sermon, and check whether any other staff member preaches regularly. Coordinates are approximate (Broadway Blvd at roughly 6700 E on the Tucson grid), not map-verified.",
   "updated_at": "2026-09-11",
-  "updated_by": "claude-opus-5 research agent (seed)"
+  "updated_by": "claude research agents (seed + FBC study)"
 }
