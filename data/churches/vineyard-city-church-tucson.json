@@ -1,0 +1,36 @@
+{
+  "slug": "vineyard-city-church-tucson",
+  "name": "Vineyard City Church",
+  "aka": [
+    "VCC"
+  ],
+  "tradition": "pentecostal_charismatic",
+  "denomination": "Vineyard",
+  "website": "https://www.vineyardcitychurch.com/",
+  "location": {
+    "address": "Mailing address only: P.O. Box 12368",
+    "postal_code": "85732",
+    "lat": null,
+    "lng": null,
+    "geocode": "missing",
+    "city": "Tucson",
+    "state": "AZ"
+  },
+  "pastors": [],
+  "sources": [
+    {
+      "label": "Vineyard City Church official site",
+      "url": "https://www.vineyardcitychurch.com/",
+      "accessed": "2026-09-11"
+    },
+    {
+      "label": "FaithStreet: Vineyard City Church, Tucson AZ",
+      "url": "https://www.faithstreet.com/church/vineyard-city-church-tucson-az",
+      "accessed": "2026-09-11"
+    }
+  ],
+  "summary": "Not yet reviewed.",
+  "notes": "Third Vineyard-affiliated body found in Tucson (alongside Connections Vineyard and Vineyard Christian Community) - keep them distinct. Only a PO box was found, no meeting address, pastor or sermon archive. Low priority until a media source is identified.",
+  "updated_at": "2026-09-11",
+  "updated_by": "claude-opus-5 research agent (seed)"
+}

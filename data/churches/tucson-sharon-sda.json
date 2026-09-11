@@ -1,0 +1,47 @@
+{
+  "slug": "tucson-sharon-sda",
+  "name": "Tucson Sharon Seventh-day Adventist Church",
+  "aka": [
+    "Tucson Sharon SDA"
+  ],
+  "tradition": "adventist",
+  "denomination": "Seventh-day Adventist",
+  "website": "https://tucsonsharonaz.adventistchurch.org/",
+  "location": {
+    "address": "Address not confirmed",
+    "lat": null,
+    "lng": null,
+    "geocode": "missing",
+    "city": "Tucson",
+    "state": "AZ"
+  },
+  "pastors": [
+    {
+      "name": "Jonathan Smith",
+      "role": "Pastor",
+      "plagiarism": {
+        "status": "unchecked"
+      },
+      "ai_writing": {
+        "status": "unchecked"
+      },
+      "active": true
+    }
+  ],
+  "sources": [
+    {
+      "label": "Tucson Sharon Seventh-day Adventist Church official site",
+      "url": "https://tucsonsharonaz.adventistchurch.org/",
+      "accessed": "2026-09-11"
+    },
+    {
+      "label": "Tucson Sharon SDA Facebook page",
+      "url": "https://www.facebook.com/tucsonsharonsda/",
+      "accessed": "2026-09-11"
+    }
+  ],
+  "summary": "Not yet reviewed.",
+  "notes": "Historically Black Adventist congregation in Tucson. Search results say sermons by Pastor Jonathan Smith are published on YouTube, but the channel URL was not captured - find it, then this becomes reviewable. Street address not confirmed.",
+  "updated_at": "2026-09-11",
+  "updated_by": "claude-opus-5 research agent (seed)"
+}

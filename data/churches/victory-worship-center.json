@@ -1,0 +1,79 @@
+{
+  "slug": "victory-worship-center",
+  "name": "Victory Worship Center",
+  "aka": [
+    "Zion City Southwest",
+    "Victory Assembly"
+  ],
+  "tradition": "pentecostal_charismatic",
+  "denomination": "Assemblies of God",
+  "youtube": {
+    "channel_url": "https://www.youtube.com/@VictoryAssembly",
+    "handle": "@VictoryAssembly",
+    "transcripts_available": "unknown"
+  },
+  "location": {
+    "address": "2561 W Ruthrauff Rd",
+    "postal_code": "85705",
+    "lat": null,
+    "lng": null,
+    "geocode": "missing",
+    "city": "Tucson",
+    "state": "AZ"
+  },
+  "pastors": [
+    {
+      "name": "Waylon Sears",
+      "role": "Lead Pastor",
+      "plagiarism": {
+        "status": "unchecked"
+      },
+      "ai_writing": {
+        "status": "unchecked"
+      },
+      "active": true
+    },
+    {
+      "name": "Dana Sears",
+      "role": "Lead Pastor (co-lead with Waylon Sears)",
+      "plagiarism": {
+        "status": "unchecked"
+      },
+      "ai_writing": {
+        "status": "unchecked"
+      },
+      "active": true
+    }
+  ],
+  "sources": [
+    {
+      "label": "Yelp: Victory Worship Center, 2561 W Ruthrauff Rd",
+      "url": "https://www.yelp.com/biz/victory-worship-center-tucson",
+      "accessed": "2026-09-11"
+    },
+    {
+      "label": "USAChurches listing: Victory Worship Center, Tucson AZ",
+      "url": "https://www.usachurches.org/church/victory-worship-center-tucson.htm",
+      "accessed": "2026-09-11"
+    },
+    {
+      "label": "Victory Worship Center YouTube channel",
+      "url": "https://www.youtube.com/@VictoryAssembly",
+      "accessed": "2026-09-11"
+    },
+    {
+      "label": "Assemblies of God church directory: Victory Worship Center - Copper Mountain Campus",
+      "url": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=e7c6cdcc-74b9-4eea-93bd-b4b342aed1cb&d=False",
+      "accessed": "2026-09-11"
+    },
+    {
+      "label": "Zion City - Southwest Facebook page",
+      "url": "https://www.facebook.com/zioncity.me/",
+      "accessed": "2026-09-11"
+    }
+  ],
+  "summary": "Not yet reviewed.",
+  "notes": "Assemblies of God megachurch founded in 1970, multiple campuses (Ruthrauff and Copper Mountain among them) and three weekend services - probably the largest Protestant church in Tucson. IMPORTANT: search results indicate a rebrand or affiliation change to 'Zion City' (Zion City - Southwest), so confirm the current name, whether Waylon and Dana Sears are still the lead pastors, and which YouTube channel carries current sermons before reviewing. A separate search result also referenced 'Pastors Zane & Jan' leading a church for 16+ years; that text may belong to a different church and was not used. Coordinates missing: Ruthrauff Rd is not on the reference grid.",
+  "updated_at": "2026-09-11",
+  "updated_by": "claude-opus-5 research agent (seed)"
+}

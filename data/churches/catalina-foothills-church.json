@@ -1,0 +1,119 @@
+{
+  "slug": "catalina-foothills-church",
+  "name": "Catalina Foothills Church",
+  "aka": [
+    "CFC",
+    "Catalina Foothills Church PCA"
+  ],
+  "tradition": "presbyterian_reformed",
+  "denomination": "Presbyterian Church in America (PCA)",
+  "website": "https://www.cfcpca.org/",
+  "location": {
+    "address": "2150 E Orange Grove Rd",
+    "postal_code": "85718",
+    "lat": null,
+    "lng": null,
+    "geocode": "missing",
+    "city": "Tucson",
+    "state": "AZ"
+  },
+  "pastors": [
+    {
+      "name": "Paul Utnage",
+      "role": "Executive Pastor",
+      "active": true,
+      "plagiarism": {
+        "status": "unchecked"
+      },
+      "ai_writing": {
+        "status": "unchecked"
+      },
+      "bio_url": "https://cfcpca.org/staff/"
+    },
+    {
+      "name": "Rob Pendley",
+      "role": "Associate Pastor",
+      "active": true,
+      "plagiarism": {
+        "status": "unchecked"
+      },
+      "ai_writing": {
+        "status": "unchecked"
+      },
+      "bio_url": "https://www.cfcpca.org/pastors-staff"
+    },
+    {
+      "name": "Chad Turner",
+      "role": "Associate Pastor",
+      "active": true,
+      "plagiarism": {
+        "status": "unchecked"
+      },
+      "ai_writing": {
+        "status": "unchecked"
+      },
+      "bio_url": "https://www.cfcpca.org/pastors-staff"
+    },
+    {
+      "name": "John Stone",
+      "role": "Lead Pastor until April 2024",
+      "active": false,
+      "plagiarism": {
+        "status": "unchecked"
+      },
+      "ai_writing": {
+        "status": "unchecked"
+      },
+      "tenure": {
+        "to": "2024"
+      },
+      "notes": "Resigned as lead pastor in April 2024. Listed inactive for history; sermons before April 2024 in the archive are likely his."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Catalina Foothills Church official site",
+      "url": "https://www.cfcpca.org/new",
+      "accessed": "2026-09-11"
+    },
+    {
+      "label": "Catalina Foothills Church staff page",
+      "url": "https://cfcpca.org/staff/",
+      "accessed": "2026-09-11"
+    },
+    {
+      "label": "Yelp: Catalina Foothills Church PCA, 2150 E Orange Grove Rd",
+      "url": "https://www.yelp.com/biz/catalina-foothills-church-pca-tucson",
+      "accessed": "2026-09-11"
+    },
+    {
+      "label": "PCA Administrative Committee lead pastor search profile (2025)",
+      "url": "https://www.pcaac.org/wp-content/uploads/2025/06/LeadPastor_CatalinaFoothillsTucsonAZ.pdf",
+      "accessed": "2026-09-11"
+    },
+    {
+      "label": "Catalina Foothills Church pastors and staff page",
+      "url": "https://www.cfcpca.org/pastors-staff",
+      "accessed": "2026-09-11"
+    },
+    {
+      "label": "Catalina Foothills Church 'Season of Change' page (leadership transition)",
+      "url": "https://www.cfc.joearnett.com/cfc-season-of-change/",
+      "accessed": "2026-09-11"
+    },
+    {
+      "label": "MinistryJobs posting: Community Director/Pastor, Catalina Foothills Church PCA",
+      "url": "https://ministryjobs.com/job/community-directorpastor-full-time-tucson-az/",
+      "accessed": "2026-09-11"
+    },
+    {
+      "label": "Pusch Ridge Christian Academy - a ministry of Catalina Foothills Church",
+      "url": "https://www.prca.academy/news-detail?pk=1565251",
+      "accessed": "2026-09-11"
+    }
+  ],
+  "summary": "Not yet reviewed.",
+  "notes": "PCA congregation planted about 30 years ago in the Catalina Foothills; it also runs Pusch Ridge Christian Academy. LEADERSHIP IS IN TRANSITION: lead pastor John Stone resigned in April 2024, the PCA posted a lead-pastor search profile in June 2025, and the church has been run in the interim by Executive Pastor Paul Utnage with Associate Pastors Rob Pendley and Chad Turner, an Executive Director (Byron Johns) and a Director of Shepherding (Dr. John Miller). That means recent sermons are split across several preachers, so per-sermon attribution is essential - do not attribute the whole archive to one person. An earlier directory snippet called Paul Utnage 'Lead Pastor'; the church's own Facebook post introduced him as Executive Pastor, which is the title recorded here. Coordinates left missing: Orange Grove Rd's latitude could not be fixed against the reference grid. Sermons are podcast and live-streamed; no YouTube channel URL confirmed.",
+  "updated_at": "2026-09-11",
+  "updated_by": "claude-opus-5 research agent (seed)"
+}

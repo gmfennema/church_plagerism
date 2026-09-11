@@ -1,0 +1,44 @@
+{
+  "slug": "messiah-lutheran-church-tucson",
+  "name": "Messiah Lutheran Church",
+  "tradition": "lutheran",
+  "denomination": "Lutheran Church-Missouri Synod (LCMS) - English District",
+  "location": {
+    "address": "1220 W Magee Rd",
+    "postal_code": "85704",
+    "lat": null,
+    "lng": null,
+    "geocode": "missing",
+    "city": "Tucson",
+    "state": "AZ"
+  },
+  "pastors": [
+    {
+      "name": "Luther P. Esala",
+      "role": "Pastor (Rev.)",
+      "plagiarism": {
+        "status": "unchecked"
+      },
+      "ai_writing": {
+        "status": "unchecked"
+      },
+      "active": true
+    }
+  ],
+  "sources": [
+    {
+      "label": "LCMS church locator entry: Messiah Lutheran Church, 1220 W Magee Rd",
+      "url": "https://locator.lcms.org/church/C/22",
+      "accessed": "2026-09-11"
+    },
+    {
+      "label": "LCMS English District listing: Messiah Lutheran Church",
+      "url": "https://englishdistrict.org/messiah-lutheran-church-3",
+      "accessed": "2026-09-11"
+    }
+  ],
+  "summary": "Not yet reviewed.",
+  "notes": "LCMS English District parish in north Tucson on Magee Rd. No church website or sermon archive confirmed in search results; may not be reviewable without one. Coordinates missing: Magee Rd is not on the reference grid.",
+  "updated_at": "2026-09-11",
+  "updated_by": "claude-opus-5 research agent (seed)"
+}

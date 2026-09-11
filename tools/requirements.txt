@@ -1,0 +1,8 @@
+# Python dependencies for the research tools. Install with:
+#   python3 -m pip install -r tools/requirements.txt
+jsonschema>=4.20
+reportlab>=4.0
+youtube-transcript-api>=1.2
+# Optional, only needed when captions are disabled and audio must be transcribed locally:
+#   pip install openai-whisper   (or faster-whisper)
+# yt-dlp must be on PATH for playlist enumeration and audio download: https://github.com/yt-dlp/yt-dlp

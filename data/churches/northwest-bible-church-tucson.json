@@ -1,0 +1,28 @@
+{
+  "slug": "northwest-bible-church-tucson",
+  "name": "Northwest Bible Church",
+  "tradition": "non_denominational",
+  "denomination": "Independent Bible church",
+  "website": "https://northwestbible.com/",
+  "location": {
+    "address": "889 W Chapala Dr",
+    "postal_code": "85704",
+    "lat": null,
+    "lng": null,
+    "geocode": "missing",
+    "city": "Tucson",
+    "state": "AZ"
+  },
+  "pastors": [],
+  "sources": [
+    {
+      "label": "Northwest Bible Church Tucson official site",
+      "url": "https://northwestbible.com/",
+      "accessed": "2026-09-11"
+    }
+  ],
+  "summary": "Not yet reviewed.",
+  "notes": "Bible church in north Tucson. Only the church homepage was confirmed - no pastor name or sermon archive URL captured. Coordinates missing: Chapala Dr is not on the reference grid.",
+  "updated_at": "2026-09-11",
+  "updated_by": "claude-opus-5 research agent (seed)"
+}

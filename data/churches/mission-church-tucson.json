@@ -1,0 +1,69 @@
+{
+  "slug": "mission-church-tucson",
+  "name": "Mission Church",
+  "aka": [
+    "Mission Church Tucson"
+  ],
+  "tradition": "non_denominational",
+  "denomination": "Independent / non-denominational (verify)",
+  "website": "https://missionchurchtucson.com/",
+  "other_media": [
+    {
+      "label": "Mission Church Tucson sermon podcast",
+      "url": "https://missionchurchtucson.com/podcast/responding-to-the-spirit/"
+    },
+    {
+      "label": "Andy Littleton author/teacher archive",
+      "url": "https://missionchurchtucson.com/author/andylittleton/"
+    }
+  ],
+  "location": {
+    "address": "2435 E 17th St",
+    "postal_code": "85719",
+    "lat": null,
+    "lng": null,
+    "geocode": "missing",
+    "city": "Tucson",
+    "state": "AZ"
+  },
+  "pastors": [
+    {
+      "name": "Andy Littleton",
+      "role": "Pastor",
+      "bio_url": "https://missionchurchtucson.com/leaders/andy-littleton/",
+      "plagiarism": {
+        "status": "unchecked"
+      },
+      "ai_writing": {
+        "status": "unchecked"
+      },
+      "active": true
+    }
+  ],
+  "sources": [
+    {
+      "label": "Mission Church Tucson about page",
+      "url": "https://missionchurchtucson.com/about/",
+      "accessed": "2026-09-11"
+    },
+    {
+      "label": "Mission Church Tucson - Andy Littleton leader page",
+      "url": "https://missionchurchtucson.com/leaders/andy-littleton/",
+      "accessed": "2026-09-11"
+    },
+    {
+      "label": "Mission Church Tucson - Andy Littleton sermon archive",
+      "url": "https://missionchurchtucson.com/author/andylittleton/",
+      "accessed": "2026-09-11"
+    },
+    {
+      "label": "Mission Church Tucson Facebook page",
+      "url": "https://www.facebook.com/missiontucson/",
+      "accessed": "2026-09-11"
+    }
+  ],
+  "summary": "Not yet reviewed.",
+  "notes": "Small central-Tucson church with an unusually clean sermon corpus: every message is published as a podcast episode on the church site, and sermons are attributed to a named author page (missionchurchtucson.com/author/andylittleton/). Recent series seen in search results include 'As We Go' and 'Wisdom' (2026). Andy Littleton also writes and publishes, which gives an independent writing sample. Coordinates left missing - 17th St is not on the reference grid and the estimate was not confident to a quarter mile.",
+  "updated_at": "2026-09-11",
+  "updated_by": "claude-opus-5 research agent (seed)"
+}

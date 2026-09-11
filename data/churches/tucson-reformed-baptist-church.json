@@ -1,0 +1,38 @@
+{
+  "slug": "tucson-reformed-baptist-church",
+  "name": "Tucson Reformed Baptist Church",
+  "tradition": "baptist",
+  "denomination": "Reformed Baptist",
+  "other_media": [
+    {
+      "label": "Tucson Reformed Baptist Church on SermonAudio",
+      "url": "https://www.sermonaudio.com/solo/tucsonreformed/about/"
+    }
+  ],
+  "location": {
+    "address": "1630 S Alvernon Way, Suite 110",
+    "postal_code": "85711",
+    "lat": 32.1979,
+    "lng": -110.909,
+    "geocode": "approximate",
+    "city": "Tucson",
+    "state": "AZ"
+  },
+  "pastors": [],
+  "sources": [
+    {
+      "label": "Tucson Reformed Baptist Church on SermonAudio (about page)",
+      "url": "https://www.sermonaudio.com/solo/tucsonreformed/about/",
+      "accessed": "2026-09-11"
+    },
+    {
+      "label": "International Reformed Baptist Church Directory - Arizona",
+      "url": "https://www.reformedreader.org/rbarizona.htm",
+      "accessed": "2026-09-11"
+    }
+  ],
+  "summary": "Not yet reviewed.",
+  "notes": "Small Reformed Baptist congregation meeting in a suite on S Alvernon Way. Sermons are hosted on SermonAudio rather than YouTube, which usually means audio-only and no auto-captions - plan on local transcription. No pastor name confirmed.",
+  "updated_at": "2026-09-11",
+  "updated_by": "claude-opus-5 research agent (seed)"
+}

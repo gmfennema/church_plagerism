@@ -1,0 +1,38 @@
+{
+  "slug": "tucson-tabernacle",
+  "name": "Tucson Tabernacle",
+  "tradition": "non_denominational",
+  "denomination": "Independent / non-denominational",
+  "website": "https://www.tucsontabernacle.com/",
+  "youtube": {
+    "channel_url": "https://www.youtube.com/@tucsontabernacle",
+    "handle": "@tucsontabernacle",
+    "transcripts_available": "unknown"
+  },
+  "location": {
+    "address": "2555 N Stone Ave",
+    "postal_code": "85705",
+    "lat": 32.2585,
+    "lng": -110.97,
+    "geocode": "approximate",
+    "city": "Tucson",
+    "state": "AZ"
+  },
+  "pastors": [],
+  "sources": [
+    {
+      "label": "Tucson Tabernacle official site",
+      "url": "https://www.tucsontabernacle.com/",
+      "accessed": "2026-09-11"
+    },
+    {
+      "label": "Tucson Tabernacle YouTube channel (streams)",
+      "url": "https://www.youtube.com/@tucsontabernacle/streams",
+      "accessed": "2026-09-11"
+    }
+  ],
+  "summary": "Not yet reviewed.",
+  "notes": "Non-denominational church on N Stone Ave just north of downtown; archived sermons are posted to its YouTube channel, which makes it reviewable. No pastor name could be confirmed from search results - do not guess; pull it from the church site's staff page.",
+  "updated_at": "2026-09-11",
+  "updated_by": "claude-opus-5 research agent (seed)"
+}

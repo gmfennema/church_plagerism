@@ -1,0 +1,27 @@
+{
+  "slug": "new-life-community-church-of-the-nazarene",
+  "name": "New Life Community Church of the Nazarene",
+  "tradition": "nazarene_holiness",
+  "denomination": "Church of the Nazarene",
+  "website": "https://www.nlccnaz.org/",
+  "location": {
+    "address": "Address not confirmed",
+    "lat": null,
+    "lng": null,
+    "geocode": "missing",
+    "city": "Tucson",
+    "state": "AZ"
+  },
+  "pastors": [],
+  "sources": [
+    {
+      "label": "New Life Community Church of the Nazarene official site",
+      "url": "https://www.nlccnaz.org/",
+      "accessed": "2026-09-11"
+    }
+  ],
+  "summary": "Not yet reviewed.",
+  "notes": "Nazarene church serving the Tucson area. Search results referred to a 'Lead Pastor' without naming him, so no pastor is recorded. Address and sermon host still needed.",
+  "updated_at": "2026-09-11",
+  "updated_by": "claude-opus-5 research agent (seed)"
+}

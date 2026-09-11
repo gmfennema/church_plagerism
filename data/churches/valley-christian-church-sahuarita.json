@@ -1,0 +1,45 @@
+{
+  "slug": "valley-christian-church-sahuarita",
+  "name": "Valley Christian Church of Sahuarita",
+  "tradition": "restoration_churches_of_christ",
+  "denomination": "Christian Church / Churches of Christ (verify)",
+  "website": "https://vcchurchsahuarita.com/",
+  "location": {
+    "address": "18140 S La Canada Dr",
+    "city": "Sahuarita",
+    "postal_code": "85629",
+    "lat": null,
+    "lng": null,
+    "geocode": "missing",
+    "state": "AZ"
+  },
+  "pastors": [
+    {
+      "name": "Ken Reesman",
+      "role": "Pastor",
+      "plagiarism": {
+        "status": "unchecked"
+      },
+      "ai_writing": {
+        "status": "unchecked"
+      },
+      "active": true
+    }
+  ],
+  "sources": [
+    {
+      "label": "Valley Christian Church of Sahuarita official site",
+      "url": "https://vcchurchsahuarita.com/",
+      "accessed": "2026-09-11"
+    },
+    {
+      "label": "ChurchFinder listing: Valley Christian Church, Sahuarita/Green Valley AZ",
+      "url": "https://www.churchfinder.com/churches/az/green-valley/valley-christian-church",
+      "accessed": "2026-09-11"
+    }
+  ],
+  "summary": "Not yet reviewed.",
+  "notes": "Small congregation (Sunday School 10am, worship 11am). No online sermon archive was found in search results, so this may not be reviewable for sermon text; check the site and any Facebook page. Sahuarita addresses are outside the Tucson street grid, so coordinates are left missing.",
+  "updated_at": "2026-09-11",
+  "updated_by": "claude-opus-5 research agent (seed)"
+}

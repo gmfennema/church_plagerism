@@ -1,0 +1,26 @@
+{
+  "slug": "abiding-savior-lutheran-tucson",
+  "name": "Abiding Savior Lutheran Church",
+  "tradition": "lutheran",
+  "denomination": "Lutheran Congregations in Mission for Christ (LCMC)",
+  "location": {
+    "address": "Address not confirmed",
+    "lat": null,
+    "lng": null,
+    "geocode": "missing",
+    "city": "Tucson",
+    "state": "AZ"
+  },
+  "pastors": [],
+  "sources": [
+    {
+      "label": "LCMC congregation directory entry: Abiding Savior Lutheran Church, Tucson AZ",
+      "url": "https://www.lcmc.net/congregation/110893",
+      "accessed": "2026-09-11"
+    }
+  ],
+  "summary": "Not yet reviewed.",
+  "notes": "LCMC (a post-ELCA association) congregation in Tucson - included because the tradition mix matters, but only a denominational directory entry was confirmed. Address, pastor and sermon host all still needed.",
+  "updated_at": "2026-09-11",
+  "updated_by": "claude-opus-5 research agent (seed)"
+}

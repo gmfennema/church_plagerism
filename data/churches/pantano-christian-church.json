@@ -1,0 +1,89 @@
+{
+  "slug": "pantano-christian-church",
+  "name": "Pantano Christian Church",
+  "aka": [
+    "Pantano",
+    "We Are Pantano"
+  ],
+  "tradition": "restoration_churches_of_christ",
+  "denomination": "Independent Christian Church / Churches of Christ",
+  "website": "https://pantano.church/",
+  "youtube": {
+    "channel_url": "https://www.youtube.com/wearepantano",
+    "transcripts_available": "unknown"
+  },
+  "location": {
+    "address": "1755 S Houghton Rd",
+    "postal_code": "85748",
+    "lat": 32.1961,
+    "lng": -110.771,
+    "geocode": "approximate",
+    "city": "Tucson",
+    "state": "AZ"
+  },
+  "pastors": [
+    {
+      "name": "Trevor DeVage",
+      "role": "Lead Pastor",
+      "tenure": {
+        "from": "2022",
+        "to": null
+      },
+      "plagiarism": {
+        "status": "unchecked"
+      },
+      "ai_writing": {
+        "status": "unchecked"
+      },
+      "active": true
+    },
+    {
+      "name": "Glen Elliott",
+      "role": "Former Lead Pastor (2000s-2022); still listed as a teacher in the sermon archive",
+      "active": false,
+      "bio_url": "https://pantano.church/teacher/glen-elliott/",
+      "plagiarism": {
+        "status": "unchecked"
+      },
+      "ai_writing": {
+        "status": "unchecked"
+      }
+    }
+  ],
+  "sources": [
+    {
+      "label": "Pantano Christian Church official site",
+      "url": "https://pantano.church/",
+      "accessed": "2026-09-11"
+    },
+    {
+      "label": "Pantano Christian Church locations page",
+      "url": "https://pantano.church/locations/",
+      "accessed": "2026-09-11"
+    },
+    {
+      "label": "Pantano Christian Church YouTube channel",
+      "url": "https://www.youtube.com/wearepantano",
+      "accessed": "2026-09-11"
+    },
+    {
+      "label": "Yelp: Pantano Christian Church, 1755 S Houghton Rd",
+      "url": "https://www.yelp.com/biz/pantano-christian-church-tucson",
+      "accessed": "2026-09-11"
+    },
+    {
+      "label": "Pantano Facebook announcement of Trevor DeVage as new lead pastor",
+      "url": "https://www.facebook.com/wearepantano/videos/-big-announcement-we-have-a-new-lead-pastor-trevor-devage-learn-all-about-trevor/1234977233678738/",
+      "accessed": "2026-09-11"
+    },
+    {
+      "label": "Glen Elliott teacher page in Pantano sermon archive",
+      "url": "https://pantano.church/teacher/glen-elliott/",
+      "accessed": "2026-09-11"
+    }
+  ],
+  "summary": "Not yet reviewed.",
+  "notes": "Large multi-site Independent Christian Church on the east side; services at 9, 11 and 1 on Sundays, streamed at pantano.online and on YouTube/Facebook. Glen Elliott led the church for roughly 15 years and handed off to Trevor DeVage in 2022; older sermons in the archive are Elliott's, so date-filter before attributing anything. Check pantano.church/locations for other campuses and their campus pastors.",
+  "updated_at": "2026-09-11",
+  "updated_by": "claude-opus-5 research agent (seed)"
+}

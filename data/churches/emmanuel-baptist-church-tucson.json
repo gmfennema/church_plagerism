@@ -1,0 +1,72 @@
+{
+  "slug": "emmanuel-baptist-church-tucson",
+  "name": "Emmanuel Baptist Church",
+  "aka": [
+    "EBC Tucson"
+  ],
+  "tradition": "baptist",
+  "denomination": "Southern Baptist Convention (Arizona Mission Network)",
+  "website": "https://ebc-tucson.org/",
+  "youtube": {
+    "channel_url": "https://www.youtube.com/channel/UCt-0p7xFYYw62XBbM4J3bjg",
+    "transcripts_available": "unknown"
+  },
+  "location": {
+    "address": "1825 N Alvernon Way",
+    "postal_code": "85712",
+    "lat": 32.248,
+    "lng": -110.909,
+    "geocode": "approximate",
+    "city": "Tucson",
+    "state": "AZ"
+  },
+  "pastors": [
+    {
+      "name": "Michael Goodwin",
+      "role": "Senior Pastor",
+      "tenure": {
+        "from": "2022",
+        "to": null
+      },
+      "bio_url": "https://ebc-tucson.org/leadership",
+      "plagiarism": {
+        "status": "unchecked"
+      },
+      "ai_writing": {
+        "status": "unchecked"
+      },
+      "active": true
+    }
+  ],
+  "sources": [
+    {
+      "label": "Emmanuel Baptist Church Tucson official site",
+      "url": "https://ebc-tucson.org/",
+      "accessed": "2026-09-11"
+    },
+    {
+      "label": "Emmanuel Baptist Church leadership page",
+      "url": "https://ebc-tucson.org/leadership",
+      "accessed": "2026-09-11"
+    },
+    {
+      "label": "Arizona Mission Network (Southern Baptist) listing for Emmanuel Baptist Church of Tucson",
+      "url": "https://azmn.org/churches/emmanuel-baptist-church-of-tucson/",
+      "accessed": "2026-09-11"
+    },
+    {
+      "label": "Yelp: Emmanuel Baptist Church, 1825 N Alvernon Way",
+      "url": "https://www.yelp.com/biz/emmanuel-baptist-church-tucson",
+      "accessed": "2026-09-11"
+    },
+    {
+      "label": "Emmanuel Baptist Church (Tucson) YouTube channel",
+      "url": "https://www.youtube.com/channel/UCt-0p7xFYYw62XBbM4J3bjg",
+      "accessed": "2026-09-11"
+    }
+  ],
+  "summary": "Not yet reviewed.",
+  "notes": "Southern Baptist congregation (listed in the Arizona Mission Network directory) on N Alvernon Way. Michael Goodwin became senior pastor in January 2022, so there are roughly four years of sermons under current leadership. Has its own YouTube channel - reviewable.",
+  "updated_at": "2026-09-11",
+  "updated_by": "claude-opus-5 research agent (seed)"
+}

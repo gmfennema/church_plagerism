@@ -1,0 +1,70 @@
+{
+  "slug": "catalina-lutheran-church",
+  "name": "Catalina Lutheran Church",
+  "tradition": "lutheran",
+  "denomination": "Lutheran Church-Missouri Synod (LCMS)",
+  "website": "https://catalinalutheran.org/",
+  "youtube": {
+    "channel_url": "https://www.youtube.com/channel/UC_yrb-crJzHY2P7tJkgL7iw",
+    "transcripts_available": "unknown"
+  },
+  "location": {
+    "address": "15855 N Twin Lakes Dr",
+    "city": "Tucson",
+    "postal_code": "85739",
+    "lat": null,
+    "lng": null,
+    "geocode": "missing",
+    "state": "AZ"
+  },
+  "pastors": [
+    {
+      "name": "Michael A. Morehouse",
+      "role": "Senior Pastor (Rev. Dr.)",
+      "plagiarism": {
+        "status": "unchecked"
+      },
+      "ai_writing": {
+        "status": "unchecked"
+      },
+      "active": true
+    },
+    {
+      "name": "Bruce von Hindenburg",
+      "role": "Assistant Pastor (Rev.)",
+      "plagiarism": {
+        "status": "unchecked"
+      },
+      "ai_writing": {
+        "status": "unchecked"
+      },
+      "active": true
+    }
+  ],
+  "sources": [
+    {
+      "label": "Catalina Lutheran Church official site",
+      "url": "https://catalinalutheran.org/",
+      "accessed": "2026-09-11"
+    },
+    {
+      "label": "Catalina Lutheran Church YouTube channel",
+      "url": "https://www.youtube.com/channel/UC_yrb-crJzHY2P7tJkgL7iw",
+      "accessed": "2026-09-11"
+    },
+    {
+      "label": "LCMS church locator entry",
+      "url": "https://locator.lcms.org/church/C/914414",
+      "accessed": "2026-09-11"
+    },
+    {
+      "label": "Evangelical-Lutheran Liturgical Congregations listing: Catalina Lutheran Church (LCMS)",
+      "url": "https://www.lutheranliturgy.org/church_listings/catalina-lutheran-church-lcms/",
+      "accessed": "2026-09-11"
+    }
+  ],
+  "summary": "Not yet reviewed.",
+  "notes": "Confessional LCMS parish in Catalina (85739, north of Oro Valley) with three Divine Services a week (Sun 9am and 5pm, Wed 10:30am) and its own YouTube channel - a good corpus, and with two pastors, per-sermon attribution matters. Lutheran preaching follows a lectionary, so expect elevated baseline overlap with published lectionary sermon helps; account for that. Coordinates missing: Twin Lakes Dr is not on the reference grid.",
+  "updated_at": "2026-09-11",
+  "updated_by": "claude-opus-5 research agent (seed)"
+}

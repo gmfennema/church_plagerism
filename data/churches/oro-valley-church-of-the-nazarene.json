@@ -1,0 +1,85 @@
+{
+  "slug": "oro-valley-church-of-the-nazarene",
+  "name": "Oro Valley Church of the Nazarene",
+  "aka": [
+    "OVCN"
+  ],
+  "tradition": "nazarene_holiness",
+  "denomination": "Church of the Nazarene",
+  "website": "https://ovcn.church/",
+  "youtube": {
+    "channel_url": "https://www.youtube.com/@OroValleyChurch",
+    "handle": "@OroValleyChurch",
+    "transcripts_available": "unknown"
+  },
+  "location": {
+    "address": "500 W Calle Concordia",
+    "city": "Oro Valley",
+    "postal_code": "85704",
+    "lat": null,
+    "lng": null,
+    "geocode": "missing",
+    "state": "AZ"
+  },
+  "pastors": [
+    {
+      "name": "Craig Coulter",
+      "role": "Lead Pastor",
+      "tenure": {
+        "from": "2001",
+        "to": null
+      },
+      "bio_url": "https://ovcn.church/our-staff/",
+      "plagiarism": {
+        "status": "unchecked"
+      },
+      "ai_writing": {
+        "status": "unchecked"
+      },
+      "active": true
+    },
+    {
+      "name": "Chris Collins",
+      "role": "Executive Pastor",
+      "bio_url": "https://ovcn.church/our-staff/",
+      "plagiarism": {
+        "status": "unchecked"
+      },
+      "ai_writing": {
+        "status": "unchecked"
+      },
+      "active": true
+    }
+  ],
+  "sources": [
+    {
+      "label": "Oro Valley Church of the Nazarene official site",
+      "url": "https://ovcn.church/",
+      "accessed": "2026-09-11"
+    },
+    {
+      "label": "OVCN staff page",
+      "url": "https://ovcn.church/our-staff/",
+      "accessed": "2026-09-11"
+    },
+    {
+      "label": "OVCN YouTube channel",
+      "url": "https://www.youtube.com/@OroValleyChurch",
+      "accessed": "2026-09-11"
+    },
+    {
+      "label": "Yelp: Oro Valley Church of the Nazarene, 500 W Calle Concordia",
+      "url": "https://www.yelp.com/biz/oro-valley-church-of-the-nazarene-oro-valley",
+      "accessed": "2026-09-11"
+    },
+    {
+      "label": "Greater Oro Valley Chamber of Commerce member listing",
+      "url": "https://business.orovalleychamber.com/list/member/oro-valley-church-of-the-nazarene-1978",
+      "accessed": "2026-09-11"
+    }
+  ],
+  "summary": "Not yet reviewed.",
+  "notes": "Long-tenured lead pastor (Craig Coulter, since 2001) and an active YouTube channel with live services - a good review candidate. Coordinates missing: Calle Concordia is not on the reference grid. Chris Collins is listed as Executive Pastor; confirm whether he takes the pulpit regularly before including him in a review.",
+  "updated_at": "2026-09-11",
+  "updated_by": "claude-opus-5 research agent (seed)"
+}

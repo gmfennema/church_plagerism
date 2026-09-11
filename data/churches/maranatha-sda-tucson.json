@@ -1,0 +1,45 @@
+{
+  "slug": "maranatha-sda-tucson",
+  "name": "Maranatha Seventh-day Adventist Christian Church",
+  "tradition": "adventist",
+  "denomination": "Seventh-day Adventist",
+  "website": "https://maranathaministryaz.adventistchurch.org/",
+  "location": {
+    "address": "6163 S Midvale Park Rd",
+    "postal_code": "85746",
+    "lat": null,
+    "lng": null,
+    "geocode": "missing",
+    "city": "Tucson",
+    "state": "AZ"
+  },
+  "pastors": [
+    {
+      "name": "Ranison Kennedy",
+      "role": "Pastor",
+      "plagiarism": {
+        "status": "unchecked"
+      },
+      "ai_writing": {
+        "status": "unchecked"
+      },
+      "active": true
+    }
+  ],
+  "sources": [
+    {
+      "label": "Maranatha Seventh-Day Adventist Christian Church contact page",
+      "url": "https://maranathaministryaz.adventistchurch.org/contact",
+      "accessed": "2026-09-11"
+    },
+    {
+      "label": "Adventist Organizational Directory - churches in Tucson, AZ",
+      "url": "https://www.adventistdirectory.org/SearchResults.aspx?CtryCode=US&StateProv=AZ&EntityType=CCH&City=Tucson",
+      "accessed": "2026-09-11"
+    }
+  ],
+  "summary": "Not yet reviewed.",
+  "notes": "Adventist congregation on the south-west side; Sabbath worship 10:45am Saturday. No sermon archive URL confirmed. Coordinates missing: Midvale Park Rd is not on the reference grid.",
+  "updated_at": "2026-09-11",
+  "updated_by": "claude-opus-5 research agent (seed)"
+}

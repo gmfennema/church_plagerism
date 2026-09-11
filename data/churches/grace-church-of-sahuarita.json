@@ -1,0 +1,50 @@
+{
+  "slug": "grace-church-of-sahuarita",
+  "name": "Grace Church of Sahuarita",
+  "tradition": "non_denominational",
+  "denomination": "Independent / non-denominational (verify)",
+  "website": "https://www.gcsahuarita.org/",
+  "other_media": [
+    {
+      "label": "Grace Church of Sahuarita messages page",
+      "url": "https://gcsahuarita.org/messages"
+    }
+  ],
+  "location": {
+    "address": "Address not confirmed",
+    "city": "Sahuarita",
+    "lat": null,
+    "lng": null,
+    "geocode": "missing",
+    "state": "AZ"
+  },
+  "pastors": [
+    {
+      "name": "Fred Eaton",
+      "role": "Pastor",
+      "plagiarism": {
+        "status": "unchecked"
+      },
+      "ai_writing": {
+        "status": "unchecked"
+      },
+      "active": true
+    }
+  ],
+  "sources": [
+    {
+      "label": "Grace Church of Sahuarita official site",
+      "url": "https://www.gcsahuarita.org/",
+      "accessed": "2026-09-11"
+    },
+    {
+      "label": "Grace Church of Sahuarita messages/sermon page",
+      "url": "https://gcsahuarita.org/messages",
+      "accessed": "2026-09-11"
+    }
+  ],
+  "summary": "Not yet reviewed.",
+  "notes": "Three Sunday services (8, 9:30 and 11am) suggests a mid-to-large congregation for Sahuarita. Recent sermons are published at gcsahuarita.org/messages. Street address and denomination were not confirmed in search results.",
+  "updated_at": "2026-09-11",
+  "updated_by": "claude-opus-5 research agent (seed)"
+}

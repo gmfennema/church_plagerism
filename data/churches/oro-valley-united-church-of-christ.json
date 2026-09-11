@@ -1,0 +1,42 @@
+{
+  "slug": "oro-valley-united-church-of-christ",
+  "name": "Oro Valley United Church of Christ",
+  "aka": [
+    "Oro Valley UCC"
+  ],
+  "tradition": "other_protestant",
+  "denomination": "United Church of Christ",
+  "website": "https://www.orovalleyucc.org/",
+  "other_media": [
+    {
+      "label": "Oro Valley UCC sermon video page",
+      "url": "https://www.orovalleyucc.org/sermon-video"
+    }
+  ],
+  "location": {
+    "address": "1401 E El Conquistador Way",
+    "city": "Oro Valley",
+    "postal_code": "85704",
+    "lat": null,
+    "lng": null,
+    "geocode": "missing",
+    "state": "AZ"
+  },
+  "pastors": [],
+  "sources": [
+    {
+      "label": "Oro Valley United Church of Christ official site",
+      "url": "https://www.orovalleyucc.org/",
+      "accessed": "2026-09-11"
+    },
+    {
+      "label": "Oro Valley UCC sermon video page",
+      "url": "https://www.orovalleyucc.org/sermon-video",
+      "accessed": "2026-09-11"
+    }
+  ],
+  "summary": "Not yet reviewed.",
+  "notes": "Mainline Protestant (UCC) congregation in Oro Valley that posts past sermons as video on its own site. No pastor name was confirmed in search results - pull it from the church's staff page rather than guessing. Coordinates missing: El Conquistador Way is not on the reference grid.",
+  "updated_at": "2026-09-11",
+  "updated_by": "claude-opus-5 research agent (seed)"
+}

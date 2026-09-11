@@ -1,0 +1,286 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/gmfennema/church_plagerism/data/schema/church.schema.json",
+  "title": "Church record",
+  "description": "One Protestant church in the Tucson area, its preaching pastors, and the review status of each pastor's sermons. Filename must be data/churches/<slug>.json. Statuses for the church as a whole are DERIVED by tools/build.py from the pastor findings; do not store them here.",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["slug", "name", "tradition", "location", "pastors", "sources", "updated_at", "updated_by"],
+  "properties": {
+    "slug": {
+      "type": "string",
+      "pattern": "^[a-z0-9]+(-[a-z0-9]+)*$",
+      "description": "Stable identifier; must equal the filename stem and the research/<slug>/ folder name."
+    },
+    "name": { "type": "string", "minLength": 2 },
+    "aka": {
+      "type": "array",
+      "items": { "type": "string" },
+      "description": "Alternate names or abbreviations people search for (e.g. 'FBC Tucson')."
+    },
+    "in_scope": {
+      "type": "boolean",
+      "default": true,
+      "description": "false when research showed the church is not Protestant (Catholic, LDS, Orthodox, JW, etc.) or has closed. Kept so nobody re-researches it. Excluded from the map."
+    },
+    "out_of_scope_reason": { "type": "string" },
+    "tradition": {
+      "type": "string",
+      "enum": [
+        "baptist",
+        "presbyterian_reformed",
+        "lutheran",
+        "methodist_wesleyan",
+        "anglican_episcopal",
+        "pentecostal_charismatic",
+        "non_denominational",
+        "evangelical_free",
+        "nazarene_holiness",
+        "restoration_churches_of_christ",
+        "mennonite_anabaptist",
+        "adventist",
+        "other_protestant"
+      ],
+      "description": "Broad Protestant family used for the map filter."
+    },
+    "denomination": {
+      "type": "string",
+      "description": "Specific affiliation as the church states it (e.g. 'Southern Baptist Convention', 'PCA', 'Independent / non-denominational')."
+    },
+    "website": { "type": "string", "format": "uri" },
+    "youtube": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "channel_url": { "type": "string", "format": "uri" },
+        "handle": { "type": "string", "description": "e.g. @fbctucson310" },
+        "sermon_playlist_urls": { "type": "array", "items": { "type": "string", "format": "uri" } },
+        "transcripts_available": {
+          "type": "string",
+          "enum": ["yes", "partial", "no", "unknown"],
+          "description": "Whether YouTube captions/transcripts could be pulled. 'no' usually means captions are disabled and audio must be transcribed locally."
+        }
+      }
+    },
+    "other_media": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["label", "url"],
+        "properties": {
+          "label": { "type": "string" },
+          "url": { "type": "string", "format": "uri" }
+        }
+      },
+      "description": "Podcast feeds, Vimeo, SermonAudio, church sermon pages, Facebook video, etc."
+    },
+    "location": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["address", "city", "state", "geocode"],
+      "properties": {
+        "address": { "type": "string" },
+        "city": { "type": "string" },
+        "state": { "type": "string", "const": "AZ" },
+        "postal_code": { "type": "string", "pattern": "^[0-9]{5}(-[0-9]{4})?$" },
+        "lat": { "type": ["number", "null"], "minimum": 31.5, "maximum": 33.0 },
+        "lng": { "type": ["number", "null"], "minimum": -111.8, "maximum": -110.2 },
+        "geocode": {
+          "type": "string",
+          "enum": ["verified", "approximate", "missing"],
+          "description": "verified = coordinates confirmed against a map for this exact address; approximate = neighbourhood-level; missing = lat/lng null (church listed but not plotted until tools/geocode.py fills it)."
+        }
+      }
+    },
+    "summary": {
+      "type": "string",
+      "description": "One or two plain-language sentences shown at the top of the church panel. State what has been checked and the headline result. No verdict language beyond what the findings support."
+    },
+    "pastors": {
+      "type": "array",
+      "items": { "$ref": "#/$defs/pastor" },
+      "description": "Everyone who preaches regularly at the church (lead, teaching, campus, associate pastors who take the pulpit). Guest speakers are not listed."
+    },
+    "reports": {
+      "type": "array",
+      "items": { "$ref": "#/$defs/report" },
+      "description": "Church-level downloadable reports (a deep-dive across pastors). Pastor-specific reports go on the pastor."
+    },
+    "sources": {
+      "type": "array",
+      "minItems": 1,
+      "items": { "$ref": "#/$defs/source" },
+      "description": "Where the facts about the church itself (name, address, staff, media links) were verified. At least one required."
+    },
+    "notes": { "type": "string", "description": "Free-form research notes for the next agent: dead ends, things to re-check, who to look at next." },
+    "updated_at": { "type": "string", "format": "date", "pattern": "^[0-9]{4}-[0-9]{2}-[0-9]{2}$" },
+    "updated_by": { "type": "string", "description": "Who last edited this record: a person's handle or an agent label such as 'claude-opus-5 research agent'." }
+  },
+  "$defs": {
+    "status": {
+      "type": "string",
+      "enum": ["unchecked", "in_progress", "cleared", "flagged", "inconclusive"],
+      "description": "unchecked = nobody has looked; in_progress = an agent/person is actively working on it; cleared = reviewed against the rubric in AGENTS.md with no meaningful signal; flagged = evidence meets the rubric's flag threshold; inconclusive = reviewed but evidence is insufficient (e.g. captions disabled, too few sermons, ambiguous attribution)."
+    },
+    "confidence": {
+      "type": ["string", "null"],
+      "enum": ["low", "medium", "high", null],
+      "description": "How strong the evidence behind the status is. Required (non-null) when status is cleared or flagged."
+    },
+    "finding": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["status"],
+      "properties": {
+        "status": { "$ref": "#/$defs/status" },
+        "confidence": { "$ref": "#/$defs/confidence" },
+        "summary": { "type": "string", "description": "Two to four sentences a lay reader can understand. Name the source author when overlap is found." },
+        "sermons_reviewed": { "type": "integer", "minimum": 0 },
+        "review_period": {
+          "type": "object",
+          "additionalProperties": false,
+          "properties": {
+            "from": { "type": "string", "pattern": "^[0-9]{4}-[0-9]{2}-[0-9]{2}$" },
+            "to": { "type": "string", "pattern": "^[0-9]{4}-[0-9]{2}-[0-9]{2}$" }
+          }
+        },
+        "methods": {
+          "type": "array",
+          "items": {
+            "type": "string",
+            "enum": [
+              "distinctive_phrase_search",
+              "ngram_exact_run_comparison",
+              "manual_side_by_side",
+              "outline_structure_comparison",
+              "attribution_check",
+              "ai_phrase_density",
+              "stylometric_drift",
+              "disfluency_rate",
+              "manuscript_vs_delivery",
+              "other"
+            ]
+          }
+        },
+        "sources_compared": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "additionalProperties": false,
+            "required": ["author", "title"],
+            "properties": {
+              "author": { "type": "string" },
+              "title": { "type": "string" },
+              "url": { "type": "string", "format": "uri" },
+              "attributed_in_sermon": {
+                "type": ["boolean", "null"],
+                "description": "Did the preacher credit this source audibly or in published notes? null = not checked."
+              }
+            }
+          }
+        },
+        "evidence": {
+          "type": "array",
+          "items": { "$ref": "#/$defs/evidence_item" }
+        },
+        "metrics": {
+          "type": "object",
+          "additionalProperties": { "type": ["number", "string", "boolean", "null"] },
+          "description": "Headline numbers from the tools, e.g. {\"local_coverage_pct\": 3.72, \"longest_exact_run\": 42, \"sermons_with_matches\": 8}."
+        }
+      }
+    },
+    "evidence_item": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["type", "description"],
+      "properties": {
+        "type": {
+          "type": "string",
+          "enum": [
+            "verbatim_overlap",
+            "paraphrase_overlap",
+            "structural_similarity",
+            "attribution_present",
+            "attribution_absent",
+            "ai_phrase_density",
+            "stylometric_shift",
+            "low_disfluency",
+            "manuscript_published",
+            "other"
+          ]
+        },
+        "description": { "type": "string" },
+        "sermon_title": { "type": "string" },
+        "sermon_date": { "type": "string", "pattern": "^[0-9]{4}-[0-9]{2}-[0-9]{2}$" },
+        "sermon_url": { "type": "string", "format": "uri" },
+        "source_author": { "type": "string" },
+        "source_title": { "type": "string" },
+        "source_url": { "type": "string", "format": "uri" },
+        "excerpt": { "type": "string", "maxLength": 600, "description": "Short quoted excerpt (keep under ~60 words) with a timestamp if available." },
+        "timestamp": { "type": "string", "description": "hh:mm:ss in the sermon video" },
+        "metric": {
+          "type": "object",
+          "additionalProperties": false,
+          "required": ["name", "value"],
+          "properties": {
+            "name": { "type": "string" },
+            "value": { "type": ["number", "string"] }
+          }
+        }
+      }
+    },
+    "report": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["title", "path", "format"],
+      "properties": {
+        "title": { "type": "string" },
+        "path": {
+          "type": "string",
+          "pattern": "^research/[a-z0-9-]+/.+",
+          "description": "Repo-relative path under research/<slug>/. tools/build.py copies it to the site so it is downloadable."
+        },
+        "format": { "type": "string", "enum": ["pdf", "md", "json", "html", "csv", "txt"] },
+        "description": { "type": "string" },
+        "generated_at": { "type": "string", "pattern": "^[0-9]{4}-[0-9]{2}-[0-9]{2}$" }
+      }
+    },
+    "source": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["label", "url"],
+      "properties": {
+        "label": { "type": "string" },
+        "url": { "type": "string", "format": "uri" },
+        "accessed": { "type": "string", "pattern": "^[0-9]{4}-[0-9]{2}-[0-9]{2}$" }
+      }
+    },
+    "pastor": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["name", "role", "plagiarism", "ai_writing"],
+      "properties": {
+        "name": { "type": "string", "minLength": 2 },
+        "role": { "type": "string", "description": "e.g. 'Lead Pastor', 'Teaching Pastor', 'Associate Pastor (preaches monthly)'" },
+        "active": { "type": "boolean", "default": true, "description": "false when the pastor has left; kept for history." },
+        "tenure": {
+          "type": "object",
+          "additionalProperties": false,
+          "properties": {
+            "from": { "type": "string", "description": "Year or ISO date" },
+            "to": { "type": ["string", "null"] }
+          }
+        },
+        "bio_url": { "type": "string", "format": "uri" },
+        "plagiarism": { "$ref": "#/$defs/finding" },
+        "ai_writing": { "$ref": "#/$defs/finding" },
+        "reports": { "type": "array", "items": { "$ref": "#/$defs/report" } },
+        "last_reviewed": { "type": "string", "pattern": "^[0-9]{4}-[0-9]{2}-[0-9]{2}$" },
+        "reviewed_by": { "type": "string" },
+        "notes": { "type": "string" }
+      }
+    }
+  }
+}

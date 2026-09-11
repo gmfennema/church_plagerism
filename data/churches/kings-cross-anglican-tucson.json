@@ -1,0 +1,57 @@
+{
+  "slug": "kings-cross-anglican-tucson",
+  "name": "King's Cross Anglican Church",
+  "aka": [
+    "Joy Faith Anglican Church"
+  ],
+  "tradition": "anglican_episcopal",
+  "denomination": "Anglican Church in North America (ACNA)",
+  "website": "https://www.kingscrosstucson.org/",
+  "other_media": [
+    {
+      "label": "King's Cross Anglican sermons and audio",
+      "url": "https://kingscrosstucson.org/sermons-and-audio"
+    }
+  ],
+  "location": {
+    "address": "Meets in Oro Valley near Oracle Rd and Magee Rd (venue has changed; address not confirmed)",
+    "city": "Oro Valley",
+    "postal_code": "85704",
+    "lat": null,
+    "lng": null,
+    "geocode": "missing",
+    "state": "AZ"
+  },
+  "pastors": [],
+  "sources": [
+    {
+      "label": "King's Cross Anglican Church official site",
+      "url": "https://www.kingscrosstucson.org/",
+      "accessed": "2026-09-11"
+    },
+    {
+      "label": "King's Cross Anglican Church about page",
+      "url": "https://www.kingscrosstucson.org/about-us",
+      "accessed": "2026-09-11"
+    },
+    {
+      "label": "King's Cross Anglican sermons and audio page",
+      "url": "https://kingscrosstucson.org/sermons-and-audio",
+      "accessed": "2026-09-11"
+    },
+    {
+      "label": "ACNA directory entry for King's Cross Anglican Church",
+      "url": "https://www.acna.org/admin_units/1217",
+      "accessed": "2026-09-11"
+    },
+    {
+      "label": "King's Cross Anglican Church Facebook page",
+      "url": "https://www.facebook.com/kingscrosstucson/",
+      "accessed": "2026-09-11"
+    }
+  ],
+  "summary": "Not yet reviewed.",
+  "notes": "Described in search results as the only ACNA parish in Tucson; formerly Joy Faith Anglican Church. It is a meeting-in-borrowed-space congregation (Mystic Rhythms Ballroom at Oracle and Magee in one listing, the Chapel Hall of Canyon Del Oro Bible Church in another), so the meeting address is unstable - confirm before plotting. A search snippet said a rector named 'Blake' accepted the call in October 2024 but gave no surname, so no pastor is recorded. Sermon audio is published on the church site.",
+  "updated_at": "2026-09-11",
+  "updated_by": "claude-opus-5 research agent (seed)"
+}

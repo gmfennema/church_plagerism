@@ -1,0 +1,33 @@
+{
+  "slug": "holy-cross-lutheran-tucson",
+  "name": "Holy Cross Lutheran Church",
+  "tradition": "lutheran",
+  "denomination": "Lutheran (synod affiliation to verify)",
+  "website": "https://holycrosstucson.org/",
+  "location": {
+    "address": "241 N Harrison Rd",
+    "postal_code": "85748",
+    "lat": null,
+    "lng": null,
+    "geocode": "missing",
+    "city": "Tucson",
+    "state": "AZ"
+  },
+  "pastors": [],
+  "sources": [
+    {
+      "label": "Holy Cross Lutheran Church Tucson official site",
+      "url": "https://holycrosstucson.org/",
+      "accessed": "2026-09-11"
+    },
+    {
+      "label": "Holy Cross Lutheran Church Tucson Facebook page",
+      "url": "https://www.facebook.com/holycrosstucson.org/",
+      "accessed": "2026-09-11"
+    }
+  ],
+  "summary": "Not yet reviewed.",
+  "notes": "East-side Lutheran congregation ('Bringing the Word of God to the Eastside of Tucson'). A search snippet referred to a 'Pastor Parsons' with no first name, so no pastor is recorded. NOTE: at least three different Tucson churches are called Holy Cross - Lutheran (holycrosstucson.org, 241 N Harrison Rd), Presbyterian/PCA (holycrosstucson.com, 7250 N Cortaro Rd) and Anglican (3264 N Country Club Rd). The .org and .com domains are DIFFERENT churches; do not mix their sermon archives.",
+  "updated_at": "2026-09-11",
+  "updated_by": "claude-opus-5 research agent (seed)"
+}

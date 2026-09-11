@@ -1,0 +1,62 @@
+{
+  "slug": "sahuarita-first-assembly",
+  "name": "Sahuarita First",
+  "aka": [
+    "Sahuarita First Assembly of God"
+  ],
+  "tradition": "pentecostal_charismatic",
+  "denomination": "Assemblies of God",
+  "website": "https://www.sah1ag.org/",
+  "location": {
+    "address": "18180 S La Canada Dr",
+    "city": "Sahuarita",
+    "postal_code": "85629",
+    "lat": null,
+    "lng": null,
+    "geocode": "missing",
+    "state": "AZ"
+  },
+  "pastors": [
+    {
+      "name": "David Lopez",
+      "role": "Pastor",
+      "tenure": {
+        "from": "2025",
+        "to": null
+      },
+      "plagiarism": {
+        "status": "unchecked"
+      },
+      "ai_writing": {
+        "status": "unchecked"
+      },
+      "active": true
+    },
+    {
+      "name": "Liz Lopez",
+      "role": "Pastor (co-pastor with David Lopez)",
+      "tenure": {
+        "from": "2025",
+        "to": null
+      },
+      "plagiarism": {
+        "status": "unchecked"
+      },
+      "ai_writing": {
+        "status": "unchecked"
+      },
+      "active": true
+    }
+  ],
+  "sources": [
+    {
+      "label": "Sahuarita First official site",
+      "url": "https://www.sah1ag.org/",
+      "accessed": "2026-09-11"
+    }
+  ],
+  "summary": "Not yet reviewed.",
+  "notes": "Assemblies of God congregation in Sahuarita. David and Liz Lopez took over as pastors in October 2025, so there is only about a year of sermons under the current leadership - that may be too small a corpus for a confident review. Confirm which of the two normally preaches. No sermon archive URL found.",
+  "updated_at": "2026-09-11",
+  "updated_by": "claude-opus-5 research agent (seed)"
+}

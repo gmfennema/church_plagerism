@@ -1,0 +1,52 @@
+{
+  "slug": "desert-springs-presbyterian-church",
+  "name": "Desert Springs Presbyterian Church",
+  "aka": [
+    "Desert Springs PCA"
+  ],
+  "tradition": "presbyterian_reformed",
+  "denomination": "Presbyterian Church in America (PCA)",
+  "location": {
+    "address": "1555 W Overton Rd",
+    "postal_code": "85704",
+    "lat": null,
+    "lng": null,
+    "geocode": "missing",
+    "city": "Tucson",
+    "state": "AZ"
+  },
+  "pastors": [
+    {
+      "name": "Ken Steele",
+      "role": "Pastor",
+      "plagiarism": {
+        "status": "unchecked"
+      },
+      "ai_writing": {
+        "status": "unchecked"
+      },
+      "active": true
+    }
+  ],
+  "sources": [
+    {
+      "label": "PCA Administrative Committee church profile form: Desert Springs, Tucson AZ",
+      "url": "https://www.pcaac.org/wp-content/uploads/2026/04/DesertSprings_TucsonAZ.pdf",
+      "accessed": "2026-09-11"
+    },
+    {
+      "label": "Desert Springs PCA Facebook page",
+      "url": "https://www.facebook.com/desertspringspca/",
+      "accessed": "2026-09-11"
+    },
+    {
+      "label": "PCA Historical Center: PCA churches in Arizona",
+      "url": "https://www.pcahistory.org/churches/arizona.html",
+      "accessed": "2026-09-11"
+    }
+  ],
+  "summary": "Not yet reviewed.",
+  "notes": "PCA congregation in north Tucson. The PCA posted a church profile form dated April 2026, which can mean the church is in a pastoral search - re-confirm that Ken Steele is the current preaching pastor. No church website or sermon archive confirmed. Coordinates missing: Overton Rd is not on the reference grid.",
+  "updated_at": "2026-09-11",
+  "updated_by": "claude-opus-5 research agent (seed)"
+}

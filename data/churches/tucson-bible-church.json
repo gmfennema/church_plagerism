@@ -1,0 +1,38 @@
+{
+  "slug": "tucson-bible-church",
+  "name": "Tucson Bible Church",
+  "tradition": "non_denominational",
+  "denomination": "Independent Bible church",
+  "website": "https://tucsonbiblechurch.org/",
+  "youtube": {
+    "channel_url": "https://www.youtube.com/@tucsonbiblechurch6284",
+    "handle": "@tucsonbiblechurch6284",
+    "transcripts_available": "unknown"
+  },
+  "location": {
+    "address": "111 N Sarnoff Dr",
+    "postal_code": "85712",
+    "lat": null,
+    "lng": null,
+    "geocode": "missing",
+    "city": "Tucson",
+    "state": "AZ"
+  },
+  "pastors": [],
+  "sources": [
+    {
+      "label": "Tucson Bible Church official site",
+      "url": "https://tucsonbiblechurch.org/",
+      "accessed": "2026-09-11"
+    },
+    {
+      "label": "Tucson Bible Church YouTube channel",
+      "url": "https://www.youtube.com/@tucsonbiblechurch6284",
+      "accessed": "2026-09-11"
+    }
+  ],
+  "summary": "Not yet reviewed.",
+  "notes": "Independent Bible church on the east side with two Sunday services (9:30 and 10:45) and its own YouTube channel - reviewable. No pastor name confirmed. Coordinates missing: Sarnoff Dr is not on the reference grid.",
+  "updated_at": "2026-09-11",
+  "updated_by": "claude-opus-5 research agent (seed)"
+}

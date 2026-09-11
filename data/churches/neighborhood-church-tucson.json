@@ -1,0 +1,30 @@
+{
+  "slug": "neighborhood-church-tucson",
+  "name": "Neighborhood Church",
+  "aka": [
+    "NC Tucson"
+  ],
+  "tradition": "non_denominational",
+  "denomination": "Independent / non-denominational (verify)",
+  "website": "https://nctucson.com/",
+  "location": {
+    "address": "Address not confirmed",
+    "lat": null,
+    "lng": null,
+    "geocode": "missing",
+    "city": "Tucson",
+    "state": "AZ"
+  },
+  "pastors": [],
+  "sources": [
+    {
+      "label": "Neighborhood Church Tucson official site",
+      "url": "https://nctucson.com/",
+      "accessed": "2026-09-11"
+    }
+  ],
+  "summary": "Not yet reviewed.",
+  "notes": "Tucson church found via a local church directory result; only the homepage was confirmed. Address, denomination, pastor and sermon host all still need research.",
+  "updated_at": "2026-09-11",
+  "updated_by": "claude-opus-5 research agent (seed)"
+}

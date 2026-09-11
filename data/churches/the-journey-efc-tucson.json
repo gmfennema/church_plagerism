@@ -1,0 +1,78 @@
+{
+  "slug": "the-journey-efc-tucson",
+  "name": "The Journey, an Evangelical Free Church",
+  "aka": [
+    "Journey Church Tucson",
+    "The Journey Tucson"
+  ],
+  "tradition": "evangelical_free",
+  "denomination": "Evangelical Free Church of America (EFCA)",
+  "location": {
+    "address": "Address not confirmed",
+    "lat": null,
+    "lng": null,
+    "geocode": "missing",
+    "city": "Tucson",
+    "state": "AZ"
+  },
+  "pastors": [
+    {
+      "name": "Jim Roden",
+      "role": "Lead Pastor",
+      "bio_url": "https://www.linkedin.com/in/jimroden/",
+      "plagiarism": {
+        "status": "unchecked"
+      },
+      "ai_writing": {
+        "status": "unchecked"
+      },
+      "active": true
+    },
+    {
+      "name": "Brian Klimke",
+      "role": "Associate Pastor",
+      "plagiarism": {
+        "status": "unchecked"
+      },
+      "ai_writing": {
+        "status": "unchecked"
+      },
+      "active": true
+    }
+  ],
+  "sources": [
+    {
+      "label": "USAChurches listing: The Journey, an Evangelical Free Church, Tucson AZ",
+      "url": "https://www.usachurches.org/church/the-journey-an-evangelical-free-church.htm",
+      "accessed": "2026-09-11"
+    },
+    {
+      "label": "EFCA church directory",
+      "url": "https://churches.efca.org/",
+      "accessed": "2026-09-11"
+    },
+    {
+      "label": "LinkedIn: Jim Roden, Journey Church Tucson",
+      "url": "https://www.linkedin.com/in/jimroden/",
+      "accessed": "2026-09-11"
+    },
+    {
+      "label": "Asbury Seminary journal: 'Lift Up Your Eyes': Case Study of Journey Church, Tucson, by Jim Roden",
+      "url": "https://place.asburyseminary.edu/gcrj/vol11/iss2/6/",
+      "accessed": "2026-09-11"
+    },
+    {
+      "label": "Journey Church Tucson YouTube channel",
+      "url": "https://www.youtube.com/journeychurchtucson",
+      "accessed": "2026-09-11"
+    }
+  ],
+  "summary": "Not yet reviewed.",
+  "notes": "EFCA congregation in Tucson with two weekend services (9:00 family, 10:30 main). Street address could NOT be confirmed: one search snippet mentioned 4700 N Swan Rd but that looked like an EFCA regional office rather than the church, so it was deliberately not recorded. Find the address and the church's own website/sermon host before reviewing. Jim Roden has published an academic case study about this church, which is a useful independent writing sample for comparison. A YouTube channel was later found at youtube.com/journeychurchtucson - search results describe it as 'Journey Church Tucson, an Evangelical Free Church located in Tucson, AZ', which matches this congregation, but confirm the channel belongs to this church and not a similarly named one.",
+  "updated_at": "2026-09-11",
+  "updated_by": "claude-opus-5 research agent (seed)",
+  "youtube": {
+    "channel_url": "https://www.youtube.com/journeychurchtucson",
+    "transcripts_available": "unknown"
+  }
+}

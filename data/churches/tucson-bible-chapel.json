@@ -1,0 +1,31 @@
+{
+  "slug": "tucson-bible-chapel",
+  "name": "Tucson Bible Chapel",
+  "tradition": "other_protestant",
+  "denomination": "Plymouth Brethren / Christian Brethren assembly (verify)",
+  "youtube": {
+    "channel_url": "https://www.youtube.com/@tucsonbiblechapel6946",
+    "handle": "@tucsonbiblechapel6946",
+    "transcripts_available": "unknown"
+  },
+  "location": {
+    "address": "Address not confirmed",
+    "lat": null,
+    "lng": null,
+    "geocode": "missing",
+    "city": "Tucson",
+    "state": "AZ"
+  },
+  "pastors": [],
+  "sources": [
+    {
+      "label": "Tucson Bible Chapel YouTube channel",
+      "url": "https://www.youtube.com/@tucsonbiblechapel6946",
+      "accessed": "2026-09-11"
+    }
+  ],
+  "summary": "Not yet reviewed.",
+  "notes": "Found only as a YouTube channel. 'Bible Chapel' usually indicates a Plymouth/Christian Brethren assembly, where teaching is shared among brothers rather than delivered by a single paid pastor - that changes how attribution works. Verify the affiliation, find an address, and identify who actually teaches before reviewing.",
+  "updated_at": "2026-09-11",
+  "updated_by": "claude-opus-5 research agent (seed)"
+}

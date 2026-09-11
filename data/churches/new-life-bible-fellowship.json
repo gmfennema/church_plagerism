@@ -1,0 +1,87 @@
+{
+  "slug": "new-life-bible-fellowship",
+  "name": "New Life Bible Fellowship",
+  "aka": [
+    "New Life Tucson",
+    "NLBF"
+  ],
+  "tradition": "non_denominational",
+  "denomination": "Venture Church Network (Southwest)",
+  "website": "https://newlifetucson.com/",
+  "youtube": {
+    "channel_url": "https://www.youtube.com/c/NewLifeBibleFellowship",
+    "transcripts_available": "unknown"
+  },
+  "other_media": [
+    {
+      "label": "New Life Bible Fellowship sermon podcast (Apple Podcasts)",
+      "url": "https://podcasts.apple.com/us/podcast/new-life-bible-fellowship/id552851242"
+    }
+  ],
+  "location": {
+    "address": "4900 W Cortaro Farms Rd",
+    "postal_code": "85742",
+    "lat": null,
+    "lng": null,
+    "geocode": "missing",
+    "city": "Tucson",
+    "state": "AZ"
+  },
+  "pastors": [
+    {
+      "name": "John Beeson",
+      "role": "Co-Lead Pastor",
+      "bio_url": "https://newlifetucson.com/leadership/",
+      "plagiarism": {
+        "status": "unchecked"
+      },
+      "ai_writing": {
+        "status": "unchecked"
+      },
+      "active": true
+    },
+    {
+      "name": "Greg Lavine",
+      "role": "Co-Lead Pastor",
+      "bio_url": "https://newlifetucson.com/leadership/",
+      "plagiarism": {
+        "status": "unchecked"
+      },
+      "ai_writing": {
+        "status": "unchecked"
+      },
+      "active": true
+    }
+  ],
+  "sources": [
+    {
+      "label": "New Life Bible Fellowship official site",
+      "url": "https://newlifetucson.com/",
+      "accessed": "2026-09-11"
+    },
+    {
+      "label": "New Life Bible Fellowship leadership page",
+      "url": "https://newlifetucson.com/leadership/",
+      "accessed": "2026-09-11"
+    },
+    {
+      "label": "Yelp: New Life Bible Fellowship, 4900 W Cortaro Farms Rd",
+      "url": "https://www.yelp.com/biz/new-life-bible-fellowship-tucson",
+      "accessed": "2026-09-11"
+    },
+    {
+      "label": "Venture Church Network Southwest church directory listing",
+      "url": "https://www.vcnsw.org/churches/new-life-bible-fellowship-tucson",
+      "accessed": "2026-09-11"
+    },
+    {
+      "label": "New Life Bible Fellowship YouTube channel",
+      "url": "https://www.youtube.com/c/NewLifeBibleFellowship",
+      "accessed": "2026-09-11"
+    }
+  ],
+  "summary": "Not yet reviewed.",
+  "notes": "Cortaro / north-west Tucson, near Marana. Two co-lead pastors who share the pulpit, so any review needs to attribute each sermon to the right preacher. John Beeson also writes publicly (blogging/book work), which gives a useful independent writing sample for stylometric comparison. Coordinates missing: Cortaro Farms Rd latitude could not be fixed against the reference grid.",
+  "updated_at": "2026-09-11",
+  "updated_by": "claude-opus-5 research agent (seed)"
+}

@@ -1,0 +1,31 @@
+{
+  "slug": "grace-lutheran-sahuarita",
+  "name": "Grace Lutheran Church Sahuarita",
+  "aka": [
+    "Grace Sahuarita"
+  ],
+  "tradition": "lutheran",
+  "denomination": "Lutheran (synod affiliation to verify)",
+  "website": "https://www.gracelutheransaz.org/sahuarita",
+  "location": {
+    "address": "75 W Sahuarita Rd",
+    "city": "Sahuarita",
+    "postal_code": "85629",
+    "lat": null,
+    "lng": null,
+    "geocode": "missing",
+    "state": "AZ"
+  },
+  "pastors": [],
+  "sources": [
+    {
+      "label": "Grace Lutheran Church - Sahuarita campus page",
+      "url": "https://www.gracelutheransaz.org/sahuarita",
+      "accessed": "2026-09-11"
+    }
+  ],
+  "summary": "Not yet reviewed.",
+  "notes": "Sahuarita campus of the same Grace Lutheran ministry that has a Tucson campus at 830 N 1st Ave (see grace-lutheran-tucson). Check whether the two campuses share a preaching pastor or have separate ones - if they share, the two records should point at the same person. Synod affiliation unconfirmed.",
+  "updated_at": "2026-09-11",
+  "updated_by": "claude-opus-5 research agent (seed)"
+}

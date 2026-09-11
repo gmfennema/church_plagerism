@@ -1,0 +1,88 @@
+{
+  "slug": "tucson-baptist-church",
+  "name": "Tucson Baptist Church",
+  "aka": [
+    "TBC"
+  ],
+  "tradition": "baptist",
+  "denomination": "Independent Baptist (verify)",
+  "website": "https://www.tucsonbaptist.com/",
+  "youtube": {
+    "channel_url": "https://www.youtube.com/c/tucsonbaptistchurch",
+    "transcripts_available": "unknown"
+  },
+  "other_media": [
+    {
+      "label": "Tucson Baptist Church sermon podcast (Podbean)",
+      "url": "https://tucsonbaptist.podbean.com/"
+    }
+  ],
+  "location": {
+    "address": "1525 S Columbus Blvd",
+    "postal_code": "85711",
+    "lat": null,
+    "lng": null,
+    "geocode": "missing",
+    "city": "Tucson",
+    "state": "AZ"
+  },
+  "pastors": [
+    {
+      "name": "Brent Armstrong",
+      "role": "Senior Pastor",
+      "tenure": {
+        "from": "2009",
+        "to": null
+      },
+      "bio_url": "https://www.tucsonbaptist.com/people/pastor-armstrong/",
+      "plagiarism": {
+        "status": "unchecked"
+      },
+      "ai_writing": {
+        "status": "unchecked"
+      },
+      "active": true
+    }
+  ],
+  "sources": [
+    {
+      "label": "Tucson Baptist Church official site",
+      "url": "https://www.tucsonbaptist.com/",
+      "accessed": "2026-09-11"
+    },
+    {
+      "label": "Tucson Baptist Church - Pastor Armstrong bio page",
+      "url": "https://www.tucsonbaptist.com/people/pastor-armstrong/",
+      "accessed": "2026-09-11"
+    },
+    {
+      "label": "Tucson Baptist Church staff and leaders page",
+      "url": "https://www.tucsonbaptist.com/people-profiles/",
+      "accessed": "2026-09-11"
+    },
+    {
+      "label": "Yelp: Tucson Baptist Church, 1525 S Columbus Blvd",
+      "url": "https://www.yelp.com/biz/tucson-baptist-church-tucson",
+      "accessed": "2026-09-11"
+    },
+    {
+      "label": "Tucson Baptist Church YouTube channel",
+      "url": "https://www.youtube.com/c/tucsonbaptistchurch",
+      "accessed": "2026-09-11"
+    },
+    {
+      "label": "Tucson Baptist Church sermon podcast (Podbean)",
+      "url": "https://tucsonbaptist.podbean.com/",
+      "accessed": "2026-09-11"
+    },
+    {
+      "label": "LinkedIn: Brent Armstrong, Senior Pastor at Tucson Baptist Church",
+      "url": "https://www.linkedin.com/in/armstrong-brent-0954b857/",
+      "accessed": "2026-09-11"
+    }
+  ],
+  "summary": "Not yet reviewed.",
+  "notes": "Founded 1958; Brent Armstrong has been senior pastor since July 2009 (previously Oakwood Baptist Church, Anderson SC; Bob Jones University graduate - the BJU background suggests an independent/fundamental Baptist rather than SBC affiliation, worth confirming). Sunday services 10:30am and 5:00pm, so there are likely two sermons a week. Both a YouTube channel and a Podbean sermon feed exist - a strong corpus. Armstrong also maintains a personal writing site at brentdarmstrong.com, useful as an independent writing sample. Coordinates missing: Columbus Blvd is not on the reference grid.",
+  "updated_at": "2026-09-11",
+  "updated_by": "claude-opus-5 research agent (seed)"
+}

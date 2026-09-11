@@ -1,0 +1,44 @@
+{
+  "slug": "cornerstone-baptist-sahuarita",
+  "name": "Cornerstone Baptist Church",
+  "tradition": "baptist",
+  "denomination": "Baptist (affiliation to verify)",
+  "website": "https://www.cornerstonebaptist-sahuarita.com/",
+  "location": {
+    "address": "Address not confirmed",
+    "city": "Sahuarita",
+    "lat": null,
+    "lng": null,
+    "geocode": "missing",
+    "state": "AZ"
+  },
+  "pastors": [
+    {
+      "name": "John Leonard",
+      "role": "Pastor",
+      "plagiarism": {
+        "status": "unchecked"
+      },
+      "ai_writing": {
+        "status": "unchecked"
+      },
+      "active": true
+    }
+  ],
+  "sources": [
+    {
+      "label": "Cornerstone Baptist Church Sahuarita official site",
+      "url": "https://www.cornerstonebaptist-sahuarita.com/",
+      "accessed": "2026-09-11"
+    },
+    {
+      "label": "Church directory for Sahuarita, Arizona (ChurchAdvise)",
+      "url": "https://www.churchadvise.com/directory/AZ/Sahuarita",
+      "accessed": "2026-09-11"
+    }
+  ],
+  "summary": "Not yet reviewed.",
+  "notes": "Baptist congregation in Sahuarita, in existence since 1982. Baptist affiliation (SBC vs independent) not confirmed. No online sermon archive found in search results; may not be reviewable.",
+  "updated_at": "2026-09-11",
+  "updated_by": "claude-opus-5 research agent (seed)"
+}

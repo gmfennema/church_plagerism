@@ -1,0 +1,47 @@
+{
+  "slug": "holy-cross-presbyterian-tucson",
+  "name": "Holy Cross Presbyterian Church",
+  "aka": [
+    "Holy Cross Church Tucson"
+  ],
+  "tradition": "presbyterian_reformed",
+  "denomination": "Presbyterian Church in America (PCA) (verify)",
+  "website": "https://www.holycrosstucson.com/",
+  "other_media": [
+    {
+      "label": "Holy Cross Church Tucson sermons page",
+      "url": "https://www.holycrosstucson.com/sermons"
+    }
+  ],
+  "location": {
+    "address": "7250 N Cortaro Rd",
+    "postal_code": "85743",
+    "lat": null,
+    "lng": null,
+    "geocode": "missing",
+    "city": "Tucson",
+    "state": "AZ"
+  },
+  "pastors": [],
+  "sources": [
+    {
+      "label": "Holy Cross Church Tucson sermons page",
+      "url": "https://www.holycrosstucson.com/sermons",
+      "accessed": "2026-09-11"
+    },
+    {
+      "label": "Holy Cross Church Tucson assistant pastor search page",
+      "url": "https://www.holycrosstucson.com/pastorsearch",
+      "accessed": "2026-09-11"
+    },
+    {
+      "label": "Yahoo Local listing: Holy Cross Presbyterian Church, Tucson AZ",
+      "url": "https://local.yahoo.com/info-219430980-holy-cross-presbyterian-church-tucson/",
+      "accessed": "2026-09-11"
+    }
+  ],
+  "summary": "Not yet reviewed.",
+  "notes": "Presbyterian (search results indicate PCA) congregation on Cortaro Rd in north-west Tucson, with 2026 sermons published on its own site. It was advertising for an assistant pastor, which means the staff list is in flux - get current names from the site. Do not confuse with Holy Cross Lutheran Church at holycrosstucson.ORG; these are different churches with nearly identical domains.",
+  "updated_at": "2026-09-11",
+  "updated_by": "claude-opus-5 research agent (seed)"
+}
