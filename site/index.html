@@ -2,10 +2,11 @@
 <html lang="en">
 <head>
 <meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <title>Tucson Sermon Review</title>
-<meta name="description" content="Evidence-first reviews of public sermons from Protestant churches in Tucson, Arizona, covering unattributed text reuse and AI-writing indicators.">
-<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Ccircle cx='16' cy='16' r='13' fill='%232e9a5d'/%3E%3Ccircle cx='16' cy='16' r='5' fill='white'/%3E%3C/svg%3E">
+<meta name="description" content="Plain-language reviews of public sermons from Protestant churches in Tucson, Arizona: are sermons copied from other preachers, and do they show signs of AI writing?">
+<meta name="theme-color" content="#ffffff">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Ccircle cx='16' cy='16' r='13' fill='%231d6f5f'/%3E%3Ccircle cx='16' cy='16' r='5' fill='white'/%3E%3C/svg%3E">
 <link rel="alternate" type="text/markdown" href="agent-api.md" title="Research agent API documentation">
 <link rel="stylesheet" href="vendor/leaflet/leaflet.css">
 <link rel="stylesheet" href="styles.css">
@@ -13,35 +14,37 @@
 <body>
 <div class="app" id="app">
   <header class="topbar">
-    <div class="brand">
+    <a class="brand" href="#" id="home-link">
       <span class="brand-mark" aria-hidden="true"></span>
-      <div>
-        <h1>Tucson Sermon Review</h1>
-        <p class="tagline">Public evidence reviews for unattributed text reuse and AI-writing indicators.</p>
-      </div>
-    </div>
-    <div class="topbar-stats" id="stats" aria-live="polite"></div>
-    <button class="btn-ghost" id="about-toggle" aria-expanded="false" aria-controls="about">About &amp; statuses</button>
+      <span class="brand-name">Tucson Sermon Review</span>
+    </a>
+    <button class="btn-quiet" id="about-toggle" aria-expanded="false" aria-controls="about">How it works</button>
   </header>
 
   <section class="about" id="about" hidden>
     <div class="about-inner">
-      <div>
-        <h2>How to read a finding</h2>
-        <ul class="legend-list">
-          <li><span class="dot status-flagged"></span><strong>Evidence threshold met</strong> — the published evidence meets the project rubric. Read the excerpts and limitations before drawing a conclusion.</li>
-          <li><span class="dot status-cleared"></span><strong>No concern found</strong> — the review met the required coverage and did not find a meaningful signal.</li>
-          <li><span class="dot status-partial"></span><strong>Inconclusive</strong> — something was reviewed, but the evidence is not sufficient either way.</li>
-          <li><span class="dot status-in_progress"></span><strong>Review underway</strong> — research is active but nothing has been published.</li>
-          <li><span class="dot status-unchecked"></span><strong>Not reviewed</strong> — the church is in the directory, but no finding is available.</li>
+      <div class="about-col">
+        <h2>What this is</h2>
+        <p>A public, evidence-first look at sermons preached in Tucson. For each church we ask two simple questions about its regular preachers:</p>
+        <ul class="plain-list">
+          <li><strong>Copying.</strong> Do their sermons repeat another preacher’s published sermons word for word, without saying so?</li>
+          <li><strong>AI writing.</strong> Has their writing style changed in ways associated with AI-generated text?</li>
         </ul>
-        <p class="muted">Outcome and confidence are separate. “Inconclusive” does not mean “probably concerning.” A dashed map ring means the location is approximate.</p>
+        <p>Transcripts of public sermons are compared word for word against suspected sources. Runs of eight or more identical words are counted, Scripture and liturgy are set aside, and the longest passages are read in context. AI-writing signals are only called a concern when the same preacher’s older sermons are available for comparison.</p>
+        <p>Every finding links to the underlying report so anyone can check the work. This is a review of evidence, not a verdict.</p>
       </div>
-      <div>
-        <h2>How reviews work</h2>
-        <p>Public sermon transcripts are compared word-for-word against suspected sources. Exact runs of eight or more words are counted, Scripture and liturgy are set aside, and the longest passages are read in context. A separate review looks for changes in writing style; AI-writing indicators are only published as concerning when a same-preacher baseline and corroborating evidence exist.</p>
-        <p>Each finding carries a confidence level and a downloadable report so anyone can check the work. This is an evidence review, not a verdict. Corrections are welcome through the project repository.</p>
-        <p><a href="agent-api.md">Research agent API</a> · <a href="submission.schema.json">Submission schema</a> · <a id="repo-link" href="https://github.com/gmfennema/church_plagerism" rel="noopener">Project repository and methodology</a></p>
+      <div class="about-col">
+        <h2>What the labels mean</h2>
+        <ul class="legend-list">
+          <li><span class="dot status-flagged"></span><div><strong>Concerns found</strong><span>The evidence met the project’s threshold. Read the details before drawing conclusions.</span></div></li>
+          <li><span class="dot status-cleared"></span><div><strong>No concerns found</strong><span>Enough sermons were reviewed and nothing notable turned up.</span></div></li>
+          <li><span class="dot status-partial"></span><div><strong>Inconclusive</strong><span>Something was reviewed, but there is not enough evidence either way.</span></div></li>
+          <li><span class="dot status-in_progress"></span><div><strong>Review underway</strong><span>Research is active; nothing has been published yet.</span></div></li>
+          <li><span class="dot status-unchecked"></span><div><strong>Not yet reviewed</strong><span>The church is on the map, but nobody has reviewed its sermons.</span></div></li>
+        </ul>
+        <p class="muted small">“Inconclusive” does not mean “probably concerning.” A dashed ring on the map means the pin is approximate.</p>
+        <p class="small"><a id="repo-link" href="https://github.com/gmfennema/church_plagerism" rel="noopener">Methodology and source data</a> · <a href="agent-api.md">Research agent API</a> · <a href="submission.schema.json">Submission schema</a></p>
+        <button class="btn-quiet about-close" id="about-close">Back to the map</button>
       </div>
     </div>
   </section>
@@ -51,11 +54,21 @@
       <button class="sheet-handle" id="sheet-handle" aria-controls="sidebar" aria-expanded="false"><span class="sheet-grip" aria-hidden="true"></span><span class="sr-only">Expand the church list</span></button>
       <div class="panel list-panel" id="list-panel">
         <div class="controls">
-          <input type="search" id="search" placeholder="Search churches or pastors" aria-label="Search churches or pastors" autocomplete="off">
-          <div class="filter-row" id="status-filters" role="group" aria-label="Filter by status"></div>
-          <select id="tradition-filter" aria-label="Filter by tradition">
-            <option value="">All traditions</option>
-          </select>
+          <div class="search-row">
+            <label class="search" for="search">
+              <svg viewBox="0 0 20 20" aria-hidden="true"><circle cx="8.5" cy="8.5" r="5.5" fill="none" stroke="currentColor" stroke-width="1.8"/><path d="M13 13l4 4" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/></svg>
+              <input type="search" id="search" placeholder="Search churches or pastors" autocomplete="off">
+            </label>
+            <button class="btn-icon" id="filter-toggle" aria-expanded="false" aria-controls="filter-more" title="More filters" aria-label="More filters">
+              <svg viewBox="0 0 20 20" aria-hidden="true"><path d="M3 5h14M6 10h8M8.5 15h3" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/></svg>
+            </button>
+          </div>
+          <div class="chip-row" id="status-filters" role="radiogroup" aria-label="Filter by result"></div>
+          <div class="filter-more" id="filter-more" hidden>
+            <select id="tradition-filter" aria-label="Filter by tradition">
+              <option value="">All traditions</option>
+            </select>
+          </div>
         </div>
         <p class="result-count" id="result-count"></p>
         <ul class="church-list" id="church-list"></ul>
@@ -67,7 +80,7 @@
     </div>
   </main>
 </div>
-<template id="tpl-empty"><li class="empty">No churches match these filters.</li></template>
+<template id="tpl-empty"><li class="empty">No churches match. Try clearing the filters.</li></template>
 <script src="config.js"></script>
 <script src="vendor/leaflet/leaflet.js"></script>
 <script src="app.js"></script>
