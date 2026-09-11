@@ -1,17 +1,24 @@
 {
   "slug": "cdo-bible-church",
-  "name": "Canyon Del Oro Bible Church",
+  "name": "The Canyon Church",
   "aka": [
+    "Canyon Del Oro Bible Church",
     "CDO Bible Church",
-    "Canyon Del Oro Baptist Church"
+    "Canyon Del Oro Baptist Church",
+    "The Canyon"
   ],
   "tradition": "non_denominational",
-  "denomination": "Bible church; affiliated with Venture Church Network (Southwest)",
+  "denomination": "Bible church; member of Venture Church Network Southwest (formerly Southwest Church Connection)",
   "website": "https://cdobible.org/",
+  "youtube": {
+    "channel_url": "https://www.youtube.com/channel/UCFnl_Rh5XFIMQOorvr9LNPQ",
+    "handle": "@CanyonDelOroBibleChurch",
+    "transcripts_available": "unknown"
+  },
   "other_media": [
     {
-      "label": "CDO Bible Church sermon archive",
-      "url": "https://cdobible.org/sermons/"
+      "label": "The Canyon Church sermon archive",
+      "url": "https://cdobible.org/sermon/"
     },
     {
       "label": "Canyon Del Oro Bible Church app (Subsplash)",
@@ -30,32 +37,59 @@
   "pastors": [
     {
       "name": "Steve Van Kley",
-      "role": "Pastor",
-      "bio_url": "https://cdobible.org/our-story/",
+      "role": "Senior Pastor",
+      "bio_url": "https://cdobible.org/our-staff/",
+      "tenure": {
+        "from": "2001"
+      },
       "plagiarism": {
         "status": "unchecked"
       },
       "ai_writing": {
         "status": "unchecked"
       },
-      "active": true
+      "active": true,
+      "notes": "Listed on the staff page as 'Steve Van Kley, D.Min. - Senior Pastor'; the church's story page says he was called in August 2001."
+    },
+    {
+      "name": "Justin Elwell",
+      "role": "Associate Pastor",
+      "bio_url": "https://cdobible.org/our-staff/",
+      "plagiarism": {
+        "status": "unchecked"
+      },
+      "ai_writing": {
+        "status": "unchecked"
+      },
+      "active": true,
+      "notes": "Listed as Associate Pastor. Whether and how often he preaches on Sunday was not confirmed - verify against the dated sermon archive before reviewing him."
     }
   ],
   "sources": [
     {
-      "label": "CDO Bible Church official site",
+      "label": "The Canyon Church (cdobible.org) official site",
       "url": "https://cdobible.org/",
-      "accessed": "2026-09-11"
+      "accessed": "2026-09-10"
     },
     {
-      "label": "CDO Bible Church sermon archive",
-      "url": "https://cdobible.org/sermons/",
-      "accessed": "2026-09-11"
+      "label": "The Canyon Church 'Our Staff' page",
+      "url": "https://cdobible.org/our-staff/",
+      "accessed": "2026-09-10"
     },
     {
-      "label": "Yelp: Canyon Del Oro Bible Church, 9200 N Oracle Rd",
-      "url": "https://www.yelp.com/biz/canyon-del-oro-bible-church-tucson",
-      "accessed": "2026-09-11"
+      "label": "The Canyon Church 'Our Story' page (history and affiliation)",
+      "url": "https://cdobible.org/our-story/",
+      "accessed": "2026-09-10"
+    },
+    {
+      "label": "The Canyon Church sermon archive",
+      "url": "https://cdobible.org/sermon/",
+      "accessed": "2026-09-10"
+    },
+    {
+      "label": "The Canyon Church YouTube channel",
+      "url": "https://www.youtube.com/channel/UCFnl_Rh5XFIMQOorvr9LNPQ",
+      "accessed": "2026-09-10"
     },
     {
       "label": "Venture Church Network Southwest directory listing",
@@ -64,7 +98,7 @@
     }
   ],
   "summary": "Not yet reviewed.",
-  "notes": "Formerly Canyon Del Oro Baptist Church (the Subsplash app is still under the 'cdobaptist' handle), now branded as a Bible church. Sermon audio and video are downloadable from cdobible.org/sermons, which may be easier to work with than YouTube. No YouTube channel confirmed from search results. Confirm Steve Van Kley's exact title and whether associate pastors preach.",
-  "updated_at": "2026-09-11",
-  "updated_by": "claude-opus-5 research agent (seed)"
+  "notes": "NAME CHANGED: the congregation now brands itself 'The Canyon Church' (page titles and site navigation on cdobible.org read 'The Canyon Church'; the story page calls it 'The Canyon'). Earlier names - Canyon Del Oro Baptist Church, then Canyon Del Oro Bible Church - are kept in aka, and the domain (cdobible.org), the Subsplash app handle (cdobaptist) and the YouTube handle (@CanyonDelOroBibleChurch) all still use the older names. Affiliation quoted from their own story page: 'a member of the Venture Church Network Southwest (formerly Southwest Church Connection)'. Address 9200 N. Oracle Rd., Tucson AZ 85704 confirmed on the church's own site; coordinates remain neighbourhood-level, so re-run tools/geocode.py if precision matters. YOUTUBE FOUND: channel UCFnl_Rh5XFIMQOorvr9LNPQ, handle @CanyonDelOroBibleChurch, titled 'The Canyon Church'. The on-site sermon archive at cdobible.org/sermon/ is a Subsplash embed that does not render for a plain HTTP fetch, so its speaker labels could not be read - open it in a real browser to get per-sermon preacher attribution. STAFF: Steve Van Kley (Senior Pastor) and Justin Elwell (Associate Pastor) are recorded. The staff page also lists Sam Dyer (Church Plant Pastor) and Andrew Wade (Family Pastor); their titles do not imply regular Sunday preaching, so they are deliberately not listed - check the sermon archive before adding them.",
+  "updated_at": "2026-09-10",
+  "updated_by": "claude research agent (facts)"
 }

@@ -7,6 +7,25 @@
   "tradition": "anglican_episcopal",
   "denomination": "The Episcopal Church - Diocese of Arizona",
   "website": "https://www.smallangelstucson.org/",
+  "youtube": {
+    "channel_url": "https://www.youtube.com/channel/UCwvFf4TKrzrbFrOQW2Cb4rg",
+    "handle": "@davidbenedicthedges7821",
+    "transcripts_available": "unknown"
+  },
+  "other_media": [
+    {
+      "label": "St. Michael & All Angels Tucson parish video channel (second YouTube channel)",
+      "url": "https://www.youtube.com/@st.michaelallangelstucson3416"
+    },
+    {
+      "label": "Walking the Dogma - podcast linked from the church site",
+      "url": "http://walkingthedogma.org/"
+    },
+    {
+      "label": "St. Michael & All Angels Tucson Facebook page",
+      "url": "https://www.facebook.com/smallangelstucson/"
+    }
+  ],
   "location": {
     "address": "602 N Wilmot Rd",
     "postal_code": "85711",
@@ -32,18 +51,40 @@
         "status": "unchecked"
       },
       "active": true
+    },
+    {
+      "name": "Kristin Neily Barberia",
+      "role": "Associate Priest and School Chaplain (leads the Family Mass, assists with preaching)",
+      "bio_url": "https://www.smallangelstucson.org/clergy-staff-and-leaders.html",
+      "plagiarism": {
+        "status": "unchecked"
+      },
+      "ai_writing": {
+        "status": "unchecked"
+      },
+      "active": true
     }
   ],
   "sources": [
     {
       "label": "St. Michael & All Angels Church official site",
       "url": "https://www.smallangelstucson.org/",
-      "accessed": "2026-09-11"
+      "accessed": "2026-09-10"
     },
     {
       "label": "St. Michael & All Angels clergy, staff and leaders page",
       "url": "https://www.smallangelstucson.org/clergy-staff-and-leaders.html",
-      "accessed": "2026-09-11"
+      "accessed": "2026-09-10"
+    },
+    {
+      "label": "Sermons from St. Michael & All Angels, Tucson - YouTube sermon channel linked from the church site",
+      "url": "https://www.youtube.com/channel/UCwvFf4TKrzrbFrOQW2Cb4rg",
+      "accessed": "2026-09-10"
+    },
+    {
+      "label": "St. Michael & All Angels Tucson parish video channel",
+      "url": "https://www.youtube.com/@st.michaelallangelstucson3416",
+      "accessed": "2026-09-10"
     },
     {
       "label": "Yelp: St. Michael & All Angels Episcopal Church, 602 N Wilmot Rd",
@@ -62,7 +103,7 @@
     }
   ],
   "summary": "Not yet reviewed.",
-  "notes": "Episcopal parish known locally for its architecture and music programme. The Rev. Canon David Benedict Hedges (a member of the Brotherhood of St. Gregory) has been rector since 2016. Episcopal preaching often follows the Revised Common Lectionary, which means high baseline overlap with published lectionary commentaries - any similarity review needs to account for that before drawing conclusions. No sermon video host confirmed.",
-  "updated_at": "2026-09-11",
-  "updated_by": "claude-opus-5 research agent (seed)"
+  "notes": "Facts re-confirmed 2026-09-10 from the parish's own clergy page and site footer: 602 N Wilmot Rd, Tucson AZ 85711. Anglo-Catholic Episcopal parish in the Diocese of Arizona, known locally for its architecture and music programme. Preaching clergy: The Rev. Canon David Benedict Hedges, BSG ('Br. Dave'), Rector since 2016, described on the site as the one who 'preaches, teaches, leads worship'; and The Rev. Kristin Neily Barberia, Associate Priest and School Chaplain, who 'assists with preaching and worship at many other services'. The Rev. Frances Coleman is Parish Deacon, and eight affiliate priests supply preaching occasionally (Capdeville, Cheney, Garren, Kendrick, Morell, Petersen-Snyder, Sotelo, Yarborough); they are deliberately not listed as regular preaching pastors, so attribute individual sermons carefully. SERMON MEDIA: there are two YouTube channels. The one the church itself links as 'Sermons on YouTube' is channel UCwvFf4TKrzrbFrOQW2Cb4rg, titled 'Sermons from St. Michael & All Angels, Tucson', whose handle is the rector's personal handle @davidbenedicthedges7821; a separate parish video channel exists at @st.michaelallangelstucson3416. The site also links a podcast at walkingthedogma.org. Episcopal preaching follows the Revised Common Lectionary, which raises the baseline overlap with published lectionary commentaries - account for that before drawing conclusions. Coordinates are still only approximate; re-run tools/geocode.py.",
+  "updated_at": "2026-09-10",
+  "updated_by": "claude research agent (facts)"
 }

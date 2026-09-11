@@ -5,38 +5,70 @@
     "Oro Valley UCC"
   ],
   "tradition": "other_protestant",
-  "denomination": "United Church of Christ",
+  "denomination": "United Church of Christ (Southwest Conference)",
   "website": "https://www.orovalleyucc.org/",
+  "youtube": {
+    "channel_url": "https://www.youtube.com/channel/UCMAeruJVKx3v9YSaTjJZXow",
+    "handle": "@orovalleyucc8696",
+    "transcripts_available": "unknown"
+  },
   "other_media": [
     {
       "label": "Oro Valley UCC sermon video page",
       "url": "https://www.orovalleyucc.org/sermon-video"
+    },
+    {
+      "label": "Oro Valley UCC Facebook live videos",
+      "url": "https://www.facebook.com/OroValleyUCC/live_videos/"
     }
   ],
   "location": {
     "address": "1401 E El Conquistador Way",
     "city": "Oro Valley",
     "postal_code": "85704",
-    "lat": null,
-    "lng": null,
-    "geocode": "missing",
+    "lat": 32.389009,
+    "lng": -110.957926,
+    "geocode": "verified",
     "state": "AZ"
   },
-  "pastors": [],
+  "pastors": [
+    {
+      "name": "Drew Terry",
+      "role": "Pastor and Teacher",
+      "bio_url": "https://www.orovalleyucc.org/pastor-and-staff",
+      "plagiarism": {
+        "status": "unchecked"
+      },
+      "ai_writing": {
+        "status": "unchecked"
+      },
+      "active": true
+    }
+  ],
   "sources": [
     {
-      "label": "Oro Valley United Church of Christ official site",
+      "label": "Oro Valley United Church of Christ home page",
       "url": "https://www.orovalleyucc.org/",
-      "accessed": "2026-09-11"
+      "accessed": "2026-09-10"
+    },
+    {
+      "label": "Oro Valley UCC 'Pastor and Staff' page (Rev. Drew Terry's letter and title)",
+      "url": "https://www.orovalleyucc.org/pastor-and-staff",
+      "accessed": "2026-09-10"
     },
     {
       "label": "Oro Valley UCC sermon video page",
       "url": "https://www.orovalleyucc.org/sermon-video",
-      "accessed": "2026-09-11"
+      "accessed": "2026-09-10"
+    },
+    {
+      "label": "Oro Valley UCC YouTube channel",
+      "url": "https://youtube.com/@orovalleyucc8696",
+      "accessed": "2026-09-10"
     }
   ],
   "summary": "Not yet reviewed.",
-  "notes": "Mainline Protestant (UCC) congregation in Oro Valley that posts past sermons as video on its own site. No pastor name was confirmed in search results - pull it from the church's staff page rather than guessing. Coordinates missing: El Conquistador Way is not on the reference grid.",
-  "updated_at": "2026-09-11",
-  "updated_by": "claude-opus-5 research agent (seed)"
+  "notes": "Mainline Protestant (UCC) congregation in Oro Valley, 'Joyfully an Open and Affirming Congregation'. Address 1401 East El Conquistador Way, Oro Valley, AZ 85704 re-confirmed in the site footer; existing coordinates left as verified. Sole pastor is Rev. Drew Terry, whose signed letter on the staff page describes him as 'Pastor and Teacher, Oro Valley United Church of Christ'. The only other staff member listed is Jose Solorzano, Music Director (not a preacher). The denomination is refined to 'United Church of Christ (Southwest Conference)' on the strength of the site's 'SWC and UCC' navigation item; the full conference name is not spelled out on the pages read, so confirm if it matters. SERMON MEDIA: the /sermon-video page embeds YouTube videos from the church's own channel (@orovalleyucc8696), and services are also streamed to Facebook Live. The sermon-video page itself is a Squarespace page that renders the embeds client-side, so enumerate sermons from the YouTube channel rather than from the page HTML. Pulpit supply: as a smaller mainline congregation, guest and lay preachers are likely - check each video's title/description for the preacher before attributing it to Terry.",
+  "updated_at": "2026-09-10",
+  "updated_by": "claude research agent (facts)"
 }

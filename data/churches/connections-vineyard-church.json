@@ -6,6 +6,7 @@
   ],
   "tradition": "pentecostal_charismatic",
   "denomination": "Vineyard USA",
+  "website": "https://www.connectionsvineyard.org/",
   "location": {
     "address": "3150 E Fort Lowell Rd",
     "postal_code": "85716",
@@ -17,26 +18,65 @@
   },
   "pastors": [
     {
+      "name": "Jeff Wright",
+      "role": "Pastor",
+      "bio_url": "https://www.connectionsvineyard.org/Ministry-Leaders",
+      "active": true,
+      "plagiarism": {
+        "status": "unchecked"
+      },
+      "ai_writing": {
+        "status": "unchecked"
+      }
+    },
+    {
+      "name": "Diane Wright",
+      "role": "Pastor",
+      "bio_url": "https://www.connectionsvineyard.org/Ministry-Leaders",
+      "active": true,
+      "plagiarism": {
+        "status": "unchecked"
+      },
+      "ai_writing": {
+        "status": "unchecked"
+      }
+    },
+    {
       "name": "David Petrash",
-      "role": "Senior Pastor",
+      "role": "Senior Pastor (former)",
       "plagiarism": {
         "status": "unchecked"
       },
       "ai_writing": {
         "status": "unchecked"
       },
-      "active": true
+      "active": false
     },
     {
       "name": "Trina Petrash",
-      "role": "Co-Senior Pastor",
+      "role": "Co-Senior Pastor (former)",
       "plagiarism": {
         "status": "unchecked"
       },
       "ai_writing": {
         "status": "unchecked"
       },
-      "active": true
+      "active": false
+    }
+  ],
+  "youtube": {
+    "channel_url": "https://www.youtube.com/channel/UCula8V1PzK6pCAtOyXKLnNg",
+    "handle": "@connectionsvineyardchurch1479",
+    "transcripts_available": "unknown"
+  },
+  "other_media": [
+    {
+      "label": "Connections Vineyard past sermons (audio downloads on the church site)",
+      "url": "https://www.connectionsvineyard.org/i/Sermons"
+    },
+    {
+      "label": "Connections Vineyard Church Facebook page",
+      "url": "https://www.facebook.com/Connections-Vineyard-Church-142317129123677/"
     }
   ],
   "sources": [
@@ -49,10 +89,30 @@
       "label": "ChurchFinder listing: Connections Vineyard Church, Tucson AZ",
       "url": "https://www.churchfinder.com/churches/az/tucson/connections-vineyard-church-0",
       "accessed": "2026-09-11"
+    },
+    {
+      "label": "Connections Vineyard Church official site",
+      "url": "https://www.connectionsvineyard.org/",
+      "accessed": "2026-09-10"
+    },
+    {
+      "label": "Connections Vineyard Church - Ministry Leaders (Jeff and Diane Wright)",
+      "url": "https://www.connectionsvineyard.org/Ministry-Leaders",
+      "accessed": "2026-09-10"
+    },
+    {
+      "label": "Connections Vineyard Church - Contact Us (address)",
+      "url": "https://www.connectionsvineyard.org/contact-us",
+      "accessed": "2026-09-10"
+    },
+    {
+      "label": "Connections Vineyard Church YouTube channel (linked from the church site nav)",
+      "url": "https://www.youtube.com/channel/UCula8V1PzK6pCAtOyXKLnNg",
+      "accessed": "2026-09-10"
     }
   ],
   "summary": "Not yet reviewed.",
-  "notes": "Vineyard USA congregation at Fort Lowell and Country Club, Sunday 10-11:30am. No church website or sermon archive was confirmed in search results - the only listings found were third-party directories, so check whether sermons are published at all before scheduling a review. Confirm which of the two co-senior pastors normally preaches.",
-  "updated_at": "2026-09-11",
-  "updated_by": "claude-opus-5 research agent (seed)"
+  "notes": "Church website found 2026-09-10: connectionsvineyard.org. Vineyard USA congregation at 3150 E Ft Lowell Rd, Tucson AZ 85716 (the site labels this a mailing address but it is also the meeting location per the Sunday service listing); coordinates are still only approximate, run tools/geocode.py. LEADERSHIP HAS CHANGED: the Ministry Leaders page now reads 'Please welcome our new Pastors, Jeff and Diane Wright. Jeff and Diane have over 30 years of leadership experience in the Vineyard.' David and Trina Petrash, who were seeded from third-party directories, are no longer named anywhere on the church's own site and have been set active:false rather than deleted; their tenure dates were never confirmed. The site's About page still contains older copy referring to 'Rick and Marilyn (our Senior Pastors)' as the founders - that page is stale and Rick and Marilyn's surnames are not given, so neither is recorded. Which of Jeff or Diane normally preaches is still unknown. Media: the site nav links a YouTube channel (@connectionsvineyardchurch1479) and a Facebook page, and has a 'Past Sermons' page serving MP3 audio; only one sermon MP3 was visible there, so check whether the YouTube channel carries a usable run of recent full sermons before scheduling a review.",
+  "updated_at": "2026-09-10",
+  "updated_by": "claude research agent (facts)"
 }

@@ -7,21 +7,96 @@
   "tradition": "anglican_episcopal",
   "denomination": "The Episcopal Church - Diocese of Arizona",
   "website": "https://www.gsptucson.org/",
+  "youtube": {
+    "channel_url": "https://www.youtube.com/@GraceStPaulsTucson",
+    "handle": "@GraceStPaulsTucson",
+    "transcripts_available": "unknown"
+  },
+  "other_media": [
+    {
+      "label": "Grace St. Paul's sermon archive (PDF texts and MP3 audio)",
+      "url": "https://www.gsptucson.org/sermons"
+    }
+  ],
   "location": {
     "address": "2331 E Adams St",
     "postal_code": "85719",
-    "lat": null,
-    "lng": null,
-    "geocode": "missing",
+    "lat": 32.240747,
+    "lng": -110.93766,
+    "geocode": "verified",
     "city": "Tucson",
     "state": "AZ"
   },
-  "pastors": [],
+  "pastors": [
+    {
+      "name": "Steve Keplinger",
+      "role": "Rector",
+      "bio_url": "https://www.gsptucson.org/clergy",
+      "active": true,
+      "plagiarism": {
+        "status": "unchecked"
+      },
+      "ai_writing": {
+        "status": "unchecked"
+      }
+    },
+    {
+      "name": "Gary Cyr",
+      "role": "Associate Rector",
+      "bio_url": "https://www.gsptucson.org/clergy",
+      "active": true,
+      "plagiarism": {
+        "status": "unchecked"
+      },
+      "ai_writing": {
+        "status": "unchecked"
+      }
+    },
+    {
+      "name": "Kym Kennedy",
+      "role": "Deacon (preaches regularly)",
+      "bio_url": "https://www.gsptucson.org/clergy",
+      "active": true,
+      "plagiarism": {
+        "status": "unchecked"
+      },
+      "ai_writing": {
+        "status": "unchecked"
+      }
+    },
+    {
+      "name": "Don Eager",
+      "role": "Deacon (preaches regularly)",
+      "bio_url": "https://www.gsptucson.org/clergy",
+      "active": true,
+      "plagiarism": {
+        "status": "unchecked"
+      },
+      "ai_writing": {
+        "status": "unchecked"
+      }
+    }
+  ],
   "sources": [
     {
       "label": "Grace St. Paul's Episcopal Church official site",
       "url": "https://www.gsptucson.org/",
-      "accessed": "2026-09-11"
+      "accessed": "2026-09-10"
+    },
+    {
+      "label": "Grace St. Paul's clergy page",
+      "url": "https://www.gsptucson.org/clergy",
+      "accessed": "2026-09-10"
+    },
+    {
+      "label": "Grace St. Paul's sermon archive",
+      "url": "https://www.gsptucson.org/sermons",
+      "accessed": "2026-09-10"
+    },
+    {
+      "label": "Grace St. Pauls, Tucson YouTube channel",
+      "url": "https://www.youtube.com/@GraceStPaulsTucson",
+      "accessed": "2026-09-10"
     },
     {
       "label": "Grace St. Paul's visitors guide / service times",
@@ -40,7 +115,7 @@
     }
   ],
   "summary": "Not yet reviewed.",
-  "notes": "Progressive Episcopal parish near the University of Arizona. A search result indicated the parish was in a rector search, so no clergy name is recorded. Coordinates missing: Adams St is not on the reference grid. Lectionary preaching caveat applies.",
-  "updated_at": "2026-09-11",
-  "updated_by": "claude-opus-5 research agent (seed)"
+  "notes": "Progressive Episcopal parish near the University of Arizona. The earlier seed note said the parish was in a rector search; that is out of date - the parish's own clergy page now lists the Rev. Steve Keplinger as Rector and the Rev. Gary Cyr as Associate Rector, and Keplinger is by far the most frequent preacher in the sermon archive. Address confirmed on the church site: 2331 E Adams Street, Tucson, AZ 85719, phone (520) 327-6857; coordinates already verified. Full clergy list on the site: Keplinger (Rector), Cyr (Associate Rector), deacons Don Eager, Nancy Meister Book and Dr. Kym Kennedy, priest associates Joe Fitzgerald and Allen Breckenridge, and interfaith minister Lynn Marie Hunter. Only the four recorded above are listed here; Kennedy and Eager are included because they appear as preachers in the current sermon archive. Nancy Meister Book, Fitzgerald, Breckenridge and Hunter were not confirmed as regular preachers - Fitzgerald and Breckenridge do appear occasionally in the archive, so re-check before excluding them. The archive also carries one-off sermons from non-staff (Bishop Jennifer Reddall, the Rev. Kelley Dick, Deacon Postulant Sister Susan Hillman, Ms. Dora Rodriguez), who are guests and are deliberately not listed. Media: sermons are published as PDF texts plus MP3 audio hosted on Google Drive and linked from gsptucson.org/sermons - the PDF manuscripts are excellent source material for a text-similarity review. The 10:00 am service is also streamed to YouTube at @GraceStPaulsTucson. Lectionary preaching caveat applies: shared lectionary texts will produce Scripture overlap that is not evidence.",
+  "updated_at": "2026-09-10",
+  "updated_by": "claude research agent (facts)"
 }

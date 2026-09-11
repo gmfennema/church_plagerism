@@ -1,27 +1,94 @@
 {
   "slug": "new-life-community-church-of-the-nazarene",
   "name": "New Life Community Church of the Nazarene",
+  "aka": [
+    "NLCC"
+  ],
   "tradition": "nazarene_holiness",
   "denomination": "Church of the Nazarene",
   "website": "https://www.nlccnaz.org/",
-  "location": {
-    "address": "Address not confirmed",
-    "lat": null,
-    "lng": null,
-    "geocode": "missing",
-    "city": "Tucson",
-    "state": "AZ"
+  "youtube": {
+    "channel_url": "https://www.youtube.com/channel/UCJ0xVe55HgBH49sbxjb09Qg",
+    "handle": "@nlccnaz",
+    "transcripts_available": "unknown"
   },
-  "pastors": [],
+  "other_media": [
+    {
+      "label": "New Life Community Church sermons page",
+      "url": "https://www.nlccnaz.org/sermons/"
+    },
+    {
+      "label": "New Life Community Church YouTube live streams (full services)",
+      "url": "https://www.youtube.com/@nlccnaz/streams"
+    },
+    {
+      "label": "New Life Community Church Facebook page",
+      "url": "https://www.facebook.com/nlccnaz/"
+    }
+  ],
+  "location": {
+    "address": "3367 N Geronimo Ave",
+    "geocode": "verified",
+    "city": "Tucson",
+    "state": "AZ",
+    "lat": 32.267775,
+    "lng": -110.965707
+  },
+  "pastors": [
+    {
+      "name": "Curt Lunsford",
+      "role": "Lead Pastor",
+      "bio_url": "https://www.nlccnaz.org/about-us/",
+      "plagiarism": {
+        "status": "unchecked"
+      },
+      "ai_writing": {
+        "status": "unchecked"
+      },
+      "active": true
+    },
+    {
+      "name": "Tom Hruska",
+      "role": "Older Adults Minister (commissioned to lead the church and preach during Pastor Curt Lunsford's 2026 sabbatical)",
+      "bio_url": "https://www.nlccnaz.org/about-us/",
+      "plagiarism": {
+        "status": "unchecked"
+      },
+      "ai_writing": {
+        "status": "unchecked"
+      },
+      "active": true
+    }
+  ],
   "sources": [
     {
-      "label": "New Life Community Church of the Nazarene official site",
+      "label": "New Life Community Church of the Nazarene home page",
       "url": "https://www.nlccnaz.org/",
-      "accessed": "2026-09-11"
+      "accessed": "2026-09-10"
+    },
+    {
+      "label": "New Life Community Church about-us page (staff list, Nazarene articles of faith)",
+      "url": "https://www.nlccnaz.org/about-us/",
+      "accessed": "2026-09-10"
+    },
+    {
+      "label": "New Life Community Church contact page (street address)",
+      "url": "https://www.nlccnaz.org/contact/",
+      "accessed": "2026-09-10"
+    },
+    {
+      "label": "New Life Community Church sermons page (recent sermons and speakers)",
+      "url": "https://www.nlccnaz.org/sermons/",
+      "accessed": "2026-09-10"
+    },
+    {
+      "label": "New Life Community Church YouTube channel",
+      "url": "https://www.youtube.com/@nlccnaz",
+      "accessed": "2026-09-10"
     }
   ],
   "summary": "Not yet reviewed.",
-  "notes": "Nazarene church serving the Tucson area. Search results referred to a 'Lead Pastor' without naming him, so no pastor is recorded. Address and sermon host still needed.",
-  "updated_at": "2026-09-11",
-  "updated_by": "claude-opus-5 research agent (seed)"
+  "notes": "Address 3367 N Geronimo Ave., Tucson, AZ confirmed on the church's contact page; the home page adds 'near 1st and Fort Lowell'. NO ZIP CODE is published on the site, so postal_code is deliberately omitted rather than guessed - tools/geocode.py should resolve it. Staff page lists Pastor Curt Lunsford (Lead Pastor), Pastor Tom Hruska (Older Adults Minister), Elijah Chaffin (Music Minister) and Louisa Colmenero (Church Secretary). IMPORTANT CONTEXT FOR A REVIEW: as of mid-2026 Pastor Curt is on sabbatical. The sermon archive shows 'What Is Sabbatical?' and 'Separation is ... Good?' preached by Pastor Curt, then 'Growing Forward' and 'Installation and Charge', in which Pastor Tom is charged and commissioned to serve as lead pastor during the sabbatical. So recent sermons are split between the two men and the video description usually says which. UNRESOLVED: the current series 'An Unhurried Race' (from 30 Aug 2026) is credited on the sermons page to 'Pastor Dave Drum', who is not on the staff list - he may be a guest or visiting preacher. Confirm before treating his sermons as this church's. Reverend Flora Mwikali also appears as a one-off guest speaker. Sermons are posted to YouTube (@nlccnaz, mostly as full-service live streams) and linked from the sermons page.",
+  "updated_at": "2026-09-10",
+  "updated_by": "claude research agent (facts)"
 }

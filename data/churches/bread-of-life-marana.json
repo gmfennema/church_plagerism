@@ -4,24 +4,83 @@
   "tradition": "pentecostal_charismatic",
   "denomination": "Assemblies of God",
   "website": "https://www.breadoflifemarana.com/",
+  "other_media": [
+    {
+      "label": "Bread of Life sermon archives index",
+      "url": "https://www.breadoflifemarana.com/archives.html"
+    },
+    {
+      "label": "Bread of Life 2025 sermons",
+      "url": "https://www.breadoflifemarana.com/2025-sermons.html"
+    },
+    {
+      "label": "Bread of Life 2024 sermons",
+      "url": "https://www.breadoflifemarana.com/2024-sermons.html"
+    }
+  ],
   "location": {
-    "address": "10750 N Portland Ave (SE corner of Avra Valley Rd and Portland Ave)",
+    "address": "10750 N Portland Ave",
     "city": "Marana",
-    "lat": null,
-    "lng": null,
-    "geocode": "missing",
-    "state": "AZ"
+    "geocode": "verified",
+    "state": "AZ",
+    "postal_code": "85653",
+    "lat": 32.401861,
+    "lng": -111.157109
   },
-  "pastors": [],
+  "pastors": [
+    {
+      "name": "Ed Grove",
+      "role": "Lead Pastor",
+      "bio_url": "https://www.breadoflifemarana.com/our-pastors.html",
+      "tenure": {
+        "from": "2026"
+      },
+      "plagiarism": {
+        "status": "unchecked"
+      },
+      "ai_writing": {
+        "status": "unchecked"
+      },
+      "active": true,
+      "notes": "Joined Bread of Life as a member in 2013, became Associate Pastor in 2023, and was installed as Lead Pastor in 2026 after his father's retirement."
+    },
+    {
+      "name": "Wilbert L. Grove",
+      "role": "Pastor Emeritus (Lead Pastor 2002-2026)",
+      "bio_url": "https://www.breadoflifemarana.com/our-pastors.html",
+      "tenure": {
+        "from": "2002",
+        "to": "2026"
+      },
+      "plagiarism": {
+        "status": "unchecked"
+      },
+      "ai_writing": {
+        "status": "unchecked"
+      },
+      "active": false,
+      "notes": "Founded the church in 2002 and served as Lead Pastor until retiring from full-time ministry in January 2026; remains at the church as Pastor Emeritus. Sermons in the 2020-2025 archives are most likely his."
+    }
+  ],
   "sources": [
     {
       "label": "Bread of Life Assembly of God (Marana) official site",
       "url": "https://www.breadoflifemarana.com/",
-      "accessed": "2026-09-11"
+      "accessed": "2026-09-10"
+    },
+    {
+      "label": "Bread of Life Assembly of God 'Our Pastors' page",
+      "url": "https://www.breadoflifemarana.com/our-pastors.html",
+      "accessed": "2026-09-10"
+    },
+    {
+      "label": "Bread of Life Assembly of God sermon archives index",
+      "url": "https://www.breadoflifemarana.com/archives.html",
+      "accessed": "2026-09-10"
     }
   ],
   "summary": "Not yet reviewed.",
-  "notes": "Assemblies of God church in Marana with multi-year sermon archives on its own website - a usable corpus even without YouTube. No pastor name confirmed from search results.",
-  "updated_at": "2026-09-11",
-  "updated_by": "claude-opus-5 research agent (seed)"
+  "notes": "Assemblies of God church in Marana with year-by-year sermon archives on its own Weebly site (2020 through 2025) - a usable corpus even without YouTube. Street address confirmed on the church's own site as 10750 N. Portland Ave., Marana AZ 85653 (SE corner of Avra Valley Rd and Portland Ave); the church also gives a separate mailing address, PO Box 362, Marana AZ 85653, which is deliberately not used here. LEADERSHIP JUST CHANGED: founder Wilbert L. Grove retired from full-time ministry in January 2026 and his son Ed Grove was installed as Lead Pastor in 2026, so the archive spans two preachers and per-sermon attribution is essential. No YouTube channel or social media link appears anywhere on the site. The individual archive pages were not opened, so the format of each sermon (audio, video or text) and whether each entry names its preacher are still unknown - check before starting a review. Coordinates not set - run tools/geocode.py.",
+  "updated_at": "2026-09-10",
+  "updated_by": "claude research agent (facts)"
 }

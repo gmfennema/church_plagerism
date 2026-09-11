@@ -13,7 +13,7 @@ from __future__ import annotations
 import json
 import re
 import sys
-from datetime import date
+from datetime import datetime, timezone
 from pathlib import Path
 
 try:
@@ -54,7 +54,9 @@ def project_rules(record: dict, path: Path) -> list[str]:
     if record.get("in_scope") is False and not record.get("out_of_scope_reason"):
         problems.append("in_scope is false but out_of_scope_reason is empty")
 
-    today = date.today().isoformat()
+    # UTC, not local: records are written by agents and CI in many timezones, and a
+    # record stamped in UTC reads as "tomorrow" from anywhere west of Greenwich.
+    today = datetime.now(timezone.utc).date().isoformat()
     for label, value in [("updated_at", record.get("updated_at"))]:
         if value and value > today:
             problems.append(f"{label} {value} is in the future")

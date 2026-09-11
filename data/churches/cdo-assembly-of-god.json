@@ -2,34 +2,83 @@
   "slug": "cdo-assembly-of-god",
   "name": "CDO Assembly of God",
   "aka": [
-    "Canyon Del Oro Assembly of God"
+    "Canyon Del Oro Assembly of God",
+    "CDO AG"
   ],
   "tradition": "pentecostal_charismatic",
   "denomination": "Assemblies of God",
   "website": "https://www.cdoassemblyofgod.com/",
-  "location": {
-    "address": "Address not confirmed",
-    "lat": null,
-    "lng": null,
-    "geocode": "missing",
-    "city": "Tucson",
-    "state": "AZ"
+  "youtube": {
+    "channel_url": "https://www.youtube.com/@CDOassemblyofgod",
+    "handle": "@CDOassemblyofgod",
+    "transcripts_available": "unknown"
   },
-  "pastors": [],
+  "other_media": [
+    {
+      "label": "CDO Assembly of God sermon list",
+      "url": "https://www.cdoassemblyofgod.com/sermons"
+    },
+    {
+      "label": "CDO Assembly of God sermon series",
+      "url": "https://www.cdoassemblyofgod.com/sermon-series/"
+    },
+    {
+      "label": "CDO Assembly of God Facebook page",
+      "url": "https://www.facebook.com/CDOAssemblyofGod/"
+    }
+  ],
+  "location": {
+    "address": "2950 W Lambert Ln",
+    "geocode": "verified",
+    "city": "Tucson",
+    "state": "AZ",
+    "postal_code": "85742",
+    "lat": 32.395394,
+    "lng": -111.0336
+  },
+  "pastors": [
+    {
+      "name": "David Filener",
+      "role": "Senior Pastor",
+      "bio_url": "https://www.cdoassemblyofgod.com/staff/",
+      "plagiarism": {
+        "status": "unchecked"
+      },
+      "ai_writing": {
+        "status": "unchecked"
+      },
+      "active": true
+    }
+  ],
   "sources": [
     {
       "label": "CDO Assembly of God official site",
       "url": "https://www.cdoassemblyofgod.com/",
-      "accessed": "2026-09-11"
+      "accessed": "2026-09-10"
     },
     {
       "label": "CDO Assembly of God service times and location page",
       "url": "https://www.cdoassemblyofgod.com/location/",
-      "accessed": "2026-09-11"
+      "accessed": "2026-09-10"
+    },
+    {
+      "label": "CDO Assembly of God 'Our Team' staff page",
+      "url": "https://www.cdoassemblyofgod.com/staff/",
+      "accessed": "2026-09-10"
+    },
+    {
+      "label": "CDO Assembly of God sermon list",
+      "url": "https://www.cdoassemblyofgod.com/sermons",
+      "accessed": "2026-09-10"
+    },
+    {
+      "label": "CDO Assembly of God YouTube channel",
+      "url": "https://www.youtube.com/@CDOassemblyofgod",
+      "accessed": "2026-09-10"
     }
   ],
   "summary": "Not yet reviewed.",
-  "notes": "Assemblies of God church in the Canyon Del Oro / north Tucson area; Sunday School 9:00am, worship 10:15am, Wednesday Bible study 6:00pm. Distinct from CDO Bible Church on Oracle Rd. No pastor name or sermon archive confirmed.",
-  "updated_at": "2026-09-11",
-  "updated_by": "claude-opus-5 research agent (seed)"
+  "notes": "Assemblies of God church in the Canyon Del Oro / north Tucson area; address confirmed on the church's own location page as 2950 W. Lambert Ln, Tucson AZ 85742. Coordinates not set - run tools/geocode.py. Sunday School 9:00am, morning worship 10:15am, Wednesday programs 6:00pm. Distinct from The Canyon Church (formerly CDO Bible Church) on Oracle Rd. PASTOR CONFIRMED: the 'Our Team' page lists David Filener as Senior Pastor. The page also lists Lindsey Chavez (Children's and Youth Pastor) and Allan Chavez (Youth Pastor); their titles do not indicate regular Sunday preaching, so they are not recorded as preaching pastors - check the sermon list before adding either. SERMON HOST: the church posts full services on its own site, but the player is an embedded YouTube video - a sample service page embedded a video from the church's own channel @CDOassemblyofgod (channel id UC_BfXMvTs0SbcUXNmMkZK8A), so YouTube is the real corpus. The on-site sermon list is the easiest way to get dates and titles. Caption availability not tested. Whether individual videos name the preacher is still unknown.",
+  "updated_at": "2026-09-10",
+  "updated_by": "claude research agent (facts)"
 }

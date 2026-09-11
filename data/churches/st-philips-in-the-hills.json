@@ -3,6 +3,22 @@
   "name": "St. Philip's in the Hills Episcopal Church",
   "tradition": "anglican_episcopal",
   "denomination": "The Episcopal Church - Diocese of Arizona",
+  "website": "https://stphilipstucson.org/",
+  "youtube": {
+    "channel_url": "https://www.youtube.com/@saintphilipsinthehills1125",
+    "handle": "@saintphilipsinthehills1125",
+    "transcripts_available": "unknown"
+  },
+  "other_media": [
+    {
+      "label": "St. Philip's live-stream page (current service video)",
+      "url": "https://stphilipstucson.org/worship/livestreams/"
+    },
+    {
+      "label": "St. Philip's archive of past services on Vimeo",
+      "url": "https://vimeo.com/showcase/9016746"
+    }
+  ],
   "location": {
     "address": "4440 N Campbell Ave",
     "postal_code": "85718",
@@ -14,9 +30,10 @@
   },
   "pastors": [
     {
-      "name": "Richard Mallory",
-      "role": "Interim Rector",
+      "name": "Matthew F. Reese",
+      "role": "Rector (The Rev'd Dr.)",
       "active": true,
+      "bio_url": "https://stphilipstucson.org/welcome/people/",
       "plagiarism": {
         "status": "unchecked"
       },
@@ -27,7 +44,23 @@
         "from": "2026",
         "to": null
       },
-      "notes": "Serving as interim while the parish runs a rector search (parish profile posted April 2026)."
+      "notes": "Came to Saint Philip's as Curate in August 2024 and was called as Rector two years later, per the parish's Clergy and Lay Staff page."
+    },
+    {
+      "name": "Elizabeth Clarke",
+      "role": "Associate for Intergenerational Ministries and Pastoral Care (The Rev'd Dcn)",
+      "active": true,
+      "bio_url": "https://stphilipstucson.org/welcome/people/",
+      "plagiarism": {
+        "status": "unchecked"
+      },
+      "ai_writing": {
+        "status": "unchecked"
+      },
+      "tenure": {
+        "from": "2026",
+        "to": null
+      }
     }
   ],
   "sources": [
@@ -39,7 +72,22 @@
     {
       "label": "St. Philip's in the Hills official site",
       "url": "https://stphilipstucson.org/",
-      "accessed": "2026-09-11"
+      "accessed": "2026-09-10"
+    },
+    {
+      "label": "St. Philip's Clergy and Lay Staff page (current rector and clergy)",
+      "url": "https://stphilipstucson.org/welcome/people/",
+      "accessed": "2026-09-10"
+    },
+    {
+      "label": "St. Philip's live-stream page (street address and PO box in footer, video links)",
+      "url": "https://stphilipstucson.org/worship/livestreams/",
+      "accessed": "2026-09-10"
+    },
+    {
+      "label": "Saint Philip's in the Hills YouTube channel",
+      "url": "https://www.youtube.com/@saintphilipsinthehills1125",
+      "accessed": "2026-09-10"
     },
     {
       "label": "St. Philip's in the Hills parish profile, April 2026 (rector search)",
@@ -63,8 +111,7 @@
     }
   ],
   "summary": "Not yet reviewed.",
-  "notes": "One of the largest Episcopal parishes in Arizona (about 400 households; reported average Sunday attendance around 404 in 2024), in the Catalina Foothills, and an architectural landmark. IN TRANSITION: the parish is in a rector search as of 2026 - Richard Mallory is interim rector and a parish profile was posted in April 2026. Expect the 2025-2026 pulpit to be shared among interim and supply clergy, so attribute sermons individually. Episcopal preaching follows the Revised Common Lectionary, which raises the baseline overlap with published lectionary commentaries; account for that in any similarity review. No sermon video host was confirmed - check stphilipstucson.org.",
-  "updated_at": "2026-09-11",
-  "updated_by": "claude-opus-5 research agent (seed)",
-  "website": "https://stphilipstucson.org/"
+  "notes": "One of the largest Episcopal parishes in Arizona (about 400 households; reported average Sunday attendance around 404 in 2024), in the Catalina Foothills, and an architectural landmark. RECTOR SEARCH IS OVER: as of 2026-09-10 the parish's own Clergy and Lay Staff page lists The Rev'd Dr Matthew F. Reese as Rector - he 'came to Saint Philip's as Curate in August 2024, and was called as Rector two years later'. The seeded entry for 'Richard Mallory, Interim Rector' was removed because no primary source on the parish site could be found for that name; the 2025-2026 interim period is real (parish profile posted April 2026, ENS rector listing), so sermons from that window may be by an interim or supply preacher and must be attributed individually. Other clergy on staff who may take the pulpit: The Rev'd Dcn Elizabeth Clarke (Associate, joined June 2026), The Rev'd Alexander Swain (part-time Assistant, participates in worship the second Sunday of the month) and The Rev'd Taylor Devine (part-time Newcomer Coordinator) - only Reese and Clarke are recorded as pastors here. Street address is 4440 N Campbell Ave, Tucson AZ 85718; the 85728 zip seen on the site belongs to the parish's PO Box 65840 mailing address, not the building. Sermon video: current service on stphilipstucson.org/worship/livestreams/, back catalogue on Vimeo showcase 9016746, plus a YouTube channel at @saintphilipsinthehills1125. Episcopal preaching follows the Revised Common Lectionary, which raises the baseline overlap with published lectionary commentaries; account for that in any similarity review. Coordinates are still only approximate; re-run tools/geocode.py.",
+  "updated_at": "2026-09-10",
+  "updated_by": "claude research agent (facts)"
 }

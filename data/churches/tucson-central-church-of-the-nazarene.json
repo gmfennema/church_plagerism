@@ -1,9 +1,18 @@
 {
   "slug": "tucson-central-church-of-the-nazarene",
   "name": "Tucson Central Church of the Nazarene",
+  "aka": [
+    "Central Church of the Nazarene, Tucson",
+    "Tucson Central Church"
+  ],
   "tradition": "nazarene_holiness",
   "denomination": "Church of the Nazarene",
   "website": "https://www.tucsoncentral.org/",
+  "youtube": {
+    "channel_url": "https://www.youtube.com/@tucsoncentralchurch4860",
+    "handle": "@tucsoncentralchurch4860",
+    "transcripts_available": "unknown"
+  },
   "other_media": [
     {
       "label": "Tucson Central sermons by speaker",
@@ -11,33 +20,64 @@
     }
   ],
   "location": {
-    "address": "Address not confirmed",
-    "lat": null,
-    "lng": null,
-    "geocode": "missing",
+    "address": "404 S Columbus Blvd",
+    "lat": 32.215289,
+    "lng": -110.900989,
+    "geocode": "verified",
     "city": "Tucson",
-    "state": "AZ"
+    "state": "AZ",
+    "postal_code": "85711"
   },
-  "pastors": [],
-  "sources": [
+  "pastors": [
     {
-      "label": "Tucson Central Church of the Nazarene official site",
-      "url": "https://www.tucsoncentral.org/",
-      "accessed": "2026-09-11"
+      "name": "Curtis Burch",
+      "role": "Senior Pastor (also Celebrate Recovery Director)",
+      "bio_url": "https://www.tucsoncentral.org/staff-leaders",
+      "plagiarism": {
+        "status": "unchecked"
+      },
+      "ai_writing": {
+        "status": "unchecked"
+      },
+      "active": true
     },
     {
-      "label": "Tucson Central staff and leaders page",
+      "name": "Dave Schone",
+      "role": "Associate Pastor",
+      "bio_url": "https://www.tucsoncentral.org/staff-leaders",
+      "plagiarism": {
+        "status": "unchecked"
+      },
+      "ai_writing": {
+        "status": "unchecked"
+      },
+      "active": true
+    }
+  ],
+  "sources": [
+    {
+      "label": "Tucson Central Church of the Nazarene official site (address, phone, YouTube link)",
+      "url": "https://www.tucsoncentral.org/",
+      "accessed": "2026-09-10"
+    },
+    {
+      "label": "Tucson Central staff and leaders page (pastor names and roles)",
       "url": "https://www.tucsoncentral.org/staff-leaders",
-      "accessed": "2026-09-11"
+      "accessed": "2026-09-10"
     },
     {
       "label": "Tucson Central sermons-by-speaker index",
       "url": "https://www.tucsoncentral.org/sermons/speakers",
-      "accessed": "2026-09-11"
+      "accessed": "2026-09-10"
+    },
+    {
+      "label": "Tucson Central Church YouTube channel",
+      "url": "https://www.youtube.com/@tucsoncentralchurch4860",
+      "accessed": "2026-09-10"
     }
   ],
   "summary": "Not yet reviewed.",
-  "notes": "Useful feature: the church site indexes sermons by speaker at /sermons/speakers, which makes per-preacher attribution easy and is the right page to harvest pastor names from. No name was visible in search snippets, so pastors is left empty. Street address not confirmed.",
-  "updated_at": "2026-09-11",
-  "updated_by": "claude-opus-5 research agent (seed)"
+  "notes": "Facts confirmed 2026-09-10 from the church's own site. Address is 404 S. Columbus Blvd., Tucson AZ 85711 (from the site's contact block, phone 520-326-1366); Sunday worship 10:45am. PASTORS: the 'Meet Our Leaders' page lists staff as married couples, so the entries read 'Curtis & Sabrina Burch - Senior Pastor & Celebrate Recovery Director' and 'Dave & Kathi Schone - Associate Pastor'. Recorded here as Curtis Burch (Senior Pastor) and Dave Schone (Associate Pastor); the page does not say which spouse holds which title, so if Sabrina Burch or Kathi Schone turns out to preach, add them separately rather than assuming. Sermon media: YouTube @tucsoncentralchurch4860 ('Services and Sermons from Tucson Central Church of the Nazarene'), plus the site's own /sermons/ index. Caveat on the speakers index: it currently returns only one speaker entry (Curtis & Sabrina Burch, most recent item dated 10 March 2024), so it may be stale or only partially populated - verify against the YouTube uploads before relying on it for per-preacher attribution. Coordinates still need tools/geocode.py.",
+  "updated_at": "2026-09-10",
+  "updated_by": "claude research agent (facts)"
 }

@@ -2,30 +2,42 @@
   "slug": "desert-springs-presbyterian-church",
   "name": "Desert Springs Presbyterian Church",
   "aka": [
-    "Desert Springs PCA"
+    "Desert Springs PCA",
+    "DSPC"
   ],
   "tradition": "presbyterian_reformed",
   "denomination": "Presbyterian Church in America (PCA)",
+  "website": "https://desertspringspca.org/",
+  "other_media": [
+    {
+      "label": "Desert Springs PCA recordings (sermon archive on the church site)",
+      "url": "https://desertspringspca.org/recordings"
+    },
+    {
+      "label": "Desert Springs Presbyterian Church on SermonAudio",
+      "url": "https://www.sermonaudio.com/broadcasters/desert/"
+    }
+  ],
   "location": {
     "address": "1555 W Overton Rd",
     "postal_code": "85704",
-    "lat": null,
-    "lng": null,
-    "geocode": "missing",
+    "lat": 32.366862,
+    "lng": -110.998663,
+    "geocode": "verified",
     "city": "Tucson",
     "state": "AZ"
   },
   "pastors": [
     {
-      "name": "Ken Steele",
-      "role": "Pastor",
+      "name": "Steve Cavallaro",
+      "role": "Pastor (resigned 30 April 2025)",
+      "active": false,
       "plagiarism": {
         "status": "unchecked"
       },
       "ai_writing": {
         "status": "unchecked"
-      },
-      "active": true
+      }
     }
   ],
   "sources": [
@@ -43,10 +55,30 @@
       "label": "PCA Historical Center: PCA churches in Arizona",
       "url": "https://www.pcahistory.org/churches/arizona.html",
       "accessed": "2026-09-11"
+    },
+    {
+      "label": "Desert Springs Presbyterian Church official site (home)",
+      "url": "https://desertspringspca.org/",
+      "accessed": "2026-09-10"
+    },
+    {
+      "label": "Desert Springs PCA leadership page (states the pulpit is vacant)",
+      "url": "https://desertspringspca.org/leadership",
+      "accessed": "2026-09-10"
+    },
+    {
+      "label": "Desert Springs PCA recordings page (sermon list with speaker names)",
+      "url": "https://desertspringspca.org/recordings",
+      "accessed": "2026-09-10"
+    },
+    {
+      "label": "Desert Springs Presbyterian Church SermonAudio broadcaster page (church-operated; lists 1555 W Overton Rd)",
+      "url": "https://www.sermonaudio.com/broadcasters/desert/",
+      "accessed": "2026-09-10"
     }
   ],
   "summary": "Not yet reviewed.",
-  "notes": "PCA congregation in north Tucson. The PCA posted a church profile form dated April 2026, which can mean the church is in a pastoral search - re-confirm that Ken Steele is the current preaching pastor. No church website or sermon archive confirmed. Coordinates missing: Overton Rd is not on the reference grid.",
-  "updated_at": "2026-09-11",
-  "updated_by": "claude-opus-5 research agent (seed)"
+  "notes": "PCA congregation in north Tucson. The church website (desertspringspca.org, SnapPages) was found and added on 2026-09-10; its Leadership page states that Pastor Steve Cavallaro resigned on 30 April 2025 after 15 years of service and that the congregation is now served by men from the Arizona Presbytery while it awaits a new pastor. That resolves the earlier seed question: the April 2026 PCA profile form is a pastoral-search document. The seeded name 'Ken Steele' could not be confirmed on any primary source and was removed; pastors[] now holds only the former pastor with active:false. The /recordings page names the supply rotation: Ken Roth preached most Sundays Jun-Aug 2026, with Nick Muller and Chris McLaughlin also preaching, and SermonAudio lists Ken Roth with about 32 sermons. Those men are presbytery supply preachers rather than called staff, so they are deliberately not listed as pastors - revisit when a pastor is called. Sermons are published on the church site (/recordings) and on SermonAudio; no YouTube channel was found. The street address 1555 W Overton Rd, Tucson AZ 85704 does not appear anywhere on the church's own website - it comes from the church's own SermonAudio broadcaster page plus the PCA profile form. Coordinates still missing: run tools/geocode.py.",
+  "updated_at": "2026-09-10",
+  "updated_by": "claude research agent (facts)"
 }

@@ -9,6 +9,9 @@ research/*/**/*.mp3
 research/*/**/*.m4a
 research/*/**/.whisper_tmp/
 
+# Browser session state from research agents driving playwright-cli
+.playwright-cli/
+
 # Python / OS noise
 __pycache__/
 *.py[cod]

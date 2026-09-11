@@ -3,32 +3,77 @@
   "name": "Country Club Road church of Christ",
   "tradition": "restoration_churches_of_christ",
   "denomination": "Churches of Christ",
-  "website": "http://churchofchristtucson.org/",
+  "website": "https://churchofchristtucson.org/",
+  "youtube": {
+    "channel_url": "https://www.youtube.com/channel/UCNL61YwwEzrCCXdygHLaYkQ",
+    "handle": "@churchofchristtucson",
+    "sermon_playlist_urls": [
+      "https://www.youtube.com/playlist?list=UUNL61YwwEzrCCXdygHLaYkQ"
+    ],
+    "transcripts_available": "unknown"
+  },
   "other_media": [
     {
-      "label": "Country Club Road church of Christ sermons page",
-      "url": "http://churchofchristtucson.org/sermons"
+      "label": "Country Club Road church of Christ sermons page (indexed by speaker, series and year)",
+      "url": "https://churchofchristtucson.org/sermons"
+    },
+    {
+      "label": "Country Club Road church of Christ sermon podcast",
+      "url": "https://churchofchristtucson.org/sermons/podcast"
     }
   ],
   "location": {
     "address": "145 N Country Club Rd",
     "postal_code": "85716",
-    "lat": null,
-    "lng": null,
-    "geocode": "missing",
+    "lat": 32.22248,
+    "lng": -110.926715,
+    "geocode": "verified",
     "city": "Tucson",
     "state": "AZ"
   },
-  "pastors": [],
+  "pastors": [
+    {
+      "name": "Reagan Bingham",
+      "role": "Preacher",
+      "bio_url": "https://churchofchristtucson.org/sermons",
+      "active": true,
+      "plagiarism": {
+        "status": "unchecked"
+      },
+      "ai_writing": {
+        "status": "unchecked"
+      }
+    }
+  ],
   "sources": [
     {
       "label": "Country Club Road church of Christ sermons page",
       "url": "http://churchofchristtucson.org/sermons",
       "accessed": "2026-09-11"
+    },
+    {
+      "label": "Country Club Road church of Christ - Home (address, service times)",
+      "url": "https://churchofchristtucson.org/",
+      "accessed": "2026-09-10"
+    },
+    {
+      "label": "Country Club Road church of Christ - About Us",
+      "url": "https://churchofchristtucson.org/about",
+      "accessed": "2026-09-10"
+    },
+    {
+      "label": "Country Club Road church of Christ - Sermons archive with speaker index",
+      "url": "https://churchofchristtucson.org/sermons",
+      "accessed": "2026-09-10"
+    },
+    {
+      "label": "Country Club Road Church of Christ - Tucson YouTube channel",
+      "url": "https://www.youtube.com/channel/UCNL61YwwEzrCCXdygHLaYkQ",
+      "accessed": "2026-09-10"
     }
   ],
   "summary": "Not yet reviewed.",
-  "notes": "Churches of Christ congregation in central Tucson with an online sermons page. Coordinates missing: Country Club Rd's longitude is not on the reference grid. No preacher name confirmed; Churches of Christ often rotate speakers.",
-  "updated_at": "2026-09-11",
-  "updated_by": "claude-opus-5 research agent (seed)"
+  "notes": "Churches of Christ congregation at 10th St and Country Club Rd, meeting there since 1 Jan 1950 (per its own About page). Address 145 N. Country Club Road, Tucson AZ 85716 confirmed from the site footer. Preacher: the sermon archive (1,240 sermons, filterable by speaker) shows Reagan Bingham preaching essentially every Sunday morning and evening through 2026 - every one of the 25 most recent entries, from 2026-05-17 to 2026-09-06, is his. The site publishes no staff or leadership page and gives him no formal title, so 'Preacher' is used here rather than a title the church does not claim; it lists no elders publicly either. The long speaker list on the archive page is mostly visiting gospel-meeting speakers (Allen Greeley, Bill Robinson, Buddy Payne, Zeke Flores and others), not regular preachers - do not add them. CAUTION: ccrcoc.com also styles itself 'Country Club Road Church of Christ' and is a DIFFERENT congregation; use churchofchristtucson.org only. Media: sermon audio on the church site with an RSS podcast feed, plus a YouTube channel (@churchofchristtucson) whose uploads playlist is recorded above; caption availability untested.",
+  "updated_at": "2026-09-10",
+  "updated_by": "claude research agent (facts)"
 }

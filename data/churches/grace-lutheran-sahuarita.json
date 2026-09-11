@@ -5,27 +5,75 @@
     "Grace Sahuarita"
   ],
   "tradition": "lutheran",
-  "denomination": "Lutheran (synod affiliation to verify)",
+  "denomination": "Wisconsin Evangelical Lutheran Synod (WELS)",
   "website": "https://www.gracelutheransaz.org/sahuarita",
+  "youtube": {
+    "channel_url": "https://www.youtube.com/@GraceLutheranSAZ",
+    "handle": "@GraceLutheranSAZ",
+    "transcripts_available": "unknown"
+  },
+  "other_media": [
+    {
+      "label": "Grace Lutheran - Service Videos Sahuarita",
+      "url": "https://www.gracelutheransaz.org/service-videos-sahuarita"
+    },
+    {
+      "label": "Grace Lutheran - printed sermon manuscripts",
+      "url": "https://www.gracelutheransaz.org/printed-sermons"
+    }
+  ],
   "location": {
     "address": "75 W Sahuarita Rd",
     "city": "Sahuarita",
     "postal_code": "85629",
-    "lat": null,
-    "lng": null,
-    "geocode": "missing",
+    "lat": 31.957783,
+    "lng": -110.971164,
+    "geocode": "verified",
     "state": "AZ"
   },
-  "pastors": [],
+  "pastors": [
+    {
+      "name": "Ryan Heiman",
+      "role": "Mission Pastor, Grace-Sahuarita",
+      "bio_url": "https://www.gracelutheransaz.org/pastors",
+      "active": true,
+      "plagiarism": {
+        "status": "unchecked"
+      },
+      "ai_writing": {
+        "status": "unchecked"
+      }
+    }
+  ],
   "sources": [
     {
       "label": "Grace Lutheran Church - Sahuarita campus page",
       "url": "https://www.gracelutheransaz.org/sahuarita",
-      "accessed": "2026-09-11"
+      "accessed": "2026-09-10"
+    },
+    {
+      "label": "Grace Lutheran Church - Our Pastors page",
+      "url": "https://www.gracelutheransaz.org/pastors",
+      "accessed": "2026-09-10"
+    },
+    {
+      "label": "Grace Lutheran Church - Who We Are (synod affiliation)",
+      "url": "https://www.gracelutheransaz.org/about",
+      "accessed": "2026-09-10"
+    },
+    {
+      "label": "Grace Lutheran Church - Service Videos Sahuarita",
+      "url": "https://www.gracelutheransaz.org/service-videos-sahuarita",
+      "accessed": "2026-09-10"
+    },
+    {
+      "label": "Grace Evangelical Lutheran Church of Southern AZ YouTube channel",
+      "url": "https://www.youtube.com/@GraceLutheranSAZ",
+      "accessed": "2026-09-10"
     }
   ],
   "summary": "Not yet reviewed.",
-  "notes": "Sahuarita campus of the same Grace Lutheran ministry that has a Tucson campus at 830 N 1st Ave (see grace-lutheran-tucson). Check whether the two campuses share a preaching pastor or have separate ones - if they share, the two records should point at the same person. Synod affiliation unconfirmed.",
-  "updated_at": "2026-09-11",
-  "updated_by": "claude-opus-5 research agent (seed)"
+  "notes": "Sahuarita campus of Grace Lutheran Church of Southern Arizona, a multi-site congregation with campuses in Tucson (830 N 1st Ave), Sahuarita, Vail and Benson. Synod CONFIRMED on the church's own 'Who We Are' page: Wisconsin Evangelical Lutheran Synod (WELS), not ELCA or LCMS. Address confirmed on the campus page: 75 W. Sahuarita Rd, Sahuarita, AZ 85629; the campus 'joined the Grace family in 2014. Formerly Peace Lutheran Church.' Sunday worship 10:00 am. The Our Pastors page assigns Ryan Heiman as mission pastor to Sahuarita (he joined Grace in 2016), so Sahuarita has its own preacher and does not simply share the Tucson pastors. The other three Grace pastors listed are Ron Koehler (administrative, also serving Grace-Tucson), Nathan Kassulke (lead pastor, Grace-Tucson) and S.A. Scheuerlein (Grace-Vail and Grace-Benson). Expect pulpit swaps across campuses, so confirm from each video's title or description who actually preached before attributing a sermon to Heiman. Media: the whole ministry shares one YouTube channel, @GraceLutheranSAZ (formerly youtube.com/user/GraceTucsonVideo, which is the link on the church's Service Videos page). The site keeps separate Tucson and Sahuarita service-video pages plus printed sermon manuscripts at /printed-sermons - manuscripts are unusually good source material for a text-similarity review. No Sahuarita-only YouTube playlist URL was found; the campus-specific videos are indexed on the church's own page rather than in a YouTube playlist.",
+  "updated_at": "2026-09-10",
+  "updated_by": "claude research agent (facts)"
 }

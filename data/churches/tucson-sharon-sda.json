@@ -2,23 +2,31 @@
   "slug": "tucson-sharon-sda",
   "name": "Tucson Sharon Seventh-day Adventist Church",
   "aka": [
-    "Tucson Sharon SDA"
+    "Tucson Sharon SDA",
+    "Tucson Sharon SDA Church"
   ],
   "tradition": "adventist",
-  "denomination": "Seventh-day Adventist",
+  "denomination": "Seventh-day Adventist Church",
   "website": "https://tucsonsharonaz.adventistchurch.org/",
+  "youtube": {
+    "channel_url": "https://www.youtube.com/@tucsonsharonchurch",
+    "handle": "@tucsonsharonchurch",
+    "transcripts_available": "unknown"
+  },
   "location": {
-    "address": "Address not confirmed",
-    "lat": null,
-    "lng": null,
-    "geocode": "missing",
+    "address": "955 N 10th Ave",
+    "postal_code": "85705",
+    "geocode": "verified",
     "city": "Tucson",
-    "state": "AZ"
+    "state": "AZ",
+    "lat": 32.233607,
+    "lng": -110.974959
   },
   "pastors": [
     {
       "name": "Jonathan Smith",
       "role": "Pastor",
+      "bio_url": "https://tucsonsharonaz.adventistchurch.org/our-pastor/",
       "plagiarism": {
         "status": "unchecked"
       },
@@ -30,9 +38,19 @@
   ],
   "sources": [
     {
-      "label": "Tucson Sharon Seventh-day Adventist Church official site",
+      "label": "Tucson Sharon Seventh-day Adventist Church official site (address, pastor)",
       "url": "https://tucsonsharonaz.adventistchurch.org/",
-      "accessed": "2026-09-11"
+      "accessed": "2026-09-10"
+    },
+    {
+      "label": "Tucson Sharon SDA 'Our Pastor' page",
+      "url": "https://tucsonsharonaz.adventistchurch.org/our-pastor/",
+      "accessed": "2026-09-10"
+    },
+    {
+      "label": "Tucson Sharon SDA Church YouTube channel",
+      "url": "https://www.youtube.com/@tucsonsharonchurch",
+      "accessed": "2026-09-10"
     },
     {
       "label": "Tucson Sharon SDA Facebook page",
@@ -41,7 +59,7 @@
     }
   ],
   "summary": "Not yet reviewed.",
-  "notes": "Historically Black Adventist congregation in Tucson. Search results say sermons by Pastor Jonathan Smith are published on YouTube, but the channel URL was not captured - find it, then this becomes reviewable. Street address not confirmed.",
-  "updated_at": "2026-09-11",
-  "updated_by": "claude-opus-5 research agent (seed)"
+  "notes": "2026-09-10 fact pass. Address confirmed on the church's own homepage: 955 N 10th Ave, Tucson, AZ 85705-7623 (recorded as 85705 for the five-digit field); phone 520-622-2218. Geocode left 'missing' so tools/geocode.py fills it. Pastor Jonathan Smith, MPH, MA is named on the homepage and has his own 'Our Pastor' page; he is the only pastor listed, and his email (pastorjs1896@gmail.com) is the church contact. YouTube channel confirmed as @tucsonsharonchurch (channel id UC6k7FD-AGMnUn-kvBG6RgOg) - the church's own homepage embeds a video from that channel. Both a Videos tab (titled expository messages, e.g. 'Can You Hear God's Voice? Learning to Listen (Hebrews 1:1-2)') and a Live tab ('Tucson Sharon Worship Experience' full services) carry sermon material, so a corpus is obtainable. Beware of a lookalike handle @tucsonsharonsdachurch and an old 'Sharon SDAChurch' channel (UCevrerT4p9j2A0wL8pjOD5g) that surface in search but are not the channel the church itself links to. Worship is Saturday at 12:00 PM MST with Bible study at 10:30 AM. Historically Black Adventist congregation in Tucson.",
+  "updated_at": "2026-09-10",
+  "updated_by": "claude research agent (facts)"
 }

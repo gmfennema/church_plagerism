@@ -7,20 +7,29 @@
   ],
   "tradition": "presbyterian_reformed",
   "denomination": "Presbyterian Church in America (PCA)",
-  "website": "https://www.cfcpca.org/",
+  "website": "https://cfcpca.org/",
+  "youtube": {
+    "channel_url": "https://www.youtube.com/@catalinafoothillschurch2941",
+    "handle": "@catalinafoothillschurch2941",
+    "sermon_playlist_urls": [
+      "https://www.youtube.com/playlist?list=PLI_Oc1a6NhBjgMzML1y9jqmP0Le65diMV",
+      "https://www.youtube.com/playlist?list=PLI_Oc1a6NhBjyk9fGrc9FS8wBQIOZMUZT"
+    ],
+    "transcripts_available": "unknown"
+  },
   "location": {
     "address": "2150 E Orange Grove Rd",
     "postal_code": "85718",
-    "lat": null,
-    "lng": null,
-    "geocode": "missing",
+    "geocode": "verified",
     "city": "Tucson",
-    "state": "AZ"
+    "state": "AZ",
+    "lat": 32.323925,
+    "lng": -110.940919
   },
   "pastors": [
     {
-      "name": "Paul Utnage",
-      "role": "Executive Pastor",
+      "name": "Rob Pendley",
+      "role": "Lead Pastor and Teaching Elder",
       "active": true,
       "plagiarism": {
         "status": "unchecked"
@@ -31,28 +40,28 @@
       "bio_url": "https://cfcpca.org/staff/"
     },
     {
-      "name": "Rob Pendley",
-      "role": "Associate Pastor",
-      "active": true,
+      "name": "Paul Utnage",
+      "role": "Executive Pastor (former)",
+      "active": false,
       "plagiarism": {
         "status": "unchecked"
       },
       "ai_writing": {
         "status": "unchecked"
       },
-      "bio_url": "https://www.cfcpca.org/pastors-staff"
+      "notes": "Served as Executive Pastor during the 2024-2025 interim. No longer listed on the church staff page as of 2026-09-10; reason and departure date not established. Kept for history because sermons in the interim period may be his."
     },
     {
       "name": "Chad Turner",
-      "role": "Associate Pastor",
-      "active": true,
+      "role": "Associate Pastor (former)",
+      "active": false,
       "plagiarism": {
         "status": "unchecked"
       },
       "ai_writing": {
         "status": "unchecked"
       },
-      "bio_url": "https://www.cfcpca.org/pastors-staff"
+      "notes": "Listed as an Associate Pastor in the 2024-2025 interim. No longer listed on the church staff page as of 2026-09-10; reason and departure date not established. Kept for history."
     },
     {
       "name": "John Stone",
@@ -73,37 +82,27 @@
   "sources": [
     {
       "label": "Catalina Foothills Church official site",
-      "url": "https://www.cfcpca.org/new",
-      "accessed": "2026-09-11"
+      "url": "https://www.cfcpca.org/",
+      "accessed": "2026-09-10"
     },
     {
-      "label": "Catalina Foothills Church staff page",
+      "label": "Catalina Foothills Church staff page ('Our Team')",
       "url": "https://cfcpca.org/staff/",
-      "accessed": "2026-09-11"
+      "accessed": "2026-09-10"
     },
     {
-      "label": "Yelp: Catalina Foothills Church PCA, 2150 E Orange Grove Rd",
-      "url": "https://www.yelp.com/biz/catalina-foothills-church-pca-tucson",
-      "accessed": "2026-09-11"
+      "label": "Catalina Foothills Church YouTube channel",
+      "url": "https://www.youtube.com/@catalinafoothillschurch2941",
+      "accessed": "2026-09-10"
+    },
+    {
+      "label": "Catalina Foothills Church YouTube playlists",
+      "url": "https://www.youtube.com/@catalinafoothillschurch2941/playlists",
+      "accessed": "2026-09-10"
     },
     {
       "label": "PCA Administrative Committee lead pastor search profile (2025)",
       "url": "https://www.pcaac.org/wp-content/uploads/2025/06/LeadPastor_CatalinaFoothillsTucsonAZ.pdf",
-      "accessed": "2026-09-11"
-    },
-    {
-      "label": "Catalina Foothills Church pastors and staff page",
-      "url": "https://www.cfcpca.org/pastors-staff",
-      "accessed": "2026-09-11"
-    },
-    {
-      "label": "Catalina Foothills Church 'Season of Change' page (leadership transition)",
-      "url": "https://www.cfc.joearnett.com/cfc-season-of-change/",
-      "accessed": "2026-09-11"
-    },
-    {
-      "label": "MinistryJobs posting: Community Director/Pastor, Catalina Foothills Church PCA",
-      "url": "https://ministryjobs.com/job/community-directorpastor-full-time-tucson-az/",
       "accessed": "2026-09-11"
     },
     {
@@ -113,7 +112,7 @@
     }
   ],
   "summary": "Not yet reviewed.",
-  "notes": "PCA congregation planted about 30 years ago in the Catalina Foothills; it also runs Pusch Ridge Christian Academy. LEADERSHIP IS IN TRANSITION: lead pastor John Stone resigned in April 2024, the PCA posted a lead-pastor search profile in June 2025, and the church has been run in the interim by Executive Pastor Paul Utnage with Associate Pastors Rob Pendley and Chad Turner, an Executive Director (Byron Johns) and a Director of Shepherding (Dr. John Miller). That means recent sermons are split across several preachers, so per-sermon attribution is essential - do not attribute the whole archive to one person. An earlier directory snippet called Paul Utnage 'Lead Pastor'; the church's own Facebook post introduced him as Executive Pastor, which is the title recorded here. Coordinates left missing: Orange Grove Rd's latitude could not be fixed against the reference grid. Sermons are podcast and live-streamed; no YouTube channel URL confirmed.",
-  "updated_at": "2026-09-11",
-  "updated_by": "claude-opus-5 research agent (seed)"
+  "notes": "PCA congregation in the Catalina Foothills; it also runs Pusch Ridge Christian Academy. Address 2150 E Orange Grove Rd, Tucson AZ 85718 confirmed on the church's own site on 2026-09-10; coordinates still not set - run tools/geocode.py. LEADERSHIP TRANSITION IS NOW RESOLVED: lead pastor John Stone resigned in April 2024, the PCA posted a lead-pastor search profile in June 2025, and the current staff page lists ROB PENDLEY as 'Lead Pastor and Teaching Elder'. A web search indicates the congregation voted him in on 2025-09-07 with a transition date of 2025-10-06, but that detail comes from a search snippet, not a page I opened, so treat the exact dates as unverified. Paul Utnage and Chad Turner no longer appear anywhere on the staff page and are now marked inactive; I could not establish when or why they left, so do not state a reason publicly. That still means sermons from roughly 2024 through mid-2025 are split across several preachers - per-sermon attribution is essential; do not attribute the whole archive to Pendley. Other current staff: Byron Johns (Executive Director) and John Miller (Director of Shepherding), neither carrying a pastor title. YOUTUBE FOUND: @catalinafoothillschurch2941 (channel id UCWQTcdozsPo8VB9v885tWSQ). Sermon playlists recorded are 'Worship Services' and 'Traditional Worship Service'; the channel also has series playlists ('Gospel Hope for Depression and Anxiety', 'Made in the Image of God') and non-sermon playlists (Tuesday Morning Devotional, The Bereans Class, Devotions, Special Events) that should be excluded from a sermon corpus. DEAD LINK REMOVED: cfcpca.org/pastors-staff returns 404; the live staff page is cfcpca.org/staff/.",
+  "updated_at": "2026-09-10",
+  "updated_by": "claude research agent (facts)"
 }

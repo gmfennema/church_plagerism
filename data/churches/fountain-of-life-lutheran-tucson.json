@@ -1,13 +1,27 @@
 {
   "slug": "fountain-of-life-lutheran-tucson",
   "name": "Fountain of Life Lutheran Church",
+  "aka": [
+    "Fountain of Life Tucson"
+  ],
   "tradition": "lutheran",
   "denomination": "Lutheran Church-Missouri Synod (LCMS)",
   "website": "https://www.follutheran.org/",
   "youtube": {
-    "channel_url": "https://www.youtube.com/channel/UCdovNXbEU7aR-YG8F1UAEYA",
+    "channel_url": "https://www.youtube.com/@FountainofLifeTucson",
+    "handle": "@FountainofLifeTucson",
     "transcripts_available": "unknown"
   },
+  "other_media": [
+    {
+      "label": "Fountain of Life sermons page (series index linking to the church's YouTube videos)",
+      "url": "https://www.follutheran.org/sermons"
+    },
+    {
+      "label": "Fountain of Life Lutheran Church Facebook page",
+      "url": "https://www.facebook.com/FountainofLifeLutheranChurch/"
+    }
+  ],
   "location": {
     "address": "710 S Kolb Rd",
     "postal_code": "85710",
@@ -17,7 +31,20 @@
     "city": "Tucson",
     "state": "AZ"
   },
-  "pastors": [],
+  "pastors": [
+    {
+      "name": "Bill Hartley",
+      "role": "Senior Pastor",
+      "bio_url": "https://www.follutheran.org/staff",
+      "active": true,
+      "plagiarism": {
+        "status": "unchecked"
+      },
+      "ai_writing": {
+        "status": "unchecked"
+      }
+    }
+  ],
   "sources": [
     {
       "label": "Fountain of Life Lutheran Church official site",
@@ -38,10 +65,25 @@
       "label": "Fountain of Life Lutheran Church Facebook page",
       "url": "https://www.facebook.com/FountainofLifeLutheranChurch/",
       "accessed": "2026-09-11"
+    },
+    {
+      "label": "Fountain of Life staff page (Bill Hartley, Senior Pastor)",
+      "url": "https://www.follutheran.org/staff",
+      "accessed": "2026-09-10"
+    },
+    {
+      "label": "Fountain of Life 'Our Denomination' page (Lutheran Church - Missouri Synod)",
+      "url": "https://www.follutheran.org/our-denomination",
+      "accessed": "2026-09-10"
+    },
+    {
+      "label": "Fountain of Life sermons page",
+      "url": "https://www.follutheran.org/sermons",
+      "accessed": "2026-09-10"
     }
   ],
   "summary": "Not yet reviewed.",
-  "notes": "LCMS parish on S Kolb Rd, Sunday worship 9am, with its own YouTube channel that streams services. WATCH OUT: there is a separate 'Fountain of Life Lutheran Church' in Sun City, Arizona with its own YouTube channels - make sure any videos pulled are from the Tucson channel (UCdovNXbEU7aR-YG8F1UAEYA). No pastor name confirmed. Lectionary preaching caveat applies.",
-  "updated_at": "2026-09-11",
-  "updated_by": "claude-opus-5 research agent (seed)"
+  "notes": "LCMS parish on S Kolb Rd, Divine Service Sundays at 9am. Confirmed on 2026-09-10 from the church's own site: address 710 S Kolb Rd, Tucson AZ 85710 (site footer), LCMS affiliation (its 'Our Denomination' page points to the Lutheran Church - Missouri Synod), and Bill Hartley as Senior Pastor (staff page, where he is also listed as an elder and over discipleship). He is the only pastor on staff; the rest of the staff list is lay ministry directors, elders, shepherds and a board, so he appears to be the sole regular preacher, but the sermons page does not label speakers - confirm attribution from the videos themselves. Sermons are on YouTube: the channel UCdovNXbEU7aR-YG8F1UAEYA resolves to the handle @FountainofLifeTucson, and the church's /sermons page is just a series index (e.g. 'Sharpening the Acts II', 'Primer for the Reborn Life') linking to that channel. Note the church self-describes as 'committed to classical Christianity' and uses a contemporary-style series structure rather than strict lectionary titles, though the lectionary preaching caveat may still apply. WATCH OUT: there is a separate 'Fountain of Life Lutheran Church' in Sun City, Arizona with its own YouTube channels - make sure any videos pulled are from the Tucson channel. Coordinates remain the earlier grid estimate (geocode 'approximate') since the address did not change; re-run tools/geocode.py to upgrade them.",
+  "updated_at": "2026-09-10",
+  "updated_by": "claude research agent (facts)"
 }

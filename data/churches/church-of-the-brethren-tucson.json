@@ -1,14 +1,19 @@
 {
   "slug": "church-of-the-brethren-tucson",
   "name": "Church of the Brethren Tucson",
+  "aka": [
+    "Tucson Church of the Brethren"
+  ],
+  "in_scope": false,
+  "out_of_scope_reason": "Congregation permanently closed. The church's own website announced on 2018-12-04 that it would close and sell the property; its last Sunday was 2018-12-30 with a closing service on 2019-01-05, and the building was sold to Iglesia Fuente de Vida. The Pacific Southwest District of the Church of the Brethren no longer lists a Tucson congregation.",
   "tradition": "other_protestant",
-  "denomination": "Church of the Brethren",
+  "denomination": "Church of the Brethren (Pacific Southwest District)",
   "location": {
     "address": "2200 N Dodge Blvd",
     "postal_code": "85716",
-    "lat": null,
-    "lng": null,
-    "geocode": "missing",
+    "lat": 32.24837,
+    "lng": -110.913928,
+    "geocode": "verified",
     "city": "Tucson",
     "state": "AZ"
   },
@@ -18,10 +23,20 @@
       "label": "Yelp: Church of the Brethren Tucson, 2200 N Dodge Blvd",
       "url": "https://www.yelp.com/biz/church-of-the-brethren-tucson-tucson",
       "accessed": "2026-09-11"
+    },
+    {
+      "label": "Tucson Church of the Brethren website, 'Church Closing' announcement (archived 2019-12-06)",
+      "url": "http://web.archive.org/web/20191206191756/https://www.tucsonchurchofthebrethren.com/",
+      "accessed": "2026-09-10"
+    },
+    {
+      "label": "Pacific Southwest District Church of the Brethren - church map (Arizona: Peoria and Scottsdale only)",
+      "url": "https://pswdcob.org/churches/church-interactive-map/",
+      "accessed": "2026-09-10"
     }
   ],
-  "summary": "Not yet reviewed.",
-  "notes": "Anabaptist-rooted Church of the Brethren congregation on N Dodge Blvd. Distinct from First Brethren Church of Tucson (a different body in the Brethren family) - see first-brethren-church-tucson. Only a Yelp listing was confirmed; no website, pastor or sermons found. Coordinates missing: Dodge Blvd is not on the reference grid.",
-  "updated_at": "2026-09-11",
-  "updated_by": "claude-opus-5 research agent (seed)"
+  "summary": "Out of scope: the congregation closed at the end of 2018 and the building was sold.",
+  "notes": "Marked out of scope on 2026-09-10. The church's own site (tucsonchurchofthebrethren.com, now offline but archived) carries a 4 Dec 2018 post by Nelda Clarke: 'After much prayer and seeking God's guidance for the future of the Tucson Church of the Brethren, It has been decided that we close the church and sell the property. Our last Sunday will be December 30, 2018 and we will have a closing service on Saturday, January 5, 2019... we have been able to sell the property to Iglesia Fuente de Vida.' The Pacific Southwest District's current church map lists only Circle of Peace (Peoria) and Papago Buttes (Scottsdale) in Arizona - no Tucson congregation. No pastor was ever recorded and none is needed. Directory sites (Yelp, Yellow Pages, ChurchFinder) still carry stale listings for 2200 N Dodge Blvd; do not treat those as evidence the church is open. Distinct from First Brethren Church of Tucson (201 N Columbus Blvd, a different body in the Brethren family, still active) - see first-brethren-church-tucson. If anyone wants the congregation now at 2200 N Dodge Blvd, that is Iglesia Fuente de Vida, which would need its own record.",
+  "updated_at": "2026-09-10",
+  "updated_by": "claude research agent (facts)"
 }

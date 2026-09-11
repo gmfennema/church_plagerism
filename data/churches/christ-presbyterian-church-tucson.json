@@ -19,8 +19,8 @@
   "pastors": [
     {
       "name": "Steve Melde",
-      "role": "Pastor",
-      "bio_url": "http://cpctucsonaz.org/about-cpc/our-staff/",
+      "role": "Pastor and Head of Staff",
+      "bio_url": "https://cpctucsonaz.org/about-cpc/our-staff/",
       "plagiarism": {
         "status": "unchecked"
       },
@@ -30,6 +30,11 @@
       "active": true
     }
   ],
+  "youtube": {
+    "channel_url": "https://www.youtube.com/channel/UCT_gkw6j7gZx5VwVpG7wsIA",
+    "handle": "@cpctucsonaz2095",
+    "transcripts_available": "unknown"
+  },
   "sources": [
     {
       "label": "Christ Presbyterian Church Tucson official site",
@@ -55,10 +60,25 @@
       "label": "Christ Presbyterian Tucson Facebook page",
       "url": "https://www.facebook.com/ChristPresbyterianTucson/",
       "accessed": "2026-09-11"
+    },
+    {
+      "label": "Christ Presbyterian Church - About CPC (states PC(USA) and Presbytery de Cristo)",
+      "url": "https://cpctucsonaz.org/about-cpc/",
+      "accessed": "2026-09-10"
+    },
+    {
+      "label": "Christ Presbyterian Church - Contact Us (street address)",
+      "url": "https://cpctucsonaz.org/contact-us/",
+      "accessed": "2026-09-10"
+    },
+    {
+      "label": "CPCTucsonAZ YouTube channel (linked from the church site footer)",
+      "url": "https://www.youtube.com/channel/UCT_gkw6j7gZx5VwVpG7wsIA",
+      "accessed": "2026-09-10"
     }
   ],
   "summary": "Not yet reviewed.",
-  "notes": "Mainline PC(USA), not PCA - it sits in Presbytery de Cristo. Note it shares the Broadway corridor with Fellowship Bible Church (6700 E Broadway); different churches, do not conflate. No sermon video host confirmed from search results.",
-  "updated_at": "2026-09-11",
-  "updated_by": "claude-opus-5 research agent (seed)"
+  "notes": "Mainline PC(USA), not PCA. Affiliation confirmed 2026-09-10 from the church's own About page: 'Christ Presbyterian Church is part of the Presbyterian Church (USA) and is one of twenty-nine churches within Presbytery de Cristo.' Address 6565 E. Broadway Blvd., Tucson AZ 85710 confirmed from cpctucsonaz.org/contact-us/. Steve Melde is the only pastor on the staff page (Pastor and Head of Staff); the rest of the staff are non-preaching (music, children's education, office, AV), so he is the only preaching pastor recorded. The church links a YouTube channel (@cpctucsonaz2095) from its site footer; the channel has no playlists, so sermons would have to be pulled from the uploads/videos feed and it is not confirmed that full sermons (as opposed to whole services) are posted. Note it shares the Broadway corridor with Fellowship Bible Church (6700 E Broadway); different churches, do not conflate. Coordinates are still only approximate; run tools/geocode.py.",
+  "updated_at": "2026-09-10",
+  "updated_by": "claude research agent (facts)"
 }

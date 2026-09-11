@@ -8,9 +8,18 @@
   "tradition": "pentecostal_charismatic",
   "denomination": "Assemblies of God",
   "website": "https://hopechurchtucson.org/",
+  "youtube": {
+    "channel_url": "https://www.youtube.com/@HopeChurchTucson",
+    "handle": "@HopeChurchTucson",
+    "transcripts_available": "unknown"
+  },
   "other_media": [
     {
-      "label": "Hope Church sermon media library",
+      "label": "Hope Church sermon media library, indexed by speaker",
+      "url": "https://hopechurchtucson.org/media/speaker"
+    },
+    {
+      "label": "Hope Church sermon media, speaker: Pastor Marc Cargill",
       "url": "https://hopechurchtucson.org/media/speaker/Pastor+Marc+Cargill"
     },
     {
@@ -46,7 +55,19 @@
     },
     {
       "name": "Cheryl Cargill",
-      "role": "Lead Pastor (co-lead with Marc Cargill)",
+      "role": "Worship Pastor",
+      "bio_url": "https://hopechurchtucson.org/leadership",
+      "plagiarism": {
+        "status": "unchecked"
+      },
+      "ai_writing": {
+        "status": "unchecked"
+      },
+      "active": true
+    },
+    {
+      "name": "Daron Bigby",
+      "role": "Generations Pastor",
       "bio_url": "https://hopechurchtucson.org/leadership",
       "plagiarism": {
         "status": "unchecked"
@@ -61,17 +82,27 @@
     {
       "label": "Hope Church Tucson official site",
       "url": "https://hopechurchtucson.org/",
-      "accessed": "2026-09-11"
+      "accessed": "2026-09-10"
     },
     {
       "label": "Hope Church Tucson leadership page",
       "url": "https://hopechurchtucson.org/leadership",
-      "accessed": "2026-09-11"
+      "accessed": "2026-09-10"
+    },
+    {
+      "label": "Hope Church sermon media speaker index",
+      "url": "https://hopechurchtucson.org/media/speaker",
+      "accessed": "2026-09-10"
     },
     {
       "label": "Hope Church sermon media, speaker: Pastor Marc Cargill",
       "url": "https://hopechurchtucson.org/media/speaker/Pastor+Marc+Cargill",
-      "accessed": "2026-09-11"
+      "accessed": "2026-09-10"
+    },
+    {
+      "label": "Hope Church YouTube channel",
+      "url": "https://www.youtube.com/@HopeChurchTucson",
+      "accessed": "2026-09-10"
     },
     {
       "label": "Yelp: Hope Church Assemblies of God, 3353 N Houghton Rd",
@@ -80,7 +111,7 @@
     }
   ],
   "summary": "Not yet reviewed.",
-  "notes": "Assemblies of God church on Houghton Rd, started in 1996 by Pastor Larry Rice; Marc and Cheryl Cargill became lead pastors in September 2017. The church site indexes sermons by speaker (hopechurchtucson.org/media/speaker/...), which makes per-preacher attribution straightforward. Search results also said sermons go to a YouTube channel but the channel URL was not confirmed - find it. Marc Cargill is the one confirmed to have a speaker page; check whether Cheryl Cargill preaches in her own right before reviewing her.",
-  "updated_at": "2026-09-11",
-  "updated_by": "claude-opus-5 research agent (seed)"
+  "notes": "Assemblies of God church on Houghton Rd, started in 1996 by Pastor Larry Rice; Marc and Cheryl Cargill became lead pastors in September 2017. Address confirmed on the church's own site: 3353 N Houghton Rd, Tucson, AZ 85749, one campus only, Sunday service 10:30 am; coordinates are still neighbourhood-level (geocode: approximate) so run tools/geocode.py. YOUTUBE FOUND: the site footer links channel UC73e7f1M6L7JAw_jTeaaiLg, which resolves to youtube.com/@HopeChurchTucson. No sermon-only playlist was found there. ROLE CORRECTED: the leadership page lists Cheryl Cargill as 'Worship Pastor', not co-lead pastor as the seed record said; the only pastors listed are Marc Cargill (Lead Pastor), Cheryl Cargill (Worship Pastor) and Daron Bigby (Generations Pastor). Non-pastor staff are Teleia Bigby (Office Manager) and Pam Taylor (Director of Real Kids Preschool). All three pastors DO preach - each has a page in the site's speaker index, which answers the seed question about Cheryl. The speaker index makes per-preacher attribution straightforward and also shows many guest speakers who should NOT be reviewed as staff: Alan Norwood, Eli Shukron, Miguel Ocampo, Stephanie White, Hope Church Team, and Pastors Bob Metcalf, Brad Neuschwander, Cameron Luft, Craig Lotze, Doug Cotton, Eric Young, Jeff Peterson, Ken Malmin, Leigh Metcalf, Michael Hurley, Robert Koch, Trenton Cargill, Tyrone Jones Jr and Zane Anderson. Marc Cargill preaches the large majority; Trenton Cargill appears often enough that it is worth checking whether he is family/staff rather than a guest.",
+  "updated_at": "2026-09-10",
+  "updated_by": "claude research agent (facts)"
 }

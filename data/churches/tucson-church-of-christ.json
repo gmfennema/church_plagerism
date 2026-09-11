@@ -2,8 +2,13 @@
   "slug": "tucson-church-of-christ",
   "name": "Tucson Church of Christ",
   "tradition": "restoration_churches_of_christ",
-  "denomination": "Churches of Christ",
+  "denomination": "Church of Christ (self-described nondenominational)",
   "website": "https://tucsonchurchofchrist.com/",
+  "youtube": {
+    "channel_url": "https://www.youtube.com/@TucsonChurchofChrist",
+    "handle": "@TucsonChurchofChrist",
+    "transcripts_available": "unknown"
+  },
   "other_media": [
     {
       "label": "Tucson Church of Christ Sunday sermons",
@@ -15,17 +20,30 @@
     }
   ],
   "location": {
-    "address": "Address not confirmed",
-    "lat": null,
-    "lng": null,
-    "geocode": "missing",
+    "address": "6700 E Broadway Blvd",
+    "postal_code": "85710",
+    "geocode": "verified",
     "city": "Tucson",
-    "state": "AZ"
+    "state": "AZ",
+    "lat": 32.220942,
+    "lng": -110.849402
   },
   "pastors": [
     {
-      "name": "Billy Wilson",
+      "name": "Jay Liverman",
       "role": "Minister",
+      "bio_url": "https://tucsonchurchofchrist.com/meet-the-minister/",
+      "plagiarism": {
+        "status": "unchecked"
+      },
+      "ai_writing": {
+        "status": "unchecked"
+      },
+      "active": true
+    },
+    {
+      "name": "Rob Skinner",
+      "role": "Lead Evangelist",
       "plagiarism": {
         "status": "unchecked"
       },
@@ -39,21 +57,41 @@
     {
       "label": "Tucson Church of Christ official site",
       "url": "https://tucsonchurchofchrist.com/",
-      "accessed": "2026-09-11"
+      "accessed": "2026-09-10"
     },
     {
-      "label": "Tucson Church of Christ 'Our Minister' page",
-      "url": "https://sites.google.com/site/tucsonchurchofchrist/our-pastors",
-      "accessed": "2026-09-11"
+      "label": "Tucson Church of Christ 'Meet the Minister' page",
+      "url": "https://tucsonchurchofchrist.com/meet-the-minister/",
+      "accessed": "2026-09-10"
+    },
+    {
+      "label": "Tucson Church of Christ 'Our Story' page",
+      "url": "https://tucsonchurchofchrist.com/our-story/",
+      "accessed": "2026-09-10"
+    },
+    {
+      "label": "Tucson Church of Christ contact page (meeting address)",
+      "url": "https://tucsonchurchofchrist.com/contact-us/",
+      "accessed": "2026-09-10"
+    },
+    {
+      "label": "Tucson Church of Christ Sunday service page",
+      "url": "https://tucsonchurchofchrist.com/sunday-service/",
+      "accessed": "2026-09-10"
+    },
+    {
+      "label": "Tucson Church of Christ YouTube channel",
+      "url": "https://www.youtube.com/@TucsonChurchofChrist",
+      "accessed": "2026-09-10"
     },
     {
       "label": "Tucson Church of Christ Sunday sermons page",
       "url": "https://tucsonchurchofchrist.com/sunday-church-sermons/",
-      "accessed": "2026-09-11"
+      "accessed": "2026-09-10"
     }
   ],
   "summary": "Not yet reviewed.",
-  "notes": "Minister Billy Wilson is described as a graduate of the British Bible College who preached 15 years in Glasgow. Sermons are published both on the site and as a podcast, so a text corpus is obtainable. Street address not confirmed. Note there are several similarly named Churches of Christ in Tucson (Country Club Road, Christ's Church of Tucson, Iglesia de Cristo) - keep them separate.",
-  "updated_at": "2026-09-11",
-  "updated_by": "claude-opus-5 research agent (seed)"
+  "notes": "2026-09-10 fact pass. The congregation does not own a building: its own contact and Sunday-service pages say it meets at Fellowship Bible Church Tucson, 6700 E Broadway Blvd, Sundays at 4:00 PM. Postal code 85710 was taken from the fbc-tucson record in this repo for the same building; geocode left 'missing' so tools/geocode.py re-runs. The 'Our Story' page says in the present tense that the church was started in 2012 by 'our lead evangelist, Rob Skinner, and his wife Pam'; the 'Meet the Minister' page names Jay Liverman (wife Sami) as the minister, and the church's own YouTube sermon descriptions credit the preaching to 'Jay' (e.g. 'Lots of Room, One Way, 9/6/26'). Only Jay Liverman is confirmed in the pulpit from primary sources; Rob Skinner's current preaching frequency is unverified and he also runs a personal podcast at robskinner.libsyn.com. The previously seeded minister name 'Billy Wilson' (British Bible College / Glasgow) could NOT be found anywhere on the church's own site and has been removed as unverified; the old Google Sites 'our-pastors' URL now redirects to a Google login wall and was dropped from sources. The YouTube channel description mentions an 'AO Campus Ministry' at the University of Arizona and a 'Yo-Pro Ministry', which are hallmarks of the International Churches of Christ family, but the church states no affiliation on its own site, so denomination is recorded as it self-describes. Sermons are posted weekly to YouTube with dates in the titles and also as a podcast, so a text corpus is obtainable. Note there are several similarly named Tucson congregations (Country Club Road church of Christ, Christ's Church of Tucson, Tucson International Christian Church, Iglesia de Cristo) - keep them separate.",
+  "updated_at": "2026-09-10",
+  "updated_by": "claude research agent (facts)"
 }

@@ -1,13 +1,17 @@
 {
   "slug": "eastside-assembly-of-god-tucson",
   "name": "Eastside Assembly of God",
+  "aka": [
+    "Eastside Assembly"
+  ],
   "tradition": "pentecostal_charismatic",
   "denomination": "Assemblies of God",
   "location": {
-    "address": "Address not confirmed",
-    "lat": null,
-    "lng": null,
-    "geocode": "missing",
+    "address": "1930 S Wilmot Rd",
+    "postal_code": "85711",
+    "lat": 32.199168,
+    "lng": -110.858046,
+    "geocode": "verified",
     "city": "Tucson",
     "state": "AZ"
   },
@@ -17,10 +21,25 @@
       "label": "FaithStreet: Eastside Assembly of God, Tucson AZ",
       "url": "https://www.faithstreet.com/church/eastside-assembly-of-god-tucson-az",
       "accessed": "2026-09-11"
+    },
+    {
+      "label": "Eastside Assembly official site, archived 3 July 2022 (footer gives 1930 S. Wilmot Road, Tucson, Arizona 85711)",
+      "url": "https://web.archive.org/web/20220703174642/https://eastsideassembly.org/",
+      "accessed": "2026-09-10"
+    },
+    {
+      "label": "Eastside Assembly 'Meet the Team' page, archived 3 July 2022 (Peter Kraft, Senior Pastor since January 2005)",
+      "url": "https://web.archive.org/web/20220703174642/https://eastsideassembly.org/meet-the-team/",
+      "accessed": "2026-09-10"
+    },
+    {
+      "label": "Assemblies of God (USA) church directory entry: Eastside Assembly of God, Tucson",
+      "url": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=1f087d51-43df-4e61-be45-4c80e74390eb&d=False",
+      "accessed": "2026-09-10"
     }
   ],
   "summary": "Not yet reviewed.",
-  "notes": "East-side Assemblies of God congregation with a blend of traditional hymns and contemporary worship. Only a FaithStreet directory listing was confirmed - address, website, pastor and sermon host all still needed.",
-  "updated_at": "2026-09-11",
-  "updated_by": "claude-opus-5 research agent (seed)"
+  "notes": "East-side Assemblies of God congregation at 1930 S Wilmot Rd, Tucson AZ 85711 - address confirmed from the footer of the church's own website as archived on 3 July 2022. IMPORTANT: the church no longer has a working website. eastsideassembly.org was a live WordPress church site through mid-2022, then the domain lapsed; since at least 2024 it has resolved to an unrelated Japanese e-commerce/spam site and today returns 404, so do NOT list eastsideassembly.org as the church website and ignore stale search-engine snippets that quote its old tagline. No current pastor is recorded on purpose. The 2022 archive of the church's 'Meet the Team' page names Peter Kraft as Senior Pastor (serving with his wife Sheila since January 2005), and directory listings repeat 'Peter J Kraft', but that is four-year-old information and no 2025/2026 primary source could be found, so pastors[] is left empty rather than naming someone who may have moved on. Next steps for whoever picks this up: try the AG.org church-directory entry in a real browser (it is behind Cloudflare and blocks scripted fetches), phone the church at 520-790-4426, or find a current Facebook page - the 2022 site said services were streamed on Facebook Live Sundays 10:30am/6pm and Wednesdays 7pm, and had audio- and video-sermon pages, but no surviving Facebook, YouTube or podcast archive was located on 2026-09-10. Also unverified: whether the congregation is still meeting at all. Coordinates missing - run tools/geocode.py.",
+  "updated_at": "2026-09-10",
+  "updated_by": "claude research agent (facts)"
 }

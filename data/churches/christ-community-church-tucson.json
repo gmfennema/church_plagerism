@@ -19,7 +19,7 @@
   "pastors": [
     {
       "name": "Eric Naus",
-      "role": "Executive Pastor for Preaching",
+      "role": "Lead Pastor",
       "active": true,
       "bio_url": "https://www.ccctucson.org/eric-naus",
       "plagiarism": {
@@ -28,9 +28,50 @@
       "ai_writing": {
         "status": "unchecked"
       },
-      "notes": "Confirmed from his staff page at ccctucson.org: teaches weekly and gives overall leadership to worship services. Previously at The Moody Church, Chicago; Wheaton College BA, Trinity Evangelical Divinity School MDiv."
+      "notes": "Listed as Lead Pastor on ccctucson.org/our-leadership (confirmed 2026-09-10; previously titled Executive Pastor for Preaching). Preaches most Sundays. Previously at The Moody Church, Chicago; Wheaton College BA, Trinity Evangelical Divinity School MDiv."
+    },
+    {
+      "name": "Tim Sheaffer",
+      "role": "Executive Pastor of Ministry",
+      "active": true,
+      "bio_url": "https://www.ccctucson.org/our-leadership",
+      "plagiarism": {
+        "status": "unchecked"
+      },
+      "ai_writing": {
+        "status": "unchecked"
+      }
+    },
+    {
+      "name": "Floyd Morgan",
+      "role": "Pastor of Young Families & Outreach",
+      "active": true,
+      "bio_url": "https://www.ccctucson.org/our-leadership",
+      "plagiarism": {
+        "status": "unchecked"
+      },
+      "ai_writing": {
+        "status": "unchecked"
+      }
+    },
+    {
+      "name": "Chase Hildenbrand",
+      "role": "Pastor of Student Ministries",
+      "active": true,
+      "bio_url": "https://www.ccctucson.org/our-leadership",
+      "plagiarism": {
+        "status": "unchecked"
+      },
+      "ai_writing": {
+        "status": "unchecked"
+      }
     }
   ],
+  "youtube": {
+    "channel_url": "https://www.youtube.com/channel/UC2luVza8_TP5pj3KOSJQvoA",
+    "handle": "@ChristCommunityChurchTucson",
+    "transcripts_available": "unknown"
+  },
   "sources": [
     {
       "label": "Christ Community Church Tucson official site",
@@ -61,20 +102,35 @@
       "label": "Christ Community Church Tucson sermon archive",
       "url": "https://www.ccctucson.org/sermons/page/60",
       "accessed": "2026-09-11"
+    },
+    {
+      "label": "Christ Community Church Tucson - Our Leadership (elders, pastors and directors)",
+      "url": "https://www.ccctucson.org/our-leadership",
+      "accessed": "2026-09-10"
+    },
+    {
+      "label": "Christ Community Church Tucson - Sermons (preacher credits, manuscripts)",
+      "url": "https://www.ccctucson.org/sermons",
+      "accessed": "2026-09-10"
+    },
+    {
+      "label": "Christ Community Church Tucson YouTube channel",
+      "url": "https://www.youtube.com/channel/UC2luVza8_TP5pj3KOSJQvoA",
+      "accessed": "2026-09-10"
     }
   ],
   "summary": "Not yet reviewed.",
-  "notes": "Evangelical non-denominational church on the east side at Pantano and Broadway. Eric Naus is confirmed as Executive Pastor for Preaching - he teaches weekly - and is the right person to review first. The sermon archive is indexed by preacher (ccctucson.org/sermons/preacher/...), which makes attribution easy; other names seen in search snippets (Tim Sheaffer, Brett Inman, Joel Harris, Randy Reynolds, a 'Pastor Floyd') were NOT added because their roles and whether they still preach could not be confirmed - resolve them from the staff page. A sermon dated 2026-08-23 ('When Life Gets Comfortable') shows the archive is current.",
-  "updated_at": "2026-09-11",
-  "updated_by": "claude-opus-5 research agent (seed)",
+  "notes": "Evangelical non-denominational church on the east side at Pantano and Broadway; address 530 S. Pantano Rd., Tucson AZ 85710 confirmed from the site footer. Leadership re-checked 2026-09-10 against ccctucson.org/our-leadership: Eric Naus is now titled Lead Pastor and preaches most Sundays. Floyd Morgan and Chase Hildenbrand both preached in 2026 and Tim Sheaffer in 2024-2025, so all four are recorded as preaching pastors. Other staff pastors (Joel Harris, Erwin Klingenberg, Randy McCormick, Tim Arrington) appear in the archive's preacher filter but not in the recent rotation - check before adding. The earlier search-snippet names resolve as follows: Brett Inman is an elder (on sabbatical), not preaching staff; Randy Reynolds appears only in the historical archive; 'Pastor Floyd' is Floyd Morgan. The sermon archive is indexed by preacher (ccctucson.org/sermons/preacher/...) and many sermons carry a downloadable sermon-manuscript PDF, which is unusually strong evidence for this project. Video is on the church's own YouTube channel, @ChristCommunityChurchTucson; caption availability untested. Coordinates are still only approximate; run tools/geocode.py.",
+  "updated_at": "2026-09-10",
+  "updated_by": "claude research agent (facts)",
   "other_media": [
     {
-      "label": "Christ Community Church Tucson sermon archive",
-      "url": "https://www.ccctucson.org/sermons/page/60"
+      "label": "Christ Community Church Tucson sermon archive (video, audio and sermon manuscripts)",
+      "url": "https://www.ccctucson.org/sermons"
     },
     {
-      "label": "Sermons filtered by preacher (example: Randy Reynolds)",
-      "url": "https://www.ccctucson.org/sermons/preacher/u/38/randy-reynolds"
+      "label": "Sermons filtered by preacher (example: Eric Naus)",
+      "url": "https://www.ccctucson.org/sermons/preacher/u/36/eric--naus"
     }
   ]
 }

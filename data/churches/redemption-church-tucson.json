@@ -5,10 +5,11 @@
     "Redemption Tucson"
   ],
   "tradition": "non_denominational",
-  "denomination": "Redemption Church (Arizona network); Acts 29-style elder-led",
+  "denomination": "Redemption Church (Arizona network); elder-led, no denominational affiliation stated",
   "website": "https://tucson.redemptionaz.com/",
   "youtube": {
     "channel_url": "https://www.youtube.com/channel/UCFjMwxaWd0dkX8PjYEnByLw",
+    "handle": "@redemptionchurchtucson4388",
     "transcripts_available": "unknown"
   },
   "other_media": [
@@ -21,22 +22,27 @@
       "url": "https://open.spotify.com/show/7xNeEwebeHHvyae1zxknmH"
     },
     {
-      "label": "Redemption Tucson sermons",
+      "label": "Redemption Tucson sermon library (series index, each sermon credited to a preacher)",
+      "url": "https://tucson.redemptionaz.com/sermons"
+    },
+    {
+      "label": "Redemption Tucson stand-alone sermons",
       "url": "https://tucson.redemptionaz.com/sermons/standalone"
     }
   ],
   "location": {
-    "address": "Address not confirmed",
-    "lat": null,
-    "lng": null,
-    "geocode": "missing",
+    "address": "3500 N Cherry Ave",
+    "postal_code": "85719",
+    "geocode": "verified",
     "city": "Tucson",
-    "state": "AZ"
+    "state": "AZ",
+    "lat": 32.271522,
+    "lng": -110.947
   },
   "pastors": [
     {
-      "name": "Dave Goffeney",
-      "role": "Lead Pastor",
+      "name": "Marcus Doe",
+      "role": "Elder and Interim Lead Pastor (main preacher since mid-2026)",
       "bio_url": "https://tucson.redemptionaz.com/team-2",
       "plagiarism": {
         "status": "unchecked"
@@ -45,23 +51,40 @@
         "status": "unchecked"
       },
       "active": true
+    },
+    {
+      "name": "Dave Goffeney",
+      "role": "Lead Pastor (former; preached through mid-2026)",
+      "bio_url": "https://www.linkedin.com/in/dave-goffeney-088190b",
+      "plagiarism": {
+        "status": "unchecked"
+      },
+      "ai_writing": {
+        "status": "unchecked"
+      },
+      "active": false
     }
   ],
   "sources": [
     {
-      "label": "Redemption Tucson official site",
+      "label": "Redemption Tucson home page (worship and office addresses, service times)",
       "url": "https://tucson.redemptionaz.com/",
-      "accessed": "2026-09-11"
+      "accessed": "2026-09-10"
     },
     {
-      "label": "Redemption Tucson team page",
+      "label": "Redemption Tucson 'Our Team' page (elders, staff, deacons)",
       "url": "https://tucson.redemptionaz.com/team-2",
-      "accessed": "2026-09-11"
+      "accessed": "2026-09-10"
     },
     {
-      "label": "Redemption Tucson elders page",
+      "label": "Redemption Tucson elders page (governance; no names listed)",
       "url": "https://tucson.redemptionaz.com/elders",
-      "accessed": "2026-09-11"
+      "accessed": "2026-09-10"
+    },
+    {
+      "label": "Redemption Tucson 1 Corinthians sermon series (per-sermon preacher credits, Jan-Sep 2026)",
+      "url": "https://tucson.redemptionaz.com/sermons/1-corinthians",
+      "accessed": "2026-09-10"
     },
     {
       "label": "Redemption Tucson sermons page",
@@ -76,11 +99,11 @@
     {
       "label": "Redemption Church Tucson YouTube channel",
       "url": "https://www.youtube.com/channel/UCFjMwxaWd0dkX8PjYEnByLw",
-      "accessed": "2026-09-11"
+      "accessed": "2026-09-10"
     }
   ],
   "summary": "Not yet reviewed.",
-  "notes": "Tucson congregation of the multi-site Redemption Church network in Arizona. Sermons are published weekly to YouTube and to podcast feeds (recent examples from July 2026), so the corpus is easy to assemble - a strong candidate. Elder-led, and the elders page suggests several men may preach, so check attribution per sermon. Street address not confirmed in search results.",
-  "updated_at": "2026-09-11",
-  "updated_by": "claude-opus-5 research agent (seed)"
+  "notes": "Tucson congregation of the multi-site Redemption Church network in Arizona. ADDRESS: Sunday worship is at 3500 N Cherry Ave, Tucson, AZ 85719 (that is what is recorded); the church office is at a separate address, 633 N. 2nd Ave., Tucson, AZ 85705. lat/lng cleared for tools/geocode.py. LEADERSHIP CHANGE - IMPORTANT: the earlier seed recorded Dave Goffeney as Lead Pastor, but as of 2026-09-10 he is no longer on the team page. The team page now reads 'Marcus Doe - Elder and Interim Lead Pastor', alongside lay elders Paul Bell, Joel Harris (also Worship Director) and Joel Johnson. Goffeney is kept with active:false because he preached most of the 1 Corinthians series through June 2026; the site gives no statement about why or exactly when he left, so do not characterise the departure. The published 1 Corinthians series page credits each sermon: Goffeney preached most Sundays from January to mid-June 2026, and Marcus Doe preached every listed Sunday from 21 June through 6 September 2026. Joel Johnson preached once (7 June 2026, 1 Cor 7:17-24); he is not recorded as a pastor because one sermon is not a regular pulpit rotation - revisit if he appears more often. The 'Acts 29-style' label in the previous denomination string was removed: the network doctrine page (network.redemptionaz.com/doctrine) states no denominational or network affiliation. Sermons are easy to assemble - YouTube (@redemptionchurchtucson4388), Apple and Spotify podcast feeds, plus per-series pages on the site that name the preacher, which makes per-pastor attribution straightforward.",
+  "updated_at": "2026-09-10",
+  "updated_by": "claude research agent (facts)"
 }

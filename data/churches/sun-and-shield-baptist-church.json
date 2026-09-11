@@ -2,21 +2,37 @@
   "slug": "sun-and-shield-baptist-church",
   "name": "Sun and Shield Baptist Church",
   "tradition": "baptist",
-  "denomination": "Baptist (affiliation to verify)",
+  "denomination": "Independent Baptist",
   "website": "https://www.sunandshield.org/",
+  "youtube": {
+    "channel_url": "https://www.youtube.com/@sunandshieldbaptistchurch",
+    "handle": "@sunandshieldbaptistchurch",
+    "transcripts_available": "unknown"
+  },
+  "other_media": [
+    {
+      "label": "Sun & Shield Baptist Church Facebook page (live streams)",
+      "url": "https://www.facebook.com/sunandshieldbaptist/"
+    },
+    {
+      "label": "Sun and Shield 'Watch Live' page",
+      "url": "https://www.sunandshield.org/watch-live"
+    }
+  ],
   "location": {
     "address": "8811 W Avra Valley Rd",
     "city": "Marana",
     "postal_code": "85653",
-    "lat": null,
-    "lng": null,
-    "geocode": "missing",
+    "lat": 32.402599,
+    "lng": -111.153391,
+    "geocode": "verified",
     "state": "AZ"
   },
   "pastors": [
     {
       "name": "Tim Walker",
       "role": "Pastor",
+      "bio_url": "https://www.sunandshield.org/staff",
       "plagiarism": {
         "status": "unchecked"
       },
@@ -30,11 +46,26 @@
     {
       "label": "Sun and Shield Baptist Church official site",
       "url": "https://www.sunandshield.org/",
-      "accessed": "2026-09-11"
+      "accessed": "2026-09-10"
+    },
+    {
+      "label": "Sun and Shield staff page (pastor names and roles)",
+      "url": "https://www.sunandshield.org/staff",
+      "accessed": "2026-09-10"
+    },
+    {
+      "label": "Sun and Shield Baptist Church YouTube channel",
+      "url": "https://www.youtube.com/@sunandshieldbaptistchurch",
+      "accessed": "2026-09-10"
+    },
+    {
+      "label": "Sun & Shield Baptist Church Facebook page",
+      "url": "https://www.facebook.com/sunandshieldbaptist/",
+      "accessed": "2026-09-10"
     }
   ],
   "summary": "Not yet reviewed.",
-  "notes": "Small Baptist church in Marana, Sunday worship 10:30am. Search results say sermons are posted to YouTube and Facebook but neither URL was captured - find the channel. Baptist affiliation not confirmed.",
-  "updated_at": "2026-09-11",
-  "updated_by": "claude-opus-5 research agent (seed)"
+  "notes": "Facts confirmed 2026-09-10 from the church's own site, which describes it as 'an independent Baptist church in the northwest Tucson area' - so the affiliation is Independent Baptist, not SBC. Address 8811 W Avra Valley Rd, Marana AZ 85653 (unchanged, geocode already verified). Sunday worship 10:30am. The staff page names Pastor Tim Walker as the preaching pastor, plus Steven Morris as Pastor Emeritus (not recorded as an active preaching pastor - check whether he still takes the pulpit before attributing any sermon to him) and an unnamed youth pastor. Sermons are posted to YouTube at @sunandshieldbaptistchurch (channel UCnLOkkRIj6XMiV1EJRtSzjw) and streamed on Facebook; caption availability not yet tested.",
+  "updated_at": "2026-09-10",
+  "updated_by": "claude research agent (facts)"
 }

@@ -2,21 +2,61 @@
   "slug": "first-united-methodist-church-tucson",
   "name": "First United Methodist Church of Tucson",
   "aka": [
-    "First Church Tucson"
+    "First Church Tucson",
+    "Tucson First UMC"
   ],
   "tradition": "methodist_wesleyan",
   "denomination": "United Methodist Church",
   "website": "https://firstchurchtucson.org/",
+  "youtube": {
+    "channel_url": "https://www.youtube.com/@TucsonFirstUMC",
+    "handle": "@TucsonFirstUMC",
+    "sermon_playlist_urls": [
+      "https://www.youtube.com/@TucsonFirstUMC/streams"
+    ],
+    "transcripts_available": "unknown"
+  },
+  "other_media": [
+    {
+      "label": "First Church Tucson Facebook page",
+      "url": "https://www.facebook.com/firstchurchtucson/"
+    }
+  ],
   "location": {
-    "address": "915 E 4th St (near the University of Arizona main gate; street direction unconfirmed)",
+    "address": "915 E 4th St",
     "postal_code": "85719",
-    "lat": null,
-    "lng": null,
-    "geocode": "missing",
+    "lat": 32.230454,
+    "lng": -110.957629,
+    "geocode": "verified",
     "city": "Tucson",
     "state": "AZ"
   },
-  "pastors": [],
+  "pastors": [
+    {
+      "name": "Eun Young Ko",
+      "role": "Senior Pastor (Rev. Dr.)",
+      "bio_url": "https://firstchurchtucson.org/staff",
+      "active": true,
+      "plagiarism": {
+        "status": "unchecked"
+      },
+      "ai_writing": {
+        "status": "unchecked"
+      }
+    },
+    {
+      "name": "Raven Gaston",
+      "role": "Pastor of Visitation (Rev.; preaching frequency unconfirmed)",
+      "bio_url": "https://firstchurchtucson.org/staff",
+      "active": true,
+      "plagiarism": {
+        "status": "unchecked"
+      },
+      "ai_writing": {
+        "status": "unchecked"
+      }
+    }
+  ],
   "sources": [
     {
       "label": "First United Methodist Church of Tucson official site",
@@ -32,10 +72,30 @@
       "label": "FaithStreet: First United Methodist Church of Tucson",
       "url": "https://www.faithstreet.com/church/first-united-methodist-church-of-tucson-tucson-az",
       "accessed": "2026-09-11"
+    },
+    {
+      "label": "First Church Tucson staff page (Rev. Dr. Eun Young Ko, Senior Pastor; Rev. Raven Gaston, Pastor of Visitation)",
+      "url": "https://firstchurchtucson.org/staff",
+      "accessed": "2026-09-10"
+    },
+    {
+      "label": "First Church Tucson contact page (915 E 4th Street, Tucson, Arizona 85719)",
+      "url": "https://firstchurchtucson.org/contact-us",
+      "accessed": "2026-09-10"
+    },
+    {
+      "label": "First Church Tucson services page (Sunday 10am English, 11:30am Korean; streamed on YouTube)",
+      "url": "https://firstchurchtucson.org/services",
+      "accessed": "2026-09-10"
+    },
+    {
+      "label": "Tucson First UMC YouTube channel",
+      "url": "https://www.youtube.com/@TucsonFirstUMC",
+      "accessed": "2026-09-10"
     }
   ],
   "summary": "Not yet reviewed.",
-  "notes": "Established 1879 and described as the first Protestant church in Tucson; near the UA main gate. A search snippet referred to a 'Pastor Raven' leading the 10am service but gave no surname, so no pastor is recorded. The street direction prefix on '915 4th St' was not confirmed (E vs W), which is why coordinates are missing - fix the address first.",
-  "updated_at": "2026-09-11",
-  "updated_by": "claude-opus-5 research agent (seed)"
+  "notes": "Established 1879 and described as the first Protestant church in Tucson; near the UA main gate. ADDRESS RESOLVED 2026-09-10: the church's own contact page gives '915 E 4th Street, Tucson, Arizona 85719', so the E prefix is confirmed and the seed caveat can be dropped. Coordinates still missing - run tools/geocode.py. Staff page lists exactly two clergy: Rev. Dr. Eun Young Ko (Senior Pastor) and Rev. Raven Gaston (Pastor of Visitation) - the latter is the unnamed 'Pastor Raven' from the seed note. Gaston is listed as a pastor because she is clergy on staff and the home page shows her leading congregational activities, but the site nowhere states how often she preaches, so confirm the pulpit rotation before attributing any sermon to her. Two Sunday services: 10am English and 11:30am Korean, both streamed. Media: the YouTube channel @TucsonFirstUMC (UCJt_TWZCf0FY7kX222pQkQA) is active, but the regular Sunday services live in the channel's Streams tab, not Uploads - the Uploads tab is mostly music and 2020-21 material, so use https://www.youtube.com/@TucsonFirstUMC/streams as the sermon source (recorded there as a sermon_playlist_url even though it is a channel tab rather than a true playlist). Stream titles follow the pattern 'Sunday Morning Live! MM/DD/YYYY <Scripture reference>' and are duplicated in English and Korean, with no preacher named in the title, so preacher attribution will have to come from the video itself. Caption availability not yet checked.",
+  "updated_at": "2026-09-10",
+  "updated_by": "claude research agent (facts)"
 }

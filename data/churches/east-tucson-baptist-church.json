@@ -1,17 +1,23 @@
 {
   "slug": "east-tucson-baptist-church",
   "name": "East Tucson Baptist Church",
+  "aka": [
+    "ETBC"
+  ],
   "tradition": "baptist",
   "denomination": "Southern Baptist Convention",
+  "website": "https://www.etbc.org/",
   "youtube": {
     "channel_url": "https://www.youtube.com/channel/UCz1YFv2AqbAippXPTOjcn0w",
+    "handle": "@etbcaz",
     "transcripts_available": "unknown"
   },
   "location": {
-    "address": "Address not confirmed",
-    "lat": null,
-    "lng": null,
-    "geocode": "missing",
+    "address": "9100 E Speedway Blvd",
+    "postal_code": "85710",
+    "lat": 32.235078,
+    "lng": -110.797678,
+    "geocode": "verified",
     "city": "Tucson",
     "state": "AZ"
   },
@@ -19,13 +25,14 @@
     {
       "name": "John Anderson",
       "role": "Senior Pastor",
+      "bio_url": "https://www.etbc.org/staff",
+      "active": true,
       "plagiarism": {
         "status": "unchecked"
       },
       "ai_writing": {
         "status": "unchecked"
-      },
-      "active": true
+      }
     }
   ],
   "sources": [
@@ -38,10 +45,30 @@
       "label": "East Tucson Baptist Church YouTube channel",
       "url": "https://www.youtube.com/channel/UCz1YFv2AqbAippXPTOjcn0w",
       "accessed": "2026-09-11"
+    },
+    {
+      "label": "East Tucson Baptist Church staff page (confirms John Anderson, Senior Pastor)",
+      "url": "https://www.etbc.org/staff",
+      "accessed": "2026-09-10"
+    },
+    {
+      "label": "East Tucson Baptist Church contact page (confirms 9100 E Speedway Blvd, Tucson AZ 85710)",
+      "url": "https://www.etbc.org/contact",
+      "accessed": "2026-09-10"
+    },
+    {
+      "label": "Arizona Mission Network (SBC state convention) listing: East Tucson Baptist Church",
+      "url": "https://azmn.org/churches/east-tucson-baptist-church/",
+      "accessed": "2026-09-10"
+    },
+    {
+      "label": "SBC.net churches directory: East Tucson Baptist Church",
+      "url": "https://churches.sbc.net/church/east-tucson-baptist-church/",
+      "accessed": "2026-09-10"
     }
   ],
   "summary": "Not yet reviewed.",
-  "notes": "Southern Baptist church on the east side with its own YouTube channel. Street address and a church website were not confirmed in search results - find them. Senior Pastor John Anderson came from a directory listing; confirm against the church's own staff page.",
-  "updated_at": "2026-09-11",
-  "updated_by": "claude-opus-5 research agent (seed)"
+  "notes": "Southern Baptist church on the far east side. Resolved on 2026-09-10: the church website is etbc.org, the street address is 9100 E Speedway Blvd, Tucson AZ 85710 (from the church's own contact page), and John Anderson is confirmed as Senior Pastor on the church's own staff page, which verifies the earlier directory-sourced name. The staff page describes his preaching as 'straight-forward, giving practical application to today's complex issues'. He appears to be the only regular preacher: the only other man on the staff page with any pastoral description is Carl Erbe, 'Online Worship Associate', a self-supporting missionary to Japan who the page says 'has also assumed minor duties as an associate pastor' - that is not evidence of regular preaching, so he is not listed. The worship-leader post is vacant. SBC affiliation is confirmed by both the SBC.net directory and the Arizona Mission Network (the SBC state convention). Practical note: etbc.org is a Finalweb JS-rendered site and plain HTTP fetches return an empty shell, so use a real browser to read its pages. YouTube channel UCz1YFv2AqbAippXPTOjcn0w resolves to the handle @etbcaz; caption availability not yet checked. Coordinates missing - run tools/geocode.py.",
+  "updated_at": "2026-09-10",
+  "updated_by": "claude research agent (facts)"
 }

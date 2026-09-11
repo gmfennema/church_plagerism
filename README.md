@@ -17,6 +17,7 @@ tools/                        Python CLI: validate, build, fetch_transcripts, tr
                               compare_transcripts, ai_writing_signals, new_church, geocode
 site/                         static Leaflet site; site/data and site/reports are generated
 AGENTS.md                     the research workflow and decision rubric (read this first)
+docs/ai-writing-signs.md      field guide for reading AI-writing signals in a sermon
 .claude/skills/research-church  Claude Code skill: /research-church <slug>
 .claude/agents/church-researcher.md  Opus subagent definition for parallel reviews
 ```

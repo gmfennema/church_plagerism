@@ -1,8 +1,18 @@
 {
   "slug": "tucson-reformed-baptist-church",
   "name": "Tucson Reformed Baptist Church",
+  "aka": [
+    "Iglesia Bautista Reformada de Tucson",
+    "Tucson RBC"
+  ],
   "tradition": "baptist",
-  "denomination": "Reformed Baptist",
+  "denomination": "Reformed Baptist (1689 London Baptist Confession of Faith)",
+  "website": "https://www.tucsonreformedbaptist.org/",
+  "youtube": {
+    "channel_url": "https://www.youtube.com/@TucsonRBC",
+    "handle": "@TucsonRBC",
+    "transcripts_available": "unknown"
+  },
   "other_media": [
     {
       "label": "Tucson Reformed Baptist Church on SermonAudio",
@@ -10,16 +20,78 @@
     }
   ],
   "location": {
-    "address": "1630 S Alvernon Way, Suite 110",
-    "postal_code": "85711",
-    "lat": 32.1979,
-    "lng": -110.909,
-    "geocode": "approximate",
+    "address": "9100 E Speedway Blvd",
+    "postal_code": "85710",
+    "geocode": "verified",
     "city": "Tucson",
-    "state": "AZ"
+    "state": "AZ",
+    "lat": 32.235078,
+    "lng": -110.797678
   },
-  "pastors": [],
+  "pastors": [
+    {
+      "name": "Rob Cosby",
+      "role": "Pastor",
+      "bio_url": "https://www.tucsonreformedbaptist.org/about-us/officers/",
+      "plagiarism": {
+        "status": "unchecked"
+      },
+      "ai_writing": {
+        "status": "unchecked"
+      },
+      "active": true
+    },
+    {
+      "name": "Samuel Medina",
+      "role": "Pastor (Spanish interpretation; preaches regularly)",
+      "bio_url": "https://www.tucsonreformedbaptist.org/group/leadership-staff/",
+      "plagiarism": {
+        "status": "unchecked"
+      },
+      "ai_writing": {
+        "status": "unchecked"
+      },
+      "active": true
+    },
+    {
+      "name": "Dwight Fisher",
+      "role": "Elder (preaches regularly)",
+      "bio_url": "https://www.tucsonreformedbaptist.org/about-us/officers/",
+      "plagiarism": {
+        "status": "unchecked"
+      },
+      "ai_writing": {
+        "status": "unchecked"
+      },
+      "active": true
+    }
+  ],
   "sources": [
+    {
+      "label": "Tucson Reformed Baptist Church official site",
+      "url": "https://www.tucsonreformedbaptist.org/",
+      "accessed": "2026-09-10"
+    },
+    {
+      "label": "Tucson Reformed Baptist Church location and times page",
+      "url": "https://www.tucsonreformedbaptist.org/about-us/location-and-times/",
+      "accessed": "2026-09-10"
+    },
+    {
+      "label": "Tucson Reformed Baptist Church officers page",
+      "url": "https://www.tucsonreformedbaptist.org/about-us/officers/",
+      "accessed": "2026-09-10"
+    },
+    {
+      "label": "Tucson Reformed Baptist Church leadership and staff page",
+      "url": "https://www.tucsonreformedbaptist.org/group/leadership-staff/",
+      "accessed": "2026-09-10"
+    },
+    {
+      "label": "Tucson Reformed Baptist Church YouTube channel",
+      "url": "https://www.youtube.com/@TucsonRBC",
+      "accessed": "2026-09-10"
+    },
     {
       "label": "Tucson Reformed Baptist Church on SermonAudio (about page)",
       "url": "https://www.sermonaudio.com/solo/tucsonreformed/about/",
@@ -32,7 +104,7 @@
     }
   ],
   "summary": "Not yet reviewed.",
-  "notes": "Small Reformed Baptist congregation meeting in a suite on S Alvernon Way. Sermons are hosted on SermonAudio rather than YouTube, which usually means audio-only and no auto-captions - plan on local transcription. No pastor name confirmed.",
-  "updated_at": "2026-09-11",
-  "updated_by": "claude-opus-5 research agent (seed)"
+  "notes": "2026-09-10 fact pass. Found the church's own website, which the seed record was missing: tucsonreformedbaptist.org. ADDRESS CORRECTED: the seeded '1630 S Alvernon Way, Suite 110' was wrong. The church's own location-and-times page says the congregation meets at East Tucson Baptist Church, 9100 E Speedway Blvd, Tucson AZ 85710 (Sunday School 9:15 am, worship 10:45 am). A separate address, 1603 S Eastside Loop #209, Tucson AZ 85710, appears on the SermonAudio profile and in directories and is most likely a mailing/office address, not the meeting place. Geocode reset to 'missing' and lat/lng removed so tools/geocode.py re-runs on the meeting address. The SermonAudio account is marked 'no longer active'; current sermons are on YouTube at @TucsonRBC with the preacher's name in every title, which makes per-pastor attribution easy. Preachers seen in recent YouTube titles: Rob Cosby (the large majority, working through Matthew), Dwight Fisher (Hebrews series), Samuel Medina (Psalms, Joel), plus occasional Ken Williams and deacon Scott Gray. Ken Williams is NOT on the church's leadership page and was not added; Scott Gray is listed as a deacon, not a pastor. Officers page: Rob Cosby (Pastor, called Nov 2013), Dwight Fisher (Elder since 2020), deacons Scott Gray and Doug Sample. Note one YouTube title reads 'Bob Cosby' - almost certainly a typo for Rob Cosby.",
+  "updated_at": "2026-09-10",
+  "updated_by": "claude research agent (facts)"
 }

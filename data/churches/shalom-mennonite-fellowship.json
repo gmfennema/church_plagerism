@@ -3,19 +3,31 @@
   "name": "Shalom Mennonite Fellowship",
   "tradition": "mennonite_anabaptist",
   "denomination": "Mennonite Church USA",
+  "website": "https://www.shalommennonite.org/",
+  "other_media": [
+    {
+      "label": "Shalom Mennonite Fellowship sermon archive (audio, Vimeo video and PDF/text manuscripts)",
+      "url": "https://www.shalommennonite.org/sermons"
+    },
+    {
+      "label": "Shalom Mennonite Fellowship Facebook page",
+      "url": "https://www.facebook.com/shalommennonite/"
+    }
+  ],
   "location": {
-    "address": "Address not confirmed",
+    "address": "6044 E 30th St",
     "postal_code": "85711",
-    "lat": null,
-    "lng": null,
-    "geocode": "missing",
+    "geocode": "verified",
     "city": "Tucson",
-    "state": "AZ"
+    "state": "AZ",
+    "lat": 32.198693,
+    "lng": -110.863464
   },
   "pastors": [
     {
-      "name": "Tina Schlabach",
-      "role": "Co-Pastor",
+      "name": "Pedro Ramos",
+      "role": "Pastor",
+      "bio_url": "https://www.shalommennonite.org/leadership",
       "plagiarism": {
         "status": "unchecked"
       },
@@ -23,9 +35,45 @@
         "status": "unchecked"
       },
       "active": true
+    },
+    {
+      "name": "Tina Schlabach",
+      "role": "Co-Pastor (former; no longer listed on the church's leadership page)",
+      "plagiarism": {
+        "status": "unchecked"
+      },
+      "ai_writing": {
+        "status": "unchecked"
+      },
+      "active": false
     }
   ],
   "sources": [
+    {
+      "label": "Shalom Mennonite Fellowship home page",
+      "url": "https://www.shalommennonite.org/",
+      "accessed": "2026-09-10"
+    },
+    {
+      "label": "Shalom Mennonite Fellowship leadership page (Pastor Pedro Ramos)",
+      "url": "https://www.shalommennonite.org/leadership",
+      "accessed": "2026-09-10"
+    },
+    {
+      "label": "Shalom Mennonite Fellowship contact page (street address, service time)",
+      "url": "https://www.shalommennonite.org/contact",
+      "accessed": "2026-09-10"
+    },
+    {
+      "label": "Shalom Mennonite Fellowship sermon archive",
+      "url": "https://www.shalommennonite.org/sermons",
+      "accessed": "2026-09-10"
+    },
+    {
+      "label": "Mennonite Mission Network, Tucson MVS unit: 'Shalom Mennonite Fellowship is the supporting congregation for the Tucson MVS unit'",
+      "url": "https://www.mennonitemission.net/serve/units/tucson/",
+      "accessed": "2026-09-10"
+    },
     {
       "label": "Shalom Mennonite Fellowship Facebook page",
       "url": "https://www.facebook.com/shalommennonite/",
@@ -43,7 +91,7 @@
     }
   ],
   "summary": "Not yet reviewed.",
-  "notes": "Appears to be the only Mennonite Church USA congregation in Tucson. Tina Schlabach is described as co-pastor, implying at least one other pastor whose name was not found. Small congregation, likely little or no sermon video - check the Facebook page for recordings.",
-  "updated_at": "2026-09-11",
-  "updated_by": "claude-opus-5 research agent (seed)"
+  "notes": "Website https://www.shalommennonite.org/ added (the seed record had none). Address 6044 E 30th St., Tucson, AZ 85711 confirmed on the church's own contact page; lat/lng left null for tools/geocode.py. Worship is Sunday 9:30 AM in person with a Zoom option on request. PASTOR: the leadership page now names one pastor, Pedro Ramos, an ordained minister with 20+ years of experience; he appears as 'Pastor Pedro' throughout the 2026 sermon archive. Tina Schlabach, recorded in the seed pass as co-pastor, is no longer listed on the leadership page and is kept with active:false for history - the site says nothing about when or why she left, so do not characterise the change. DENOMINATION: 'Mennonite Church USA' is retained but is NOT stated on the church's own site, which describes itself only as 'a multicultural, open and affirming progressive, Anabaptist, Christian community'. The supporting evidence is Mennonite Mission Network (an MC USA agency) naming Shalom as the supporting congregation for the Tucson MVS unit, plus directory listings. Confirm the conference (likely Pacific Southwest Mennonite Conference) if it matters. SERMON MEDIA: no YouTube channel. The /sermons page is a hand-maintained archive going back years; most entries are audio or Dropbox-hosted PDF/text manuscripts, with a few Vimeo videos. PUBLISHED MANUSCRIPTS ARE UNUSUALLY USEFUL HERE - they allow a direct manuscript-vs-delivery and AI-signal check without transcription. IMPORTANT: the pulpit is shared very widely with lay and guest speakers (recent examples: Jorge and Marina S, Joy S, Raymond M, Lisa S, June H, Rev. Delle McCormick, Ken B, Rocio C, Simba Rusita, Barry and Fern Hieb, Juan Witmer, Ken Schildt, Cindy Spencer, Jessica Yoder, Jack K). Pastor Pedro Ramos preaches perhaps once or twice a month, so assembling 8+ of his sermons will take a wide date range, and every item must be attributed by the archive label before use.",
+  "updated_at": "2026-09-10",
+  "updated_by": "claude research agent (facts)"
 }

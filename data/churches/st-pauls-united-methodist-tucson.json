@@ -4,24 +4,35 @@
   "tradition": "methodist_wesleyan",
   "denomination": "United Methodist Church",
   "website": "https://stpaulsumctucson.org/",
+  "youtube": {
+    "channel_url": "https://www.youtube.com/@stpaulsumctucson",
+    "handle": "@stpaulsumctucson",
+    "transcripts_available": "unknown"
+  },
   "other_media": [
     {
       "label": "St. Paul's UMC Tucson sermons archive",
       "url": "https://stpaulsumctucson.org/worship/"
+    },
+    {
+      "label": "St. Paul's Tucson Facebook page",
+      "url": "https://www.facebook.com/StPaulsTucson/"
     }
   ],
   "location": {
-    "address": "Address not confirmed",
-    "lat": null,
-    "lng": null,
-    "geocode": "missing",
+    "address": "8051 E Broadway Blvd",
+    "lat": 32.221044,
+    "lng": -110.820311,
+    "geocode": "verified",
     "city": "Tucson",
-    "state": "AZ"
+    "state": "AZ",
+    "postal_code": "85710"
   },
   "pastors": [
     {
-      "name": "Ron Bartlow",
-      "role": "Pastor (Rev.)",
+      "name": "Ron V. Bartlow",
+      "role": "Senior Pastor (Rev.)",
+      "bio_url": "https://stpaulsumctucson.org/who-we-are/leadership-staff/",
       "plagiarism": {
         "status": "unchecked"
       },
@@ -33,9 +44,24 @@
   ],
   "sources": [
     {
+      "label": "St. Paul's United Methodist Church Tucson official site (address, service times)",
+      "url": "https://stpaulsumctucson.org/",
+      "accessed": "2026-09-10"
+    },
+    {
+      "label": "St. Paul's UMC leadership and staff page (pastor name and role)",
+      "url": "https://stpaulsumctucson.org/who-we-are/leadership-staff/",
+      "accessed": "2026-09-10"
+    },
+    {
       "label": "St. Paul's United Methodist Church Tucson sermons archive",
       "url": "https://stpaulsumctucson.org/worship/",
-      "accessed": "2026-09-11"
+      "accessed": "2026-09-10"
+    },
+    {
+      "label": "St. Paul's United Methodist Church YouTube channel",
+      "url": "https://www.youtube.com/@stpaulsumctucson",
+      "accessed": "2026-09-10"
     },
     {
       "label": "UMData listing: St. Paul's United Methodist Church, Tucson - Active",
@@ -44,7 +70,7 @@
     }
   ],
   "summary": "Not yet reviewed.",
-  "notes": "United Methodist congregation with a sermons archive on its own site. Rev. Ron Bartlow was named in a search snippet as writing/speaking for the church; confirm he is the appointed pastor and current preacher (UMC clergy are reappointed regularly, so tenure changes often). Address not confirmed.",
-  "updated_at": "2026-09-11",
-  "updated_by": "claude-opus-5 research agent (seed)"
+  "notes": "Facts confirmed 2026-09-10 from the church's own site. Address is 8051 E Broadway Blvd, Tucson AZ 85710. The leadership and staff page lists exactly one clergy member, Rev. Ron V. Bartlow, Senior Pastor - his bio says St. Paul's is his eighth UMC appointment and he describes himself as 'a preacher and teacher'. His wife Lynn Bartlow is a pastor at St. Mark's UMC on the northwest side and is NOT staff here; do not attribute St. Paul's sermons to her. The sermon archive at /worship/ carries additional preacher names alongside Bartlow (a retired guest pastor and lay/supply speakers), so attribute each sermon individually rather than assuming Bartlow preached it. Sermon video is on YouTube at @stpaulsumctucson (two Sunday services, 9:00 and 10:30) and on the church's Facebook page. UMC clergy are reappointed regularly, so re-check the appointment each year. Coordinates still need tools/geocode.py.",
+  "updated_at": "2026-09-10",
+  "updated_by": "claude research agent (facts)"
 }

@@ -18,6 +18,7 @@ from __future__ import annotations
 
 import argparse
 import json
+import re
 import sys
 import time
 import urllib.parse
@@ -60,6 +61,17 @@ def census(address: str) -> tuple[float, float, str] | None:
 PROVIDERS = {"nominatim": nominatim, "census": census}
 
 
+def street_only(address: str) -> str:
+    """Strip the context a human reader wants but a geocoder cannot parse.
+
+    Records carry things like '9200 N Oracle Rd (meets in the Chapel Hall of ...)'
+    and 'Suite 105'; both make Nominatim and the Census geocoder return no match.
+    """
+    cleaned = re.sub(r"\([^)]*\)", " ", address)
+    cleaned = re.sub(r",?\s*\b(?:suites?|ste|units?|apt|#)\b\.?\s*[\w-]+", " ", cleaned, flags=re.I)
+    return re.sub(r"\s{2,}", " ", cleaned).strip(" ,")
+
+
 def main() -> int:
     parser = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
     parser.add_argument("slugs", nargs="*")
@@ -76,7 +88,8 @@ def main() -> int:
         loc = record["location"]
         if loc.get("geocode") == "verified" or (loc.get("geocode") == "approximate" and not args.upgrade):
             continue
-        query = ", ".join(part for part in [loc.get("address"), loc.get("city"), loc.get("state"), loc.get("postal_code")] if part)
+        parts = [street_only(loc.get("address") or ""), loc.get("city"), loc.get("state"), loc.get("postal_code")]
+        query = ", ".join(part for part in parts if part)
         try:
             result = geocode(query)
         except Exception as exc:  # noqa: BLE001

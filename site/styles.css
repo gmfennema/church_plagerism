@@ -150,11 +150,75 @@ summary { cursor: pointer; font-size: 13px; color: var(--accent); }
 .map-legend .dot { margin-right: 6px; }
 .marker-pin { transition: transform .15s; }
 
+.sr-only { position: absolute; width: 1px; height: 1px; padding: 0; margin: -1px; overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap; border: 0; }
+.sheet-handle { display: none; }
+
 @media (max-width: 860px) {
-  .layout { grid-template-columns: 1fr; grid-template-rows: 42vh 1fr; }
-  .sidebar { border-right: 0; border-top: 1px solid var(--border); order: 2; }
+  /* On .app, not .sidebar: the Leaflet controls are in a sibling subtree and read it too. */
+  .app { overflow: hidden; --sheet-peek: 44dvh; }
+  /* Capped and scrollable: the full legend otherwise squeezes the map to nothing. */
+  .about { max-height: 62dvh; overflow-y: auto; }
+  .about-inner { grid-template-columns: 1fr; padding: 16px 16px 28px; gap: 20px; }
+
+  .topbar { padding: 8px 12px; gap: 10px; row-gap: 6px; }
+  .brand { flex: 1 1 auto; gap: 9px; }
+  .brand-mark { width: 24px; height: 24px; box-shadow: 0 0 0 2px var(--cleared-soft); }
+  .brand h1 { font-size: 15.5px; }
+  .tagline { display: none; }
+  .btn-ghost { padding: 8px 12px; flex: none; }
+  /* One scrollable row instead of a block of pills that pushes the map off-screen. */
+  .topbar-stats { order: 3; width: 100%; flex-wrap: nowrap; overflow-x: auto; scrollbar-width: none; padding-bottom: 1px; }
+  .topbar-stats::-webkit-scrollbar { display: none; }
+  .stat { flex: none; }
+
+  /* The map owns the viewport; the list rides over it as a bottom sheet. */
+  .layout { grid-template-columns: 1fr; grid-template-rows: 1fr; position: relative; }
   .map-wrap { order: 1; }
-  .about-inner { grid-template-columns: 1fr; }
-  .topbar-stats { order: 3; width: 100%; }
   .map-legend { display: none; }
+  .leaflet-bottom.leaflet-right { bottom: calc(var(--sheet-peek) - 4px); }
+  .leaflet-control-attribution { font-size: 10px; max-width: 68vw; }
+
+  .sidebar {
+    /* Above Leaflet's control panes (z-index 1000) so zoom buttons and the
+       attribution do not float over the sheet when it is expanded. */
+    position: absolute; left: 0; right: 0; bottom: 0; z-index: 1100;
+    /* Sized to the map area, not the viewport, so opening About cannot push the
+       sheet up past the header. */
+    height: 100%;
+    border-right: 0; border-top: 1px solid var(--border);
+    border-radius: 16px 16px 0 0;
+    box-shadow: 0 -2px 22px rgba(15, 18, 24, .18);
+    transform: translateY(calc(100% - var(--sheet-peek)));
+    transition: transform .28s cubic-bezier(.32, .72, 0, 1);
+  }
+  .sidebar.sheet-open { transform: translateY(0); }
+  .sidebar.sheet-dragging { transition: none; }
+  /* About takes over the area below the header; the sheet would otherwise ride
+     up over it once the map area is shorter than the peek height. */
+  .app.about-open .sidebar { display: none; }
+
+  .sheet-handle {
+    display: flex; align-items: center; justify-content: center;
+    position: absolute; top: 0; left: 0; right: 0; height: 30px; z-index: 3;
+    border: 0; border-radius: 16px 16px 0 0; background: var(--surface);
+    cursor: grab; touch-action: none; -webkit-tap-highlight-color: transparent;
+  }
+  .sheet-handle:active { cursor: grabbing; }
+  .sheet-grip { width: 40px; height: 4px; border-radius: 999px; background: var(--border); }
+
+  .panel { inset: 30px 0 0; overscroll-behavior: contain; padding-bottom: env(safe-area-inset-bottom); }
+  .controls { padding: 10px 14px 8px; }
+  #search, #tradition-filter { padding: 10px 12px; }
+  .chip { padding: 7px 12px; }
+  .church-list li.item { padding: 12px 10px; }
+  .detail-body { padding: 14px 16px 28px; }
+  /* Label above value: a 96px label column squeezes the summary to a sliver. */
+  .finding { grid-template-columns: 1fr; gap: 4px; }
+  .reports a { flex-wrap: wrap; }
+  .reports .r-size { margin-left: 0; }
+}
+
+@media (max-width: 400px) {
+  .brand h1 { font-size: 14.5px; }
+  .detail-body h2 { font-size: 18px; }
 }

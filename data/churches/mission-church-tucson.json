@@ -4,47 +4,56 @@
   "aka": [
     "Mission Church Tucson"
   ],
-  "tradition": "non_denominational",
-  "denomination": "Independent / non-denominational (verify)",
+  "tradition": "presbyterian_reformed",
+  "denomination": "Christian Reformed Church in North America (CRCNA) - Classis Arizona",
   "website": "https://missionchurchtucson.com/",
+  "youtube": {
+    "channel_url": "https://www.youtube.com/@missionchurchtucson",
+    "handle": "@missionchurchtucson",
+    "transcripts_available": "unknown"
+  },
   "other_media": [
     {
-      "label": "Mission Church Tucson sermon podcast",
-      "url": "https://missionchurchtucson.com/podcast/responding-to-the-spirit/"
+      "label": "Mission Church Tucson sermon podcast archive",
+      "url": "https://missionchurchtucson.com/podcast/"
     },
     {
       "label": "Andy Littleton author/teacher archive",
       "url": "https://missionchurchtucson.com/author/andylittleton/"
+    },
+    {
+      "label": "Mission Church Tucson Facebook page",
+      "url": "https://www.facebook.com/missiontucson/"
     }
   ],
   "location": {
     "address": "2435 E 17th St",
     "postal_code": "85719",
-    "lat": null,
-    "lng": null,
-    "geocode": "missing",
+    "lat": 32.213362,
+    "lng": -110.93629,
+    "geocode": "verified",
     "city": "Tucson",
     "state": "AZ"
   },
   "pastors": [
     {
       "name": "Andy Littleton",
-      "role": "Pastor",
-      "bio_url": "https://missionchurchtucson.com/leaders/andy-littleton/",
+      "role": "Pastor - Local Focus",
+      "bio_url": "https://missionchurchtucson.com/about/",
+      "active": true,
       "plagiarism": {
         "status": "unchecked"
       },
       "ai_writing": {
         "status": "unchecked"
-      },
-      "active": true
+      }
     }
   ],
   "sources": [
     {
-      "label": "Mission Church Tucson about page",
+      "label": "Mission Church Tucson about page (leadership list and address)",
       "url": "https://missionchurchtucson.com/about/",
-      "accessed": "2026-09-11"
+      "accessed": "2026-09-10"
     },
     {
       "label": "Mission Church Tucson - Andy Littleton leader page",
@@ -57,13 +66,28 @@
       "accessed": "2026-09-11"
     },
     {
+      "label": "Mission Church Tucson sermon podcast archive",
+      "url": "https://missionchurchtucson.com/podcast/",
+      "accessed": "2026-09-10"
+    },
+    {
+      "label": "CRCNA church directory entry for Mission Church, Tucson",
+      "url": "https://www.crcna.org/churches/41227",
+      "accessed": "2026-09-10"
+    },
+    {
+      "label": "Mission Church Tucson YouTube channel",
+      "url": "https://www.youtube.com/@missionchurchtucson",
+      "accessed": "2026-09-10"
+    },
+    {
       "label": "Mission Church Tucson Facebook page",
       "url": "https://www.facebook.com/missiontucson/",
       "accessed": "2026-09-11"
     }
   ],
   "summary": "Not yet reviewed.",
-  "notes": "Small central-Tucson church with an unusually clean sermon corpus: every message is published as a podcast episode on the church site, and sermons are attributed to a named author page (missionchurchtucson.com/author/andylittleton/). Recent series seen in search results include 'As We Go' and 'Wisdom' (2026). Andy Littleton also writes and publishes, which gives an independent writing sample. Coordinates left missing - 17th St is not on the reference grid and the estimate was not confident to a quarter mile.",
-  "updated_at": "2026-09-11",
-  "updated_by": "claude-opus-5 research agent (seed)"
+  "notes": "Denomination resolved 2026-09-10, replacing the 'Independent / non-denominational (verify)' placeholder. The about page lists 'Resonate Global Mission / Christian Reformed Church' and 'Classis AZ / Christian Reformed Church' among its partnerships, and the CRCNA church directory carries Mission Church, Tucson (organized 2020, ~75 in attendance) with Andrew Littleton as its current minister. Tradition was therefore changed from non_denominational to presbyterian_reformed. The church also belongs to the Arizona chapter of The Gospel Coalition and the Surge Network, and is worth describing publicly as 'Reformed / CRCNA' rather than 'non-denominational'.\n\nAddress 2435 E 17th St, Tucson AZ 85719 re-confirmed on the about page footer; coordinates already verified and unchanged.\n\nLeadership, from the about page (accessed 2026-09-10): Andy Littleton, 'Pastor - Local Focus' is the only pastor. The rest of the staff hold non-preaching titles - Karen Henley (Community Coordinator), Mike Almeroth (Creative Director), Angi Murray (Family Ministry Director), Lonny and Missy Kitchell (Discipleship / Community Co-Directors), Cruz Menchaca (Intern - Outreach), Kevin Copp (Intern - Teaching / Leadership). Two of those are worth watching for pulpit time: Kevin Copp as the teaching intern, and Lonny Kitchell, whose bio says he previously served as a youth and preaching pastor in the Pacific Northwest. Neither is recorded as a pastor here because the site does not say they preach at Mission. The CRCNA directory also lists two PAST ministers - Nick H. Lang (2020-2022) and John T. Simon (2021-2024) - so sermons from 2020-2024 may not be Littleton's; check attribution before building a corpus. The individual /leaders/<name>/ pages on the site are stubs dated 2016 with no role text; the about page is the authoritative staff list, so Littleton's bio_url was pointed there.\n\nMedia: every message is published as a podcast episode at missionchurchtucson.com/podcast/. The index page does not print speaker names, but individual episode pages do (e.g. 'Wisdom - Power In Public', 2026-09-06, speaker Andy Littleton), and there is an author archive for Littleton. A YouTube channel also exists (@missionchurchtucson, channel ID UCcLdGEIzS2M4OY9D4RxlpNA). Recent series: 'Wisdom' (Proverbs, 2026), 'As We Go', 'Who We Are', 'Encountering Jesus'. Andy Littleton also writes and publishes books on a personal site, which gives an independent non-sermon writing sample for AI-signal baselining. The seed record's other_media link pointed at a single episode; it now points at the archive index.",
+  "updated_at": "2026-09-10",
+  "updated_by": "claude research agent (facts)"
 }

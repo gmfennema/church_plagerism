@@ -25,9 +25,10 @@
 
   // ---------- map ----------
   const map = L.map('map', { zoomControl: true, attributionControl: true }).setView(TUCSON, 11);
-  L.tileLayer('https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}{r}.png', {
+  // CARTO's keyless basemap now returns "API KEY REQUIRED" watermarked tiles.
+  L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
     maxZoom: 19,
-    attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors &copy; <a href="https://carto.com/attributions">CARTO</a>',
+    attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors',
   }).addTo(map);
   const layer = L.layerGroup().addTo(map);
 
@@ -53,7 +54,7 @@
       className: 'marker-pin',
     });
     m.bindTooltip(`<b>${esc(church.name)}</b>${esc(STATUS[church.status].label)}${approx ? ' · approx. location' : ''}`, { direction: 'top', offset: [0, -8] });
-    m.on('click', () => select(church.slug, { pan: false }));
+    m.on('click', () => select(church.slug, { pan: false, fromMarker: true }));
     return m;
   }
 
@@ -65,6 +66,65 @@
       state.markers.set(c.slug, m);
       m.addTo(layer);
     });
+  }
+
+  // ---------- mobile bottom sheet ----------
+  const mobile = window.matchMedia('(max-width: 860px)');
+  const isMobile = () => mobile.matches;
+  const sheet = () => $('#sidebar');
+
+  function sheetPeekHeight() {
+    const raw = getComputedStyle(sheet()).getPropertyValue('--sheet-peek').trim();
+    const n = parseFloat(raw);
+    return raw.endsWith('dvh') || raw.endsWith('vh') ? (window.innerHeight * n) / 100 : n;
+  }
+
+  function setSheet(open) {
+    const el = sheet();
+    el.classList.toggle('sheet-open', open);
+    $('#sheet-handle').setAttribute('aria-expanded', String(open));
+  }
+
+  function initSheet() {
+    const handle = $('#sheet-handle');
+    const el = sheet();
+    let startY = 0;
+    let startOpen = false;
+    let dragged = false;
+
+    handle.addEventListener('click', () => { if (!dragged) setSheet(!el.classList.contains('sheet-open')); });
+
+    handle.addEventListener('pointerdown', (e) => {
+      if (!isMobile()) return;
+      startY = e.clientY;
+      startOpen = el.classList.contains('sheet-open');
+      dragged = false;
+      handle.setPointerCapture(e.pointerId);
+      el.classList.add('sheet-dragging');
+    });
+
+    handle.addEventListener('pointermove', (e) => {
+      if (!el.classList.contains('sheet-dragging')) return;
+      const dy = e.clientY - startY;
+      if (Math.abs(dy) > 4) dragged = true;
+      const closedOffset = el.offsetHeight - sheetPeekHeight();
+      const base = startOpen ? 0 : closedOffset;
+      const next = Math.min(closedOffset, Math.max(0, base + dy));
+      el.style.transform = `translateY(${next}px)`;
+    });
+
+    const endDrag = (e) => {
+      if (!el.classList.contains('sheet-dragging')) return;
+      el.classList.remove('sheet-dragging');
+      el.style.transform = '';
+      if (!dragged) return;
+      const dy = e.clientY - startY;
+      setSheet(dy < -40 ? true : dy > 40 ? false : startOpen);
+    };
+    handle.addEventListener('pointerup', endDrag);
+    handle.addEventListener('pointercancel', endDrag);
+
+    mobile.addEventListener('change', () => { el.style.transform = ''; setSheet(false); setTimeout(() => map.invalidateSize(), 60); });
   }
 
   // ---------- filtering ----------
@@ -180,8 +240,19 @@
     history.replaceState(null, '', `#/church/${slug}`);
     renderDetail(c);
     renderList();
+    if (isMobile()) setSheet(opts.fromMarker !== true);
     const m = state.markers.get(slug);
-    if (m && opts.pan !== false) map.flyTo(m.getLatLng(), Math.max(map.getZoom(), 13), { duration: 0.6 });
+    if (m && opts.pan !== false) {
+      const zoom = Math.max(map.getZoom(), 13);
+      let target = m.getLatLng();
+      if (isMobile()) {
+        // Shift the centre up so the pin sits in the strip of map the sheet leaves visible.
+        const pt = map.project(target, zoom);
+        pt.y += sheetPeekHeight() / 2;
+        target = map.unproject(pt, zoom);
+      }
+      map.flyTo(target, zoom, { duration: 0.6 });
+    }
     if (m) m.openTooltip();
   }
 
@@ -203,7 +274,14 @@
     $('#search').addEventListener('input', (e) => { state.query = e.target.value; applyFilters(); });
     $('#church-list').addEventListener('click', (e) => { const li = e.target.closest('li.item'); if (li) select(li.dataset.slug); });
     $('#church-list').addEventListener('keydown', (e) => { if (e.key === 'Enter' || e.key === ' ') { const li = e.target.closest('li.item'); if (li) { e.preventDefault(); select(li.dataset.slug); } } });
-    $('#about-toggle').addEventListener('click', () => { const a = $('#about'); a.hidden = !a.hidden; $('#about-toggle').setAttribute('aria-expanded', String(!a.hidden)); setTimeout(() => map.invalidateSize(), 50); });
+    $('#about-toggle').addEventListener('click', () => {
+      const a = $('#about');
+      a.hidden = !a.hidden;
+      $('#about-toggle').setAttribute('aria-expanded', String(!a.hidden));
+      $('#app').classList.toggle('about-open', !a.hidden);
+      setTimeout(() => map.invalidateSize(), 50);
+    });
+    initSheet();
 
     const d = state.data;
     $('#stats').innerHTML = `

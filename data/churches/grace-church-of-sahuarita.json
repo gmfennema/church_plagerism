@@ -1,34 +1,53 @@
 {
   "slug": "grace-church-of-sahuarita",
   "name": "Grace Church of Sahuarita",
+  "aka": [
+    "Grace Church of Sahuarita, AZ",
+    "GC Sahuarita"
+  ],
   "tradition": "non_denominational",
-  "denomination": "Independent / non-denominational (verify)",
+  "denomination": "Independent / non-denominational",
   "website": "https://www.gcsahuarita.org/",
+  "youtube": {
+    "channel_url": "https://www.youtube.com/@GraceChurchofSahuaritaAZ",
+    "handle": "@GraceChurchofSahuaritaAZ",
+    "transcripts_available": "unknown"
+  },
   "other_media": [
     {
-      "label": "Grace Church of Sahuarita messages page",
+      "label": "Grace Church of Sahuarita messages page (Subsplash-hosted sermon archive)",
       "url": "https://gcsahuarita.org/messages"
+    },
+    {
+      "label": "Grace Church of Sahuarita on Subsplash",
+      "url": "https://subsplash.com/u/-8JCBBP"
+    },
+    {
+      "label": "Grace Church of Sahuarita Facebook page",
+      "url": "https://www.facebook.com/gcsahuarita"
     }
   ],
   "location": {
-    "address": "Address not confirmed",
+    "address": "2301 E Sahuarita Rd",
+    "postal_code": "85629",
     "city": "Sahuarita",
-    "lat": null,
-    "lng": null,
-    "geocode": "missing",
+    "lat": 31.957519,
+    "lng": -110.935821,
+    "geocode": "verified",
     "state": "AZ"
   },
   "pastors": [
     {
       "name": "Fred Eaton",
-      "role": "Pastor",
+      "role": "Lead Pastor",
+      "bio_url": "https://www.gcsahuarita.org/church-overview",
+      "active": true,
       "plagiarism": {
         "status": "unchecked"
       },
       "ai_writing": {
         "status": "unchecked"
-      },
-      "active": true
+      }
     }
   ],
   "sources": [
@@ -41,10 +60,20 @@
       "label": "Grace Church of Sahuarita messages/sermon page",
       "url": "https://gcsahuarita.org/messages",
       "accessed": "2026-09-11"
+    },
+    {
+      "label": "Grace Church of Sahuarita church overview page (staff list and self-governing statement)",
+      "url": "https://www.gcsahuarita.org/church-overview",
+      "accessed": "2026-09-10"
+    },
+    {
+      "label": "Grace Church of Sahuarita, AZ YouTube channel",
+      "url": "https://www.youtube.com/@GraceChurchofSahuaritaAZ",
+      "accessed": "2026-09-10"
     }
   ],
   "summary": "Not yet reviewed.",
-  "notes": "Three Sunday services (8, 9:30 and 11am) suggests a mid-to-large congregation for Sahuarita. Recent sermons are published at gcsahuarita.org/messages. Street address and denomination were not confirmed in search results.",
-  "updated_at": "2026-09-11",
-  "updated_by": "claude-opus-5 research agent (seed)"
+  "notes": "Three Sunday services (8, 9:30 and 11am), plus a second campus, Grace Church Rio Rico. Confirmed 2026-09-10 from the church's own site: address 2301 E Sahuarita Rd, Sahuarita AZ 85629 (site footer) - the seeded 'Address not confirmed' placeholder is replaced, and coordinates are still missing, so run tools/geocode.py. Denomination: the Church Overview page states no affiliation and says 'Jesus Christ is the Lord and Head of the Church and that every local church has the right under Christ to decide and govern its own affairs', so the record now reads 'Independent / non-denominational' and the '(verify)' qualifier is dropped. Preaching: Fred Eaton is listed as Lead Pastor on the Church Overview page and is named as the preacher on the most recent message ('Be An Example', 6 Sep 2026), so his role was upgraded from the generic 'Pastor'. Other pastoral staff exist - Rob Mulari (Small Groups Pastor), Nate Hellum (Student Ministries Pastor), Luke Job (Middle School Pastor), Rick Vogeler (Campus Pastor, Rio Rico) and Rob Coblentz (Worship Pastor) - but nothing on the site shows any of them preaching at the main Sunday services, so none are listed yet. To check: the /messages page has a 'Speakers' filter that is rendered client-side; open it in a browser and, if anyone besides Eaton appears regularly, add them. Media: sermons are NOT on YouTube - the /messages page embeds a Subsplash player (subsplash.com/u/-8JCBBP), while the YouTube channel @GraceChurchofSahuaritaAZ carries announcements and leader-training clips. That means no YouTube captions for the sermons; plan on downloading Subsplash audio and transcribing locally.",
+  "updated_at": "2026-09-10",
+  "updated_by": "claude research agent (facts)"
 }

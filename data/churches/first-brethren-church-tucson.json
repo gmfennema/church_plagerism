@@ -1,27 +1,46 @@
 {
   "slug": "first-brethren-church-tucson",
-  "name": "First Brethren Church of Tucson",
+  "name": "Haven Community Church",
+  "aka": [
+    "First Brethren Church of Tucson",
+    "Tucson First Brethren Church",
+    "TFBC"
+  ],
   "tradition": "other_protestant",
-  "denomination": "Brethren",
+  "denomination": "The Brethren Church (Ashland, Ohio)",
+  "website": "https://tfbchurch.com/",
   "location": {
-    "address": "Address not confirmed",
-    "lat": null,
-    "lng": null,
-    "geocode": "missing",
+    "address": "201 N Columbus Blvd",
+    "postal_code": "85711",
+    "lat": 32.224408,
+    "lng": -110.901033,
+    "geocode": "verified",
     "city": "Tucson",
     "state": "AZ"
   },
   "pastors": [
     {
-      "name": "Roger O. Stogsdill",
-      "role": "Pastor",
+      "name": "Josh Buck",
+      "role": "Lead Pastor and re-planter",
+      "bio_url": "https://tucsonfirstbrethrenchurch.snappages.site/leadership",
+      "active": true,
       "plagiarism": {
         "status": "unchecked"
       },
       "ai_writing": {
         "status": "unchecked"
+      }
+    },
+    {
+      "name": "Roger Stogsdill",
+      "role": "Pastor (retired 2025 after ~28 years)",
+      "active": false,
+      "plagiarism": {
+        "status": "unchecked"
       },
-      "active": true
+      "ai_writing": {
+        "status": "unchecked"
+      }
     }
   ],
   "sources": [
@@ -34,10 +53,30 @@
       "label": "First Brethren Church of Tucson Facebook page",
       "url": "https://www.facebook.com/tucsonfbc/",
       "accessed": "2026-09-11"
+    },
+    {
+      "label": "Official site (tfbchurch.com redirects here): Haven Community Church home page, with address 201 N Columbus Blvd, Tucson, AZ 85711",
+      "url": "https://tucsonfirstbrethrenchurch.snappages.site/",
+      "accessed": "2026-09-10"
+    },
+    {
+      "label": "Haven Community Church leadership page (Josh Buck, lead pastor and re-planter; Angie Lawrence, church moderator)",
+      "url": "https://tucsonfirstbrethrenchurch.snappages.site/leadership",
+      "accessed": "2026-09-10"
+    },
+    {
+      "label": "The Brethren Church: 'Tucson First Brethren - A Transition in Progress' (16 Dec 2025)",
+      "url": "https://brethrenchurch.org/tucson-first-brethren-a-transition-in-progress/",
+      "accessed": "2026-09-10"
+    },
+    {
+      "label": "The Brethren Church: 'Tucson First Brethren Celebrates Retirement of Roger Stogsdill'",
+      "url": "https://brethrenchurch.org/tucson-first-brethren-celebrates-retirement-of-roger-stogsdill/",
+      "accessed": "2026-09-10"
     }
   ],
   "summary": "Not yet reviewed.",
-  "notes": "Brethren congregation. A separate 'Church of the Brethren Tucson' exists at 2200 N Dodge Blvd - these look like two different bodies (Brethren Church vs Church of the Brethren); confirm which is which before merging or adding a second record. No address or sermon archive confirmed.",
-  "updated_at": "2026-09-11",
-  "updated_by": "claude-opus-5 research agent (seed)"
+  "notes": "NAME CHANGE - please read before editing. This congregation now publicly calls itself Haven Community Church ('A church for the flourishing of Tucson'). Its domain tfbchurch.com 301-redirects to tucsonfirstbrethrenchurch.snappages.site, whose pages carry the Haven Community Church name. The record name was changed accordingly on 2026-09-10 and the former names kept in aka; the slug was left alone. Address confirmed on the church's own home page: 201 N Columbus Blvd, Tucson AZ 85711 (mailing address PO Box 12786, Tucson AZ 85732-2786; do not use the PO box for the map). Sunday service 10:30am. Leadership: Josh Buck is 'lead pastor & re-planter' per the church's own leadership page; the Brethren Church denominational magazine confirms he began the replant around Easter 2025 and that longtime pastor Roger Stogsdill (about 28 years) retired during an overlapping transition, so Stogsdill is kept with active:false for history and the seeded 'Roger O. Stogsdill, Pastor, active' entry was corrected. Only Buck and a lay church moderator (Angie Lawrence) are listed, so Buck appears to be the sole preacher, though the site does not say so explicitly. Denomination: the church's own site does not state an affiliation, but brethrenchurch.org (The Brethren Church, Ashland) publishes articles about it as one of its congregations - that is the basis for 'The Brethren Church (Ashland, Ohio)'. Still open: the separate 'Church of the Brethren Tucson' at 2200 N Dodge Blvd is a different denomination (Church of the Brethren vs The Brethren Church) and should stay a separate record. NO SERMON ARCHIVE FOUND - the site's navigation is only Home / About / Connect / Events / Give with no sermons, media, YouTube or podcast page, and no church YouTube channel was located, so a transcript-based review may not be possible without contacting the church. Coordinates missing - run tools/geocode.py.",
+  "updated_at": "2026-09-10",
+  "updated_by": "claude research agent (facts)"
 }

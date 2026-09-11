@@ -5,10 +5,16 @@
   "denomination": "Independent / non-denominational",
   "website": "https://www.tucsontabernacle.com/",
   "youtube": {
-    "channel_url": "https://www.youtube.com/@tucsontabernacle",
-    "handle": "@tucsontabernacle",
+    "channel_url": "https://www.youtube.com/@TucsonTabernacle",
+    "handle": "@TucsonTabernacle",
     "transcripts_available": "unknown"
   },
+  "other_media": [
+    {
+      "label": "Tucson Tabernacle archived sermons page",
+      "url": "https://www.tucsontabernacle.com/sermons/"
+    }
+  ],
   "location": {
     "address": "2555 N Stone Ave",
     "postal_code": "85705",
@@ -18,21 +24,39 @@
     "city": "Tucson",
     "state": "AZ"
   },
-  "pastors": [],
+  "pastors": [
+    {
+      "name": "Daniel Evans",
+      "role": "Pastor",
+      "bio_url": "https://www.tucsontabernacle.com/contact/",
+      "plagiarism": {
+        "status": "unchecked"
+      },
+      "ai_writing": {
+        "status": "unchecked"
+      },
+      "active": true
+    }
+  ],
   "sources": [
     {
       "label": "Tucson Tabernacle official site",
       "url": "https://www.tucsontabernacle.com/",
-      "accessed": "2026-09-11"
+      "accessed": "2026-09-10"
+    },
+    {
+      "label": "Tucson Tabernacle contact page (address, pastor)",
+      "url": "https://www.tucsontabernacle.com/contact/",
+      "accessed": "2026-09-10"
     },
     {
       "label": "Tucson Tabernacle YouTube channel (streams)",
-      "url": "https://www.youtube.com/@tucsontabernacle/streams",
-      "accessed": "2026-09-11"
+      "url": "https://www.youtube.com/@TucsonTabernacle/streams",
+      "accessed": "2026-09-10"
     }
   ],
   "summary": "Not yet reviewed.",
-  "notes": "Non-denominational church on N Stone Ave just north of downtown; archived sermons are posted to its YouTube channel, which makes it reviewable. No pastor name could be confirmed from search results - do not guess; pull it from the church site's staff page.",
-  "updated_at": "2026-09-11",
-  "updated_by": "claude-opus-5 research agent (seed)"
+  "notes": "2026-09-10 fact pass. Address 2555 N Stone Ave, Tucson AZ 85705 confirmed on the church's own site and repeated in its YouTube channel description; coordinates left as previously seeded 'approximate' since the address did not change. Pastor confirmed: Daniel Evans, pastor since 2023, listed on the contact page as the only named staff member (pastor@tucsontabernacle.com). The church was founded in 1965 by Rev. Pearry Green, who pastored it for almost 50 years until his death on 2015-08-20; an older legacy site survives at france30.tucsontabernacle.org. Services Sunday 10 AM and 5 PM, Wednesday 7 PM. The YouTube handle is @TucsonTabernacle (channel id UCABkSTBahwUU05ofDgir0FQ); note the sermons are on the Live/streams tab, not the Videos tab. Titles name the speaker, and besides Daniel Evans (clearly the main expositor, currently working through Matthew) the streams show recurring lay/visiting preachers Lyle Johnson, Bruce Carlson, Josiah Aho and Aaron Guerra. None of those four appear anywhere on the church website as staff, so they were NOT added as pastors - if a reviewer wants them included, confirm their role with the church first. Note also a staging copy of the site at dev01.tucsontabernacle.com; use the www domain.",
+  "updated_at": "2026-09-10",
+  "updated_by": "claude research agent (facts)"
 }

@@ -5,26 +5,82 @@
     "NC Tucson"
   ],
   "tradition": "non_denominational",
-  "denomination": "Independent / non-denominational (verify)",
+  "denomination": "Independent / non-denominational (the site states the church is not affiliated with any denomination or church-planting network; the lead pastor is licensed and ordained with the Christian & Missionary Alliance)",
   "website": "https://nctucson.com/",
-  "location": {
-    "address": "Address not confirmed",
-    "lat": null,
-    "lng": null,
-    "geocode": "missing",
-    "city": "Tucson",
-    "state": "AZ"
+  "youtube": {
+    "channel_url": "https://www.youtube.com/channel/UCpCD7Di0wcRG7uVOY5hf_xQ",
+    "handle": "@Nctucson_GOandBEtheCHURCH",
+    "transcripts_available": "unknown"
   },
-  "pastors": [],
+  "other_media": [
+    {
+      "label": "Neighborhood Church messages archive (searchable by speaker and series)",
+      "url": "https://nctucson.com/messages/"
+    },
+    {
+      "label": "Neighborhood Church Tucson Facebook page",
+      "url": "https://facebook.com/nctucson"
+    }
+  ],
+  "location": {
+    "address": "7525 E Speedway Blvd",
+    "postal_code": "85710",
+    "geocode": "verified",
+    "city": "Tucson",
+    "state": "AZ",
+    "lat": 32.23565,
+    "lng": -110.831997
+  },
+  "pastors": [
+    {
+      "name": "Kyle Coffin",
+      "role": "Senior Pastor",
+      "bio_url": "https://nctucson.com/about/",
+      "plagiarism": {
+        "status": "unchecked"
+      },
+      "ai_writing": {
+        "status": "unchecked"
+      },
+      "active": true
+    },
+    {
+      "name": "Bruce Grissom",
+      "role": "Elder (preaches regularly; referred to as 'Pastor Bruce Grissom' in the church's sermon notes)",
+      "bio_url": "https://nctucson.com/about/",
+      "plagiarism": {
+        "status": "unchecked"
+      },
+      "ai_writing": {
+        "status": "unchecked"
+      },
+      "active": true
+    }
+  ],
   "sources": [
     {
-      "label": "Neighborhood Church Tucson official site",
+      "label": "Neighborhood Church Tucson home page (meeting location, media links)",
       "url": "https://nctucson.com/",
-      "accessed": "2026-09-11"
+      "accessed": "2026-09-10"
+    },
+    {
+      "label": "Neighborhood Church Tucson about page (statement of faith, 'Pastors, Elders, and Staff', addresses)",
+      "url": "https://nctucson.com/about/",
+      "accessed": "2026-09-10"
+    },
+    {
+      "label": "Neighborhood Church Tucson messages archive (speaker index)",
+      "url": "https://nctucson.com/messages/",
+      "accessed": "2026-09-10"
+    },
+    {
+      "label": "Neighborhood Church Tucson YouTube channel",
+      "url": "https://www.youtube.com/channel/UCpCD7Di0wcRG7uVOY5hf_xQ",
+      "accessed": "2026-09-10"
     }
   ],
   "summary": "Not yet reviewed.",
-  "notes": "Tucson church found via a local church directory result; only the homepage was confirmed. Address, denomination, pastor and sermon host all still need research.",
-  "updated_at": "2026-09-11",
-  "updated_by": "claude-opus-5 research agent (seed)"
+  "notes": "The congregation does not own a building: it meets at Desert Christian High School, 7525 E Speedway Blvd, Tucson AZ 85710 (confirmed on the about page under 'Meeting Location'). The recorded address is that meeting location, so the map pin will sit on the school. The church's mailing address is PO Box 18276, Tucson AZ 85731 - not usable for geocoding. lat/lng cleared so tools/geocode.py re-runs. The about page lists Kyle Coffin (Senior Pastor), Bruce Grissom (Elder), Jama Dluehosh (Administrative Assistant) and Joe Coffin (Worship Leader); Grissom is called 'Pastor Bruce Grissom' in the Foundations sermon-notes list on that same page and appears in the messages speaker index, which is why he is recorded as a preaching elder. The messages page speaker filter also lists many other names (Bill Hatch, Brice Grissom, David Gentala, David and Amber Gentala, Donato Rubio, Jake Coffin, Joe Coffin, Magen Hyatt, Paul Bennett, Randy Inch, Rich Markeson, Star Wynd, Stuart Welch, Tim Nicholls, Wayne Daley, 'Guest Speaker') - these were NOT added because the site does not give them pastoral titles and their preaching frequency is unknown; check the dated message list before attributing anything to them. The church posts sermons to YouTube (@Nctucson_GOandBEtheCHURCH), Facebook, and its own messages page; downloadable PDF sermon notes exist for the 2019 'Foundations' series, which is useful for a manuscript-vs-delivery comparison.",
+  "updated_at": "2026-09-10",
+  "updated_by": "claude research agent (facts)"
 }

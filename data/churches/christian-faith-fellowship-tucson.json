@@ -2,27 +2,80 @@
   "slug": "christian-faith-fellowship-tucson",
   "name": "Christian Faith Fellowship",
   "aka": [
+    "CFF Tucson",
+    "Christian Faith Fellowship, A Wesleyan Church",
     "Catalina American Baptist Church (former occupant of the building)",
     "Catalina Church of Midtown"
   ],
   "tradition": "methodist_wesleyan",
   "denomination": "The Wesleyan Church",
+  "website": "https://www.cfftucson.com/",
+  "youtube": {
+    "channel_url": "https://www.youtube.com/@ChristianFaithFellowship",
+    "handle": "@ChristianFaithFellowship",
+    "transcripts_available": "unknown"
+  },
   "other_media": [
     {
       "label": "Christian Faith Fellowship Tucson sermon podcast (Apple Podcasts)",
       "url": "https://podcasts.apple.com/us/podcast/christian-faith-fellowship-tucson-sermons/id1076217186"
+    },
+    {
+      "label": "CFF Tucson sermon archive (video, audio and sermon notes, indexed by speaker)",
+      "url": "https://www.cfftucson.com/sermon-archive/"
+    },
+    {
+      "label": "CFF Tucson ASL YouTube channel (ASL-interpreted full services)",
+      "url": "https://www.youtube.com/@CFFTUCSONASL/streams"
     }
   ],
   "location": {
     "address": "1900 N Country Club Rd",
     "postal_code": "85716",
-    "lat": null,
-    "lng": null,
-    "geocode": "missing",
+    "lat": 32.245178,
+    "lng": -110.926707,
+    "geocode": "verified",
     "city": "Tucson",
     "state": "AZ"
   },
-  "pastors": [],
+  "pastors": [
+    {
+      "name": "David Dahlberg",
+      "role": "Lead Pastor",
+      "bio_url": "https://www.cfftucson.com/staff-ministry-leaders/",
+      "active": true,
+      "plagiarism": {
+        "status": "unchecked"
+      },
+      "ai_writing": {
+        "status": "unchecked"
+      }
+    },
+    {
+      "name": "Jaron Dahlberg",
+      "role": "Assistant Pastor - NextGen",
+      "bio_url": "https://www.cfftucson.com/staff-ministry-leaders/",
+      "active": true,
+      "plagiarism": {
+        "status": "unchecked"
+      },
+      "ai_writing": {
+        "status": "unchecked"
+      }
+    },
+    {
+      "name": "Michael Liddick",
+      "role": "Assistant Pastor",
+      "bio_url": "https://www.cfftucson.com/staff-ministry-leaders/",
+      "active": true,
+      "plagiarism": {
+        "status": "unchecked"
+      },
+      "ai_writing": {
+        "status": "unchecked"
+      }
+    }
+  ],
   "sources": [
     {
       "label": "Wikipedia: Catalina American Baptist Church (building now home to Christian Faith Fellowship, a Wesleyan church)",
@@ -38,10 +91,35 @@
       "label": "FaithStreet: Catalina Church of Midtown, American Baptist Churches USA, Tucson AZ",
       "url": "https://www.faithstreet.com/church/catalina-church-of-midtown-tucson-az",
       "accessed": "2026-09-11"
+    },
+    {
+      "label": "Christian Faith Fellowship Tucson official site",
+      "url": "https://www.cfftucson.com/",
+      "accessed": "2026-09-10"
+    },
+    {
+      "label": "CFF Tucson - Staff & Ministry Leaders",
+      "url": "https://www.cfftucson.com/staff-ministry-leaders/",
+      "accessed": "2026-09-10"
+    },
+    {
+      "label": "CFF Tucson - Articles of Belief (states Wesleyan doctrine and denomination)",
+      "url": "https://www.cfftucson.com/articles-of-belief/",
+      "accessed": "2026-09-10"
+    },
+    {
+      "label": "CFF Tucson - Location page (1900 N. Country Club Road)",
+      "url": "https://www.cfftucson.com/locations/christian-faith-fellowship/",
+      "accessed": "2026-09-10"
+    },
+    {
+      "label": "CFF Tucson - Sermon archive with speaker index",
+      "url": "https://www.cfftucson.com/sermon-archive/",
+      "accessed": "2026-09-10"
     }
   ],
   "summary": "Not yet reviewed.",
-  "notes": "CAREFUL - the 1900 N Country Club Rd building has a tangled history: it was built for Catalina American Baptist Church, a FaithStreet listing calls the American Baptist congregation there 'Catalina Church of Midtown', and Wikipedia says the building is now home to Christian Faith Fellowship, a Wesleyan church. This record is filed under the Wesleyan congregation; if research shows the American Baptist congregation is a separate live body, split this into two records. A sermon podcast exists, which gives a usable corpus. No pastor name confirmed. Coordinates missing: Country Club Rd is not on the reference grid.",
-  "updated_at": "2026-09-11",
-  "updated_by": "claude-opus-5 research agent (seed)"
+  "notes": "Resolved 2026-09-10 from the church's own site. Christian Faith Fellowship is a Wesleyan Church congregation at 1900 N. Country Club Road, Tucson AZ 85716 (cfftucson.com/locations/christian-faith-fellowship/); the Articles of Belief page states the Wesleyan denominational position, so the 'affiliation to verify' question is settled. The earlier confusion about Catalina American Baptist / 'Catalina Church of Midtown' was not re-investigated: CFF is the congregation now at this address, and nothing on cfftucson.com suggests a separate American Baptist body still meets here. If a live American Baptist congregation is ever confirmed, split it into its own record rather than editing this one. Preaching pastors are taken from the sermon-archive speaker index cross-checked against the staff page: Dr. David Dahlberg (Lead Pastor, ~529 sermons and the large majority of recent Sundays), Pastor Jaron Dahlberg (Assistant Pastor - NextGen, 9) and Pastor Mike Liddick (Assistant Pastor, 4). Pastor Stephen Aranda has 9 sermons in the archive but is NOT on the current staff page, so he is not recorded - add with active:false only if his tenure can be confirmed. Ashley Jennings, Cody Bren, Josh Rivera, Rick Davis, Andy Prawitz and Chris Hendrickson appear once or twice each and look like guests. CFF has satellite campuses at Canova and Village of Oak Creek (the latter is in the Sedona area, outside the Tucson metro); this record covers the Tucson campus. Media: sermons have video, audio and PDF notes on the church site, an Apple Podcasts audio feed, a main YouTube channel (@ChristianFaithFellowship) and a separate ASL channel (@CFFTUCSONASL). The site's own archive was last showing June 2026 entries when checked, so confirm currency before pulling a corpus.",
+  "updated_at": "2026-09-10",
+  "updated_by": "claude research agent (facts)"
 }

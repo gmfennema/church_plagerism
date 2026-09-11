@@ -1,9 +1,17 @@
 {
   "slug": "tucson-mountain-baptist-church",
   "name": "Tucson Mountain Baptist Church",
+  "aka": [
+    "TMBC Tucson"
+  ],
   "tradition": "baptist",
   "denomination": "Southern Baptist Convention",
   "website": "https://tucsonmountainchurch.org/",
+  "youtube": {
+    "channel_url": "https://www.youtube.com/@tmbctucson",
+    "handle": "@tmbctucson",
+    "transcripts_available": "unknown"
+  },
   "other_media": [
     {
       "label": "Tucson Mountain Baptist Church sermons and messages",
@@ -13,9 +21,9 @@
   "location": {
     "address": "5757 W Ajo Hwy",
     "postal_code": "85735",
-    "lat": null,
-    "lng": null,
-    "geocode": "missing",
+    "lat": 32.177901,
+    "lng": -111.012844,
+    "geocode": "approximate",
     "city": "Tucson",
     "state": "AZ"
   },
@@ -23,7 +31,19 @@
     {
       "name": "Lynn Spoon",
       "role": "Lead Pastor",
-      "bio_url": "https://tucsonmountainchurch.org/staff",
+      "bio_url": "https://tucsonmountainchurch.org/lynn_spoon",
+      "plagiarism": {
+        "status": "unchecked"
+      },
+      "ai_writing": {
+        "status": "unchecked"
+      },
+      "active": true
+    },
+    {
+      "name": "Jasper Cristales",
+      "role": "Youth Pastor (preaches in the main service)",
+      "bio_url": "https://tucsonmountainchurch.org/jasper_cristales",
       "plagiarism": {
         "status": "unchecked"
       },
@@ -35,14 +55,24 @@
   ],
   "sources": [
     {
-      "label": "Tucson Mountain Baptist Church sermons page",
-      "url": "https://tucsonmountainchurch.org/sermons",
-      "accessed": "2026-09-11"
+      "label": "Tucson Mountain Baptist Church official site (address, affiliation)",
+      "url": "https://tucsonmountainchurch.org/",
+      "accessed": "2026-09-10"
     },
     {
       "label": "Tucson Mountain Baptist Church staff page",
       "url": "https://tucsonmountainchurch.org/staff",
-      "accessed": "2026-09-11"
+      "accessed": "2026-09-10"
+    },
+    {
+      "label": "Tucson Mountain Baptist Church sermons page",
+      "url": "https://tucsonmountainchurch.org/sermons",
+      "accessed": "2026-09-10"
+    },
+    {
+      "label": "TMBC Tucson YouTube channel (live/archived services)",
+      "url": "https://www.youtube.com/@tmbctucson",
+      "accessed": "2026-09-10"
     },
     {
       "label": "SBC church directory: Tucson Mountain Baptist Church",
@@ -56,7 +86,7 @@
     }
   ],
   "summary": "Not yet reviewed.",
-  "notes": "Southern Baptist church west of the Tucson Mountains on Ajo Hwy, listed in the SBC directory. Sermons and messages are published on the church site. Coordinates missing: Ajo Hwy is not on the reference grid and runs diagonally.",
-  "updated_at": "2026-09-11",
-  "updated_by": "claude-opus-5 research agent (seed)"
+  "notes": "2026-09-10 fact pass. Address 5757 W Ajo Hwy, Tucson AZ 85735 confirmed on the church's own site; coordinates left 'approximate' because Ajo Hwy runs diagonally and was not re-geocoded. Affiliation stated on the site: Southern Baptist Convention, Arizona Southern Baptist Convention, Catalina Baptist Association. Staff page lists exactly two pastors - Lynn Spoon (Lead Pastor) and Jasper Cristales (Youth Pastor); the other two staff (Beth Mac Farlane, Ministry Assistant; Debbie Bessett, Custodian) are not preachers. Jasper Cristales is listed here as a preaching pastor because the church's own YouTube Live tab carries full-service videos titled 'Becoming | Pastor Jasper | TMBC' alongside several titled 'Pastor Lynn', so both take the pulpit. YouTube channel is @tmbctucson (title 'TMBC Tucson'); the Live tab, not the Videos tab, holds the sermons - the Videos tab is mostly worship lyric videos and VBS clips. Captions availability not yet tested.",
+  "updated_at": "2026-09-10",
+  "updated_by": "claude research agent (facts)"
 }

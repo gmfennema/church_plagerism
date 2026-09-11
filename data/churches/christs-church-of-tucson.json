@@ -2,24 +2,45 @@
   "slug": "christs-church-of-tucson",
   "name": "Christ's Church of Tucson",
   "tradition": "restoration_churches_of_christ",
-  "denomination": "Christian Church / Churches of Christ",
+  "denomination": "Independent - no denominational affiliation stated on the church's own site",
   "website": "https://cctworship.org/",
   "other_media": [
     {
       "label": "Christ's Church of Tucson sermons page",
       "url": "https://cctworship.org/pulpit/sermons/"
+    },
+    {
+      "label": "Christ's Church of Tucson on SermonAudio (full sermon archive, broadcaster 'cctworship')",
+      "url": "https://www.sermonaudio.com/broadcasters/cctworship/sermons"
+    },
+    {
+      "label": "Sermons by Dale Briggs on SermonAudio",
+      "url": "https://www.sermonaudio.com/solo/cctworship/sermons/speakers/Dale%20Briggs/"
     }
   ],
   "location": {
-    "address": "Mailing address only: P.O. Box 17388",
-    "postal_code": "85731",
-    "lat": null,
-    "lng": null,
-    "geocode": "missing",
+    "address": "2727 S Langley Ave",
+    "postal_code": "85730",
+    "geocode": "verified",
     "city": "Tucson",
-    "state": "AZ"
+    "state": "AZ",
+    "lat": 32.190113,
+    "lng": -110.844727
   },
-  "pastors": [],
+  "pastors": [
+    {
+      "name": "Dale Briggs",
+      "role": "Pastor-Teacher",
+      "bio_url": "https://cctworship.org/about/leadership/",
+      "active": true,
+      "plagiarism": {
+        "status": "unchecked"
+      },
+      "ai_writing": {
+        "status": "unchecked"
+      }
+    }
+  ],
   "sources": [
     {
       "label": "Christ's Church of Tucson sermons page",
@@ -30,10 +51,30 @@
       "label": "Christ's Church of Tucson embedded sermons page",
       "url": "https://cctworship.org/sermons_embed/",
       "accessed": "2026-09-11"
+    },
+    {
+      "label": "Christ's Church of Tucson - Contact (street address)",
+      "url": "https://cctworship.org/contact/",
+      "accessed": "2026-09-10"
+    },
+    {
+      "label": "Christ's Church of Tucson - Leadership (Dale Briggs, Pastor-Teacher)",
+      "url": "https://cctworship.org/about/leadership/",
+      "accessed": "2026-09-10"
+    },
+    {
+      "label": "Christ's Church of Tucson - What We Believe and Teach",
+      "url": "https://cctworship.org/about/what-we-believe-and-teach/",
+      "accessed": "2026-09-10"
+    },
+    {
+      "label": "Christ's Church of Tucson broadcaster page on SermonAudio",
+      "url": "https://www.sermonaudio.com/broadcasters/cctworship/",
+      "accessed": "2026-09-10"
     }
   ],
   "summary": "Not yet reviewed.",
-  "notes": "Only a PO box was found in search results, not a street address - find the meeting location. Sermons are published under a '/pulpit/sermons/' section of the church site. No preacher name confirmed.",
-  "updated_at": "2026-09-11",
-  "updated_by": "claude-opus-5 research agent (seed)"
+  "notes": "Street address resolved 2026-09-10: the congregation meets at 2727 S. Langley Avenue, Tucson AZ 85730 (cctworship.org/contact/); the P.O. Box 17388 / 85731 previously recorded is the mailing address only. Geocode reset to missing - run tools/geocode.py. Preacher confirmed from the church's own leadership page: Dr. Dale Briggs, titled 'Pastor - Teacher', pastor here since August 2007, D.Min. in expository preaching from The Master's Seminary. Bill Buntin and Larry Perry are lay elders, not preaching staff. Denomination: the church's own site states NO denominational affiliation - its doctrinal statement is generic conservative evangelical and reads Master's Seminary / dispensational rather than Restoration Movement, so the previous 'Christian Church / Churches of Christ' label is not supported by a primary source. It is listed in the Christian Standard (Restoration Movement) church directory, which may be where that label came from; the tradition field is left as restoration_churches_of_christ pending a better answer. Media: sermons are hosted on SermonAudio (broadcaster 'cctworship', 780+ sermons by Dale Briggs) and embedded on the church site; the site also links a SermonAudio live stream. No YouTube channel found. SermonAudio audio will need local transcription - there are no YouTube captions to pull.",
+  "updated_at": "2026-09-10",
+  "updated_by": "claude research agent (facts)"
 }

@@ -4,36 +4,73 @@
   "tradition": "methodist_wesleyan",
   "denomination": "United Methodist Church",
   "website": "https://stjamestucson.com/",
+  "youtube": {
+    "channel_url": "https://www.youtube.com/@stjamestucson",
+    "handle": "@stjamestucson",
+    "transcripts_available": "unknown"
+  },
+  "other_media": [
+    {
+      "label": "St. James UMC sermon archive on its own site",
+      "url": "https://stjamestucson.com/worship/"
+    },
+    {
+      "label": "St. James United Methodist Church Facebook page (Sunday live streams)",
+      "url": "https://www.facebook.com/sjumchurch/"
+    }
+  ],
   "location": {
-    "address": "Address not confirmed",
-    "lat": null,
-    "lng": null,
-    "geocode": "missing",
+    "address": "3255 N Campbell Ave",
+    "lat": 32.266081,
+    "lng": -110.944473,
+    "geocode": "verified",
     "city": "Tucson",
-    "state": "AZ"
+    "state": "AZ",
+    "postal_code": "85719"
   },
   "pastors": [
     {
-      "name": "Mel Roberts",
-      "role": "Pastor (Rev.); also described as University of Arizona campus pastor",
+      "name": "Alma Aguirre-Olivares",
+      "role": "Pastor (Rev.)",
+      "bio_url": "https://stjamestucson.com/leadership/",
+      "active": true,
       "plagiarism": {
         "status": "unchecked"
       },
       "ai_writing": {
         "status": "unchecked"
-      },
-      "active": true
+      }
     }
   ],
   "sources": [
     {
       "label": "St James United Methodist Church Tucson official site",
       "url": "https://stjamestucson.com/",
-      "accessed": "2026-09-11"
+      "accessed": "2026-09-10"
+    },
+    {
+      "label": "St. James UMC leadership/staff page (pastor name, footer address)",
+      "url": "https://stjamestucson.com/leadership/",
+      "accessed": "2026-09-10"
+    },
+    {
+      "label": "St. James UMC sermon archive",
+      "url": "https://stjamestucson.com/worship/",
+      "accessed": "2026-09-10"
+    },
+    {
+      "label": "UMC Find-A-Church listing: St James United Methodist Church, Tucson",
+      "url": "https://www.umc.org/en/find-a-church/church?id=001Um00000PFN2kIAH",
+      "accessed": "2026-09-10"
+    },
+    {
+      "label": "St James Tucson YouTube channel",
+      "url": "https://www.youtube.com/@stjamestucson",
+      "accessed": "2026-09-10"
     }
   ],
   "summary": "Not yet reviewed.",
-  "notes": "United Methodist congregation; Rev. Mel Roberts is described in search results as the preacher and as UA campus pastor. Confirm current appointment and find a sermon archive - none was located. Address not confirmed.",
-  "updated_at": "2026-09-11",
-  "updated_by": "claude-opus-5 research agent (seed)"
+  "notes": "Facts confirmed 2026-09-10 from the church's own site. Address is 3255 N Campbell Ave, Tucson AZ 85719. LEADERSHIP CHANGED: the leadership page now lists Rev. Alma Aguirre-Olivares as Pastor, and a 7 July 2026 sermon post welcomes her as 'our new pastor' (her bio had not been posted yet). The previously seeded name, Rev. Mel Roberts, is the University of Arizona campus pastor and appears in the archive as a guest preacher (e.g. 'Bizarre Bible: Eutychus', 1 July 2026), not as the appointed pastor - he was removed from pastors[] for that reason. UMC clergy are reappointed regularly, so re-check the appointment each year. Sermon video is on YouTube (@stjamestucson) and Facebook live streams, with an index at /worship/. Separate oddity to be aware of: St. Paul's UMC Tucson carries a 'St. James UMC' page under its /locations/ section, so the two congregations have some shared arrangement; they remain separate records here. Coordinates still need tools/geocode.py.",
+  "updated_at": "2026-09-10",
+  "updated_by": "claude research agent (facts)"
 }

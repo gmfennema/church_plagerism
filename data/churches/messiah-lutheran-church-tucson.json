@@ -4,41 +4,41 @@
   "tradition": "lutheran",
   "denomination": "Lutheran Church-Missouri Synod (LCMS) - English District",
   "location": {
-    "address": "1220 W Magee Rd",
+    "address": "1220 W Magee Rd (worships in the Ascension Lutheran Church building)",
     "postal_code": "85704",
-    "lat": null,
-    "lng": null,
-    "geocode": "missing",
+    "lat": 32.35246,
+    "lng": -110.992995,
+    "geocode": "verified",
     "city": "Tucson",
     "state": "AZ"
   },
   "pastors": [
     {
       "name": "Luther P. Esala",
-      "role": "Pastor (Rev.)",
+      "role": "Sole Pastor (Rev.)",
+      "active": true,
       "plagiarism": {
         "status": "unchecked"
       },
       "ai_writing": {
         "status": "unchecked"
-      },
-      "active": true
+      }
     }
   ],
   "sources": [
     {
       "label": "LCMS church locator entry: Messiah Lutheran Church, 1220 W Magee Rd",
       "url": "https://locator.lcms.org/church/C/22",
-      "accessed": "2026-09-11"
+      "accessed": "2026-09-10"
     },
     {
       "label": "LCMS English District listing: Messiah Lutheran Church",
       "url": "https://englishdistrict.org/messiah-lutheran-church-3",
-      "accessed": "2026-09-11"
+      "accessed": "2026-09-10"
     }
   ],
   "summary": "Not yet reviewed.",
-  "notes": "LCMS English District parish in north Tucson on Magee Rd. No church website or sermon archive confirmed in search results; may not be reviewable without one. Coordinates missing: Magee Rd is not on the reference grid.",
-  "updated_at": "2026-09-11",
-  "updated_by": "claude-opus-5 research agent (seed)"
+  "notes": "Denomination confirmed 2026-09-10 from the two official LCMS listings: Lutheran Church-Missouri Synod, English District, V-Circuit / Arizona South. The placeholder wording in the seed record was already right and is now verified rather than assumed.\n\nAddress: 1220 W Magee Rd, Tucson AZ 85704 is the WORSHIP location - both LCMS listings state that Messiah worships at Ascension Lutheran Church, 1220 W Magee Rd. Messiah's own mailing address is PO Box 262, Cortaro, AZ 85652-0262, which is a post office box and must not be plotted. Coordinates were already verified for the Magee Rd building and were left unchanged. Note for the map: Ascension Lutheran Church + School (ascensiontucson.org) is a separate LCMS congregation at the same address; Messiah is the tenant, so the two churches will share a map pin.\n\nPastor: the Rev. Luther P. Esala, listed by the LCMS locator as Sole Pastor and by the English District as the pastor (lpesala@msn.com). No associate or assisting pastor is listed. Worship Sundays at 9:30am, Sunday School 10:45am.\n\nStill missing: the congregation has no website of its own. Searches on 2026-09-10 found no YouTube channel, Facebook page, podcast or SermonAudio account for Messiah Lutheran Church Tucson - note that generic searches pull up other congregations named Messiah Lutheran (messiahlutheran.com, messiahlc.org) that are not this church. With no published sermons this record is not reviewable; a phone call (520-401-7849) would be needed to find out whether sermons or manuscripts are shared anywhere.",
+  "updated_at": "2026-09-10",
+  "updated_by": "claude research agent (facts)"
 }

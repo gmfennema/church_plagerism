@@ -2,25 +2,83 @@
   "slug": "st-andrews-presbyterian-church-tucson",
   "name": "St. Andrew's Presbyterian Church",
   "tradition": "presbyterian_reformed",
-  "denomination": "Presbyterian (affiliation to verify)",
-  "location": {
-    "address": "Address not confirmed",
-    "lat": null,
-    "lng": null,
-    "geocode": "missing",
-    "city": "Tucson",
-    "state": "AZ"
+  "denomination": "Presbyterian Church (U.S.A.) - Presbytery de Cristo",
+  "website": "https://www.sapctucson.org/",
+  "youtube": {
+    "channel_url": "https://www.youtube.com/@SAPCTucson",
+    "handle": "@SAPCTucson",
+    "transcripts_available": "unknown"
   },
-  "pastors": [],
+  "other_media": [
+    {
+      "label": "St. Andrew's recent services / sermon archive",
+      "url": "https://www.sapctucson.org/sermons/"
+    }
+  ],
+  "location": {
+    "address": "7650 N Paseo del Norte",
+    "lat": 32.34542,
+    "lng": -110.982099,
+    "geocode": "verified",
+    "city": "Tucson",
+    "state": "AZ",
+    "postal_code": "85704"
+  },
+  "pastors": [
+    {
+      "name": "John Tittle",
+      "role": "Pastor/Head of Staff (Rev. Dr.)",
+      "bio_url": "https://www.sapctucson.org/our-team/",
+      "active": true,
+      "plagiarism": {
+        "status": "unchecked"
+      },
+      "ai_writing": {
+        "status": "unchecked"
+      }
+    },
+    {
+      "name": "Raully Donahue",
+      "role": "Associate Pastor of Adult Discipleship Ministry and Visitation (Rev. Dr.)",
+      "bio_url": "https://www.sapctucson.org/our-team/",
+      "active": true,
+      "plagiarism": {
+        "status": "unchecked"
+      },
+      "ai_writing": {
+        "status": "unchecked"
+      }
+    }
+  ],
   "sources": [
     {
       "label": "St. Andrew's Presbyterian Church Tucson Facebook page",
       "url": "https://www.facebook.com/sapctucson/",
       "accessed": "2026-09-11"
+    },
+    {
+      "label": "St. Andrew's Presbyterian Church official site (address, phone)",
+      "url": "https://www.sapctucson.org/",
+      "accessed": "2026-09-10"
+    },
+    {
+      "label": "St. Andrew's 'Meet Our Team' staff page (pastor names and roles, footer address)",
+      "url": "https://www.sapctucson.org/our-team/",
+      "accessed": "2026-09-10"
+    },
+    {
+      "label": "St. Andrew's recent services / sermon archive (links to the YouTube channel)",
+      "url": "https://www.sapctucson.org/sermons/",
+      "accessed": "2026-09-10"
+    },
+    {
+      "label": "PC(USA) congregation directory: St Andrews Church, Tucson AZ (Presbytery de Cristo)",
+      "url": "https://pcusa.org/congregation/st-andrews-church-tucson-az",
+      "accessed": "2026-09-10"
     }
   ],
   "summary": "Not yet reviewed.",
-  "notes": "Only a Facebook page was confirmed in search results. Address, denomination affiliation, pastor and sermon host all still need research. Low priority unless sermons turn out to be published.",
-  "updated_at": "2026-09-11",
-  "updated_by": "claude-opus-5 research agent (seed)"
+  "notes": "Facts confirmed 2026-09-10 from the church's own site. Address is 7650 N Paseo del Norte, Tucson AZ 85704 (a Yelp listing showing 750 W Chapala Dr appears to be stale - do not use it). Denomination confirmed via the PC(USA) congregation directory: PC(USA), Presbytery de Cristo. Two installed pastors appear on the current staff page: Rev. Dr. John Tittle (Pastor/Head of Staff) and Rev. Dr. Raully Donahue (Associate Pastor of Adult Discipleship Ministry and Visitation); no interim or pastor-search language appears there, although an older search snippet mentioned a Pastor Nominating Committee - re-check if that matters. Sermons are on YouTube at @SAPCTucson and indexed at /sermons/. The sermon archive also carries guest and supply preachers alongside the two pastors, so attribute each sermon individually before reviewing. Coordinates still need tools/geocode.py.",
+  "updated_at": "2026-09-10",
+  "updated_by": "claude research agent (facts)"
 }

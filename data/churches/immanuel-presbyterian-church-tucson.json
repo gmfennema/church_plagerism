@@ -1,8 +1,24 @@
 {
   "slug": "immanuel-presbyterian-church-tucson",
   "name": "Immanuel Presbyterian Church",
+  "aka": [
+    "Immanuel Presbyterian Church-Tucson",
+    "IPC Tucson"
+  ],
   "tradition": "presbyterian_reformed",
-  "denomination": "Presbyterian (affiliation to verify)",
+  "denomination": "Presbyterian Church (U.S.A.) - Presbytery de Cristo",
+  "website": "https://www.immanuelpc.org/",
+  "youtube": {
+    "channel_url": "https://www.youtube.com/@immanuelpresbyterianchurch4916",
+    "handle": "@immanuelpresbyterianchurch4916",
+    "transcripts_available": "unknown"
+  },
+  "other_media": [
+    {
+      "label": "Immanuel Presbyterian Church-Tucson Facebook page",
+      "url": "https://www.facebook.com/IPCTucson"
+    }
+  ],
   "location": {
     "address": "9252 E 22nd St",
     "postal_code": "85710",
@@ -12,8 +28,45 @@
     "city": "Tucson",
     "state": "AZ"
   },
-  "pastors": [],
+  "pastors": [
+    {
+      "name": "Duane Mullen",
+      "role": "Pastor and Head of Staff",
+      "tenure": {
+        "from": "2026-09-01",
+        "to": null
+      },
+      "bio_url": "https://www.immanuelpc.org/leadership/",
+      "active": true,
+      "plagiarism": {
+        "status": "unchecked"
+      },
+      "ai_writing": {
+        "status": "unchecked"
+      }
+    }
+  ],
   "sources": [
+    {
+      "label": "Immanuel Presbyterian Church official site",
+      "url": "https://www.immanuelpc.org/",
+      "accessed": "2026-09-10"
+    },
+    {
+      "label": "Immanuel Presbyterian Church - Staff and Leadership",
+      "url": "https://www.immanuelpc.org/leadership/",
+      "accessed": "2026-09-10"
+    },
+    {
+      "label": "PC(USA) congregation directory: Immanuel Church, Tucson AZ",
+      "url": "https://pcusa.org/congregation/immanuel-church-tucson-az",
+      "accessed": "2026-09-10"
+    },
+    {
+      "label": "Immanuel Presbyterian Church Tucson YouTube channel",
+      "url": "https://www.youtube.com/@immanuelpresbyterianchurch4916",
+      "accessed": "2026-09-10"
+    },
     {
       "label": "Yelp: Immanuel Presbyterian Church, 9252 E 22nd St, Tucson",
       "url": "https://www.yelp.com/biz/immanuel-presbyterian-church-tucson",
@@ -21,7 +74,7 @@
     }
   ],
   "summary": "Not yet reviewed.",
-  "notes": "East-side Presbyterian congregation on 22nd St near Camino Seco. Only a Yelp listing was confirmed in search results - no church website, sermon archive or pastor name was found. Verify the denomination (PCA, PCUSA, EPC or other) and whether sermons are published anywhere before scheduling work.",
-  "updated_at": "2026-09-11",
-  "updated_by": "claude-opus-5 research agent (seed)"
+  "notes": "East-side congregation on 22nd St near Camino Seco. The seed record's open questions are now answered. Website found: immanuelpc.org. Denomination confirmed as Presbyterian Church (U.S.A.), Presbytery de Cristo, from the PC(USA) congregation directory; the church's own site does not name the denomination on the homepage. Address 9252 E 22nd Street, Tucson AZ 85710 confirmed on the church site (unchanged, so the existing approximate coordinates were left in place; a geocode run would upgrade them).\n\nPastor: the Staff and Leadership page (accessed 2026-09-10) reads 'Immanuel Welcomes Rev. Duane Mullen, Pastor and Head of Staff Elect ... He will officially begin his ministry with us on September 1, 2026.' That start date has now passed, so he is recorded as the active Pastor and Head of Staff with tenure from 2026-09-01; the web page itself still carries the word 'Elect' and has not been updated. He was ordained PC(USA) in 2022 and served yoked congregations in South Dakota until November 2025. Because he arrived only days ago there will be almost no Immanuel sermon corpus for him yet - any review would be premature until roughly mid-2027.\n\nPredecessor: Dr. John C. Tittle was pastor from February 2008 and left for another call in March 2024, so there was a two-and-a-half-year vacancy filled by supply/interim preachers whose names are not published on the site. If older sermon video is reviewed, attribute carefully - most 2024-2026 preaching is NOT by Mullen.\n\nOther staff (none confirmed as regular preachers, so not listed as pastors): Kris Goorsky (Minister of Christian Formation - the title suggests she may occasionally preach; unconfirmed), Kate Kelly (Office Manager), Lori Stuckey (Interim Director of Music Ministries), Brian Rudigier (Facilities), Allison Nelson (Nursery Attendant). Governance is by a Session of ruling elders (clerk: Liz Wallendorf) and a board of deacons.\n\nMedia: YouTube channel @immanuelpresbyterianchurch4916 (channel ID UCB9eTIwmeEKz_os9gcEYy9A) plus a Facebook page. Two Sunday services: Alternative 8:30am, Traditional 11:00am - so a given Sunday may produce more than one recording.",
+  "updated_at": "2026-09-10",
+  "updated_by": "claude research agent (facts)"
 }

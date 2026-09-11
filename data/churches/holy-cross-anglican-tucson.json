@@ -2,18 +2,28 @@
   "slug": "holy-cross-anglican-tucson",
   "name": "Holy Cross Anglican Church",
   "tradition": "anglican_episcopal",
-  "denomination": "Anglican (jurisdiction to verify)",
+  "denomination": "Anglican Church in America (ACA), Diocese of the West - continuing Anglican; needs re-confirmation",
   "location": {
     "address": "3264 N Country Club Rd",
     "postal_code": "85716",
-    "lat": null,
-    "lng": null,
-    "geocode": "missing",
+    "lat": 32.266788,
+    "lng": -110.926397,
+    "geocode": "verified",
     "city": "Tucson",
     "state": "AZ"
   },
   "pastors": [],
   "sources": [
+    {
+      "label": "Holy Cross Anglican Church own website, archived copy (last updated 5/5/2011)",
+      "url": "https://web.archive.org/web/20110901172023/http://holycross-tucson.org/",
+      "accessed": "2026-09-10"
+    },
+    {
+      "label": "Anglican Diocese of the West parish directory (no Tucson parish listed)",
+      "url": "https://anglicandow.org/find-a-church/",
+      "accessed": "2026-09-10"
+    },
     {
       "label": "ChurchFinder listing: Holy Cross Anglican Church, Tucson AZ",
       "url": "https://www.churchfinder.com/churches/az/tucson/holy-cross-anglican-church",
@@ -21,7 +31,7 @@
     }
   ],
   "summary": "Not yet reviewed.",
-  "notes": "Small Anglican congregation on N Country Club Rd. Only a directory listing was confirmed; the listing was inconsistent about whether it is Episcopal or a continuing-Anglican body, so the jurisdiction needs checking. No website, pastor or sermon archive found. Third of three 'Holy Cross' churches in Tucson - keep separate from the Lutheran and Presbyterian ones.",
-  "updated_at": "2026-09-11",
-  "updated_by": "claude-opus-5 research agent (seed)"
+  "notes": "Small continuing-Anglican congregation on N Country Club Rd; Anglican, therefore Protestant and in scope. Jurisdiction resolved from the church's OWN website, but only through the Internet Archive: the site described the parish as 'A conservative Anglican Catholic Parish in the Diocese of the West (DOW) of the Anglican Church in America (ACA)', worshipping at 10:00 am Sundays with the 1928 Book of Common Prayer, phone (520) 886-1654, email info@holycross-tucson.org. It is NOT Episcopal Church (TEC) and is a different body from the ACNA. IMPORTANT CAVEAT: that page carries the line 'Last updated on 5/5/2011' and the domain holycross-tucson.org no longer resolves (connection refused; the Internet Archive has no capture after 2012), so the denomination line is confirmed as of 2011 only and is marked for re-confirmation. The parish is also absent from the current Anglican Diocese of the West 'Find a Church' directory, whose only Arizona entry is St Andrews Parish in Phoenix - that may mean the congregation has closed, has moved jurisdiction, or is simply not listed. Whether it still meets was NOT established: the only current evidence is third-party directory/Yelp listings at the same address, which are not primary sources. Next step for whoever picks this up: phone (520) 886-1654 or visit the address, and if it is confirmed closed set in_scope false with out_of_scope_reason. No pastor name, no current website and no sermon archive of any kind (no YouTube, Facebook or audio) were found, so there is currently nothing to review even if the parish is active. Third of three 'Holy Cross' churches in Tucson - keep separate from Holy Cross Lutheran (holycrosstucson.org, 241 N Harrison Rd) and Holy Cross Presbyterian/PCA (holycrosstucson.com, 7730 N Cortaro Rd).",
+  "updated_at": "2026-09-10",
+  "updated_by": "claude research agent (facts)"
 }

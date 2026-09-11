@@ -7,21 +7,64 @@
   "tradition": "baptist",
   "denomination": "Missionary Baptist",
   "website": "https://gracetemplembc.com/",
+  "youtube": {
+    "channel_url": "https://www.youtube.com/@gracetemplebaptistchurch2955",
+    "handle": "@gracetemplebaptistchurch2955",
+    "transcripts_available": "unknown"
+  },
+  "other_media": [
+    {
+      "label": "Grace Temple video archives (pulls the church YouTube channel)",
+      "url": "https://gracetemplembc.com/video_archives"
+    },
+    {
+      "label": "Grace Temple Baptist Church Tucson Facebook page (Sunday live stream)",
+      "url": "https://www.facebook.com/gracetempletucson/"
+    }
+  ],
   "location": {
     "address": "1019 E 31st St",
     "postal_code": "85713",
-    "lat": null,
-    "lng": null,
-    "geocode": "missing",
+    "lat": 32.197646,
+    "lng": -110.95574,
+    "geocode": "verified",
     "city": "Tucson",
     "state": "AZ"
   },
-  "pastors": [],
+  "pastors": [
+    {
+      "name": "D. Grady Scott",
+      "role": "Pastor",
+      "bio_url": "https://gracetemplembc.com/pastor",
+      "active": true,
+      "plagiarism": {
+        "status": "unchecked"
+      },
+      "ai_writing": {
+        "status": "unchecked"
+      }
+    }
+  ],
   "sources": [
     {
       "label": "Grace Temple Missionary Baptist Church official site",
       "url": "https://gracetemplembc.com/",
-      "accessed": "2026-09-11"
+      "accessed": "2026-09-10"
+    },
+    {
+      "label": "Grace Temple pastor page",
+      "url": "https://gracetemplembc.com/pastor",
+      "accessed": "2026-09-10"
+    },
+    {
+      "label": "Grace Temple video archives page",
+      "url": "https://gracetemplembc.com/video_archives",
+      "accessed": "2026-09-10"
+    },
+    {
+      "label": "Grace Temple Baptist Church YouTube channel",
+      "url": "https://www.youtube.com/@gracetemplebaptistchurch2955",
+      "accessed": "2026-09-10"
     },
     {
       "label": "Grace Temple church staff page",
@@ -35,7 +78,7 @@
     }
   ],
   "summary": "Not yet reviewed.",
-  "notes": "Historically Black Missionary Baptist congregation on the south side. A church staff page exists but no name was visible in search snippets, so pastors is empty. No sermon archive URL confirmed - check the Facebook page for live streams. Coordinates missing: 31st St is not on the reference grid.",
-  "updated_at": "2026-09-11",
-  "updated_by": "claude-opus-5 research agent (seed)"
+  "notes": "Historically Black Missionary Baptist congregation on the south side, ministering since 1955. Address confirmed on the church's own site: 1019 E. 31st Street, Tucson, AZ, phone (520) 622-8126; coordinates already verified. Pastor confirmed on the church's own /pastor page: the Reverend D. Grady Scott, called to the church in August 1990 (a native of Port Deposit, Maryland who moved to Tucson in 1984). The /about-us/church-staff/ page renders staff names client-side and showed no additional names to WebFetch, so any associate or assistant ministers who preach are still unknown - re-check that page in a real browser before assuming Scott is the only preacher. YouTube channel confirmed from a primary source: the church's own /video_archives page hard-codes channelId UCRi9mdU054L1j9fSyKd3Cuw, which resolves to youtube.com/@gracetemplebaptistchurch2955 ('Grace Temple Baptist Church'). The site also streams the 10:00 am Sunday service on Facebook. No named sermon playlist was found; the video archive is just the channel's upload feed pulled through the YouTube Data API.",
+  "updated_at": "2026-09-10",
+  "updated_by": "claude research agent (facts)"
 }

@@ -7,19 +7,21 @@
   ],
   "tradition": "evangelical_free",
   "denomination": "Evangelical Free Church of America (EFCA)",
+  "website": "https://www.journeyefc.org/",
   "location": {
-    "address": "Address not confirmed",
-    "lat": null,
-    "lng": null,
-    "geocode": "missing",
+    "address": "4700 N Swan Rd",
+    "lat": 32.2717,
+    "lng": -110.892606,
+    "geocode": "approximate",
     "city": "Tucson",
-    "state": "AZ"
+    "state": "AZ",
+    "postal_code": "85718"
   },
   "pastors": [
     {
       "name": "Jim Roden",
       "role": "Lead Pastor",
-      "bio_url": "https://www.linkedin.com/in/jimroden/",
+      "bio_url": "https://www.journeyefc.org/about",
       "plagiarism": {
         "status": "unchecked"
       },
@@ -29,8 +31,9 @@
       "active": true
     },
     {
-      "name": "Brian Klimke",
+      "name": "Tyler Hurst",
       "role": "Associate Pastor",
+      "bio_url": "https://www.journeyefc.org/about",
       "plagiarism": {
         "status": "unchecked"
       },
@@ -41,6 +44,26 @@
     }
   ],
   "sources": [
+    {
+      "label": "Journey Church Tucson official site (address, contact)",
+      "url": "https://www.journeyefc.org/",
+      "accessed": "2026-09-10"
+    },
+    {
+      "label": "Journey Church 'About' page - Statement of Faith, Distinctives and Pastors section",
+      "url": "https://www.journeyefc.org/about",
+      "accessed": "2026-09-10"
+    },
+    {
+      "label": "Journey Church Tucson YouTube channel",
+      "url": "https://www.youtube.com/@JourneyChurchTucson",
+      "accessed": "2026-09-10"
+    },
+    {
+      "label": "Journey Church Tucson sermon podcast on Podbean",
+      "url": "https://journeychurchtucson.podbean.com/",
+      "accessed": "2026-09-10"
+    },
     {
       "label": "USAChurches listing: The Journey, an Evangelical Free Church, Tucson AZ",
       "url": "https://www.usachurches.org/church/the-journey-an-evangelical-free-church.htm",
@@ -60,19 +83,21 @@
       "label": "Asbury Seminary journal: 'Lift Up Your Eyes': Case Study of Journey Church, Tucson, by Jim Roden",
       "url": "https://place.asburyseminary.edu/gcrj/vol11/iss2/6/",
       "accessed": "2026-09-11"
-    },
-    {
-      "label": "Journey Church Tucson YouTube channel",
-      "url": "https://www.youtube.com/journeychurchtucson",
-      "accessed": "2026-09-11"
     }
   ],
   "summary": "Not yet reviewed.",
-  "notes": "EFCA congregation in Tucson with two weekend services (9:00 family, 10:30 main). Street address could NOT be confirmed: one search snippet mentioned 4700 N Swan Rd but that looked like an EFCA regional office rather than the church, so it was deliberately not recorded. Find the address and the church's own website/sermon host before reviewing. Jim Roden has published an academic case study about this church, which is a useful independent writing sample for comparison. A YouTube channel was later found at youtube.com/journeychurchtucson - search results describe it as 'Journey Church Tucson, an Evangelical Free Church located in Tucson, AZ', which matches this congregation, but confirm the channel belongs to this church and not a similarly named one.",
-  "updated_at": "2026-09-11",
-  "updated_by": "claude-opus-5 research agent (seed)",
+  "notes": "Facts confirmed 2026-09-10 from the church's own site, journeyefc.org. ADDRESS RESOLVED: 4700 N Swan Rd, Tucson AZ 85718 really is the church - it appears in the site footer next to the church phone (520) 299-1660 - so the earlier worry that it was an EFCA regional office was unfounded. Affiliation confirmed on the About page: 'Journey Church's core doctrines are the ten Statements of Faith of the Evangelical Free Church of America, our affiliated denomination.' PASTORS CORRECTED: the About page's Pastors section lists only Jim Roden (Lead Pastor since 2003; D.Min. Biola, M.Div. Western Seminary) and Tyler Hurst (Associate Pastor since 2021; PhD Southern Baptist Seminary, M.A. Talbot). The previously seeded 'Brian Klimke' was removed - no primary source on the church's site lists him. Note the /pastors URL is now a 404; the bios live under /about and are lazily loaded, so a plain fetch may show an empty 'Pastors' heading. The sermon podcast on Podbean also shows a third preacher, Micah Coate, who is not on the staff page - attribute sermons individually. Sermon media: YouTube @JourneyChurchTucson (channel UC7Yh-RYbPYXjSIjns7PIw0w, described as 'Journey Church Tucson / An Evangelical Free Church / Tucson, AZ', so the channel identity is confirmed) and journeychurchtucson.podbean.com. Jim Roden also published an academic case study about this church, which is a useful independent writing sample for AI-signal comparison. Coordinates still need tools/geocode.py.",
+  "updated_at": "2026-09-10",
+  "updated_by": "claude research agent (facts)",
   "youtube": {
-    "channel_url": "https://www.youtube.com/journeychurchtucson",
+    "channel_url": "https://www.youtube.com/@JourneyChurchTucson",
+    "handle": "@JourneyChurchTucson",
     "transcripts_available": "unknown"
-  }
+  },
+  "other_media": [
+    {
+      "label": "Journey Church Tucson sermon podcast (Podbean)",
+      "url": "https://journeychurchtucson.podbean.com/"
+    }
+  ]
 }

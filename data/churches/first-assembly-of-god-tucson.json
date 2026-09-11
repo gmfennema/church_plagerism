@@ -1,12 +1,29 @@
 {
   "slug": "first-assembly-of-god-tucson",
   "name": "First Assembly of God",
+  "aka": [
+    "1st Assembly, Tucson",
+    "First Assembly of God, Tucson"
+  ],
   "tradition": "pentecostal_charismatic",
   "denomination": "Assemblies of God",
+  "website": "https://www.firstassemblytucson.com/",
   "other_media": [
     {
       "label": "First Assembly of God Tucson live stream (Christian World Media)",
       "url": "https://www.christianworldmedia.com/livechannel/FirstAssemblyofGodTucson"
+    },
+    {
+      "label": "First Services: Live and Replay (Wix video channel on the church site)",
+      "url": "https://www.firstassemblytucson.com/services-replay"
+    },
+    {
+      "label": "Recorded sermons page on the church site",
+      "url": "https://www.firstassemblytucson.com/sermons"
+    },
+    {
+      "label": "First Assembly of God, Tucson Facebook page",
+      "url": "https://www.facebook.com/1stAG.Tucson/"
     }
   ],
   "location": {
@@ -18,7 +35,20 @@
     "city": "Tucson",
     "state": "AZ"
   },
-  "pastors": [],
+  "pastors": [
+    {
+      "name": "Jim Munns",
+      "role": "Pastor (Rev.)",
+      "bio_url": "https://www.firstassemblytucson.com/about-us",
+      "active": true,
+      "plagiarism": {
+        "status": "unchecked"
+      },
+      "ai_writing": {
+        "status": "unchecked"
+      }
+    }
+  ],
   "sources": [
     {
       "label": "Assemblies of God (USA) church directory listing",
@@ -34,10 +64,25 @@
       "label": "FaithStreet: Assemblies of God churches in Tucson, AZ",
       "url": "https://www.faithstreet.com/tucson-az/denominations/assemblies-of-god",
       "accessed": "2026-09-11"
+    },
+    {
+      "label": "1st Assembly Tucson official site: About Us (Reverend Jim Munns, Pastor)",
+      "url": "https://www.firstassemblytucson.com/about-us",
+      "accessed": "2026-09-10"
+    },
+    {
+      "label": "1st Assembly Tucson official site: First Services: Live and Replay (footer confirms 1749 E Broadway Blvd, Tucson, AZ 85719)",
+      "url": "https://www.firstassemblytucson.com/services-replay",
+      "accessed": "2026-09-10"
+    },
+    {
+      "label": "1st Assembly Tucson official site: Recorded Sermons",
+      "url": "https://www.firstassemblytucson.com/sermons",
+      "accessed": "2026-09-10"
     }
   ],
   "summary": "Not yet reviewed.",
-  "notes": "Assemblies of God congregation on E Broadway near Campbell. Services stream through Christian World Media rather than YouTube, which may mean no captions and no permanent archive - check whether past services are retrievable before planning a review. No pastor name confirmed. Coordinates estimated from Broadway Blvd plus the 1749 E address number.",
-  "updated_at": "2026-09-11",
-  "updated_by": "claude-opus-5 research agent (seed)"
+  "notes": "Assemblies of God congregation on E Broadway near Campbell. Website found on 2026-09-10: firstassemblytucson.com (Wix). The site footer confirms the address 1749 E Broadway Blvd, Tucson AZ 85719; lat/lng were left as the existing estimate (geocode 'approximate') because the address did not change - re-run tools/geocode.py to upgrade them. The About Us page names 'Reverend Jim Munns' as Pastor, the only person on that page given a pastoral title (the rest are music, youth, children's, nursery and media team members), so he is recorded as the sole preaching pastor. Sermon media is awkward: the 'First Services: Live and Replay' page embeds a Wix Video channel called 'First Assembly Tucson' whose iframe failed to load when checked, and the separate /sermons page had no visible links. The Christian World Media live channel is confirmed live and active (latest entries 'Sunday Morning, We welcome you' dated 1/25/2026, 2/01/2026 and 2/08/2026, with Sunday 10:45am and Wednesday 7pm Bible study) but CWM has no captions, so a review would need audio download plus local transcription, and it is unclear how far back the CWM archive reaches. No YouTube channel was found. Before planning a review, open the Wix video channel in a real browser and check how many past services are retrievable.",
+  "updated_at": "2026-09-10",
+  "updated_by": "claude research agent (facts)"
 }

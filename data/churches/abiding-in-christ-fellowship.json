@@ -4,18 +4,33 @@
   "tradition": "nazarene_holiness",
   "denomination": "Church of the Nazarene",
   "website": "https://abiding-in-christ.org/",
+  "youtube": {
+    "channel_url": "https://www.youtube.com/channel/UCbQJMWVzHxjGHk_Mg50aPag",
+    "handle": "@abidinginchristfellowship234",
+    "transcripts_available": "unknown"
+  },
+  "other_media": [
+    {
+      "label": "Abiding in Christ Fellowship sermons page",
+      "url": "https://abiding-in-christ.org/sermons"
+    },
+    {
+      "label": "Abiding in Christ Fellowship Facebook page",
+      "url": "https://www.facebook.com/abidinginchristtucson/"
+    }
+  ],
   "location": {
-    "address": "Address not confirmed",
-    "lat": null,
-    "lng": null,
+    "address": "7335 N Camino de Oeste",
     "geocode": "missing",
     "city": "Tucson",
-    "state": "AZ"
+    "state": "AZ",
+    "postal_code": "85741"
   },
   "pastors": [
     {
-      "name": "Sam Hall",
+      "name": "Samuel A. Hall",
       "role": "Pastor",
+      "bio_url": "https://abiding-in-christ.org/staff",
       "plagiarism": {
         "status": "unchecked"
       },
@@ -29,11 +44,26 @@
     {
       "label": "Abiding in Christ Fellowship (Nazarene, Tucson) official site",
       "url": "https://abiding-in-christ.org/",
-      "accessed": "2026-09-11"
+      "accessed": "2026-09-10"
+    },
+    {
+      "label": "Abiding in Christ Fellowship staff page",
+      "url": "https://abiding-in-christ.org/staff",
+      "accessed": "2026-09-10"
+    },
+    {
+      "label": "Abiding in Christ Fellowship sermons page (links to the church YouTube sermon library)",
+      "url": "https://abiding-in-christ.org/sermons",
+      "accessed": "2026-09-10"
+    },
+    {
+      "label": "Abiding in Christ Fellowship YouTube channel",
+      "url": "https://www.youtube.com/channel/UCbQJMWVzHxjGHk_Mg50aPag",
+      "accessed": "2026-09-10"
     }
   ],
   "summary": "Not yet reviewed.",
-  "notes": "Small Nazarene fellowship in Tucson led by Pastor Sam Hall. No sermon archive or address confirmed in search results.",
-  "updated_at": "2026-09-11",
-  "updated_by": "claude-opus-5 research agent (seed)"
+  "notes": "Small Nazarene fellowship in Tucson. Address (7335 N. Camino de Oeste, Tucson AZ 85741), staff list and YouTube channel were all confirmed on the church's own site on 2026-09-10. The staff page names the pastor as 'Rev. Samuel A. Hall'; the rest of the site calls him 'Pastor Sam Hall' - the same person. Other staff listed (Darleen Hall, worship leader; Rachel Hall and Andra Cochran, children's ministry; Garrett Hall, high school ministry) are not described as preachers, so only Samuel Hall is recorded as a preaching pastor. The sermons page simply points to the church's YouTube channel, so YouTube is the sermon corpus; caption availability has not been tested. Coordinates not set - run tools/geocode.py.",
+  "updated_at": "2026-09-10",
+  "updated_by": "claude research agent (facts)"
 }

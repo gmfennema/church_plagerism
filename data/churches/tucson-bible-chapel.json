@@ -2,30 +2,48 @@
   "slug": "tucson-bible-chapel",
   "name": "Tucson Bible Chapel",
   "tradition": "other_protestant",
-  "denomination": "Plymouth Brethren / Christian Brethren assembly (verify)",
+  "denomination": "Independent Bible chapel; affiliation not stated (Brethren-style 'Breaking of Bread' assembly)",
+  "website": "https://tucsonbiblechapel.org/",
   "youtube": {
     "channel_url": "https://www.youtube.com/@tucsonbiblechapel6946",
     "handle": "@tucsonbiblechapel6946",
     "transcripts_available": "unknown"
   },
+  "other_media": [
+    {
+      "label": "Tucson Bible Chapel Facebook page (where recent sermon video is posted)",
+      "url": "https://www.facebook.com/biblechapeltucson/"
+    }
+  ],
   "location": {
-    "address": "Address not confirmed",
-    "lat": null,
-    "lng": null,
-    "geocode": "missing",
+    "address": "1802 E Grant Rd",
+    "lat": 32.249938,
+    "lng": -110.945216,
+    "geocode": "verified",
     "city": "Tucson",
-    "state": "AZ"
+    "state": "AZ",
+    "postal_code": "85719"
   },
   "pastors": [],
   "sources": [
     {
-      "label": "Tucson Bible Chapel YouTube channel",
+      "label": "Tucson Bible Chapel official site (address, service times, gospel message)",
+      "url": "https://tucsonbiblechapel.org/",
+      "accessed": "2026-09-10"
+    },
+    {
+      "label": "Tucson Bible Chapel YouTube channel (description gives the street address)",
       "url": "https://www.youtube.com/@tucsonbiblechapel6946",
-      "accessed": "2026-09-11"
+      "accessed": "2026-09-10"
+    },
+    {
+      "label": "Tucson Bible Chapel Facebook page",
+      "url": "https://www.facebook.com/biblechapeltucson/",
+      "accessed": "2026-09-10"
     }
   ],
   "summary": "Not yet reviewed.",
-  "notes": "Found only as a YouTube channel. 'Bible Chapel' usually indicates a Plymouth/Christian Brethren assembly, where teaching is shared among brothers rather than delivered by a single paid pastor - that changes how attribution works. Verify the affiliation, find an address, and identify who actually teaches before reviewing.",
-  "updated_at": "2026-09-11",
-  "updated_by": "claude-opus-5 research agent (seed)"
+  "notes": "Address confirmed 2026-09-10 two ways: the chapel's own site gives '1802 East Grant Road, Tucson, Arizona 85719', and the YouTube channel description says 'Biblical Sermons recorded at Tucson Bible Chapel, 1802 E. Grant Road, Tucson, AZ, 85719'. Website is tucsonbiblechapel.org (banner: 'We preach CHRIST Crucified'). Sunday 9:00-11:15am: Breaking of Bread, hymns and a sermon. NO NAMED LEADERSHIP: the site has no staff or elders page and names only one speaker, 'Bro. Ray Morgan', who preached 'What's the Gospel Message - Part 1' on 20 Oct 2024 (posted as a Facebook video). The 'Bro.' form of address and the Breaking of Bread practice are consistent with a Plymouth/Christian Brethren assembly, where teaching is shared among brothers rather than delivered by a single paid pastor, but the site states no affiliation, so the denomination field was left descriptive rather than asserting Brethren membership. pastors[] is deliberately empty. REVIEWABILITY IS POOR: the YouTube channel is dormant - the newest upload is from 2019 and most content is guest speakers at annual Bible conferences (Mark Lightfoot 2014, Keith Trevolt 2015, Jonathan Thropay, Joe Elias, John Heller), not the assembly's regular Sunday teaching. Current sermon video appears only as occasional Facebook posts. Coordinates still need tools/geocode.py.",
+  "updated_at": "2026-09-10",
+  "updated_by": "claude research agent (facts)"
 }

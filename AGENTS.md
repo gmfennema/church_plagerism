@@ -127,6 +127,10 @@ python3 tools/ai_writing_signals.py --church <slug> --pastor "<Name>" [--baselin
 A baseline of the same preacher's sermons from before 2023 makes this meaningful; without one the tool will
 tell you the result is `inconclusive`. Then read the corroboration checklist in the report.
 
+The tool only counts stylometric signals. For the qualitative read - which patterns actually mean something in
+a sermon, and the false-positive traps specific to preaching - see
+[`docs/ai-writing-signs.md`](docs/ai-writing-signs.md). Read its sections 1 and 6 before you score anything.
+
 ### 7. Decide, using the rubric
 
 **Plagiarism**

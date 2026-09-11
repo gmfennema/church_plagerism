@@ -5,8 +5,27 @@
     "Grace Tucson"
   ],
   "tradition": "lutheran",
-  "denomination": "Lutheran (synod affiliation to verify)",
+  "denomination": "Wisconsin Evangelical Lutheran Synod (WELS)",
   "website": "https://www.gracelutheransaz.org/tucson",
+  "youtube": {
+    "channel_url": "https://www.youtube.com/@GraceLutheranSAZ",
+    "handle": "@GraceLutheranSAZ",
+    "transcripts_available": "unknown"
+  },
+  "other_media": [
+    {
+      "label": "Grace Lutheran - Service Videos Tucson",
+      "url": "https://www.gracelutheransaz.org/service-videos"
+    },
+    {
+      "label": "Grace Lutheran - printed sermon manuscripts",
+      "url": "https://www.gracelutheransaz.org/printed-sermons"
+    },
+    {
+      "label": "Grace Lutheran - audio sermons",
+      "url": "https://www.gracelutheransaz.org/sermons"
+    }
+  ],
   "location": {
     "address": "830 N 1st Ave",
     "postal_code": "85719",
@@ -16,16 +35,61 @@
     "city": "Tucson",
     "state": "AZ"
   },
-  "pastors": [],
+  "pastors": [
+    {
+      "name": "Nathan Kassulke",
+      "role": "Lead Pastor, Grace-Tucson",
+      "bio_url": "https://www.gracelutheransaz.org/pastors",
+      "active": true,
+      "plagiarism": {
+        "status": "unchecked"
+      },
+      "ai_writing": {
+        "status": "unchecked"
+      }
+    },
+    {
+      "name": "Ron Koehler",
+      "role": "Administrative Pastor (multi-site), also serving Grace-Tucson",
+      "bio_url": "https://www.gracelutheransaz.org/pastors",
+      "active": true,
+      "plagiarism": {
+        "status": "unchecked"
+      },
+      "ai_writing": {
+        "status": "unchecked"
+      }
+    }
+  ],
   "sources": [
     {
       "label": "Grace Lutheran Church - Tucson campus page",
       "url": "https://www.gracelutheransaz.org/tucson",
-      "accessed": "2026-09-11"
+      "accessed": "2026-09-10"
+    },
+    {
+      "label": "Grace Lutheran Church - Our Pastors page",
+      "url": "https://www.gracelutheransaz.org/pastors",
+      "accessed": "2026-09-10"
+    },
+    {
+      "label": "Grace Lutheran Church - Who We Are (synod affiliation)",
+      "url": "https://www.gracelutheransaz.org/about",
+      "accessed": "2026-09-10"
+    },
+    {
+      "label": "Grace Lutheran Church - Service Videos Tucson",
+      "url": "https://www.gracelutheransaz.org/service-videos",
+      "accessed": "2026-09-10"
+    },
+    {
+      "label": "Grace Evangelical Lutheran Church of Southern AZ YouTube channel",
+      "url": "https://www.youtube.com/@GraceLutheranSAZ",
+      "accessed": "2026-09-10"
     }
   ],
   "summary": "Not yet reviewed.",
-  "notes": "Lutheran congregation in the University of Arizona area, in existence since 1911. Search snippet says the church publishes both service videos and printed sermon manuscripts - printed manuscripts are unusually good source material for a text-similarity review, so this one is worth prioritising. Synod affiliation (ELCA vs LCMS vs other) was not confirmed; the site domain covers more than one campus, so check whether Tucson has its own preaching pastor.",
-  "updated_at": "2026-09-11",
-  "updated_by": "claude-opus-5 research agent (seed)"
+  "notes": "Lutheran congregation in the University of Arizona area, serving Tucson since 1911 and about 500 souls. Synod CONFIRMED on the church's own pages: a member of the Wisconsin Evangelical Lutheran Synod (WELS), not ELCA or LCMS. Address confirmed as 830 N 1st Ave, Tucson (near the U of A); coordinates are still only neighbourhood-level (geocode: approximate) and should be re-run with tools/geocode.py. Tucson does have its own preaching pastor: the Our Pastors page names Nathan Kassulke as lead pastor at Grace-Tucson (Wisconsin Lutheran Seminary, 2005) and Ron Koehler as the administrative pastor over the multi-site ministry who also serves Grace-Tucson (at Grace since 1993). The other two pastors on that page serve elsewhere: Ryan Heiman (Sahuarita, see grace-lutheran-sahuarita) and S.A. Scheuerlein (Vail and Benson). Because all four are one staff, pulpit swaps are likely - confirm from each video's title or description who actually preached. Media: one shared YouTube channel for the whole ministry, @GraceLutheranSAZ (formerly youtube.com/user/GraceTucsonVideo, which is the link on the Service Videos page). The church also publishes printed sermon manuscripts at /printed-sermons and audio at /sermons; the manuscripts are unusually good source material for a text-similarity review, so this church is worth prioritising. No Tucson-only YouTube playlist URL was found.",
+  "updated_at": "2026-09-10",
+  "updated_by": "claude research agent (facts)"
 }

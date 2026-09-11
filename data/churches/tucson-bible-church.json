@@ -1,6 +1,9 @@
 {
   "slug": "tucson-bible-church",
   "name": "Tucson Bible Church",
+  "aka": [
+    "TBC Tucson"
+  ],
   "tradition": "non_denominational",
   "denomination": "Independent Bible church",
   "website": "https://tucsonbiblechurch.org/",
@@ -9,30 +12,58 @@
     "handle": "@tucsonbiblechurch6284",
     "transcripts_available": "unknown"
   },
+  "other_media": [
+    {
+      "label": "Tucson Bible Church Facebook page (current Sunday live streams)",
+      "url": "https://www.facebook.com/TucsonBibleChurch/"
+    },
+    {
+      "label": "Tucson Bible Church video ministry page",
+      "url": "https://tucsonbiblechurch.org/video-ministry"
+    }
+  ],
   "location": {
     "address": "111 N Sarnoff Dr",
     "postal_code": "85712",
-    "lat": null,
-    "lng": null,
-    "geocode": "missing",
+    "lat": 32.222941,
+    "lng": -110.816714,
+    "geocode": "verified",
     "city": "Tucson",
     "state": "AZ"
   },
-  "pastors": [],
+  "pastors": [
+    {
+      "name": "John Hintz",
+      "role": "Pastor",
+      "bio_url": "https://www.facebook.com/TucsonBibleChurch/",
+      "plagiarism": {
+        "status": "unchecked"
+      },
+      "ai_writing": {
+        "status": "unchecked"
+      },
+      "active": true
+    }
+  ],
   "sources": [
     {
-      "label": "Tucson Bible Church official site",
+      "label": "Tucson Bible Church official site (address, service times, 'Email Pastor John')",
       "url": "https://tucsonbiblechurch.org/",
-      "accessed": "2026-09-11"
+      "accessed": "2026-09-10"
+    },
+    {
+      "label": "Tucson Bible Church Facebook page - 'Intro: Pastor John Hintz', address and contact email",
+      "url": "https://www.facebook.com/TucsonBibleChurch/",
+      "accessed": "2026-09-10"
     },
     {
       "label": "Tucson Bible Church YouTube channel",
       "url": "https://www.youtube.com/@tucsonbiblechurch6284",
-      "accessed": "2026-09-11"
+      "accessed": "2026-09-10"
     }
   ],
   "summary": "Not yet reviewed.",
-  "notes": "Independent Bible church on the east side with two Sunday services (9:30 and 10:45) and its own YouTube channel - reviewable. No pastor name confirmed. Coordinates missing: Sarnoff Dr is not on the reference grid.",
-  "updated_at": "2026-09-11",
-  "updated_by": "claude-opus-5 research agent (seed)"
+  "notes": "Independent Bible church on the east side; grace/free-grace doctrinal emphasis (eternal security, plenary verbal inspiration) per its Basic Beliefs page. PASTOR CONFIRMED: the church's own website only says 'Email Pastor John', but the church's own Facebook page gives the full name in its Intro block - 'Pastor John Hintz' - with the contact address PastorJohnHintz@AOL.com, so the name rests on a primary source. No other teaching staff are named anywhere on the site, and the homepage advertised 'Special speakers this Sunday', so attribute individual sermons rather than assuming Hintz preached every one. ZIP CONFLICT (unresolved): the site's own homepage banner says '111 N Sarnoff, Tucson, AZ 85712' while its embedded map block on the same page says '111 N Sarnoff, Tucson, AZ 85710'; most third-party directories say 85710. 85712 was left in place since the coordinates are already verified, but treat the zip as uncertain. SERMON MEDIA: the YouTube channel (UCG66_nTZybYahP2lOUiNs7Q) has stopped - the newest upload is 2 March 2025, and titles are Scripture references only ('Sun I Rev 11', 'Sun II Amos 6') with no preacher name. Current services are live-streamed on Facebook instead (most recent stream seen 2026-09-06), so recent sermons will have to come from Facebook video with local transcription.",
+  "updated_at": "2026-09-10",
+  "updated_by": "claude research agent (facts)"
 }

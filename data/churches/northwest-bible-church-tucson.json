@@ -1,28 +1,91 @@
 {
   "slug": "northwest-bible-church-tucson",
   "name": "Northwest Bible Church",
+  "aka": [
+    "NWBC"
+  ],
   "tradition": "non_denominational",
-  "denomination": "Independent Bible church",
+  "denomination": "Independent Bible church (elder-led; no denominational affiliation stated on the church's site)",
   "website": "https://northwestbible.com/",
+  "youtube": {
+    "channel_url": "https://www.youtube.com/channel/UCgRyGeSsB43ua3DPW0JULeg",
+    "handle": "@nwbibleaz",
+    "transcripts_available": "unknown"
+  },
+  "other_media": [
+    {
+      "label": "Northwest Bible Church sermons page (Vimeo showcases by series)",
+      "url": "https://northwestbible.com/sermons"
+    },
+    {
+      "label": "Northwest Bible Church on Vimeo (primary sermon video host)",
+      "url": "https://vimeo.com/nwbibleaz"
+    },
+    {
+      "label": "Northwest Bible Church of Tucson AZ podcast (Apple Podcasts)",
+      "url": "https://podcasts.apple.com/us/podcast/northwest-bible-church-of-tucson-az/id1588110180"
+    },
+    {
+      "label": "Sermon audio archive filtered to Pastor Jeff Thune",
+      "url": "https://northwestbible.com/monthly-videos/category/Pastor+Jeff+Thune"
+    },
+    {
+      "label": "Northwest Bible Church Facebook page",
+      "url": "http://www.facebook.com/nwbibleaz"
+    }
+  ],
   "location": {
     "address": "889 W Chapala Dr",
     "postal_code": "85704",
-    "lat": null,
-    "lng": null,
-    "geocode": "missing",
+    "geocode": "verified",
     "city": "Tucson",
-    "state": "AZ"
+    "state": "AZ",
+    "lat": 32.344525,
+    "lng": -110.984773
   },
-  "pastors": [],
+  "pastors": [
+    {
+      "name": "Jeff Thune",
+      "role": "Lead Pastor",
+      "bio_url": "https://northwestbible.com/team",
+      "plagiarism": {
+        "status": "unchecked"
+      },
+      "ai_writing": {
+        "status": "unchecked"
+      },
+      "active": true
+    }
+  ],
   "sources": [
     {
-      "label": "Northwest Bible Church Tucson official site",
+      "label": "Northwest Bible Church home page",
       "url": "https://northwestbible.com/",
-      "accessed": "2026-09-11"
+      "accessed": "2026-09-10"
+    },
+    {
+      "label": "Northwest Bible Church 'Our Team' page (pastors, elders, deacons, address)",
+      "url": "https://northwestbible.com/team",
+      "accessed": "2026-09-10"
+    },
+    {
+      "label": "Northwest Bible Church sermons page (Vimeo showcases)",
+      "url": "https://northwestbible.com/sermons",
+      "accessed": "2026-09-10"
+    },
+    {
+      "label": "Northwest Bible Church sermon audio archive",
+      "url": "https://northwestbible.com/monthly-videos",
+      "accessed": "2026-09-10"
+    },
+    {
+      "label": "Northwest Bible Church of Tucson AZ YouTube channel",
+      "url": "https://www.youtube.com/@nwbibleaz",
+      "accessed": "2026-09-10"
     }
   ],
   "summary": "Not yet reviewed.",
-  "notes": "Bible church in north Tucson. Only the church homepage was confirmed - no pastor name or sermon archive URL captured. Coordinates missing: Chapala Dr is not on the reference grid.",
-  "updated_at": "2026-09-11",
-  "updated_by": "claude-opus-5 research agent (seed)"
+  "notes": "Address 889 West Chapala Drive, Tucson, AZ 85704 re-confirmed in the site footer and on the team page; lat/lng still need tools/geocode.py. The 'Our Team' page lists three pastors - Jeff Thune (Lead Pastor), Joel Smith (Family Pastor) and Lucas Hattenberger (Worship & Communications Pastor) - plus elders John Patton, Dave Perrotti, Joel Smith, Jeff Thune, Chris Ward and Lucas Hattenberger. ONLY Jeff Thune is recorded as a preaching pastor: he is the only person the site gives a sermon-audio category to ('Pastor Jeff Thune'), and there is no published evidence that Smith or Hattenberger take the Sunday pulpit regularly. If the Vimeo showcases show either of them preaching often, add them then - do not add them on title alone. SERMON MEDIA: the primary host is Vimeo (vimeo.com/nwbibleaz, ~720 videos) organised into per-series showcases linked from /sermons; there is also a YouTube channel (@nwbibleaz) and an audio podcast. The site's /sermons page is JS-heavy and returns no titles to a plain fetch - pull the Vimeo showcase IDs (e.g. showcase/12200042, 12180455, 12003722) or use the podcast feed to enumerate sermons. The church also produces a separate interview podcast, 'In the Narthex', which is not a sermon archive. Vimeo captions may be unavailable, in which case the audio-fallback path will be needed.",
+  "updated_at": "2026-09-10",
+  "updated_by": "claude research agent (facts)"
 }

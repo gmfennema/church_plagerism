@@ -7,10 +7,19 @@
   "tradition": "non_denominational",
   "denomination": "Calvary Chapel",
   "website": "https://calvarytucson.com/",
+  "youtube": {
+    "channel_url": "https://www.youtube.com/@CalvaryTucson",
+    "handle": "@CalvaryTucson",
+    "transcripts_available": "unknown"
+  },
   "other_media": [
     {
       "label": "Calvary Tucson teachings archive",
       "url": "https://calvarytucson.com/teachings"
+    },
+    {
+      "label": "Calvary Tucson teachings index by teacher",
+      "url": "https://calvarytucson.com/teachings/teachers"
     },
     {
       "label": "Calvary Tucson live stream",
@@ -29,7 +38,7 @@
   "pastors": [
     {
       "name": "Robert Furrow",
-      "role": "Pastor",
+      "role": "Lead Pastor",
       "bio_url": "https://calvarytucson.com/people",
       "plagiarism": {
         "status": "unchecked"
@@ -37,33 +46,52 @@
       "ai_writing": {
         "status": "unchecked"
       },
-      "active": true
+      "active": true,
+      "notes": "Preaches the weekly teachings: both entries under 'Weekly Teachings' on calvarytucson.com/teachings on 2026-09-10 were his."
+    },
+    {
+      "name": "Troy Stokoe",
+      "role": "Associate Pastor",
+      "bio_url": "https://calvarytucson.com/people",
+      "plagiarism": {
+        "status": "unchecked"
+      },
+      "ai_writing": {
+        "status": "unchecked"
+      },
+      "active": true,
+      "notes": "One of only two staff on the pastors-and-staff page with a 'Teachings' link next to his biography, which is the church's own marker that he teaches."
     }
   ],
   "sources": [
     {
       "label": "Calvary Tucson official site",
       "url": "https://calvarytucson.com/",
-      "accessed": "2026-09-11"
+      "accessed": "2026-09-10"
     },
     {
       "label": "Calvary Tucson pastors and staff page",
       "url": "https://calvarytucson.com/people",
-      "accessed": "2026-09-11"
+      "accessed": "2026-09-10"
     },
     {
-      "label": "Yelp: Calvary Chapel Tucson, 8711 E Speedway Blvd",
-      "url": "https://www.yelp.com/biz/calvary-chapel-tucson-tucson-2",
-      "accessed": "2026-09-11"
+      "label": "Calvary Tucson teachings archive",
+      "url": "https://calvarytucson.com/teachings",
+      "accessed": "2026-09-10"
     },
     {
-      "label": "Calvary Chapel Tucson Facebook page",
-      "url": "https://www.facebook.com/calvarychapeltucson/",
-      "accessed": "2026-09-11"
+      "label": "Calvary Tucson teachings index by teacher",
+      "url": "https://calvarytucson.com/teachings/teachers",
+      "accessed": "2026-09-10"
+    },
+    {
+      "label": "Calvary Tucson with Robert Furrow - YouTube channel",
+      "url": "https://www.youtube.com/@CalvaryTucson",
+      "accessed": "2026-09-10"
     }
   ],
   "summary": "Not yet reviewed.",
-  "notes": "Calvary Chapel movement church; verse-by-verse expository preaching. Two campuses (East and West) - this record is the East/Speedway campus, which search results give as the main address. Sermons are archived on the church site at calvarytucson.com/teachings and streamed at live.calvarytucson.com; no dedicated YouTube channel was confirmed from search results, so the teachings archive may be the primary source for transcripts. Other staff pastors listed on calvarytucson.com/people may also preach - check before reviewing.",
-  "updated_at": "2026-09-11",
-  "updated_by": "claude-opus-5 research agent (seed)"
+  "notes": "Calvary Chapel movement church; verse-by-verse expository preaching. YOUTUBE FOUND: @CalvaryTucson ('Calvary Tucson with Robert Furrow', channel id UChCwipJRbp62_7SF0yq6Ghg) - the earlier note saying no channel was confirmed is now superseded. Sermons are also archived on the church site at calvarytucson.com/teachings (indexed by book of the Bible and by teacher) and streamed at live.calvarytucson.com. TWO CAMPUSES, both confirmed on the church's own footer: West Campus 5170 S Julian Drive, Tucson AZ 85706 (this is also the main office; services Sun 8:45 and 11:15 AM, Wed 7:15 PM) and East Campus 8711 E Speedway Boulevard, Tucson AZ 85710 (Sun 10 AM, Wed and Sat 6 PM). This record still carries the East/Speedway address; if the map ever needs both campuses, the West/Julian address above is verified. PASTORS: only Robert Furrow (Lead Pastor) and Troy Stokoe (Associate Pastor) are recorded, because they are the two people on calvarytucson.com/people whose entries carry a 'Teachings' link, and the two most recent weekly teachings were both Furrow. The staff page also lists Paul Almquist and Johnny Coate (Pastor & Worship Leader), Jim Arnold, John Hallcock and Adam Parsons (Pastor), Donnie Back Jr. (Kids), Steven Coleman (Youth), Dan Swanson (Young Adults) and lay pastors Douglas Blaser and Bart Goodwin; several of these names appear in the teachings-by-teacher index, but that index also contains 200+ outside speakers (Alistair Begg, Skip Heitzig, Frank Turek and so on), so appearing there is NOT proof of being a regular Sunday preacher. Confirm from the dated teachings archive before adding any of them as a preaching pastor.",
+  "updated_at": "2026-09-10",
+  "updated_by": "claude research agent (facts)"
 }

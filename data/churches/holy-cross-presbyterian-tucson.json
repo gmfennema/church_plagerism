@@ -5,29 +5,73 @@
     "Holy Cross Church Tucson"
   ],
   "tradition": "presbyterian_reformed",
-  "denomination": "Presbyterian Church in America (PCA) (verify)",
+  "denomination": "Presbyterian Church in America (PCA)",
   "website": "https://www.holycrosstucson.com/",
   "other_media": [
     {
       "label": "Holy Cross Church Tucson sermons page",
       "url": "https://www.holycrosstucson.com/sermons"
+    },
+    {
+      "label": "Holy Cross Church Tucson sermon podcast (Apple Podcasts)",
+      "url": "https://podcasts.apple.com/us/podcast/sermons/id430488455"
     }
   ],
   "location": {
-    "address": "7250 N Cortaro Rd",
+    "address": "7730 N Cortaro Rd, Suite 105",
     "postal_code": "85743",
-    "lat": null,
-    "lng": null,
-    "geocode": "missing",
+    "lat": 32.347056,
+    "lng": -111.099533,
+    "geocode": "verified",
     "city": "Tucson",
     "state": "AZ"
   },
-  "pastors": [],
+  "pastors": [
+    {
+      "name": "Tom Mirabella",
+      "role": "Lead Pastor (Elder)",
+      "bio_url": "https://www.holycrosstucson.com/our-leadership",
+      "active": true,
+      "plagiarism": {
+        "status": "unchecked"
+      },
+      "ai_writing": {
+        "status": "unchecked"
+      }
+    },
+    {
+      "name": "James Lee",
+      "role": "Elder and Director of Worship (teaches and preaches)",
+      "bio_url": "https://www.holycrosstucson.com/our-leadership",
+      "active": true,
+      "plagiarism": {
+        "status": "unchecked"
+      },
+      "ai_writing": {
+        "status": "unchecked"
+      }
+    }
+  ],
   "sources": [
+    {
+      "label": "Holy Cross Church Tucson official site",
+      "url": "https://www.holycrosstucson.com/",
+      "accessed": "2026-09-10"
+    },
+    {
+      "label": "Holy Cross Church Tucson leadership page",
+      "url": "https://www.holycrosstucson.com/our-leadership",
+      "accessed": "2026-09-10"
+    },
+    {
+      "label": "Holy Cross Church Tucson location page (address)",
+      "url": "https://www.holycrosstucson.com/join-us",
+      "accessed": "2026-09-10"
+    },
     {
       "label": "Holy Cross Church Tucson sermons page",
       "url": "https://www.holycrosstucson.com/sermons",
-      "accessed": "2026-09-11"
+      "accessed": "2026-09-10"
     },
     {
       "label": "Holy Cross Church Tucson assistant pastor search page",
@@ -41,7 +85,7 @@
     }
   ],
   "summary": "Not yet reviewed.",
-  "notes": "Presbyterian (search results indicate PCA) congregation on Cortaro Rd in north-west Tucson, with 2026 sermons published on its own site. It was advertising for an assistant pastor, which means the staff list is in flux - get current names from the site. Do not confuse with Holy Cross Lutheran Church at holycrosstucson.ORG; these are different churches with nearly identical domains.",
-  "updated_at": "2026-09-11",
-  "updated_by": "claude-opus-5 research agent (seed)"
+  "notes": "ADDRESS CORRECTED: the seeded value 7250 N Cortaro Rd was wrong. The church's own location page gives 7730 N. Cortaro Rd., Suite 105, Tucson, AZ 85743, on the south-west corner of Cortaro Road and Silverbell Road. lat/lng are null and geocode is 'missing'; run tools/geocode.py. Denomination CONFIRMED from the church's own site footer: 'Holy Cross is a member church within the Presbyterian Church in America (PCA)' - the '(verify)' placeholder is resolved. Leadership page lists five elders and four deacons; the two whose stated responsibilities include teaching and preaching are Tom Mirabella (Elder, Lead Pastor) and James Lee (Elder, Director of Worship), and both are recorded here. The other elders are Tim Sinclair, Andrew Haines and Robert Kim; deacons are Jared Palmer, Nate Lentner, Cole Booth and Nate Oman - none are recorded as preachers. Ruling elders in a PCA church sometimes take the pulpit, so check the sermon list before assuming only two preachers. The sermon list also shows Steve Cavallaro preaching ('Jesus Brings Forth Justice and Mercy'); he is not on the leadership page and appears to be a guest, so he is deliberately not listed - verify before treating him as staff. The church was also advertising for an assistant pastor (/pastorsearch), so the staff list may change. Media: NO YouTube channel. Sermons are hosted on the church's own site with watch/listen/download links, plus an Apple Podcasts feed ('Sermons', id430488455) - use the podcast feed or the site audio, not YouTube. Instagram and Facebook are both @holycrosstucson. Do not confuse with Holy Cross Lutheran Church at holycrosstucson.ORG (241 N Harrison Rd), a WELS congregation; these are different churches with nearly identical domains.",
+  "updated_at": "2026-09-10",
+  "updated_by": "claude research agent (facts)"
 }

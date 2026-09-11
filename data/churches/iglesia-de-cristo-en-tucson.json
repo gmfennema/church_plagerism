@@ -2,24 +2,25 @@
   "slug": "iglesia-de-cristo-en-tucson",
   "name": "Iglesia de Cristo en Tucson",
   "aka": [
-    "Church of Christ in Tucson (Spanish-language)"
+    "Church of Christ in Tucson (Spanish-language)",
+    "Iglesia de Cristo - Benson Highway",
+    "Church of Christ - Benson Highway"
   ],
   "tradition": "restoration_churches_of_christ",
   "denomination": "Churches of Christ",
-  "website": "https://www.iccctucson.org/",
   "location": {
     "address": "4616 E Rex St",
     "postal_code": "85706",
-    "lat": null,
-    "lng": null,
-    "geocode": "missing",
+    "lat": 32.138944,
+    "lng": -110.893129,
+    "geocode": "verified",
     "city": "Tucson",
     "state": "AZ"
   },
   "pastors": [
     {
       "name": "Carlos Garcia",
-      "role": "Preacher",
+      "role": "Preacher (Predicador)",
       "plagiarism": {
         "status": "unchecked"
       },
@@ -31,13 +32,18 @@
   ],
   "sources": [
     {
-      "label": "Iglesia De Cristo En Tucson / Church of Christ in Tucson contact page",
+      "label": "Iglesia De Cristo En Tucson / Church of Christ in Tucson contact page (site now offline)",
       "url": "https://www.iccctucson.org/contact",
       "accessed": "2026-09-11"
+    },
+    {
+      "label": "Wayback Machine capture of iccctucson.org homepage (2025-04-08)",
+      "url": "https://web.archive.org/web/20250408212636/https://www.iccctucson.org/",
+      "accessed": "2026-09-10"
     }
   ],
   "summary": "Not yet reviewed.",
-  "notes": "Spanish-language Churches of Christ congregation on the south side. Sermons are likely in Spanish, which changes the tooling needed for any plagiarism or AI-writing review (Spanish-language source corpora, Spanish captions). Coordinates missing: Rex St is not on the reference grid.",
-  "updated_at": "2026-09-11",
-  "updated_by": "claude-opus-5 research agent (seed)"
+  "notes": "IMPORTANT - the church website is gone. As of 2026-09-10 www.iccctucson.org no longer resolves to the church: HTTP requests 302-redirect to expiredwixdomain.com and HTTPS connections are refused, i.e. the Wix domain registration lapsed. The 'website' field was therefore removed from this record. Re-add it only if the congregation puts up a new site.\n\nWhat the site said while it was live (confirmed from an Internet Archive capture of the homepage dated 2025-04-08): the congregation styles itself 'IGLESIA DE CRISTO - BENSON HIGHWAY / CHURCH OF CHRIST - BENSON HIGHWAY', is bilingual Spanish/English, and meets Sundays and Thursdays. The archived capture only covers the homepage - the 'Nuestros Lideres / Our Leaders' and 'Contactenos / Contact Us' pages were never archived.\n\nPastor: Carlos Garcia is carried over from the seed record, which cited the church's own contact page (iccctucson.org/contact) listing him as 'Predicador / Preacher', phone 520-301-0577. That page can no longer be opened and no archived copy exists, so the name could NOT be re-verified against a live primary source today. Treat it as unconfirmed and re-verify (by phone or in person) before publishing anything about this person.\n\nAddress: 4616 E Rex St, Tucson AZ 85706, from the same now-dead contact page plus a Facebook community post ('Iglesia De Cristo Benson Hwy. Direccion: 4616 E Rex ...'). Note that a Yelp listing puts a Jehovah's Witnesses Kingdom Hall (Palo Verde congregation) at the same street address; that may be a Yelp error, a shared/adjacent parcel, or a former tenant. It does not change this record's scope, but confirm the building before plotting or visiting.\n\nNo sermon archive, YouTube channel or podcast was found anywhere. Any future review would also need Spanish-language tooling (Spanish captions, Spanish-language source corpora). Realistically this church may not be reviewable at all until it publishes sermons again.",
+  "updated_at": "2026-09-10",
+  "updated_by": "claude research agent (facts)"
 }

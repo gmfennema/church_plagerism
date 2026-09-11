@@ -1,8 +1,28 @@
 {
   "slug": "faith-lutheran-church-tucson",
   "name": "Faith Lutheran Church",
+  "aka": [
+    "Faith Lutheran Church and School",
+    "Santa Iglesia Trinidad"
+  ],
   "tradition": "lutheran",
   "denomination": "Lutheran Church-Missouri Synod (LCMS) - English District",
+  "website": "http://www.faithlutherantucson.org/",
+  "youtube": {
+    "channel_url": "https://www.youtube.com/@FaithLutheranChurchSchool",
+    "handle": "@FaithLutheranChurchSchool",
+    "transcripts_available": "unknown"
+  },
+  "other_media": [
+    {
+      "label": "Faith Lutheran Church Tucson Facebook page (weekly service videos)",
+      "url": "https://www.facebook.com/faithlutherantucson"
+    },
+    {
+      "label": "Faith Lutheran Church service live streams and bulletins page",
+      "url": "http://www.faithlutherantucson.org/service-live-streams.html"
+    }
+  ],
   "location": {
     "address": "3925 E 5th St",
     "postal_code": "85711",
@@ -14,26 +34,28 @@
   },
   "pastors": [
     {
-      "name": "Nicholas Wirtz",
-      "role": "Pastor (Rev.)",
+      "name": "Nick Wirtz",
+      "role": "Pastor (vacancy pastor of the English congregation; sole pastor of the Hispanic congregation)",
+      "bio_url": "http://www.faithlutherantucson.org/staff.html",
+      "active": true,
       "plagiarism": {
         "status": "unchecked"
       },
       "ai_writing": {
         "status": "unchecked"
-      },
-      "active": true
+      }
     },
     {
-      "name": "Marcus Zill",
-      "role": "Campus Pastor (Rev.)",
+      "name": "Samuel Ledford",
+      "role": "Vicar (seminary vicar since July 2025; preaching frequency unconfirmed)",
+      "bio_url": "http://www.faithlutherantucson.org/staff.html",
+      "active": true,
       "plagiarism": {
         "status": "unchecked"
       },
       "ai_writing": {
         "status": "unchecked"
-      },
-      "active": true
+      }
     }
   ],
   "sources": [
@@ -46,10 +68,30 @@
       "label": "LCMS English District listing: Faith Lutheran Church",
       "url": "https://englishdistrict.org/faith-lutheran-church-2",
       "accessed": "2026-09-11"
+    },
+    {
+      "label": "Faith Lutheran Church and School official site (home; masthead states English District of the LCMS)",
+      "url": "http://www.faithlutherantucson.org/",
+      "accessed": "2026-09-10"
+    },
+    {
+      "label": "Faith Lutheran Church staff page (Rev. Nick Wirtz, Pastor; Samuel Ledford, Vicar)",
+      "url": "http://www.faithlutherantucson.org/staff.html",
+      "accessed": "2026-09-10"
+    },
+    {
+      "label": "Faith Lutheran Church contact page (3925 E 5th St, Tucson, AZ)",
+      "url": "http://www.faithlutherantucson.org/contact-us.html",
+      "accessed": "2026-09-10"
+    },
+    {
+      "label": "Faith Lutheran Church service live streams page (links to its YouTube and Facebook pages)",
+      "url": "http://www.faithlutherantucson.org/service-live-streams.html",
+      "accessed": "2026-09-10"
     }
   ],
   "summary": "Not yet reviewed.",
-  "notes": "LCMS (English District) parish in midtown with a University of Arizona campus ministry component - Rev. Marcus Zill is listed as campus pastor, so he may preach at campus services rather than the main service. Confirm who preaches Sunday mornings. No church website or sermon archive confirmed. Coordinates are grid estimates from the street address, not map-verified.",
-  "updated_at": "2026-09-11",
-  "updated_by": "claude-opus-5 research agent (seed)"
+  "notes": "LCMS (English District) parish in midtown; the church's own masthead reads 'An English District congregation of the Lutheran Church - Missouri Synod', which confirms the denomination. Website found on 2026-09-10: faithlutherantucson.org (note it only serves plain HTTP correctly - HTTPS presents an invalid certificate, so WebFetch fails and curl over http:// is needed; page URLs end in .html, e.g. /staff.html). Address confirmed on the church's own contact page as 3925 E 5th St, Tucson AZ; lat/lng were left as the existing grid estimate (geocode 'approximate') because the address did not change - re-run tools/geocode.py to upgrade them. Staff page lists only two men: Rev. Nick Wirtz, who serves as vacancy pastor of the English congregation and sole pastor of the Hispanic congregation (Santa Iglesia Trinidad) and has held that role since 2024, and Samuel Ledford, a Concordia Theological Seminary vicar who began in July 2025. Ledford is listed because vicars normally preach on rotation, but the site does not say how often - verify before treating him as a regular preacher. CORRECTION: Rev. Marcus Zill, seeded from the LCMS/English District directory as campus pastor, does not appear anywhere on the church's own staff or contact pages and has been removed; if you want him back, confirm from a current primary source. Two Sunday services: Divine Service 9am (English), Santa Iglesia Trinidad 11:15am (Spanish). Sermons are scattered - a YouTube channel (@FaithLutheranChurchSchool), individual Facebook video posts, and loose Dropbox MP3s linked from the live-streams and prior-services pages - so expect a messy archive. The 'Prior Services' page shows an older Holy Week rota with preachers named Pastor Cockran, Pastor Morehouse, Deacon Honebrink and Vicar Clarke, but those are archival (shared services with Catalina Lutheran) and not current staff. Lectionary preaching caveat applies.",
+  "updated_at": "2026-09-10",
+  "updated_by": "claude research agent (facts)"
 }

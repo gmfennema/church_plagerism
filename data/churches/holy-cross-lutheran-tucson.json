@@ -2,23 +2,62 @@
   "slug": "holy-cross-lutheran-tucson",
   "name": "Holy Cross Lutheran Church",
   "tradition": "lutheran",
-  "denomination": "Lutheran (synod affiliation to verify)",
+  "denomination": "Wisconsin Evangelical Lutheran Synod (WELS)",
   "website": "https://holycrosstucson.org/",
+  "youtube": {
+    "channel_url": "https://www.youtube.com/@holycrosstucson",
+    "handle": "@holycrosstucson",
+    "transcripts_available": "unknown"
+  },
+  "other_media": [
+    {
+      "label": "Holy Cross Lutheran Church videos page",
+      "url": "https://holycrosstucson.org/videos/"
+    }
+  ],
   "location": {
     "address": "241 N Harrison Rd",
     "postal_code": "85748",
-    "lat": null,
-    "lng": null,
-    "geocode": "missing",
+    "lat": 32.224471,
+    "lng": -110.789838,
+    "geocode": "verified",
     "city": "Tucson",
     "state": "AZ"
   },
-  "pastors": [],
+  "pastors": [
+    {
+      "name": "David Parsons",
+      "role": "Pastor",
+      "bio_url": "https://holycrosstucson.org/staff/",
+      "active": true,
+      "plagiarism": {
+        "status": "unchecked"
+      },
+      "ai_writing": {
+        "status": "unchecked"
+      }
+    }
+  ],
   "sources": [
     {
       "label": "Holy Cross Lutheran Church Tucson official site",
       "url": "https://holycrosstucson.org/",
-      "accessed": "2026-09-11"
+      "accessed": "2026-09-10"
+    },
+    {
+      "label": "Holy Cross Lutheran Church staff page",
+      "url": "https://holycrosstucson.org/staff/",
+      "accessed": "2026-09-10"
+    },
+    {
+      "label": "Holy Cross Lutheran Church videos page",
+      "url": "https://holycrosstucson.org/videos/",
+      "accessed": "2026-09-10"
+    },
+    {
+      "label": "Holy Cross Lutheran Church YouTube channel",
+      "url": "https://www.youtube.com/@holycrosstucson",
+      "accessed": "2026-09-10"
     },
     {
       "label": "Holy Cross Lutheran Church Tucson Facebook page",
@@ -27,7 +66,7 @@
     }
   ],
   "summary": "Not yet reviewed.",
-  "notes": "East-side Lutheran congregation ('Bringing the Word of God to the Eastside of Tucson'). A search snippet referred to a 'Pastor Parsons' with no first name, so no pastor is recorded. NOTE: at least three different Tucson churches are called Holy Cross - Lutheran (holycrosstucson.org, 241 N Harrison Rd), Presbyterian/PCA (holycrosstucson.com, 7250 N Cortaro Rd) and Anglican (3264 N Country Club Rd). The .org and .com domains are DIFFERENT churches; do not mix their sermon archives.",
-  "updated_at": "2026-09-11",
-  "updated_by": "claude-opus-5 research agent (seed)"
+  "notes": "East-side Lutheran congregation, 'Sharing God's Amazing grace in Tucson since 1962'. Synod CONFIRMED on the church's own site: WELS (Wisconsin Evangelical Lutheran Synod), not LCMS or ELCA - the seeded placeholder has been replaced. Address confirmed on the site: 241 N Harrison Road, north of Broadway on the west side of the street; Sunday worship 9:00 am, Bible study 10:15 am; phone 520-428-HOLY (4659), email holycrosstucson@gmail.com. Pastor confirmed on the church's own /staff/ page: David Parsons - this resolves the earlier 'Pastor Parsons with no first name' gap. He served two congregations on the Fort Apache Reservation for over seven years before moving to Tucson in January 2016, and is the only pastor listed, so he appears to be the sole regular preacher. YouTube channel confirmed from the church's own /videos/ page, which links channel UCM8n2fwEpzGDvZ252E6AU1w = youtube.com/@holycrosstucson ('Holy Cross Lutheran Church - Tucson'). Videos are whole worship services organised by date and liturgical Sunday, with no sermon-only playlist, so transcripts will need trimming to the sermon portion. NOTE: at least three different Tucson churches are called Holy Cross - Lutheran (holycrosstucson.org, 241 N Harrison Rd), Presbyterian/PCA (holycrosstucson.com, 7730 N Cortaro Rd) and Anglican (3264 N Country Club Rd). The .org and .com domains are DIFFERENT churches; do not mix their sermon archives. The YouTube handle @holycrosstucson belongs to the LUTHERAN one.",
+  "updated_at": "2026-09-10",
+  "updated_by": "claude research agent (facts)"
 }

@@ -9,8 +9,16 @@
   "website": "https://www.vineyardcc.net/",
   "other_media": [
     {
-      "label": "Vineyard Christian Community media / sermon archive",
+      "label": "Vineyard Christian Community media / sermon archive (Vimeo-hosted player)",
       "url": "https://www.vineyardcc.net/media?id=2463027"
+    },
+    {
+      "label": "Vineyard Christian Community Sunday livestream",
+      "url": "https://www.vineyardcc.net/livestream"
+    },
+    {
+      "label": "Vineyard Christian Community Facebook group",
+      "url": "https://www.facebook.com/groups/66299891355/"
     }
   ],
   "location": {
@@ -22,22 +30,47 @@
     "city": "Tucson",
     "state": "AZ"
   },
-  "pastors": [],
+  "pastors": [
+    {
+      "name": "Chris Dehaan",
+      "role": "Senior Pastor",
+      "bio_url": "https://www.vineyardcc.net/who-we-are/elders-staff-ministry-leaders",
+      "plagiarism": {
+        "status": "unchecked"
+      },
+      "ai_writing": {
+        "status": "unchecked"
+      },
+      "active": true
+    },
+    {
+      "name": "Aidan Lewis",
+      "role": "Associate Pastor",
+      "bio_url": "https://www.vineyardcc.net/who-we-are/elders-staff-ministry-leaders",
+      "plagiarism": {
+        "status": "unchecked"
+      },
+      "ai_writing": {
+        "status": "unchecked"
+      },
+      "active": true
+    }
+  ],
   "sources": [
     {
-      "label": "Vineyard Christian Community official site",
+      "label": "Vineyard Christian Community official site (address, service time)",
       "url": "https://www.vineyardcc.net/",
-      "accessed": "2026-09-11"
+      "accessed": "2026-09-10"
     },
     {
       "label": "Vineyard Christian Community elders, staff and ministry leaders page",
       "url": "https://www.vineyardcc.net/who-we-are/elders-staff-ministry-leaders",
-      "accessed": "2026-09-11"
+      "accessed": "2026-09-10"
     },
     {
       "label": "Vineyard Christian Community media page",
       "url": "https://www.vineyardcc.net/media?id=2463027",
-      "accessed": "2026-09-11"
+      "accessed": "2026-09-10"
     },
     {
       "label": "ChurchFinder listing: Vineyard Christian Community, Tucson AZ",
@@ -46,7 +79,7 @@
     }
   ],
   "summary": "Not yet reviewed.",
-  "notes": "Vineyard congregation just north of Tucson High and west of the University of Arizona, with recent and past sermons on its media page. A search snippet mentioned 'Chris Dehaan and his family' sharing the journey at the church, which is not clear enough to record as a pastor - get names from the elders/staff page. Coordinates estimated from 2nd Ave being one block west of 1st Ave.",
-  "updated_at": "2026-09-11",
-  "updated_by": "claude-opus-5 research agent (seed)"
+  "notes": "2026-09-10 fact pass. Address 625 N 2nd Ave, Tucson AZ 85705 is stated on the church's own staff/contact page, so it is now confirmed rather than inferred; coordinates were left at the previously seeded 'approximate' values because the address did not change - re-run tools/geocode.py to upgrade them. Phone 520-791-9971. The seed's uncertain 'Chris Dehaan' snippet is resolved: the church's own elders/staff/ministry-leaders page lists exactly two pastors, Chris Dehaan (Senior Pastor) and Aidan Lewis (Associate Pastor), and both are recorded. Chris Dehaan is also one of eleven listed elders (Dan Alfred, Mike Begley, Jerry Bowen, Marty Brown, Jackson Burton, Chris Dehaan, Bill Inboden as Elder Emeritus, Kevin Kehl, Rich Lewis, Nathan Mogk, Mike Mustovich); the elders are not recorded as preachers because the page does not say they preach. MEDIA WARNING: there is NO YouTube channel. The only outbound social link on the site is a Facebook group, and the /media page is a JavaScript player whose thumbnails come from i.vimeocdn.com, i.e. sermons are Vimeo-hosted and embedded. That means no YouTube auto-captions - expect to download audio and transcribe locally, and expect the video list to require a browser rather than WebFetch. Livestream is Sundays at 9:30 AM with recordings posted to the media section. Denomination left as the generic 'Vineyard': the site calls itself Vineyard and refers to 'Vineyard Ministries' but nowhere states formal membership in Vineyard USA / Association of Vineyard Churches, so that was not upgraded. Keep this church distinct from Connections Vineyard Church (3150 E Fort Lowell Rd) and from the now-defunct Vineyard City Church.",
+  "updated_at": "2026-09-10",
+  "updated_by": "claude research agent (facts)"
 }

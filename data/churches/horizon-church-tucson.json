@@ -4,12 +4,27 @@
   "tradition": "non_denominational",
   "denomination": "Independent / non-denominational",
   "website": "https://www.horizonchurchtucson.org/",
+  "youtube": {
+    "channel_url": "https://www.youtube.com/@horizonchurchtucson154",
+    "handle": "@horizonchurchtucson154",
+    "transcripts_available": "unknown"
+  },
+  "other_media": [
+    {
+      "label": "Horizon Church Tucson sermon series page",
+      "url": "https://www.horizonchurchtucson.org/sermons"
+    },
+    {
+      "label": "Horizon Church Tucson Facebook page",
+      "url": "https://www.facebook.com/horizonchurchtucson"
+    }
+  ],
   "location": {
     "address": "7620 N Hartman Ln, Suite 146",
     "postal_code": "85743",
-    "lat": null,
-    "lng": null,
-    "geocode": "missing",
+    "lat": 32.345665,
+    "lng": -111.079425,
+    "geocode": "verified",
     "city": "Tucson",
     "state": "AZ"
   },
@@ -35,17 +50,27 @@
     {
       "label": "Horizon Church Tucson official site",
       "url": "https://www.horizonchurchtucson.org/",
-      "accessed": "2026-09-11"
+      "accessed": "2026-09-10"
     },
     {
       "label": "Horizon Church Tucson senior pastor page",
       "url": "https://www.horizonchurchtucson.org/senior-pastor",
-      "accessed": "2026-09-11"
+      "accessed": "2026-09-10"
     },
     {
-      "label": "Yelp: Horizon Church Tucson, 7620 N Hartman Ln",
-      "url": "https://www.yelp.com/biz/horizon-church-tucson-tucson",
-      "accessed": "2026-09-11"
+      "label": "Horizon Church Tucson about page (staff and elders)",
+      "url": "https://www.horizonchurchtucson.org/about",
+      "accessed": "2026-09-10"
+    },
+    {
+      "label": "Horizon Church Tucson sermons page",
+      "url": "https://www.horizonchurchtucson.org/sermons",
+      "accessed": "2026-09-10"
+    },
+    {
+      "label": "Horizon Church Tucson YouTube channel",
+      "url": "https://www.youtube.com/@horizonchurchtucson154",
+      "accessed": "2026-09-10"
     },
     {
       "label": "Horizon Church Tucson Facebook page",
@@ -54,7 +79,7 @@
     }
   ],
   "summary": "Not yet reviewed.",
-  "notes": "Small non-denominational church meeting in a suite on Hartman Ln in north-west Tucson (85743, near Marana). Lee Giermann has led since early 2018. No sermon video host confirmed from search results - check the site and Facebook for recordings before scheduling a review.",
-  "updated_at": "2026-09-11",
-  "updated_by": "claude-opus-5 research agent (seed)"
+  "notes": "Small non-denominational church meeting in a suite on Hartman Ln in north-west Tucson (85743, near Marana). Address re-confirmed on the church's own homepage and about page on 2026-09-10: 7620 N Hartman Ln Suite #146, Tucson, AZ 85743. The site states no denominational affiliation and describes baptism by immersion; 'Independent / non-denominational' stands.\n\nStaff confirmed from /about on 2026-09-10: Lee Giermann (Senior Pastor, since the beginning of 2018; previously 22 years as senior pastor at Lake Sawyer Christian Church, Black Diamond WA), Jonathon Basurto (Youth Pastor), David Cardarelli (Worship Minister), Sarah Bolander (Children's Ministry Director & Media Director), and elders Jerry Monroe, Bob Stoner and Vic Otero. Only Giermann is recorded as a preaching pastor - nothing on the site shows Basurto taking the Sunday pulpit, so check sermon attributions before adding him.\n\nSermon media: YouTube channel @horizonchurchtucson154 (channel ID UCtfcw0QW-1V5U1sYl6uZM-A) is confirmed as the church's own, but its channel description says 'Livestreams on Sunday mornings can now be found on our website, horizonchurchtucson.org.' The /sermons page on the site links back to that same channel, so the YouTube uploads may be stale - check both before fetching transcripts. Coordinates still missing; run tools/geocode.py.",
+  "updated_at": "2026-09-10",
+  "updated_by": "claude research agent (facts)"
 }

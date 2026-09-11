@@ -1,25 +1,46 @@
 {
   "slug": "sahuarita-first-assembly",
-  "name": "Sahuarita First",
+  "name": "Sahuarita First Assembly",
   "aka": [
+    "Sahuarita First",
+    "Sahuarita First AG",
     "Sahuarita First Assembly of God"
   ],
   "tradition": "pentecostal_charismatic",
-  "denomination": "Assemblies of God",
-  "website": "https://www.sah1ag.org/",
+  "denomination": "Assemblies of God (Arizona District)",
+  "website": "https://sahuaritafirst.church/",
+  "other_media": [
+    {
+      "label": "Sahuarita First Assembly message archive",
+      "url": "https://sahuaritafirst.church/media"
+    },
+    {
+      "label": "Sahuarita First Assembly livestream and past messages",
+      "url": "https://sahuaritafirst.church/live"
+    },
+    {
+      "label": "Sahuarita First Assembly on Subsplash (sermon video/audio host)",
+      "url": "https://subsplash.com/u/-NHHNRP/media"
+    },
+    {
+      "label": "Sahuarita First Assembly Facebook page",
+      "url": "http://www.facebook.com/sahuaritafirstassembly"
+    }
+  ],
   "location": {
     "address": "18180 S La Canada Dr",
     "city": "Sahuarita",
     "postal_code": "85629",
-    "lat": null,
-    "lng": null,
-    "geocode": "missing",
+    "lat": 31.920993,
+    "lng": -110.994937,
+    "geocode": "verified",
     "state": "AZ"
   },
   "pastors": [
     {
       "name": "David Lopez",
-      "role": "Pastor",
+      "role": "Lead Pastor",
+      "bio_url": "https://sahuaritafirst.church/leadership",
       "tenure": {
         "from": "2025",
         "to": null
@@ -33,8 +54,9 @@
       "active": true
     },
     {
-      "name": "Liz Lopez",
-      "role": "Pastor (co-pastor with David Lopez)",
+      "name": "Elizabeth Lopez",
+      "role": "Co-Pastor (named with David Lopez on the church's 'Our Story' page; not listed separately on the leadership page)",
+      "bio_url": "https://sahuaritafirst.church/our-story",
       "tenure": {
         "from": "2025",
         "to": null
@@ -50,13 +72,33 @@
   ],
   "sources": [
     {
-      "label": "Sahuarita First official site",
-      "url": "https://www.sah1ag.org/",
-      "accessed": "2026-09-11"
+      "label": "Sahuarita First Assembly home page",
+      "url": "https://sahuaritafirst.church/",
+      "accessed": "2026-09-10"
+    },
+    {
+      "label": "Sahuarita First Assembly leadership page (Pastor David Lopez, Lead Pastor)",
+      "url": "https://sahuaritafirst.church/leadership",
+      "accessed": "2026-09-10"
+    },
+    {
+      "label": "Sahuarita First Assembly 'Our Story' page (founding, AG Arizona District, 2025 pastoral transition)",
+      "url": "https://sahuaritafirst.church/our-story",
+      "accessed": "2026-09-10"
+    },
+    {
+      "label": "Sahuarita First Assembly watch-live page (list of recent messages)",
+      "url": "https://sahuaritafirst.church/live",
+      "accessed": "2026-09-10"
+    },
+    {
+      "label": "Sahuarita First Assembly Subsplash media library",
+      "url": "https://subsplash.com/u/-NHHNRP/media",
+      "accessed": "2026-09-10"
     }
   ],
   "summary": "Not yet reviewed.",
-  "notes": "Assemblies of God congregation in Sahuarita. David and Liz Lopez took over as pastors in October 2025, so there is only about a year of sermons under the current leadership - that may be too small a corpus for a confident review. Confirm which of the two normally preaches. No sermon archive URL found.",
-  "updated_at": "2026-09-11",
-  "updated_by": "claude-opus-5 research agent (seed)"
+  "notes": "Assemblies of God congregation in Sahuarita. WEBSITE CHANGED: the seeded sah1ag.org now 301-redirects to sahuaritafirst.church (https works); the record uses the new domain. Address 18180 S. La Cañada Dr., Sahuarita, AZ 85629 re-confirmed in the site footer and in the 'Our Story' page; existing coordinates left as verified (the church spells it 'La Cañada'; the record keeps the unaccented form so the geocoder keeps matching). Denomination refined to 'Assemblies of God (Arizona District)' - the 'Our Story' page says the congregation was founded in 1981 with support from 'the presbytery board of the Assemblies of God of the Arizona District'. PASTORS: the leadership page names only 'Pastor David Lopez - Lead Pastor'. The 'Our Story' page says founding pastors David and Joan Stowell retired in September 2025 and 'the mantle was transferred to Pastor David and Elizabeth Lopez', which is the primary-source basis for listing Elizabeth (elsewhere 'Liz') Lopez as co-pastor; she has no individual bio or title on the site, so do not assume she preaches without checking the message archive. SERMON MEDIA: sermons are hosted on Subsplash (app -NHHNRP) and embedded on /media and /live. The /media 'Media Library' widget renders client-side and reported 'No media was found' to a plain fetch, but /live lists recent messages with titles and dates (e.g. 'The Evidence of Christ', 6 Sep 2026; 'Waters Of Transition - 2 Kings 2:1-14', 30 Aug 2026). No YouTube channel is linked anywhere on the site; Facebook and Instagram are. Subsplash video usually has no YouTube-style captions, so expect to need audio transcription. Only about a year of sermons exist under the current pastors, so a review may come out inconclusive on corpus size alone.",
+  "updated_at": "2026-09-10",
+  "updated_by": "claude research agent (facts)"
 }

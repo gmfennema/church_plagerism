@@ -5,44 +5,67 @@
   "denomination": "Churches of Christ",
   "website": "https://maranachurchofchrist.com/",
   "youtube": {
-    "channel_url": "https://www.youtube.com/channel/UCoYB7m4vupEVkM9PNTYNW9Q",
+    "channel_url": "https://www.youtube.com/@MaranaChurchofChrist",
+    "handle": "@MaranaChurchofChrist",
     "transcripts_available": "unknown"
   },
   "other_media": [
     {
       "label": "Marana Church of Christ sermons page",
       "url": "https://maranachurchofchrist.com/sermons/sermons"
+    },
+    {
+      "label": "Marana Church of Christ sermon podcast",
+      "url": "https://maranachurchofchrist.com/sermons/podcast"
     }
   ],
   "location": {
     "address": "12311 W Moore Rd",
     "city": "Marana",
     "postal_code": "85653",
-    "lat": null,
-    "lng": null,
-    "geocode": "missing",
+    "lat": 32.438735,
+    "lng": -111.227772,
+    "geocode": "verified",
     "state": "AZ"
   },
-  "pastors": [],
+  "pastors": [
+    {
+      "name": "Karson Lown",
+      "role": "Preacher / Evangelist",
+      "bio_url": "https://maranachurchofchrist.com/about",
+      "active": true,
+      "plagiarism": {
+        "status": "unchecked"
+      },
+      "ai_writing": {
+        "status": "unchecked"
+      }
+    }
+  ],
   "sources": [
     {
       "label": "Marana Church of Christ official site",
       "url": "https://maranachurchofchrist.com/",
-      "accessed": "2026-09-11"
+      "accessed": "2026-09-10"
+    },
+    {
+      "label": "Marana Church of Christ about page (preacher and elders)",
+      "url": "https://maranachurchofchrist.com/about",
+      "accessed": "2026-09-10"
     },
     {
       "label": "Marana Church of Christ sermons page",
       "url": "https://maranachurchofchrist.com/sermons/sermons",
-      "accessed": "2026-09-11"
+      "accessed": "2026-09-10"
     },
     {
       "label": "Marana Church of Christ YouTube channel",
-      "url": "https://www.youtube.com/channel/UCoYB7m4vupEVkM9PNTYNW9Q",
-      "accessed": "2026-09-11"
+      "url": "https://www.youtube.com/@MaranaChurchofChrist",
+      "accessed": "2026-09-10"
     }
   ],
   "summary": "Not yet reviewed.",
-  "notes": "Non-instrumental Churches of Christ congregation with both a sermons page and a YouTube channel. Churches of Christ often rotate preaching among elders and members, so identify the regular preacher(s) from the sermons page before attributing anything. No name confirmed.",
-  "updated_at": "2026-09-11",
-  "updated_by": "claude-opus-5 research agent (seed)"
+  "notes": "Non-instrumental Churches of Christ congregation at 12311 W Moore Rd, Marana (address re-confirmed on the church's own homepage 2026-09-10; coordinates already verified).\n\nPreacher identified 2026-09-10: Karson Lown, named on the church's own about page as the preacher/evangelist ('Husband / Loves History / Football coach / Devoted to studying the Word of God'). The about page also shows two elder photos but prints no elder names, and no deacons are named.\n\nPulpit rotation, from the church's sermons page: of the recent sermons listed, Karson Lown preached about 21, Allen Garner 2, and Keith Francis 1 - so Lown is clearly the regular preacher (roughly 85% of recent sermons) and Garner and Francis are occasional. Garner and Francis are NOT recorded as pastors here because the site gives them no title; if a review covers their sermons, treat them as occasional speakers and attribute carefully.\n\nMedia: YouTube handle resolved to @MaranaChurchofChrist, which is the same channel as the seed record's channel-ID URL (UCoYB7m4vupEVkM9PNTYNW9Q) - verified, not two channels. The site also offers a podcast feed at /sermons/podcast and separate Bible-class and special-series archives, which are teaching rather than Sunday preaching and should not be mixed into a sermon corpus. The sermons page names the speaker for each sermon, so per-sermon attribution is straightforward.",
+  "updated_at": "2026-09-10",
+  "updated_by": "claude research agent (facts)"
 }

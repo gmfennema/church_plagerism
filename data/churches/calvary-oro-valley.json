@@ -1,22 +1,41 @@
 {
   "slug": "calvary-oro-valley",
   "name": "Calvary Oro Valley Church",
+  "aka": [
+    "Calvary Oro Valley"
+  ],
   "tradition": "non_denominational",
   "denomination": "Calvary Chapel",
   "website": "https://calvaryov.org/",
+  "youtube": {
+    "channel_url": "https://www.youtube.com/@CalvaryOroValley",
+    "handle": "@CalvaryOroValley",
+    "transcripts_available": "unknown"
+  },
+  "other_media": [
+    {
+      "label": "Calvary Oro Valley Sunday sermon page",
+      "url": "https://calvaryov.org/sunday-sermon"
+    },
+    {
+      "label": "Calvary Oro Valley Wednesday night study page",
+      "url": "https://calvaryov.org/wednesday-night-study"
+    }
+  ],
   "location": {
     "address": "6901 N La Canada Dr",
-    "city": "Oro Valley",
+    "city": "Tucson",
     "postal_code": "85704",
-    "lat": null,
-    "lng": null,
-    "geocode": "missing",
-    "state": "AZ"
+    "geocode": "verified",
+    "state": "AZ",
+    "lat": 32.332274,
+    "lng": -110.995803
   },
   "pastors": [
     {
       "name": "Craig Roters",
-      "role": "Pastor",
+      "role": "Founding & Senior Pastor",
+      "bio_url": "https://calvaryov.org/leadership",
       "plagiarism": {
         "status": "unchecked"
       },
@@ -24,17 +43,58 @@
         "status": "unchecked"
       },
       "active": true
+    },
+    {
+      "name": "Morgan Roters",
+      "role": "Associate & Worship Pastor",
+      "bio_url": "https://calvaryov.org/leadership",
+      "plagiarism": {
+        "status": "unchecked"
+      },
+      "ai_writing": {
+        "status": "unchecked"
+      },
+      "active": true,
+      "notes": "Teaches regularly: the church YouTube channel has several book-study playlists explicitly labelled '(Pastor Morgan)' - 2 Peter, Jude, Colossians, Ephesians, 1 Peter."
+    },
+    {
+      "name": "Kevin McPhail",
+      "role": "Assistant Pastor",
+      "bio_url": "https://calvaryov.org/leadership",
+      "plagiarism": {
+        "status": "unchecked"
+      },
+      "ai_writing": {
+        "status": "unchecked"
+      },
+      "active": true,
+      "notes": "The church YouTube channel has a playlist titled 'Pastor Kevin', indicating he preaches; volume not yet assessed."
     }
   ],
   "sources": [
     {
       "label": "Calvary Oro Valley Church official site",
       "url": "https://calvaryov.org/",
-      "accessed": "2026-09-11"
+      "accessed": "2026-09-10"
+    },
+    {
+      "label": "Calvary Oro Valley Church leadership page",
+      "url": "https://calvaryov.org/leadership",
+      "accessed": "2026-09-10"
+    },
+    {
+      "label": "Calvary Oro Valley Church visit/location page",
+      "url": "https://calvaryov.org/visit",
+      "accessed": "2026-09-10"
+    },
+    {
+      "label": "Calvary Oro Valley YouTube channel playlists",
+      "url": "https://www.youtube.com/@CalvaryOroValley/playlists",
+      "accessed": "2026-09-10"
     }
   ],
   "summary": "Not yet reviewed.",
-  "notes": "Calvary Chapel-style church in Oro Valley; the site says the latest sermon is posted on the homepage and a full archive lives on their YouTube page, but the YouTube URL was not captured in search results - find it. Search results also named 'Morgan Roters' alongside Pastor Craig Roters; that is likely a spouse/ministry partner rather than a separate preaching pastor, so only Craig Roters is listed. Coordinates missing: La Canada Dr is not on the reference grid.",
-  "updated_at": "2026-09-11",
-  "updated_by": "claude-opus-5 research agent (seed)"
+  "notes": "Calvary Chapel-style church on La Canada Dr. ADDRESS CORRECTED: the church's own site prints the address as '6901 N La Canada Dr, Tucson, AZ 85704' (it uses the spelling 'La Canada' with a tilde), not Oro Valley, so the city is recorded as Tucson and the previous hand-entered coordinates were dropped - run tools/geocode.py. Services Sun 9 & 11 AM, Wed 7 PM. THREE PREACHERS, NOT ONE: the leadership page lists Craig Roters (Founding & Senior Pastor), Morgan Roters (Associate & Worship Pastor) and Kevin McPhail (Assistant Pastor); the earlier note guessing that Morgan Roters was only a spouse/ministry partner was wrong. The YouTube playlist list settles it - there are parallel book studies labelled '(Pastor Craig)' and '(Pastor Morgan)' plus a 'Pastor Kevin' playlist, so per-sermon attribution is essential. Moriah Reilly is Church Office Administrator & Assistant Youth Leader and is not recorded as a preacher. YouTube channel found: @CalvaryOroValley (channel id UCRfDUkO9loMVfv3lKGb8Pdw). Sermon playlists were not listed individually in this record because the channel uses dozens of per-book playlists; browse /playlists and pick the ones matching the pastor under review. Caption availability not tested. Also on Facebook (calvaryorovalley7) and Instagram.",
+  "updated_at": "2026-09-10",
+  "updated_by": "claude research agent (facts)"
 }

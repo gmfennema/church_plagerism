@@ -5,8 +5,19 @@
     "My Grace Church"
   ],
   "tradition": "other_protestant",
-  "denomination": "Evangelical Covenant Church (verify)",
+  "denomination": "Evangelical Covenant Church (ECC)",
   "website": "https://www.mygrace.church/",
+  "youtube": {
+    "channel_url": "https://www.youtube.com/@GraceTucson",
+    "handle": "@GraceTucson",
+    "transcripts_available": "unknown"
+  },
+  "other_media": [
+    {
+      "label": "Grace Community Covenant Church sermon archive",
+      "url": "https://www.mygrace.church/sermons"
+    }
+  ],
   "location": {
     "address": "9755 N La Cholla Blvd",
     "postal_code": "85742",
@@ -16,12 +27,62 @@
     "city": "Tucson",
     "state": "AZ"
   },
-  "pastors": [],
+  "pastors": [
+    {
+      "name": "Sam Gyorfi",
+      "role": "Lead Pastor",
+      "bio_url": "https://www.mygrace.church/staff",
+      "active": true,
+      "plagiarism": {
+        "status": "unchecked"
+      },
+      "ai_writing": {
+        "status": "unchecked"
+      }
+    },
+    {
+      "name": "Janette Henson",
+      "role": "Pastor of Worship & Church Life",
+      "bio_url": "https://www.mygrace.church/staff",
+      "active": true,
+      "plagiarism": {
+        "status": "unchecked"
+      },
+      "ai_writing": {
+        "status": "unchecked"
+      }
+    }
+  ],
   "sources": [
     {
       "label": "Grace Community Covenant Church official site",
       "url": "https://www.mygrace.church/",
-      "accessed": "2026-09-11"
+      "accessed": "2026-09-10"
+    },
+    {
+      "label": "Grace Community Covenant Church staff page",
+      "url": "https://www.mygrace.church/staff",
+      "accessed": "2026-09-10"
+    },
+    {
+      "label": "Grace Community Covenant Church beliefs & affiliation page",
+      "url": "https://www.mygrace.church/affiliation",
+      "accessed": "2026-09-10"
+    },
+    {
+      "label": "Grace Community Covenant Church sermon archive",
+      "url": "https://www.mygrace.church/sermons",
+      "accessed": "2026-09-10"
+    },
+    {
+      "label": "Grace Community Covenant Church sermon speakers index",
+      "url": "https://www.mygrace.church/sermons/speakers",
+      "accessed": "2026-09-10"
+    },
+    {
+      "label": "Grace Tucson YouTube channel",
+      "url": "https://www.youtube.com/@GraceTucson",
+      "accessed": "2026-09-10"
     },
     {
       "label": "Yelp: Grace Community Covenant Church, 9755 N La Cholla Blvd",
@@ -30,7 +91,7 @@
     }
   ],
   "summary": "Not yet reviewed.",
-  "notes": "North-west Tucson (Oro Valley/Casas Adobes edge) on La Cholla Blvd. Name suggests Evangelical Covenant Church affiliation but that was not confirmed in search results - verify the denomination and correct 'tradition' if needed. A sermon archive exists on the church site; no YouTube channel or pastor name confirmed.",
-  "updated_at": "2026-09-11",
-  "updated_by": "claude-opus-5 research agent (seed)"
+  "notes": "North-west Tucson (Oro Valley/Casas Adobes edge) on La Cholla Blvd. Denomination CONFIRMED on the church's own /affiliation page: the church 'is part of the Evangelical Covenant Church (ECC)'. Address confirmed in the church site footer as 9755 North La Cholla Boulevard, Tucson, AZ 85742; the coordinates are still only neighbourhood-level (geocode: approximate) and should be re-run with tools/geocode.py. YouTube channel confirmed as @GraceTucson (channel description reads 'Grace Community Church, Tucson, Arizona'); the 10:30 am service is livestreamed there, and the church also keeps its own sermon archive at mygrace.church/sermons indexed by speaker. The staff page lists Sam Gyorfi (Lead Pastor) and Janette Henson (Pastor of Worship & Church Life) as the only two pastors; both appear in the sermon-speaker index and Gyorfi preaches the large majority. Maddie Yager (Director of Youth Ministries) also appears in the speaker index but is not a pastor, so she is not listed here. The speaker index additionally contains Danny Hall, Joel Delp and Fred Nelson, who are not on the staff page and appear to be guest speakers - verify before treating any of them as regular preachers. The /leaders page lists only lay boards (Foundations Team, Operations Team, Leadership Search Team), not clergy. No sermon playlist URL was found on the YouTube channel; sermons appear as individual livestream videos.",
+  "updated_at": "2026-09-10",
+  "updated_by": "claude research agent (facts)"
 }

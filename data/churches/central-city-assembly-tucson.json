@@ -3,25 +3,87 @@
   "name": "Central City Assembly",
   "tradition": "pentecostal_charismatic",
   "denomination": "Assemblies of God",
+  "website": "https://centralcityonline.org/",
   "location": {
-    "address": "Address not confirmed",
+    "address": "939 S 10th Ave",
     "postal_code": "85701",
-    "lat": null,
-    "lng": null,
-    "geocode": "missing",
+    "geocode": "verified",
     "city": "Tucson",
-    "state": "AZ"
+    "state": "AZ",
+    "lat": 32.209791,
+    "lng": -110.974756
   },
-  "pastors": [],
+  "pastors": [
+    {
+      "name": "Kai Eilert",
+      "role": "Lead Pastor",
+      "bio_url": "https://centralcityonline.org/leadership/",
+      "active": true,
+      "plagiarism": {
+        "status": "unchecked"
+      },
+      "ai_writing": {
+        "status": "unchecked"
+      }
+    },
+    {
+      "name": "Joe Marchetti",
+      "role": "Associate Pastor",
+      "bio_url": "https://centralcityonline.org/leadership/",
+      "active": true,
+      "plagiarism": {
+        "status": "unchecked"
+      },
+      "ai_writing": {
+        "status": "unchecked"
+      }
+    }
+  ],
+  "youtube": {
+    "channel_url": "https://www.youtube.com/channel/UC2OXHFKVZ1cfYuD4WWYUmQA",
+    "handle": "@centralcityassembly",
+    "transcripts_available": "unknown"
+  },
+  "other_media": [
+    {
+      "label": "Central City Assembly sermons page (embeds its own YouTube videos)",
+      "url": "https://centralcityonline.org/sermons-2/"
+    }
+  ],
   "sources": [
     {
       "label": "FaithStreet: Central City Assembly, Assemblies of God, Tucson AZ 85701",
       "url": "https://www.faithstreet.com/church/central-city-assembly-tucson-az",
       "accessed": "2026-09-11"
+    },
+    {
+      "label": "Central City Assembly official site - home",
+      "url": "https://centralcityonline.org/",
+      "accessed": "2026-09-10"
+    },
+    {
+      "label": "Central City Assembly - About (address, service times)",
+      "url": "https://centralcityonline.org/about/",
+      "accessed": "2026-09-10"
+    },
+    {
+      "label": "Central City Assembly - Leadership page",
+      "url": "https://centralcityonline.org/leadership/",
+      "accessed": "2026-09-10"
+    },
+    {
+      "label": "Central City Assembly - Sermons page",
+      "url": "https://centralcityonline.org/sermons-2/",
+      "accessed": "2026-09-10"
+    },
+    {
+      "label": "Central City Assembly YouTube channel",
+      "url": "https://www.youtube.com/channel/UC2OXHFKVZ1cfYuD4WWYUmQA",
+      "accessed": "2026-09-10"
     }
   ],
   "summary": "Not yet reviewed.",
-  "notes": "Downtown-area Assemblies of God congregation. A search snippet referred to a 'Pastor Kai' with no surname, so no pastor is recorded. Address, website and sermon host still needed.",
-  "updated_at": "2026-09-11",
-  "updated_by": "claude-opus-5 research agent (seed)"
+  "notes": "Downtown Assemblies of God congregation. Address, website, leadership and sermon host confirmed 2026-09-10 from the church's own site. The earlier 'Pastor Kai' search snippet resolves to Kai Eilert, listed on centralcityonline.org/leadership/ as Lead Pastor; Joe Marchetti (Associate Pastor) also appears in the sermons-page speaker list, so both are recorded as preaching pastors. Annette Eilert is listed on the leadership page simply as 'Pastor' but does not appear in the sermon speaker list, so she is NOT recorded as a preaching pastor - confirm before adding. Other names in the sermon speaker list (Joy Skidmore, Joshua Ely, Vanessa Ely) are not on the leadership page and look like guest or occasional speakers. Sermon videos are hosted on the church's own YouTube channel (@centralcityassembly, confirmed by resolving the video IDs embedded on the sermons page); caption availability untested. Coordinates still need tools/geocode.py.",
+  "updated_at": "2026-09-10",
+  "updated_by": "claude research agent (facts)"
 }

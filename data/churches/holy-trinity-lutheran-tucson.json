@@ -1,14 +1,18 @@
 {
   "slug": "holy-trinity-lutheran-tucson",
   "name": "Holy Trinity Lutheran Church",
+  "aka": [
+    "Lutheran Church of the Holy Trinity",
+    "Iglesia Luterana Santa Trinidad"
+  ],
   "tradition": "lutheran",
-  "denomination": "Lutheran Church-Missouri Synod (LCMS)",
+  "denomination": "Lutheran Church-Missouri Synod (LCMS), English District",
   "location": {
     "address": "5975 W Western Way Cir, Suites 117-118",
     "postal_code": "85713",
-    "lat": null,
-    "lng": null,
-    "geocode": "missing",
+    "lat": 32.186261,
+    "lng": -111.091981,
+    "geocode": "verified",
     "city": "Tucson",
     "state": "AZ"
   },
@@ -17,11 +21,21 @@
     {
       "label": "LCMS church locator entry: Holy Trinity Lutheran Church, 5975 W Western Way Cir",
       "url": "https://locator.lcms.org/church/C/914700",
-      "accessed": "2026-09-11"
+      "accessed": "2026-09-10"
+    },
+    {
+      "label": "LCMS English District congregation listing: Lutheran Church of the Holy Trinity, Tucson",
+      "url": "https://englishdistrict.org/lutheran-church-holy-trinity",
+      "accessed": "2026-09-10"
+    },
+    {
+      "label": "Holy Trinity Lutheran Church own website, archived copy (captured 2023-03-22; live domain is now parked)",
+      "url": "https://web.archive.org/web/20230322153827/https://www.holytrinitytucson.org/",
+      "accessed": "2026-09-10"
     }
   ],
   "summary": "Not yet reviewed.",
-  "notes": "Small LCMS congregation meeting in suites on the far west side. Only an LCMS locator entry was found - no website, pastor name or sermon archive. Low priority until a media source is identified.",
-  "updated_at": "2026-09-11",
-  "updated_by": "claude-opus-5 research agent (seed)"
+  "notes": "Small LCMS congregation meeting in leased suites at Tucson Estates on the far west side. Denomination CONFIRMED and refined: LCMS English District, circuit 'Arizona, South' (V), organised and joined LCMS 1961; 2020 statistics were 234 baptized / 135 confirmed members and 65 average weekly attendance. Address confirmed by both the LCMS locator and the English District listing: 5975 W Western Way Circle, Suites 117-118, Tucson, AZ 85713-4360; phone (520) 294-8851 (an older number, 520-578-0675, also appears), email holytrinitytucson@gmail.com. Worship Sunday 9:00 am, Bible class 10:15 am. lat/lng are null - run tools/geocode.py. WEBSITE IS DEAD: holytrinitytucson.org now returns a DreamHost 'Domain is Parked' / 'Site not found' page even though the LCMS and English District directories still link to it, so no website field is recorded. The Internet Archive has no capture after August 2024. PASTORS DELIBERATELY LEFT EMPTY: no currently verifiable pastor name exists. For a future researcher, the leads are - the church's own archived homepage (2023-03-22) named Pastor John Upton for the English service and Pastor Nicholas Wirtz for the Spanish-language congregation, Iglesia Luterana Santa Trinidad, which met separately at Faith Lutheran Church, 3925 E Fifth Street; the archived site also had a 'Pastor Upton's Messages' section of Bible-study talks. Those names are three years stale and were NOT confirmed against any current source, so do not publish them without re-verification (phone the church). Ignore search results naming 'Andrew Robinson' or 'Rev. Alexander Sabol' in connection with this church - the first belongs to a Holy Trinity Lutheran in Hickory NC and the second could not be traced to any primary source. NO SERMON ARCHIVE of any kind is currently reachable: no YouTube channel, no Facebook video feed confirmed, no audio page. Also note the congregation said in 2021 it was building a new church on Ajo Avenue and that Western Way Circle was a temporary home, so the address itself may have changed since. Low priority until a live media source and a current pastor are identified.",
+  "updated_at": "2026-09-10",
+  "updated_by": "claude research agent (facts)"
 }

@@ -1,16 +1,24 @@
 {
   "slug": "valley-christian-church-sahuarita",
   "name": "Valley Christian Church of Sahuarita",
+  "aka": [
+    "Valley Christian Church"
+  ],
   "tradition": "restoration_churches_of_christ",
-  "denomination": "Christian Church / Churches of Christ (verify)",
+  "denomination": "Independent Christian Church",
   "website": "https://vcchurchsahuarita.com/",
+  "youtube": {
+    "channel_url": "https://www.youtube.com/channel/UCoMGoicou90d8IKiaCI51ig",
+    "handle": "@valleychristianchurchofsah3919",
+    "transcripts_available": "unknown"
+  },
   "location": {
     "address": "18140 S La Canada Dr",
     "city": "Sahuarita",
     "postal_code": "85629",
-    "lat": null,
-    "lng": null,
-    "geocode": "missing",
+    "lat": 31.921729,
+    "lng": -110.99494,
+    "geocode": "verified",
     "state": "AZ"
   },
   "pastors": [
@@ -28,9 +36,19 @@
   ],
   "sources": [
     {
-      "label": "Valley Christian Church of Sahuarita official site",
+      "label": "Valley Christian Church of Sahuarita official site (links to its YouTube channel)",
       "url": "https://vcchurchsahuarita.com/",
-      "accessed": "2026-09-11"
+      "accessed": "2026-09-10"
+    },
+    {
+      "label": "Valley Christian Church of Sahuarita YouTube channel (Sunday Messages)",
+      "url": "https://www.youtube.com/channel/UCoMGoicou90d8IKiaCI51ig",
+      "accessed": "2026-09-10"
+    },
+    {
+      "label": "Christian Standard directory: Valley Christian Church of Sahuarita",
+      "url": "https://christianstandard.com/places/valley-christian-church-of-sahuarita/",
+      "accessed": "2026-09-10"
     },
     {
       "label": "ChurchFinder listing: Valley Christian Church, Sahuarita/Green Valley AZ",
@@ -39,7 +57,7 @@
     }
   ],
   "summary": "Not yet reviewed.",
-  "notes": "Small congregation (Sunday School 10am, worship 11am). No online sermon archive was found in search results, so this may not be reviewable for sermon text; check the site and any Facebook page. Sahuarita addresses are outside the Tucson street grid, so coordinates are left missing.",
-  "updated_at": "2026-09-11",
-  "updated_by": "claude-opus-5 research agent (seed)"
+  "notes": "2026-09-10 fact pass. CORRECTION to the seed note: there IS an online sermon archive. The church's own website is a one-page WordPress placeholder that says 'VALLEY CHRISTIAN CHURCH WEBSITE IS UNDER CONSTRUCTION' and does nothing but link to its YouTube channel, https://www.youtube.com/channel/UCoMGoicou90d8IKiaCI51ig (handle @valleychristianchurchofsah3919), which has weekly 'Sunday Message' videos running to at least 2026-09-06. Address 18140 S La Canada Dr, Sahuarita AZ 85629 was already geocode 'verified' and is corroborated by the Christian Standard directory; left unchanged. Denomination changed from the '(verify)' placeholder to 'Independent Christian Church', which is how the Christian Standard directory (the Christian Churches / Churches of Christ trade paper) categorises it; the church itself publishes no doctrinal or affiliation statement anywhere I could find, so treat this as directory-level, not self-stated. PASTOR NAMES ARE WEAK: because the site is a placeholder there is no staff page. The YouTube titles only ever give first names or initials - 'Pastor Ken', 'John G', 'Pastor Bruce G', 'Elder John G', and an older 'Pastor Dave'. 'Ken Reesman, Pastor' is corroborated by the Christian Standard directory and by a ZoomInfo record showing a @vcchurchsahuarita.com email, so he is retained, but he is NOT confirmed on a church-controlled page. Do not add Bruce, John G or Dave until full names are confirmed - phone the church at (520) 403-9434 or check a bulletin. Sunday School 10:00 AM, worship 11:00 AM.",
+  "updated_at": "2026-09-10",
+  "updated_by": "claude research agent (facts)"
 }

@@ -6,6 +6,22 @@
   ],
   "tradition": "nazarene_holiness",
   "denomination": "Church of the Nazarene",
+  "website": "http://www.mvnaz.org/",
+  "youtube": {
+    "channel_url": "https://www.youtube.com/channel/UC-rHoyX_C0RfO-wgxVxvJnA",
+    "handle": "@mountainviewchurchofthenaz9422",
+    "transcripts_available": "unknown"
+  },
+  "other_media": [
+    {
+      "label": "Mountain View Church of the Nazarene Facebook page",
+      "url": "https://www.facebook.com/mvnaz.org/"
+    },
+    {
+      "label": "Mountain View Church of the Nazarene Instagram",
+      "url": "https://www.instagram.com/mvnaz_ig/"
+    }
+  ],
   "location": {
     "address": "410 S Pantano Rd",
     "postal_code": "85710",
@@ -15,8 +31,46 @@
     "city": "Tucson",
     "state": "AZ"
   },
-  "pastors": [],
+  "pastors": [
+    {
+      "name": "Darrin Milgrim",
+      "role": "Lead Pastor",
+      "plagiarism": {
+        "status": "unchecked"
+      },
+      "ai_writing": {
+        "status": "unchecked"
+      },
+      "active": true
+    },
+    {
+      "name": "Albert Hughes",
+      "role": "Associate Pastor (also hospice chaplain; preaching frequency not confirmed)",
+      "plagiarism": {
+        "status": "unchecked"
+      },
+      "ai_writing": {
+        "status": "unchecked"
+      },
+      "active": true
+    }
+  ],
   "sources": [
+    {
+      "label": "Mountain View Church of the Nazarene home page (staff list and address)",
+      "url": "http://www.mvnaz.org/",
+      "accessed": "2026-09-10"
+    },
+    {
+      "label": "Mountain View Church of the Nazarene about page (mission, Wesleyan-Holiness values)",
+      "url": "http://www.mvnaz.org/about",
+      "accessed": "2026-09-10"
+    },
+    {
+      "label": "Mountain View Church of the Nazarene YouTube channel (channel description states Tucson AZ)",
+      "url": "https://www.youtube.com/channel/UC-rHoyX_C0RfO-wgxVxvJnA",
+      "accessed": "2026-09-10"
+    },
     {
       "label": "Mountain View Church of the Nazarene Facebook page",
       "url": "https://www.facebook.com/mvnaz.org/",
@@ -24,7 +78,7 @@
     }
   ],
   "summary": "Not yet reviewed.",
-  "notes": "Nazarene congregation on S Pantano Rd. A search snippet referred to a 'Pastor Albert' with no surname, so no pastor is recorded rather than guessing at a partial name - get the full name from mvnaz.org. No sermon archive confirmed.",
-  "updated_at": "2026-09-11",
-  "updated_by": "claude-opus-5 research agent (seed)"
+  "notes": "Nazarene congregation on S Pantano Rd. Address 410 S. Pantano Rd., Tucson 85710 confirmed in the site footer; coordinates left as 'approximate' from the earlier pass (worth re-running tools/geocode.py). The site's 'Meet our staff' block lists Rev. Darrin Milgrim (Lead Pastor), Rev. Albert Hughes (Associate Pastor / Hospice Chaplain - this is the 'Pastor Albert' from the earlier search snippet), Eddie Laub (Youth Pastor / Tech Coordinator), Missy Canfield (Office Manager / Worship Coordinator) and Stephen & Maya Canfield (Young Adult Leaders). Only Milgrim and Hughes are recorded as pastors; whether Hughes preaches regularly is NOT confirmed, so check the sermon videos before attributing anything to him. CAUTION FOR THE NEXT AGENT: several unrelated churches share this name. mvcnlife.org / mvcnaz.org is Mountain View Church of the Nazarene in TUMWATER, WASHINGTON (lead pastors Chad and Stephanie Johnson) - do not use its staff list, and do not use the YouTube channel @MtnViewWebMaster (UCQ8R3uXIf913nBYJ40X8BoA), which links to mvcnaz.org. The channel recorded here (UC-rHoyX_C0RfO-wgxVxvJnA) is the right one: its own description reads 'Mountain View Church of the Nazarene, in Tucson AZ'. Note the church's site is HTTP only - https://www.mvnaz.org returns a TLS certificate name mismatch. The site itself links only Facebook and Instagram, no sermon page; upload cadence on the YouTube channel was not verified.",
+  "updated_at": "2026-09-10",
+  "updated_by": "claude research agent (facts)"
 }
