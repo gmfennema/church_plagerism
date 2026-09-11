@@ -154,7 +154,7 @@ Statuses are `pending`, `approved`, `changes_requested`, or `rejected`. Approval
 - Both rubric attestations are required.
 - JSON requests are capped at 500 KB. Full transcripts belong in file storage.
 
-These checks catch structurally invalid proposals. The reviewer still applies the full rubric in [`../AGENTS.md`](../AGENTS.md).
+These checks catch structurally invalid proposals. The reviewer still applies the [full project rubric](https://github.com/gmfennema/church_plagerism/blob/main/AGENTS.md).
 
 ## Administrator endpoints
 

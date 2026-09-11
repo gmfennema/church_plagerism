@@ -32,6 +32,10 @@ CHURCHES_DIR = ROOT / "data" / "churches"
 SITE = ROOT / "site"
 SITE_DATA = SITE / "data"
 SITE_REPORTS = SITE / "reports"
+PUBLIC_AGENT_DOCS = {
+    ROOT / "docs" / "agent-api.md": SITE / "agent-api.md",
+    ROOT / "docs" / "submission.schema.json": SITE / "submission.schema.json",
+}
 
 TRADITION_LABELS = {
     "baptist": "Baptist",
@@ -107,6 +111,8 @@ def main() -> int:
     if SITE_REPORTS.exists():
         shutil.rmtree(SITE_REPORTS)
     SITE_DATA.mkdir(parents=True, exist_ok=True)
+    for source, target in PUBLIC_AGENT_DOCS.items():
+        shutil.copy2(source, target)
 
     churches: list[dict[str, Any]] = []
     out_of_scope: list[dict[str, str]] = []
