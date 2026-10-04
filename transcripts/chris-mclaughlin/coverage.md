@@ -1,8 +1,8 @@
 # Transcript coverage
 
 Manifest recordings: 99
-Completed transcripts: 97
-Sources: {"Local Whisper large-v3-turbo (MLX)": 70, "YouTube auto captions": 27}
+Completed transcripts: 98
+Sources: {"Local Whisper large-v3-turbo (MLX)": 71, "YouTube auto captions": 27}
 
 Machine transcripts are not manually corrected. See verification.json for integrity checks and text samples.
 
@@ -16,7 +16,7 @@ Machine transcripts are not manually corrected. See verification.json for integr
 | 2021-01-03 | 34d5cch | "The Submissive Citizen" | complete | Local Whisper large-v3-turbo (MLX) |
 | 2022-10-16 | n2dzrgc | Speak Truth | complete | Local Whisper large-v3-turbo (MLX) |
 | 2022-12-04 | p45vvvg | Be Ready | complete | Local Whisper large-v3-turbo (MLX) |
-| 2023-02-15 | pdqm8qr | Session 1 - Introduction | no_confirmed_youtube_match |  |
+| 2023-02-15 | pdqm8qr | Session 1 - Introduction | complete | Local Whisper large-v3-turbo (MLX) |
 | 2023-02-19 | qvj4987 | God Is Able | complete | Local Whisper large-v3-turbo (MLX) |
 | 2023-03-15 | sdczzjg | Session 5 - 2:17-23 | complete | Local Whisper large-v3-turbo (MLX) |
 | 2023-04-02 | mmrncgs | The Fruit Of Faith | complete | Local Whisper large-v3-turbo (MLX) |

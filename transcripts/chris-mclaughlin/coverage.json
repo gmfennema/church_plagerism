@@ -1,16 +1,15 @@
 {
-  "generated_at": "2026-10-04T23:52:55.674116+00:00",
+  "generated_at": "2026-10-04T23:55:22.820987+00:00",
   "manifest_count": 99,
   "status_counts": {
-    "complete": 97,
-    "no_confirmed_youtube_match": 1,
+    "complete": 98,
     "transcription_failed": 1
   },
   "transcript_sources": {
-    "Local Whisper large-v3-turbo (MLX)": 70,
+    "Local Whisper large-v3-turbo (MLX)": 71,
     "YouTube auto captions": 27
   },
-  "transcript_word_count": 536879,
+  "transcript_word_count": 541436,
   "items": [
     {
       "title": "The Lord Is My Banner",
@@ -3090,7 +3089,32 @@
       "audio_url": "https://cdn.subsplash.com/audios/83RBNZ/747d170a-2892-4955-9415-9202f7b962a7/audio.mp3",
       "video_url": null,
       "duration_ms": 1841057,
-      "status": "no_confirmed_youtube_match"
+      "status": "complete",
+      "transcript_file": "items/2023-02-15_pdqm8qr_session-1-introduction.txt",
+      "metadata_file": "items/2023-02-15_pdqm8qr_session-1-introduction.json",
+      "transcript_source": "Local Whisper large-v3-turbo (MLX)",
+      "snippet_count": 416,
+      "word_count": 4557,
+      "first_timestamp": 0.0,
+      "last_timestamp": 1839.74,
+      "transcription": {
+        "engine": "mlx-whisper",
+        "engine_version": "0.4.3",
+        "mlx_version": "0.32.3",
+        "model_repo": "mlx-community/whisper-large-v3-turbo",
+        "model_revision": "a4aaeec0636e6fef84abdcbe3544cb2bf7e9f6fb",
+        "language": "en",
+        "word_timestamps": true,
+        "condition_on_previous_text": false,
+        "hallucination_silence_threshold": 2.0,
+        "audio_duration_seconds": 1841.031837,
+        "processing_seconds": 142.32608183299817,
+        "speed_multiple": 12.935308927847956,
+        "audio_retained": false,
+        "cloud_audio_processing": false,
+        "manually_corrected": false
+      },
+      "quality_flags": []
     },
     {
       "title": "Be Ready",

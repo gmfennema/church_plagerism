@@ -1,12 +1,12 @@
 {
-  "verified_transcripts": 97,
+  "verified_transcripts": 98,
   "matching_start_end_boundaries": true,
   "all_individual_files_in_combined": true,
   "timestamps_monotonic": true,
   "caption_segments_preserved_exactly": true,
-  "combined_bytes": 3789696,
-  "transcript_words": 536879,
-  "combined_sha256": "e632c44e023d2d52b2dcfb8bacd0de53c110f6b41d6cfd9447ca4d094761bb26",
+  "combined_bytes": 3820955,
+  "transcript_words": 541436,
+  "combined_sha256": "43eb5dfa63150ad7124118e4d445a779170057635beda05fce669c16280b4b14",
   "duration_discrepancies_over_10_percent_or_60_seconds": [],
   "verification_scope": "Structural and text-sample checks. Not a manual word-for-word audio verification. Names and references may be misrecognized.",
   "text_samples": [
@@ -810,6 +810,15 @@
       "last": "Amen.",
       "transcript_end_seconds": 2271.64,
       "archive_duration_seconds": 2274.377
+    },
+    {
+      "id": "pdqm8qr",
+      "title": "Session 1 - Introduction",
+      "first": "Our gracious Father, you over and over again have proven to be so faithful, so generous, so good to us.",
+      "middle": "and everyone did",
+      "last": "Amen.",
+      "transcript_end_seconds": 1840.14,
+      "archive_duration_seconds": 1841.057
     },
     {
       "id": "p45vvvg",
