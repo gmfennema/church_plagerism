@@ -13,6 +13,33 @@ The speaker page displayed **105** items on 2026-09-29 UTC. Its live `POST /cont
 
 **43 items** have high-confidence YouTube matches based on exact normalized titles, with Scripture used to resolve ambiguity. The remaining **56** have no confirmed YouTube counterpart. A match does not establish that captions can be downloaded.
 
+## Caption collection — 2026-10-04
+
+The first caption pass produced **27 English auto-caption transcripts**, containing **156,383 transcript words**. The combined file is ready for querying:
+
+- [`chris-mclaughlin-all.txt`](chris-mclaughlin-all.txt): chronological collection with a contents list, conspicuous START/END boundaries, stable recording IDs, dates, passages, source URLs, and timestamps.
+- [`items/`](items/): individual text transcripts and the original caption segments with provenance.
+- [`coverage.md`](coverage.md) / [`coverage.json`](coverage.json): status of every one of the 99 manifest recordings.
+- [`verification.json`](verification.json): integrity checks and beginning/middle/end text samples from every completed recording.
+
+**This is a partial corpus.** Of the 43 confirmed YouTube matches, 27 captions were retrieved and 16 requests returned `IpBlocked`. Those failures do not establish that the videos lack captions. The other 56 recordings have no confirmed YouTube match and were not fetched. No audio or video was downloaded, and no local transcription was performed. The archive's earlier 105-versus-99 discrepancy remains unresolved.
+
+Verification confirmed matching start/end boundaries, inclusion of each individual transcript in the combined file, ordered timestamps, and caption endpoints within 10% or 60 seconds of the archive durations. The caption text was inspected at the beginning, middle, and end; it has not been checked against audio. Automatic captions may misrecognize names, references, and quotations. Preserve the original captions and verify any consequential quotation against its recording.
+
+To rebuild the collection without network requests:
+
+```bash
+python3 transcripts/chris-mclaughlin/collect_captions.py --offline
+```
+
+After YouTube's limits clear, resume caption collection with:
+
+```bash
+python3 transcripts/chris-mclaughlin/collect_captions.py --retry-failed
+```
+
+The collector reuses completed caption files, spaces new requests, and stops network access on a blocking response. It never downloads audio/video. Audio transcription remains a later phase.
+
 ## What has been tried
 
 - The YouTube page's transcript export said **“No transcript is available”** for two recent matches (`BsHPzUBhjgA`, `cI2HJebQ6Qk`) and one older match (`9HdV078XZSg`). The player showed captions unavailable.
@@ -20,7 +47,7 @@ The speaker page displayed **105** items on 2026-09-29 UTC. Its live `POST /cont
 - `yt-dlp --skip-download --write-auto-subs` reached the same video's subtitle request but received HTTP 429.
 - A `faster-whisper` CPU transcription test in the cloud workspace was rejected by automatic approval review because model loading unexpectedly contacted a Microsoft telemetry endpoint. Do not assume that attempt produced a transcript. A local agent should choose a transcription setup with an understood network and privacy behavior.
 
-There are **no transcript files yet**. The 1–3 hour caption-only plan was an estimate conditional on accessible captions and cannot be promised for these recordings. This inventory is a handoff, not a finished corpus.
+At the time of the original handoff there were no transcript files. The earlier 1–3 hour caption-only plan was conditional on accessible captions; see the current collection status above.
 
 ## Suggested local workflow
 
