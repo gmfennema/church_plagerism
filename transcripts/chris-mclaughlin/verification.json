@@ -1,12 +1,12 @@
 {
-  "verified_transcripts": 77,
+  "verified_transcripts": 87,
   "matching_start_end_boundaries": true,
   "all_individual_files_in_combined": true,
   "timestamps_monotonic": true,
   "caption_segments_preserved_exactly": true,
-  "combined_bytes": 2943139,
-  "transcript_words": 416642,
-  "combined_sha256": "d09cef21a8e0cdd59b158e9490bbc102ed1ede039c702ba9e4ccb69a266c15ae",
+  "combined_bytes": 3377137,
+  "transcript_words": 478184,
+  "combined_sha256": "ab5f297bb866660cf28d5483e10c9181512a79f2950f0f48f1f021e817cdec02",
   "duration_discrepancies_over_10_percent_or_60_seconds": [],
   "verification_scope": "Structural and text-sample checks. Not a manual word-for-word audio verification. Names and references may be misrecognized.",
   "text_samples": [
@@ -398,6 +398,24 @@
       "archive_duration_seconds": 2330.226
     },
     {
+      "id": "p2hrcdm",
+      "title": "Session 7",
+      "first": "Our Father, thank you for this day, and thank you for the chance to meet together tonight.",
+      "middle": "mornings.",
+      "last": "We pray this in Jesus' name, amen.",
+      "transcript_end_seconds": 963.22,
+      "archive_duration_seconds": 965.198
+    },
+    {
+      "id": "pv752wm",
+      "title": "Session 6",
+      "first": "Father, we ask that in these next few minutes that you would, through your word and through",
+      "middle": "are in the family of the devil, there is going to be a particular nature versus if we are in the",
+      "last": "in these next few minutes. We lift this time to you. In Jesus' name we pray. Amen.",
+      "transcript_end_seconds": 1131.46,
+      "archive_duration_seconds": 1131.964
+    },
+    {
       "id": "z646g8z",
       "title": "A Better Authority",
       "first": "When I was a really little kid, I remember one of my favorite shows was Mr. Rogers.",
@@ -405,6 +423,15 @@
       "last": "Thank you.",
       "transcript_end_seconds": 2271.48,
       "archive_duration_seconds": 2271.66
+    },
+    {
+      "id": "6g5t8y8",
+      "title": "Session 5",
+      "first": "Let's read the passage, starting at verse 18, chapter 2, verse 18.",
+      "middle": "And then look at verse 27.",
+      "last": "I pray this in Jesus' name, amen.",
+      "transcript_end_seconds": 1596.36,
+      "archive_duration_seconds": 1598.093
     },
     {
       "id": "ssrjrcb",
@@ -416,6 +443,24 @@
       "archive_duration_seconds": 2335.059
     },
     {
+      "id": "xhvtfr5",
+      "title": "Session 4",
+      "first": "Heavenly Father, I thank you that you have given us your word, that you, by your spirit, have, that you've redeemed us, that you're shaping us and you're making us more and more into your image.",
+      "middle": "And whoever says he is in the light and hates his brother is still in darkness.",
+      "last": "I pray this in Jesus' name, amen.",
+      "transcript_end_seconds": 1005.72,
+      "archive_duration_seconds": 1008.091
+    },
+    {
+      "id": "syhmxmx",
+      "title": "Session 3",
+      "first": "Well, I'm so glad that you guys are here tonight",
+      "middle": "then we're saying that we don't need saving.",
+      "last": "I pray this in Jesus' name. Amen.",
+      "transcript_end_seconds": 1072.8,
+      "archive_duration_seconds": 1073.266
+    },
+    {
       "id": "wpxjmr3",
       "title": "He Has Made Him Known",
       "first": "And the Word became flesh and dwelt among us, and we have seen His glory, glory as of",
@@ -423,6 +468,15 @@
       "last": "Thank you.",
       "transcript_end_seconds": 2203.54,
       "archive_duration_seconds": 2223.621
+    },
+    {
+      "id": "6qz5f5x",
+      "title": "Session 1",
+      "first": "Our Father, thanks for all that you do for us, Lord, for being such a good and gracious God to us,",
+      "middle": "and we're going to just cling on to the spiritual stuff. And so what they would do is some of them",
+      "last": "We pray this in Jesus' name, amen.",
+      "transcript_end_seconds": 1204.2,
+      "archive_duration_seconds": 1206.099
     },
     {
       "id": "sjzj5ym",
@@ -515,6 +569,24 @@
       "archive_duration_seconds": 2270.406
     },
     {
+      "id": "5pmrrpf",
+      "title": "Session 8 - The Problem of Evil",
+      "first": "Tonight, we're going to look at this question of the problem of evil.",
+      "middle": "He has a sovereign will as well, which is that's the mystery will.",
+      "last": "Thank you.",
+      "transcript_end_seconds": 5354.02,
+      "archive_duration_seconds": 5354.083
+    },
+    {
+      "id": "k8nfv57",
+      "title": "Session 7 - The Case For The Resurrection",
+      "first": "Christianity itself is grounded, it's based upon this idea of the resurrection of Christ.",
+      "middle": "down here.",
+      "last": "corinthians 15.",
+      "transcript_end_seconds": 3845.94,
+      "archive_duration_seconds": 3846.086
+    },
+    {
       "id": "9h9fj9h",
       "title": "Face Suffering With Hope",
       "first": "We'll be reading from Ecclesiastes 6 and 7 today, starting at 610.",
@@ -524,6 +596,15 @@
       "archive_duration_seconds": 2406.426
     },
     {
+      "id": "vn462dn",
+      "title": "Session 6 - The Bible; Textual Criticism",
+      "first": "Let's get rolling.",
+      "middle": "Common variants, first of all, make up 99.75% of all textual variants.",
+      "last": "Thank you.",
+      "transcript_end_seconds": 4880.12,
+      "archive_duration_seconds": 4898.089
+    },
+    {
       "id": "ghykdcr",
       "title": "Enjoy God's Daily Gifts",
       "first": "You know, there are, there are few things in life that can get a grip on our hearts more than money.",
@@ -531,6 +612,15 @@
       "last": "Thank you.",
       "transcript_end_seconds": 2545.62,
       "archive_duration_seconds": 2546.155
+    },
+    {
+      "id": "jpzdg6w",
+      "title": "Session 4 - Does God Exist? (Part 2)",
+      "first": "Let's just start with the reading.",
+      "middle": "underwater",
+      "last": "Say that for another time.",
+      "transcript_end_seconds": 4667.82,
+      "archive_duration_seconds": 4670.197
     },
     {
       "id": "rq4ct8j",

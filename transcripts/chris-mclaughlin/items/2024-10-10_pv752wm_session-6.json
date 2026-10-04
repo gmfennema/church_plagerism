@@ -1,0 +1,1827 @@
+{
+  "title": "Session 6",
+  "date": "2024-10-10T00:00:00Z",
+  "scripture": "1 John 2:28-3:10",
+  "speaker": "Chris McLaughlin",
+  "site_url": "https://fieldspres.org/media/pv752wm/session-6",
+  "short_code": "pv752wm",
+  "subsplash_url": "https://subspla.sh/pv752wm",
+  "audio_url": "https://cdn.subsplash.com/audios/83RBNZ/dc44a835-fb04-4d59-b6bd-f8ae85aa4000/audio.mp3",
+  "video_url": null,
+  "duration_ms": 1131964,
+  "transcript_source": "Local Whisper large-v3-turbo (MLX)",
+  "transcript_source_url": "https://cdn.subsplash.com/audios/83RBNZ/dc44a835-fb04-4d59-b6bd-f8ae85aa4000/audio.mp3",
+  "language_code": "en",
+  "transcribed_at": "2026-10-04T22:50:47.055865+00:00",
+  "transcription": {
+    "engine": "mlx-whisper",
+    "engine_version": "0.4.3",
+    "mlx_version": "0.32.3",
+    "model_repo": "mlx-community/whisper-large-v3-turbo",
+    "model_revision": "a4aaeec0636e6fef84abdcbe3544cb2bf7e9f6fb",
+    "language": "en",
+    "word_timestamps": true,
+    "condition_on_previous_text": false,
+    "hallucination_silence_threshold": 2.0,
+    "audio_duration_seconds": 1131.937959,
+    "processing_seconds": 90.19196108300093,
+    "speed_multiple": 12.550319844562553,
+    "audio_retained": false,
+    "cloud_audio_processing": false,
+    "manually_corrected": false
+  },
+  "quality_flags": [],
+  "snippets": [
+    {
+      "start": 0.0,
+      "duration": 7.3,
+      "text": "Father, we ask that in these next few minutes that you would, through your word and through",
+      "avg_logprob": -0.08313604111367083,
+      "no_speech_prob": 5.789262840817655e-13,
+      "compression_ratio": 1.8009708737864079,
+      "temperature": 0.0
+    },
+    {
+      "start": 9.639999999999995,
+      "duration": 6.9200000000000035,
+      "text": "myself, Lord, that you would speak, that you would help us to understand a little bit more about",
+      "avg_logprob": -0.08313604111367083,
+      "no_speech_prob": 5.789262840817655e-13,
+      "compression_ratio": 1.8009708737864079,
+      "temperature": 0.0
+    },
+    {
+      "start": 16.56,
+      "duration": 5.440000000000001,
+      "text": "your word and what you're saying to us through this passage in John, in 1 John. And we thank",
+      "avg_logprob": -0.08313604111367083,
+      "no_speech_prob": 5.789262840817655e-13,
+      "compression_ratio": 1.8009708737864079,
+      "temperature": 0.0
+    },
+    {
+      "start": 22.0,
+      "duration": 6.02,
+      "text": "you, Lord, that you've given us your spirit to understand it and to apply it to our life.",
+      "avg_logprob": -0.08313604111367083,
+      "no_speech_prob": 5.789262840817655e-13,
+      "compression_ratio": 1.8009708737864079,
+      "temperature": 0.0
+    },
+    {
+      "start": 29.92,
+      "duration": 8.019999999999996,
+      "text": "Amen. All right. One of the things that John is doing in this section, which I think is so",
+      "avg_logprob": -0.05417551257746006,
+      "no_speech_prob": 1.3618748056359875e-12,
+      "compression_ratio": 1.7306273062730628,
+      "temperature": 0.0
+    },
+    {
+      "start": 37.94,
+      "duration": 4.440000000000005,
+      "text": "key, is he's talking about this idea of being born of God, right? You guys have been talking",
+      "avg_logprob": -0.05417551257746006,
+      "no_speech_prob": 1.3618748056359875e-12,
+      "compression_ratio": 1.7306273062730628,
+      "temperature": 0.0
+    },
+    {
+      "start": 42.38,
+      "duration": 5.640000000000001,
+      "text": "about this idea, being born of God. So what does it mean to be born of God? This is a major topic",
+      "avg_logprob": -0.05417551257746006,
+      "no_speech_prob": 1.3618748056359875e-12,
+      "compression_ratio": 1.7306273062730628,
+      "temperature": 0.0
+    },
+    {
+      "start": 48.02,
+      "duration": 4.759999999999998,
+      "text": "in John's writings, actually. Like if you go through, like just reading through the gospel",
+      "avg_logprob": -0.05417551257746006,
+      "no_speech_prob": 1.3618748056359875e-12,
+      "compression_ratio": 1.7306273062730628,
+      "temperature": 0.0
+    },
+    {
+      "start": 52.78,
+      "duration": 3.9399999999999977,
+      "text": "of John as we're doing on Sunday mornings, you know, in chapter one, he talks about chapter one,",
+      "avg_logprob": -0.05417551257746006,
+      "no_speech_prob": 1.3618748056359875e-12,
+      "compression_ratio": 1.7306273062730628,
+      "temperature": 0.0
+    },
+    {
+      "start": 56.72,
+      "duration": 5.939999999999998,
+      "text": "verses 12 and 13, he talks about this idea of that we are given the right to become children of God.",
+      "avg_logprob": -0.11515054335960975,
+      "no_speech_prob": 1.0440952573007034e-12,
+      "compression_ratio": 1.5614754098360655,
+      "temperature": 0.0
+    },
+    {
+      "start": 63.18,
+      "duration": 6.68,
+      "text": "And he says, not by blood, not by the will of man, nor the will of the flesh, but of God, right?",
+      "avg_logprob": -0.11515054335960975,
+      "no_speech_prob": 1.0440952573007034e-12,
+      "compression_ratio": 1.5614754098360655,
+      "temperature": 0.0
+    },
+    {
+      "start": 70.12,
+      "duration": 5.859999999999999,
+      "text": "Like that's what he's talking about there. This week, actually this Sunday, Terry Fox is going",
+      "avg_logprob": -0.11515054335960975,
+      "no_speech_prob": 1.0440952573007034e-12,
+      "compression_ratio": 1.5614754098360655,
+      "temperature": 0.0
+    },
+    {
+      "start": 75.98,
+      "duration": 5.599999999999994,
+      "text": "to preach and he's preaching on John chapter three, which is the story of Nicodemus. And",
+      "avg_logprob": -0.11515054335960975,
+      "no_speech_prob": 1.0440952573007034e-12,
+      "compression_ratio": 1.5614754098360655,
+      "temperature": 0.0
+    },
+    {
+      "start": 81.58,
+      "duration": 6.5,
+      "text": "And Nicodemus is really struggling with this idea of being born again, right?",
+      "avg_logprob": -0.11274455078935201,
+      "no_speech_prob": 6.689672687326675e-13,
+      "compression_ratio": 1.7673469387755103,
+      "temperature": 0.0
+    },
+    {
+      "start": 88.22,
+      "duration": 1.5400000000000063,
+      "text": "This idea of the rebirth.",
+      "avg_logprob": -0.11274455078935201,
+      "no_speech_prob": 6.689672687326675e-13,
+      "compression_ratio": 1.7673469387755103,
+      "temperature": 0.0
+    },
+    {
+      "start": 90.12,
+      "duration": 4.359999999999999,
+      "text": "And so I won't go into that, but come on Sunday, because you'll hear him talk about that.",
+      "avg_logprob": -0.11274455078935201,
+      "no_speech_prob": 6.689672687326675e-13,
+      "compression_ratio": 1.7673469387755103,
+      "temperature": 0.0
+    },
+    {
+      "start": 95.52,
+      "duration": 6.200000000000003,
+      "text": "And then in John 8, he talks about this idea of being born of God again, which we're going to look at here in a little bit.",
+      "avg_logprob": -0.11274455078935201,
+      "no_speech_prob": 6.689672687326675e-13,
+      "compression_ratio": 1.7673469387755103,
+      "temperature": 0.0
+    },
+    {
+      "start": 101.86,
+      "duration": 6.260000000000005,
+      "text": "But being born of God, what it's referring to here is a total spiritual regeneration.",
+      "avg_logprob": -0.11274455078935201,
+      "no_speech_prob": 6.689672687326675e-13,
+      "compression_ratio": 1.7673469387755103,
+      "temperature": 0.0
+    },
+    {
+      "start": 108.94,
+      "duration": 1.7000000000000028,
+      "text": "Total spiritual regeneration.",
+      "avg_logprob": -0.11274455078935201,
+      "no_speech_prob": 6.689672687326675e-13,
+      "compression_ratio": 1.7673469387755103,
+      "temperature": 0.0
+    },
+    {
+      "start": 111.66000000000001,
+      "duration": 3.0999999999999943,
+      "text": "It is the beginning of a new spiritual life.",
+      "avg_logprob": -0.14283187048775808,
+      "no_speech_prob": 7.289913572967877e-13,
+      "compression_ratio": 1.7347826086956522,
+      "temperature": 0.0
+    },
+    {
+      "start": 114.88,
+      "duration": 8.36,
+      "text": "Like if you think about Ephesians chapter two, okay, when the apostle Paul says that we all were once dead in our sins and trespasses, right?",
+      "avg_logprob": -0.14283187048775808,
+      "no_speech_prob": 7.289913572967877e-13,
+      "compression_ratio": 1.7347826086956522,
+      "temperature": 0.0
+    },
+    {
+      "start": 123.74,
+      "duration": 3.160000000000011,
+      "text": "He says we were, that was our, this is our story.",
+      "avg_logprob": -0.14283187048775808,
+      "no_speech_prob": 7.289913572967877e-13,
+      "compression_ratio": 1.7347826086956522,
+      "temperature": 0.0
+    },
+    {
+      "start": 127.06,
+      "duration": 1.3400000000000034,
+      "text": "Ephesians two, one through 10.",
+      "avg_logprob": -0.14283187048775808,
+      "no_speech_prob": 7.289913572967877e-13,
+      "compression_ratio": 1.7347826086956522,
+      "temperature": 0.0
+    },
+    {
+      "start": 128.98,
+      "duration": 6.060000000000002,
+      "text": "Man, that is every Christian story that we were once dead in our sins and trespasses.",
+      "avg_logprob": -0.14283187048775808,
+      "no_speech_prob": 7.289913572967877e-13,
+      "compression_ratio": 1.7347826086956522,
+      "temperature": 0.0
+    },
+    {
+      "start": 135.26,
+      "duration": 4.360000000000014,
+      "text": "And then verse four, it says, but God, right?",
+      "avg_logprob": -0.14283187048775808,
+      "no_speech_prob": 7.289913572967877e-13,
+      "compression_ratio": 1.7347826086956522,
+      "temperature": 0.0
+    },
+    {
+      "start": 141.58,
+      "duration": 9.45999999999998,
+      "text": "of his great mercy, he has made us alive with Christ, right? It is the beginning of a new",
+      "avg_logprob": -0.05676473890032087,
+      "no_speech_prob": 8.100557984808132e-13,
+      "compression_ratio": 1.645021645021645,
+      "temperature": 0.0
+    },
+    {
+      "start": 151.04,
+      "duration": 6.159999999999997,
+      "text": "spiritual life. And this new spiritual life gives us spiritual understanding. We talked about that",
+      "avg_logprob": -0.05676473890032087,
+      "no_speech_prob": 8.100557984808132e-13,
+      "compression_ratio": 1.645021645021645,
+      "temperature": 0.0
+    },
+    {
+      "start": 157.2,
+      "duration": 7.0,
+      "text": "last night. Remember when John was writing in the passage before this, talking about this idea of",
+      "avg_logprob": -0.05676473890032087,
+      "no_speech_prob": 8.100557984808132e-13,
+      "compression_ratio": 1.645021645021645,
+      "temperature": 0.0
+    },
+    {
+      "start": 164.2,
+      "duration": 6.5,
+      "text": "the anointing of the Holy One, the Holy Spirit that helps us to understand God's word. And we",
+      "avg_logprob": -0.05676473890032087,
+      "no_speech_prob": 8.100557984808132e-13,
+      "compression_ratio": 1.645021645021645,
+      "temperature": 0.0
+    },
+    {
+      "start": 171.58,
+      "duration": 6.119999999999976,
+      "text": "idea. But he also now is going to talk about some other things that this new spiritual life",
+      "avg_logprob": -0.07692978056994351,
+      "no_speech_prob": 8.164341056514368e-13,
+      "compression_ratio": 1.8115942028985508,
+      "temperature": 0.0
+    },
+    {
+      "start": 177.7,
+      "duration": 7.320000000000022,
+      "text": "gives us. There's two things in particular. The first is that in this new spiritual life,",
+      "avg_logprob": -0.07692978056994351,
+      "no_speech_prob": 8.164341056514368e-13,
+      "compression_ratio": 1.8115942028985508,
+      "temperature": 0.0
+    },
+    {
+      "start": 185.18,
+      "duration": 7.4599999999999795,
+      "text": "it changes our spiritual parentage, changes our spiritual parentage. We've talked about this idea",
+      "avg_logprob": -0.07692978056994351,
+      "no_speech_prob": 8.164341056514368e-13,
+      "compression_ratio": 1.8115942028985508,
+      "temperature": 0.0
+    },
+    {
+      "start": 192.64,
+      "duration": 4.340000000000003,
+      "text": "that John is presenting a lot of like black and white ideas, like things are just either yes or",
+      "avg_logprob": -0.07692978056994351,
+      "no_speech_prob": 8.164341056514368e-13,
+      "compression_ratio": 1.8115942028985508,
+      "temperature": 0.0
+    },
+    {
+      "start": 196.98,
+      "duration": 8.740000000000009,
+      "text": "know, right? A lot of contrast, a lot of dualities. And this is another one. He's saying,",
+      "avg_logprob": -0.1316932423909505,
+      "no_speech_prob": 9.107973706831696e-13,
+      "compression_ratio": 1.652694610778443,
+      "temperature": 0.0
+    },
+    {
+      "start": 205.96,
+      "duration": 5.400000000000006,
+      "text": "we all have a spiritual father. We all have a spiritual father, but there's only two options",
+      "avg_logprob": -0.1316932423909505,
+      "no_speech_prob": 9.107973706831696e-13,
+      "compression_ratio": 1.652694610778443,
+      "temperature": 0.0
+    },
+    {
+      "start": 211.36,
+      "duration": 6.939999999999998,
+      "text": "about who our spiritual father is. It's either God or the devil. And there's no other option.",
+      "avg_logprob": -0.1316932423909505,
+      "no_speech_prob": 9.107973706831696e-13,
+      "compression_ratio": 1.652694610778443,
+      "temperature": 0.0
+    },
+    {
+      "start": 220.27999999999997,
+      "duration": 7.260000000000019,
+      "text": "like there's no neutrality to this john looks at the old testament i think to give us some reason",
+      "avg_logprob": -0.05134303005118119,
+      "no_speech_prob": 6.848305017688461e-13,
+      "compression_ratio": 1.60989010989011,
+      "temperature": 0.0
+    },
+    {
+      "start": 227.54,
+      "duration": 5.3799999999999955,
+      "text": "for this now uh he's going to get to it actually in next week's passage if you look at verse 12",
+      "avg_logprob": -0.05134303005118119,
+      "no_speech_prob": 6.848305017688461e-13,
+      "compression_ratio": 1.60989010989011,
+      "temperature": 0.0
+    },
+    {
+      "start": 232.92,
+      "duration": 8.240000000000009,
+      "text": "really quick he's he's going to jump right to the example of cain okay so that draws us all the way",
+      "avg_logprob": -0.05134303005118119,
+      "no_speech_prob": 6.848305017688461e-13,
+      "compression_ratio": 1.60989010989011,
+      "temperature": 0.0
+    },
+    {
+      "start": 241.16,
+      "duration": 6.599999999999994,
+      "text": "back to Genesis, Cain and Abel. Now, if you guys remember the story, in Genesis chapter three,",
+      "avg_logprob": -0.12108123186722543,
+      "no_speech_prob": 6.333473784488064e-13,
+      "compression_ratio": 1.695067264573991,
+      "temperature": 0.0
+    },
+    {
+      "start": 248.08,
+      "duration": 6.059999999999974,
+      "text": "sin enters the world. There's the fall of man. And after the fall, Adam and Eve are expelled",
+      "avg_logprob": -0.12108123186722543,
+      "no_speech_prob": 6.333473784488064e-13,
+      "compression_ratio": 1.695067264573991,
+      "temperature": 0.0
+    },
+    {
+      "start": 254.14,
+      "duration": 4.660000000000025,
+      "text": "from the garden of Eden. And then they have children. They have Cain and they have Abel.",
+      "avg_logprob": -0.12108123186722543,
+      "no_speech_prob": 6.333473784488064e-13,
+      "compression_ratio": 1.695067264573991,
+      "temperature": 0.0
+    },
+    {
+      "start": 259.92,
+      "duration": 7.359999999999957,
+      "text": "Now, in chapter four, some things happen and Cain ends up killing Abel. And you see right after that,",
+      "avg_logprob": -0.12108123186722543,
+      "no_speech_prob": 6.333473784488064e-13,
+      "compression_ratio": 1.695067264573991,
+      "temperature": 0.0
+    },
+    {
+      "start": 267.28,
+      "duration": 8.160000000000025,
+      "text": "Cain has, begins to have children. Okay. And there's a genealogy there. Now, I don't know if",
+      "avg_logprob": -0.107563811463195,
+      "no_speech_prob": 6.982530330844339e-13,
+      "compression_ratio": 1.5434782608695652,
+      "temperature": 0.0
+    },
+    {
+      "start": 275.44,
+      "duration": 6.439999999999998,
+      "text": "genealogies are anyone's favorite genre of biblical literature, but there's some interesting",
+      "avg_logprob": -0.107563811463195,
+      "no_speech_prob": 6.982530330844339e-13,
+      "compression_ratio": 1.5434782608695652,
+      "temperature": 0.0
+    },
+    {
+      "start": 281.88,
+      "duration": 6.340000000000032,
+      "text": "things in these genealogies, especially this one. In chapter four, you have the genealogy of Cain.",
+      "avg_logprob": -0.107563811463195,
+      "no_speech_prob": 6.982530330844339e-13,
+      "compression_ratio": 1.5434782608695652,
+      "temperature": 0.0
+    },
+    {
+      "start": 288.22,
+      "duration": 9.279999999999973,
+      "text": "and in that genealogy you begin to see greed, deceit, pride, and then eventually you get to",
+      "avg_logprob": -0.17492553165980748,
+      "no_speech_prob": 6.585747030184164e-13,
+      "compression_ratio": 1.7626262626262625,
+      "temperature": 0.0
+    },
+    {
+      "start": 297.5,
+      "duration": 5.060000000000002,
+      "text": "the sixth generation. And there's a, the sixth generation after Cain, there's a man named Lamech.",
+      "avg_logprob": -0.17492553165980748,
+      "no_speech_prob": 6.585747030184164e-13,
+      "compression_ratio": 1.7626262626262625,
+      "temperature": 0.0
+    },
+    {
+      "start": 302.82,
+      "duration": 4.8799999999999955,
+      "text": "And Lamech is born and he gets married, but then he takes two wives, it says.",
+      "avg_logprob": -0.17492553165980748,
+      "no_speech_prob": 6.585747030184164e-13,
+      "compression_ratio": 1.7626262626262625,
+      "temperature": 0.0
+    },
+    {
+      "start": 308.38,
+      "duration": 5.300000000000011,
+      "text": "And then he murders people. And then he says that he's boasting in those murders.",
+      "avg_logprob": -0.17492553165980748,
+      "no_speech_prob": 6.585747030184164e-13,
+      "compression_ratio": 1.7626262626262625,
+      "temperature": 0.0
+    },
+    {
+      "start": 314.40000000000003,
+      "duration": 8.139999999999986,
+      "text": "all right so in that genealogy you don't see really anything but just pride greed boasting",
+      "avg_logprob": -0.081346922023322,
+      "no_speech_prob": 6.794820240317578e-13,
+      "compression_ratio": 1.7922705314009661,
+      "temperature": 0.0
+    },
+    {
+      "start": 322.54,
+      "duration": 7.199999999999989,
+      "text": "and murder the line of cain now immediately following that you have another genealogy",
+      "avg_logprob": -0.081346922023322,
+      "no_speech_prob": 6.794820240317578e-13,
+      "compression_ratio": 1.7922705314009661,
+      "temperature": 0.0
+    },
+    {
+      "start": 330.44000000000005,
+      "duration": 5.279999999999973,
+      "text": "after abel died adam and eve had another son his name was seth and then then you have the line of",
+      "avg_logprob": -0.081346922023322,
+      "no_speech_prob": 6.794820240317578e-13,
+      "compression_ratio": 1.7922705314009661,
+      "temperature": 0.0
+    },
+    {
+      "start": 335.72,
+      "duration": 6.419999999999959,
+      "text": "seth and in seth what's so interesting about that line is is that as you start to read the names",
+      "avg_logprob": -0.081346922023322,
+      "no_speech_prob": 6.794820240317578e-13,
+      "compression_ratio": 1.7922705314009661,
+      "temperature": 0.0
+    },
+    {
+      "start": 343.68,
+      "duration": 8.740000000000009,
+      "text": "in Hebrew are sort of anticipating the fulfillment of a promise that we're given, that there's going",
+      "avg_logprob": -0.08177846543332364,
+      "no_speech_prob": 5.903622317567081e-13,
+      "compression_ratio": 1.799043062200957,
+      "temperature": 0.0
+    },
+    {
+      "start": 352.42,
+      "duration": 7.060000000000002,
+      "text": "to be a son born that's going to crush the head of the serpent, okay? That there's going to be this",
+      "avg_logprob": -0.08177846543332364,
+      "no_speech_prob": 5.903622317567081e-13,
+      "compression_ratio": 1.799043062200957,
+      "temperature": 0.0
+    },
+    {
+      "start": 359.48,
+      "duration": 7.939999999999998,
+      "text": "child that's born that will defeat evil and sin forever. And some of those names, as they're",
+      "avg_logprob": -0.08177846543332364,
+      "no_speech_prob": 5.903622317567081e-13,
+      "compression_ratio": 1.799043062200957,
+      "temperature": 0.0
+    },
+    {
+      "start": 367.42,
+      "duration": 4.419999999999959,
+      "text": "having children, it's like they're anticipating maybe this is going to be the son.",
+      "avg_logprob": -0.08177846543332364,
+      "no_speech_prob": 5.903622317567081e-13,
+      "compression_ratio": 1.799043062200957,
+      "temperature": 0.0
+    },
+    {
+      "start": 373.68,
+      "duration": 4.680000000000007,
+      "text": "to the eighth generation there. And guess what? There's another son that's born and his name is",
+      "avg_logprob": -0.13365195194880167,
+      "no_speech_prob": 6.611515805318713e-13,
+      "compression_ratio": 1.6388888888888888,
+      "temperature": 0.0
+    },
+    {
+      "start": 378.36,
+      "duration": 7.8799999999999955,
+      "text": "Lamech also. It's really interesting. And that Lamech is totally different. He has a son.",
+      "avg_logprob": -0.13365195194880167,
+      "no_speech_prob": 6.611515805318713e-13,
+      "compression_ratio": 1.6388888888888888,
+      "temperature": 0.0
+    },
+    {
+      "start": 386.54,
+      "duration": 7.399999999999977,
+      "text": "He names him Noah. And he has, he names him Noah because he asks the question,",
+      "avg_logprob": -0.13365195194880167,
+      "no_speech_prob": 6.611515805318713e-13,
+      "compression_ratio": 1.6388888888888888,
+      "temperature": 0.0
+    },
+    {
+      "start": 394.22,
+      "duration": 9.099999999999966,
+      "text": "maybe this is going to be the one. What you see in that genealogy is not pride and greed,",
+      "avg_logprob": -0.13365195194880167,
+      "no_speech_prob": 6.611515805318713e-13,
+      "compression_ratio": 1.6388888888888888,
+      "temperature": 0.0
+    },
+    {
+      "start": 403.68,
+      "duration": 5.939999999999998,
+      "text": "and murder, and boasting, but what you see is faith being passed down from generation to",
+      "avg_logprob": -0.06988480284407332,
+      "no_speech_prob": 8.724641560424462e-13,
+      "compression_ratio": 1.7894736842105263,
+      "temperature": 0.0
+    },
+    {
+      "start": 409.62,
+      "duration": 4.199999999999989,
+      "text": "generation. And so right from the very beginning, there's already a division",
+      "avg_logprob": -0.06988480284407332,
+      "no_speech_prob": 8.724641560424462e-13,
+      "compression_ratio": 1.7894736842105263,
+      "temperature": 0.0
+    },
+    {
+      "start": 416.12000000000006,
+      "duration": 4.279999999999916,
+      "text": "between the children of God and the children of the devil, right? Like, I'm not pointing to you",
+      "avg_logprob": -0.06988480284407332,
+      "no_speech_prob": 8.724641560424462e-13,
+      "compression_ratio": 1.7894736842105263,
+      "temperature": 0.0
+    },
+    {
+      "start": 420.4,
+      "duration": 7.020000000000039,
+      "text": "again. But you guys see what I'm saying? Like, there's already this very stark division that's",
+      "avg_logprob": -0.06988480284407332,
+      "no_speech_prob": 8.724641560424462e-13,
+      "compression_ratio": 1.7894736842105263,
+      "temperature": 0.0
+    },
+    {
+      "start": 427.42,
+      "duration": 5.5,
+      "text": "going on in the world. And so what's going on here is John is picking up on this idea",
+      "avg_logprob": -0.06988480284407332,
+      "no_speech_prob": 8.724641560424462e-13,
+      "compression_ratio": 1.7894736842105263,
+      "temperature": 0.0
+    },
+    {
+      "start": 433.68,
+      "duration": 8.319999999999993,
+      "text": "Because Jesus does in John 8, we're going to see this in just a second, that there's either the family of God, we're either of the family of God or the family of the devil.",
+      "avg_logprob": -0.15895269250357022,
+      "no_speech_prob": 6.138609585926158e-13,
+      "compression_ratio": 1.6787564766839378,
+      "temperature": 0.0
+    },
+    {
+      "start": 442.16,
+      "duration": 1.2999999999999545,
+      "text": "And there's no other option.",
+      "avg_logprob": -0.15895269250357022,
+      "no_speech_prob": 6.138609585926158e-13,
+      "compression_ratio": 1.6787564766839378,
+      "temperature": 0.0
+    },
+    {
+      "start": 443.6,
+      "duration": 1.1599999999999682,
+      "text": "There's no neutrality.",
+      "avg_logprob": -0.15895269250357022,
+      "no_speech_prob": 6.138609585926158e-13,
+      "compression_ratio": 1.6787564766839378,
+      "temperature": 0.0
+    },
+    {
+      "start": 445.64,
+      "duration": 0.4800000000000182,
+      "text": "Okay?",
+      "avg_logprob": -0.15895269250357022,
+      "no_speech_prob": 6.138609585926158e-13,
+      "compression_ratio": 1.6787564766839378,
+      "temperature": 0.0
+    },
+    {
+      "start": 446.72,
+      "duration": 2.579999999999984,
+      "text": "So it changes our spiritual parentage.",
+      "avg_logprob": -0.15895269250357022,
+      "no_speech_prob": 6.138609585926158e-13,
+      "compression_ratio": 1.6787564766839378,
+      "temperature": 0.0
+    },
+    {
+      "start": 449.38,
+      "duration": 6.699999999999989,
+      "text": "When we become born of God, we were born of the devil.",
+      "avg_logprob": -0.15895269250357022,
+      "no_speech_prob": 6.138609585926158e-13,
+      "compression_ratio": 1.6787564766839378,
+      "temperature": 0.0
+    },
+    {
+      "start": 456.7,
+      "duration": 5.439999999999998,
+      "text": "And what's happened is God has then adopted us and brought us into his family.",
+      "avg_logprob": -0.14706405639648437,
+      "no_speech_prob": 8.068973007119284e-13,
+      "compression_ratio": 1.95,
+      "temperature": 0.0
+    },
+    {
+      "start": 462.14,
+      "duration": 2.3600000000000136,
+      "text": "And now we have a new spiritual parentage.",
+      "avg_logprob": -0.14706405639648437,
+      "no_speech_prob": 8.068973007119284e-13,
+      "compression_ratio": 1.95,
+      "temperature": 0.0
+    },
+    {
+      "start": 465.08,
+      "duration": 5.759999999999991,
+      "text": "Now, when that happens, this is the other thing that happens, is that it changes our actions.",
+      "avg_logprob": -0.14706405639648437,
+      "no_speech_prob": 8.068973007119284e-13,
+      "compression_ratio": 1.95,
+      "temperature": 0.0
+    },
+    {
+      "start": 471.3,
+      "duration": 1.1599999999999682,
+      "text": "It changes our actions.",
+      "avg_logprob": -0.14706405639648437,
+      "no_speech_prob": 8.068973007119284e-13,
+      "compression_ratio": 1.95,
+      "temperature": 0.0
+    },
+    {
+      "start": 472.58,
+      "duration": 3.5600000000000023,
+      "text": "So we have a new spiritual parentage, but then secondly, it changes our actions.",
+      "avg_logprob": -0.14706405639648437,
+      "no_speech_prob": 8.068973007119284e-13,
+      "compression_ratio": 1.95,
+      "temperature": 0.0
+    },
+    {
+      "start": 477.8,
+      "duration": 3.819999999999993,
+      "text": "Just like we reflect in some ways the image of our physical parents, right?",
+      "avg_logprob": -0.14706405639648437,
+      "no_speech_prob": 8.068973007119284e-13,
+      "compression_ratio": 1.95,
+      "temperature": 0.0
+    },
+    {
+      "start": 481.82,
+      "duration": 1.7200000000000273,
+      "text": "So like we look like them.",
+      "avg_logprob": -0.14706405639648437,
+      "no_speech_prob": 8.068973007119284e-13,
+      "compression_ratio": 1.95,
+      "temperature": 0.0
+    },
+    {
+      "start": 483.54,
+      "duration": 1.1599999999999682,
+      "text": "We may act like them.",
+      "avg_logprob": -0.14706405639648437,
+      "no_speech_prob": 8.068973007119284e-13,
+      "compression_ratio": 1.95,
+      "temperature": 0.0
+    },
+    {
+      "start": 484.82,
+      "duration": 0.9000000000000341,
+      "text": "We may talk like them.",
+      "avg_logprob": -0.14706405639648437,
+      "no_speech_prob": 8.068973007119284e-13,
+      "compression_ratio": 1.95,
+      "temperature": 0.0
+    },
+    {
+      "start": 486.08,
+      "duration": 4.319999999999993,
+      "text": "Well, the same thing is true of our spiritual father.",
+      "avg_logprob": -0.15266608228587142,
+      "no_speech_prob": 5.524335329465391e-13,
+      "compression_ratio": 1.6784140969162995,
+      "temperature": 0.0
+    },
+    {
+      "start": 491.28,
+      "duration": 3.7200000000000273,
+      "text": "And it's not in how we look, but in how we act, how we behave.",
+      "avg_logprob": -0.15266608228587142,
+      "no_speech_prob": 5.524335329465391e-13,
+      "compression_ratio": 1.6784140969162995,
+      "temperature": 0.0
+    },
+    {
+      "start": 495.8,
+      "duration": 4.4599999999999795,
+      "text": "And a change in our spiritual parentage means a change in our actions.",
+      "avg_logprob": -0.15266608228587142,
+      "no_speech_prob": 5.524335329465391e-13,
+      "compression_ratio": 1.6784140969162995,
+      "temperature": 0.0
+    },
+    {
+      "start": 500.62,
+      "duration": 6.759999999999991,
+      "text": "It means actually once we become born of God, it actually leads to obedient discipleship.",
+      "avg_logprob": -0.15266608228587142,
+      "no_speech_prob": 5.524335329465391e-13,
+      "compression_ratio": 1.6784140969162995,
+      "temperature": 0.0
+    },
+    {
+      "start": 508.52,
+      "duration": 4.639999999999986,
+      "text": "Not that we're going to get it perfect all the time, and this passage is so helpful to understand that.",
+      "avg_logprob": -0.15266608228587142,
+      "no_speech_prob": 5.524335329465391e-13,
+      "compression_ratio": 1.6784140969162995,
+      "temperature": 0.0
+    },
+    {
+      "start": 513.16,
+      "duration": 2.8799999999999955,
+      "text": "But it will lead us to understand that.",
+      "avg_logprob": -0.1836977277483259,
+      "no_speech_prob": 7.639791577140898e-13,
+      "compression_ratio": 1.7422680412371134,
+      "temperature": 0.0
+    },
+    {
+      "start": 516.24,
+      "duration": 2.259999999999991,
+      "text": "So what does this mean?",
+      "avg_logprob": -0.1836977277483259,
+      "no_speech_prob": 7.639791577140898e-13,
+      "compression_ratio": 1.7422680412371134,
+      "temperature": 0.0
+    },
+    {
+      "start": 518.84,
+      "duration": 3.8199999999999363,
+      "text": "It means that we have been given then a new nature.",
+      "avg_logprob": -0.1836977277483259,
+      "no_speech_prob": 7.639791577140898e-13,
+      "compression_ratio": 1.7422680412371134,
+      "temperature": 0.0
+    },
+    {
+      "start": 523.32,
+      "duration": 1.0199999999999818,
+      "text": "A new nature.",
+      "avg_logprob": -0.1836977277483259,
+      "no_speech_prob": 7.639791577140898e-13,
+      "compression_ratio": 1.7422680412371134,
+      "temperature": 0.0
+    },
+    {
+      "start": 524.9200000000001,
+      "duration": 2.0799999999999272,
+      "text": "And this is so key.",
+      "avg_logprob": -0.1836977277483259,
+      "no_speech_prob": 7.639791577140898e-13,
+      "compression_ratio": 1.7422680412371134,
+      "temperature": 0.0
+    },
+    {
+      "start": 527.1,
+      "duration": 7.059999999999945,
+      "text": "We have to think about our lives in a way where we act out of our nature.",
+      "avg_logprob": -0.1836977277483259,
+      "no_speech_prob": 7.639791577140898e-13,
+      "compression_ratio": 1.7422680412371134,
+      "temperature": 0.0
+    },
+    {
+      "start": 534.84,
+      "duration": 1.6399999999999864,
+      "text": "We act out of our nature.",
+      "avg_logprob": -0.1836977277483259,
+      "no_speech_prob": 7.639791577140898e-13,
+      "compression_ratio": 1.7422680412371134,
+      "temperature": 0.0
+    },
+    {
+      "start": 536.92,
+      "duration": 2.3799999999999955,
+      "text": "We're going to do the things that we were made to do.",
+      "avg_logprob": -0.1836977277483259,
+      "no_speech_prob": 7.639791577140898e-13,
+      "compression_ratio": 1.7422680412371134,
+      "temperature": 0.0
+    },
+    {
+      "start": 539.72,
+      "duration": 2.6200000000000045,
+      "text": "So does anyone have a dog at home?",
+      "avg_logprob": -0.1836977277483259,
+      "no_speech_prob": 7.639791577140898e-13,
+      "compression_ratio": 1.7422680412371134,
+      "temperature": 0.0
+    },
+    {
+      "start": 543.16,
+      "duration": 5.100000000000023,
+      "text": "dogs? Yeah. Okay. So if you leave a bowl of food on the ground, what's the dog going to do?",
+      "avg_logprob": -0.05433846248015193,
+      "no_speech_prob": 8.292655299425855e-13,
+      "compression_ratio": 1.8849206349206349,
+      "temperature": 0.0
+    },
+    {
+      "start": 550.4,
+      "duration": 3.6399999999999864,
+      "text": "They're going to run over and they're going to eat it, right? Okay. That's because that's their",
+      "avg_logprob": -0.05433846248015193,
+      "no_speech_prob": 8.292655299425855e-13,
+      "compression_ratio": 1.8849206349206349,
+      "temperature": 0.0
+    },
+    {
+      "start": 554.04,
+      "duration": 5.920000000000073,
+      "text": "nature. That's what they're going to do. In the same way, we have a nature within us. And if we",
+      "avg_logprob": -0.05433846248015193,
+      "no_speech_prob": 8.292655299425855e-13,
+      "compression_ratio": 1.8849206349206349,
+      "temperature": 0.0
+    },
+    {
+      "start": 559.96,
+      "duration": 6.759999999999991,
+      "text": "are in the family of the devil, there is going to be a particular nature versus if we are in the",
+      "avg_logprob": -0.05433846248015193,
+      "no_speech_prob": 8.292655299425855e-13,
+      "compression_ratio": 1.8849206349206349,
+      "temperature": 0.0
+    },
+    {
+      "start": 566.72,
+      "duration": 4.579999999999927,
+      "text": "family of God, we're going to have a different nature. And what that means is that our actions",
+      "avg_logprob": -0.05433846248015193,
+      "no_speech_prob": 8.292655299425855e-13,
+      "compression_ratio": 1.8849206349206349,
+      "temperature": 0.0
+    },
+    {
+      "start": 573.16,
+      "duration": 5.019999999999982,
+      "text": "going to be different. All that's going to come out of us is going to be different, but that stems",
+      "avg_logprob": -0.03858755388830462,
+      "no_speech_prob": 7.759148141703309e-13,
+      "compression_ratio": 1.7962962962962963,
+      "temperature": 0.0
+    },
+    {
+      "start": 578.18,
+      "duration": 9.600000000000023,
+      "text": "from the inside and then comes out of us. Okay. And so, uh, I said all that already. Okay. So",
+      "avg_logprob": -0.03858755388830462,
+      "no_speech_prob": 7.759148141703309e-13,
+      "compression_ratio": 1.7962962962962963,
+      "temperature": 0.0
+    },
+    {
+      "start": 587.78,
+      "duration": 5.680000000000064,
+      "text": "what happens now, I'm like, wow, I just said the whole thing. Um, so, uh, what I think is so cool",
+      "avg_logprob": -0.03858755388830462,
+      "no_speech_prob": 7.759148141703309e-13,
+      "compression_ratio": 1.7962962962962963,
+      "temperature": 0.0
+    },
+    {
+      "start": 593.46,
+      "duration": 8.719999999999914,
+      "text": "about this is that this is, this is why, um, this is why, uh, us coming in, uh, let's say someone",
+      "avg_logprob": -0.03858755388830462,
+      "no_speech_prob": 7.759148141703309e-13,
+      "compression_ratio": 1.7962962962962963,
+      "temperature": 0.0
+    },
+    {
+      "start": 603.16,
+      "duration": 3.4200000000000728,
+      "text": "I want to be a Christian and I'm just going to start acting like a Christian.",
+      "avg_logprob": -0.19132841679087856,
+      "no_speech_prob": 7.375890263144891e-13,
+      "compression_ratio": 1.9018691588785046,
+      "temperature": 0.0
+    },
+    {
+      "start": 607.82,
+      "duration": 2.0,
+      "text": "And that's the way that they're going to.",
+      "avg_logprob": -0.19132841679087856,
+      "no_speech_prob": 7.375890263144891e-13,
+      "compression_ratio": 1.9018691588785046,
+      "temperature": 0.0
+    },
+    {
+      "start": 610.04,
+      "duration": 5.460000000000036,
+      "text": "And that's just like kind of coming in and trying to be born of God,",
+      "avg_logprob": -0.19132841679087856,
+      "no_speech_prob": 7.375890263144891e-13,
+      "compression_ratio": 1.9018691588785046,
+      "temperature": 0.0
+    },
+    {
+      "start": 615.5,
+      "duration": 4.080000000000041,
+      "text": "but just forcing themselves to do it by just going through the motions",
+      "avg_logprob": -0.19132841679087856,
+      "no_speech_prob": 7.375890263144891e-13,
+      "compression_ratio": 1.9018691588785046,
+      "temperature": 0.0
+    },
+    {
+      "start": 620.9799999999999,
+      "duration": 1.7600000000001046,
+      "text": "and doing the actions of it.",
+      "avg_logprob": -0.19132841679087856,
+      "no_speech_prob": 7.375890263144891e-13,
+      "compression_ratio": 1.9018691588785046,
+      "temperature": 0.0
+    },
+    {
+      "start": 622.82,
+      "duration": 1.8799999999999955,
+      "text": "And it doesn't work that way.",
+      "avg_logprob": -0.19132841679087856,
+      "no_speech_prob": 7.375890263144891e-13,
+      "compression_ratio": 1.9018691588785046,
+      "temperature": 0.0
+    },
+    {
+      "start": 624.98,
+      "duration": 1.240000000000009,
+      "text": "It doesn't work that way.",
+      "avg_logprob": -0.19132841679087856,
+      "no_speech_prob": 7.375890263144891e-13,
+      "compression_ratio": 1.9018691588785046,
+      "temperature": 0.0
+    },
+    {
+      "start": 626.62,
+      "duration": 3.7000000000000455,
+      "text": "It has to be done from an internal change that God does in us.",
+      "avg_logprob": -0.19132841679087856,
+      "no_speech_prob": 7.375890263144891e-13,
+      "compression_ratio": 1.9018691588785046,
+      "temperature": 0.0
+    },
+    {
+      "start": 630.32,
+      "duration": 7.779999999999973,
+      "text": "and then from that then all of a sudden we want to obey we want to follow what god is doing",
+      "avg_logprob": -0.10482065442582252,
+      "no_speech_prob": 6.019873185006408e-13,
+      "compression_ratio": 1.5988372093023255,
+      "temperature": 0.0
+    },
+    {
+      "start": 638.1,
+      "duration": 8.600000000000023,
+      "text": "so uh really quickly open your bible to the gospel of john chapter 8 and you're going to",
+      "avg_logprob": -0.10482065442582252,
+      "no_speech_prob": 6.019873185006408e-13,
+      "compression_ratio": 1.5988372093023255,
+      "temperature": 0.0
+    },
+    {
+      "start": 646.7,
+      "duration": 8.8599999999999,
+      "text": "see this play out with the pharisees uh in one of jesus's more heated uh discussions with them",
+      "avg_logprob": -0.10482065442582252,
+      "no_speech_prob": 6.019873185006408e-13,
+      "compression_ratio": 1.5988372093023255,
+      "temperature": 0.0
+    },
+    {
+      "start": 655.56,
+      "duration": 5.880000000000109,
+      "text": "John chapter 8 verse 37. John 8. I'm going to start at 37.",
+      "avg_logprob": -0.2162362053280785,
+      "no_speech_prob": 8.556106127419194e-13,
+      "compression_ratio": 1.5647668393782384,
+      "temperature": 0.0
+    },
+    {
+      "start": 662.6600000000001,
+      "duration": 8.599999999999909,
+      "text": "Okay. So he says, here we go. I know that you are offspring of Abraham. This is Jesus talking",
+      "avg_logprob": -0.2162362053280785,
+      "no_speech_prob": 8.556106127419194e-13,
+      "compression_ratio": 1.5647668393782384,
+      "temperature": 0.0
+    },
+    {
+      "start": 671.26,
+      "duration": 7.060000000000059,
+      "text": "to the Pharisees, to the Jewish authorities. I know that you are offspring of Abraham,",
+      "avg_logprob": -0.2162362053280785,
+      "no_speech_prob": 8.556106127419194e-13,
+      "compression_ratio": 1.5647668393782384,
+      "temperature": 0.0
+    },
+    {
+      "start": 678.54,
+      "duration": 4.0,
+      "text": "yet you seek to kill me because my word finds no place in you.",
+      "avg_logprob": -0.2162362053280785,
+      "no_speech_prob": 8.556106127419194e-13,
+      "compression_ratio": 1.5647668393782384,
+      "temperature": 0.0
+    },
+    {
+      "start": 683.34,
+      "duration": 7.059999999999945,
+      "text": "I speak of what I've seen with my father and you do what you have heard from your father.",
+      "avg_logprob": -0.1605606286422066,
+      "no_speech_prob": 7.790471826668588e-13,
+      "compression_ratio": 1.6081081081081081,
+      "temperature": 0.0
+    },
+    {
+      "start": 691.38,
+      "duration": 6.580000000000041,
+      "text": "Okay, notice the duality, right? There it is again. Jesus has a father, but it's a different",
+      "avg_logprob": -0.1605606286422066,
+      "no_speech_prob": 7.790471826668588e-13,
+      "compression_ratio": 1.6081081081081081,
+      "temperature": 0.0
+    },
+    {
+      "start": 697.96,
+      "duration": 6.2999999999999545,
+      "text": "father than the Jewish authorities. They answered him, Abraham is our father. And Jesus said to them,",
+      "avg_logprob": -0.1605606286422066,
+      "no_speech_prob": 7.790471826668588e-13,
+      "compression_ratio": 1.6081081081081081,
+      "temperature": 0.0
+    },
+    {
+      "start": 704.48,
+      "duration": 3.480000000000018,
+      "text": "if you were Abraham's children, you would be doing the works of Abraham,",
+      "avg_logprob": -0.1605606286422066,
+      "no_speech_prob": 7.790471826668588e-13,
+      "compression_ratio": 1.6081081081081081,
+      "temperature": 0.0
+    },
+    {
+      "start": 708.52,
+      "duration": 3.2000000000000455,
+      "text": "the works Abraham did, but now you seek to kill me.",
+      "avg_logprob": -0.22747370980002662,
+      "no_speech_prob": 9.657232695817197e-13,
+      "compression_ratio": 1.6177777777777778,
+      "temperature": 0.0
+    },
+    {
+      "start": 712.28,
+      "duration": 4.639999999999986,
+      "text": "A man who has told you the truth that I heard from God.",
+      "avg_logprob": -0.22747370980002662,
+      "no_speech_prob": 9.657232695817197e-13,
+      "compression_ratio": 1.6177777777777778,
+      "temperature": 0.0
+    },
+    {
+      "start": 717.94,
+      "duration": 1.6399999999999864,
+      "text": "This is not what Abraham did.",
+      "avg_logprob": -0.22747370980002662,
+      "no_speech_prob": 9.657232695817197e-13,
+      "compression_ratio": 1.6177777777777778,
+      "temperature": 0.0
+    },
+    {
+      "start": 719.94,
+      "duration": 1.919999999999959,
+      "text": "You are doing the works your father did.",
+      "avg_logprob": -0.22747370980002662,
+      "no_speech_prob": 9.657232695817197e-13,
+      "compression_ratio": 1.6177777777777778,
+      "temperature": 0.0
+    },
+    {
+      "start": 722.44,
+      "duration": 3.8199999999999363,
+      "text": "They said to him, we were not born of sexual immorality.",
+      "avg_logprob": -0.22747370980002662,
+      "no_speech_prob": 9.657232695817197e-13,
+      "compression_ratio": 1.6177777777777778,
+      "temperature": 0.0
+    },
+    {
+      "start": 726.44,
+      "duration": 2.019999999999982,
+      "text": "We have one father, even God.",
+      "avg_logprob": -0.22747370980002662,
+      "no_speech_prob": 9.657232695817197e-13,
+      "compression_ratio": 1.6177777777777778,
+      "temperature": 0.0
+    },
+    {
+      "start": 729.32,
+      "duration": 4.17999999999995,
+      "text": "Jesus said to them, if God were your father, you would love me.",
+      "avg_logprob": -0.22747370980002662,
+      "no_speech_prob": 9.657232695817197e-13,
+      "compression_ratio": 1.6177777777777778,
+      "temperature": 0.0
+    },
+    {
+      "start": 733.68,
+      "duration": 2.3799999999999955,
+      "text": "For I came from God and I am here.",
+      "avg_logprob": -0.22747370980002662,
+      "no_speech_prob": 9.657232695817197e-13,
+      "compression_ratio": 1.6177777777777778,
+      "temperature": 0.0
+    },
+    {
+      "start": 737.96,
+      "duration": 7.639999999999986,
+      "text": "cord, but he sent me. Why do you not understand what I say? It is because you cannot bear to hear",
+      "avg_logprob": -0.036509480657456794,
+      "no_speech_prob": 7.49180177530423e-13,
+      "compression_ratio": 1.5076923076923077,
+      "temperature": 0.0
+    },
+    {
+      "start": 745.6,
+      "duration": 9.319999999999936,
+      "text": "my word. You are of your father, the devil, and your will is to do your father's desires. See that",
+      "avg_logprob": -0.036509480657456794,
+      "no_speech_prob": 7.49180177530423e-13,
+      "compression_ratio": 1.5076923076923077,
+      "temperature": 0.0
+    },
+    {
+      "start": 754.92,
+      "duration": 8.639999999999986,
+      "text": "the nature, that's what comes out, right? He was a murderer from the beginning and does not stand",
+      "avg_logprob": -0.036509480657456794,
+      "no_speech_prob": 7.49180177530423e-13,
+      "compression_ratio": 1.5076923076923077,
+      "temperature": 0.0
+    },
+    {
+      "start": 763.56,
+      "duration": 6.6400000000001,
+      "text": "in the truth because there is no truth in him. When he lies, he speaks out of his own character",
+      "avg_logprob": -0.0704807580686083,
+      "no_speech_prob": 1.1924866476220597e-12,
+      "compression_ratio": 1.7864077669902914,
+      "temperature": 0.0
+    },
+    {
+      "start": 770.2,
+      "duration": 7.459999999999923,
+      "text": "for he is a liar and the father of lies. But because I tell the truth, you do not believe me.",
+      "avg_logprob": -0.0704807580686083,
+      "no_speech_prob": 1.1924866476220597e-12,
+      "compression_ratio": 1.7864077669902914,
+      "temperature": 0.0
+    },
+    {
+      "start": 778.46,
+      "duration": 5.279999999999973,
+      "text": "Which one of you convicts me of sin? If I tell the truth, why do you not believe me?",
+      "avg_logprob": -0.0704807580686083,
+      "no_speech_prob": 1.1924866476220597e-12,
+      "compression_ratio": 1.7864077669902914,
+      "temperature": 0.0
+    },
+    {
+      "start": 784.4200000000001,
+      "duration": 6.599999999999909,
+      "text": "Whoever is of God hears the words of God. The reason why you do not hear them is that you are",
+      "avg_logprob": -0.0704807580686083,
+      "no_speech_prob": 1.1924866476220597e-12,
+      "compression_ratio": 1.7864077669902914,
+      "temperature": 0.0
+    },
+    {
+      "start": 791.02,
+      "duration": 8.740000000000009,
+      "text": "not of God. So here Jesus is saying the exact same things, right? That number one, until we're",
+      "avg_logprob": -0.04251338289929675,
+      "no_speech_prob": 6.585748114386336e-13,
+      "compression_ratio": 1.5879120879120878,
+      "temperature": 0.0
+    },
+    {
+      "start": 799.76,
+      "duration": 4.480000000000018,
+      "text": "born of God, we can't understand the truth. So he said that a number of times in there, but also that",
+      "avg_logprob": -0.04251338289929675,
+      "no_speech_prob": 6.585748114386336e-13,
+      "compression_ratio": 1.5879120879120878,
+      "temperature": 0.0
+    },
+    {
+      "start": 804.24,
+      "duration": 10.620000000000005,
+      "text": "we will always do what is in our nature. We will always do what is dictated by our spiritual",
+      "avg_logprob": -0.04251338289929675,
+      "no_speech_prob": 6.585748114386336e-13,
+      "compression_ratio": 1.5879120879120878,
+      "temperature": 0.0
+    },
+    {
+      "start": 814.86,
+      "duration": 6.980000000000018,
+      "text": "parentage, which then gives us that new nature. Does that make sense? We see this over and over",
+      "avg_logprob": -0.1154916044594585,
+      "no_speech_prob": 5.97322376023196e-13,
+      "compression_ratio": 1.5568181818181819,
+      "temperature": 0.0
+    },
+    {
+      "start": 821.84,
+      "duration": 7.360000000000014,
+      "text": "again. So what do we do with this? Very quickly, I think that this actually helps us to understand",
+      "avg_logprob": -0.1154916044594585,
+      "no_speech_prob": 5.97322376023196e-13,
+      "compression_ratio": 1.5568181818181819,
+      "temperature": 0.0
+    },
+    {
+      "start": 829.2,
+      "duration": 7.339999999999918,
+      "text": "the world around us, to understand actually how to interact with non-believers.",
+      "avg_logprob": -0.1154916044594585,
+      "no_speech_prob": 5.97322376023196e-13,
+      "compression_ratio": 1.5568181818181819,
+      "temperature": 0.0
+    },
+    {
+      "start": 838.48,
+      "duration": 9.279999999999973,
+      "text": "okay we can't expect the unbelieving world people who are not born of god to act like they are",
+      "avg_logprob": -0.07808007766951376,
+      "no_speech_prob": 7.176691966398474e-13,
+      "compression_ratio": 1.8116883116883118,
+      "temperature": 0.0
+    },
+    {
+      "start": 848.8,
+      "duration": 7.0,
+      "text": "we can't expect them to do that they have a different nature and because of that we shouldn't",
+      "avg_logprob": -0.07808007766951376,
+      "no_speech_prob": 7.176691966398474e-13,
+      "compression_ratio": 1.8116883116883118,
+      "temperature": 0.0
+    },
+    {
+      "start": 855.8,
+      "duration": 6.1400000000001,
+      "text": "expect them to act as christians do we should actually expect them to act like children of",
+      "avg_logprob": -0.07808007766951376,
+      "no_speech_prob": 7.176691966398474e-13,
+      "compression_ratio": 1.8116883116883118,
+      "temperature": 0.0
+    },
+    {
+      "start": 861.94,
+      "duration": 5.439999999999941,
+      "text": "the devil. Like that's how we should expect them to act. They will not have spiritual understanding.",
+      "avg_logprob": -0.1211965743531572,
+      "no_speech_prob": 8.292608678732438e-13,
+      "compression_ratio": 1.6578947368421053,
+      "temperature": 0.0
+    },
+    {
+      "start": 867.68,
+      "duration": 4.260000000000105,
+      "text": "They will not have the same spiritual parentage and that will all be reflected in their actions.",
+      "avg_logprob": -0.1211965743531572,
+      "no_speech_prob": 8.292608678732438e-13,
+      "compression_ratio": 1.6578947368421053,
+      "temperature": 0.0
+    },
+    {
+      "start": 872.18,
+      "duration": 6.580000000000041,
+      "text": "Now, when they do things that are good and righteous, that's great. And part of that is,",
+      "avg_logprob": -0.1211965743531572,
+      "no_speech_prob": 8.292608678732438e-13,
+      "compression_ratio": 1.6578947368421053,
+      "temperature": 0.0
+    },
+    {
+      "start": 878.9,
+      "duration": 7.019999999999982,
+      "text": "this is God's common grace to them to be able to do those things, which is wonderful. Okay.",
+      "avg_logprob": -0.1211965743531572,
+      "no_speech_prob": 8.292608678732438e-13,
+      "compression_ratio": 1.6578947368421053,
+      "temperature": 0.0
+    },
+    {
+      "start": 888.0,
+      "duration": 4.139999999999986,
+      "text": "But how does this then affect our relationship with nonbelievers?",
+      "avg_logprob": -0.16257290962414864,
+      "no_speech_prob": 6.019871016602063e-13,
+      "compression_ratio": 1.6593406593406594,
+      "temperature": 0.0
+    },
+    {
+      "start": 892.64,
+      "duration": 6.32000000000005,
+      "text": "Because occasionally I see Christians who are trying to reason with unbelievers to try to live like Christians, right?",
+      "avg_logprob": -0.16257290962414864,
+      "no_speech_prob": 6.019871016602063e-13,
+      "compression_ratio": 1.6593406593406594,
+      "temperature": 0.0
+    },
+    {
+      "start": 899.14,
+      "duration": 3.840000000000032,
+      "text": "To try to convince them to be like a child of God when they're not.",
+      "avg_logprob": -0.16257290962414864,
+      "no_speech_prob": 6.019871016602063e-13,
+      "compression_ratio": 1.6593406593406594,
+      "temperature": 0.0
+    },
+    {
+      "start": 903.74,
+      "duration": 1.0199999999999818,
+      "text": "And it never works.",
+      "avg_logprob": -0.16257290962414864,
+      "no_speech_prob": 6.019871016602063e-13,
+      "compression_ratio": 1.6593406593406594,
+      "temperature": 0.0
+    },
+    {
+      "start": 904.96,
+      "duration": 2.5399999999999636,
+      "text": "It ends up just being kind of like a debate.",
+      "avg_logprob": -0.16257290962414864,
+      "no_speech_prob": 6.019871016602063e-13,
+      "compression_ratio": 1.6593406593406594,
+      "temperature": 0.0
+    },
+    {
+      "start": 908.1,
+      "duration": 1.1599999999999682,
+      "text": "They get angry with each other.",
+      "avg_logprob": -0.16257290962414864,
+      "no_speech_prob": 6.019871016602063e-13,
+      "compression_ratio": 1.6593406593406594,
+      "temperature": 0.0
+    },
+    {
+      "start": 909.36,
+      "duration": 1.7200000000000273,
+      "text": "They don't talk again, especially on social media.",
+      "avg_logprob": -0.16257290962414864,
+      "no_speech_prob": 6.019871016602063e-13,
+      "compression_ratio": 1.6593406593406594,
+      "temperature": 0.0
+    },
+    {
+      "start": 911.22,
+      "duration": 1.8999999999999773,
+      "text": "It's like the worst place to talk about this, right?",
+      "avg_logprob": -0.16257290962414864,
+      "no_speech_prob": 6.019871016602063e-13,
+      "compression_ratio": 1.6593406593406594,
+      "temperature": 0.0
+    },
+    {
+      "start": 914.0,
+      "duration": 9.299999999999955,
+      "text": "And I think it's important for us as Christians to recognize that it's not our job to try to make them act like Christians.",
+      "avg_logprob": -0.17477707985119942,
+      "no_speech_prob": 5.74438771289848e-13,
+      "compression_ratio": 1.5077720207253886,
+      "temperature": 0.0
+    },
+    {
+      "start": 924.1400000000001,
+      "duration": 0.5599999999999454,
+      "text": "Okay?",
+      "avg_logprob": -0.17477707985119942,
+      "no_speech_prob": 5.74438771289848e-13,
+      "compression_ratio": 1.5077720207253886,
+      "temperature": 0.0
+    },
+    {
+      "start": 925.74,
+      "duration": 8.519999999999982,
+      "text": "That's the role of the Holy Spirit and can only be done through being reborn, regenerating their hearts.",
+      "avg_logprob": -0.17477707985119942,
+      "no_speech_prob": 5.74438771289848e-13,
+      "compression_ratio": 1.5077720207253886,
+      "temperature": 0.0
+    },
+    {
+      "start": 934.58,
+      "duration": 1.6399999999999864,
+      "text": "It's the only way that that happens.",
+      "avg_logprob": -0.17477707985119942,
+      "no_speech_prob": 5.74438771289848e-13,
+      "compression_ratio": 1.5077720207253886,
+      "temperature": 0.0
+    },
+    {
+      "start": 937.5,
+      "duration": 1.1599999999999682,
+      "text": "So what is our job?",
+      "avg_logprob": -0.17477707985119942,
+      "no_speech_prob": 5.74438771289848e-13,
+      "compression_ratio": 1.5077720207253886,
+      "temperature": 0.0
+    },
+    {
+      "start": 938.66,
+      "duration": 14.259999999999991,
+      "text": "Our job is to love them, to love them through our actions, but also by telling them the gospel, the countercultural message of the gospel that just what you guys have been talking about today in the study, that we have not earned it.",
+      "avg_logprob": -0.10945628174638326,
+      "no_speech_prob": 8.228124128220604e-13,
+      "compression_ratio": 1.7007575757575757,
+      "temperature": 0.0
+    },
+    {
+      "start": 953.9200000000001,
+      "duration": 6.559999999999945,
+      "text": "But this is a gift of God that he has come to us and he has changed us from the inside out and given us that new nature.",
+      "avg_logprob": -0.10945628174638326,
+      "no_speech_prob": 8.228124128220604e-13,
+      "compression_ratio": 1.7007575757575757,
+      "temperature": 0.0
+    },
+    {
+      "start": 961.6600000000001,
+      "duration": 2.939999999999941,
+      "text": "And I think that's part of John's point back in our passage.",
+      "avg_logprob": -0.10945628174638326,
+      "no_speech_prob": 8.228124128220604e-13,
+      "compression_ratio": 1.7007575757575757,
+      "temperature": 0.0
+    },
+    {
+      "start": 964.6,
+      "duration": 1.1200000000000045,
+      "text": "And I just want to end with this.",
+      "avg_logprob": -0.10945628174638326,
+      "no_speech_prob": 8.228124128220604e-13,
+      "compression_ratio": 1.7007575757575757,
+      "temperature": 0.0
+    },
+    {
+      "start": 967.64,
+      "duration": 5.240000000000009,
+      "text": "um look at verse i think it's verse two verse two here uh of chapter three",
+      "avg_logprob": -0.15734370549519858,
+      "no_speech_prob": 5.417470942334357e-13,
+      "compression_ratio": 1.6590909090909092,
+      "temperature": 0.0
+    },
+    {
+      "start": 976.12,
+      "duration": 5.759999999999991,
+      "text": "he starts he says beloved again and i love this language beloved",
+      "avg_logprob": -0.15734370549519858,
+      "no_speech_prob": 5.417470942334357e-13,
+      "compression_ratio": 1.6590909090909092,
+      "temperature": 0.0
+    },
+    {
+      "start": 985.38,
+      "duration": 2.5399999999999636,
+      "text": "i apologize for a second before i even get into this",
+      "avg_logprob": -0.15734370549519858,
+      "no_speech_prob": 5.417470942334357e-13,
+      "compression_ratio": 1.6590909090909092,
+      "temperature": 0.0
+    },
+    {
+      "start": 989.92,
+      "duration": 4.960000000000036,
+      "text": "i don't think john wants us to read this and come away with thinking wait a minute am i actually in",
+      "avg_logprob": -0.15734370549519858,
+      "no_speech_prob": 5.417470942334357e-13,
+      "compression_ratio": 1.6590909090909092,
+      "temperature": 0.0
+    },
+    {
+      "start": 997.1999999999999,
+      "duration": 3.4200000000000728,
+      "text": "maybe I'm a child of the devil what's going on like he doesn't want us to doubt",
+      "avg_logprob": -0.046191400097262476,
+      "no_speech_prob": 1.077370072495587e-12,
+      "compression_ratio": 1.816831683168317,
+      "temperature": 0.0
+    },
+    {
+      "start": 1001.3,
+      "duration": 5.960000000000036,
+      "text": "our spiritual parentage in Christ and he wants to assure us of that so listen to what he says",
+      "avg_logprob": -0.046191400097262476,
+      "no_speech_prob": 1.077370072495587e-12,
+      "compression_ratio": 1.816831683168317,
+      "temperature": 0.0
+    },
+    {
+      "start": 1007.26,
+      "duration": 9.379999999999995,
+      "text": "he says beloved we are God's children now and what we will be has not yet appeared right okay",
+      "avg_logprob": -0.046191400097262476,
+      "no_speech_prob": 1.077370072495587e-12,
+      "compression_ratio": 1.816831683168317,
+      "temperature": 0.0
+    },
+    {
+      "start": 1016.64,
+      "duration": 6.220000000000027,
+      "text": "so we're not perfect yet get it we're not perfect yet what we will be will not has not yet appeared",
+      "avg_logprob": -0.046191400097262476,
+      "no_speech_prob": 1.077370072495587e-12,
+      "compression_ratio": 1.816831683168317,
+      "temperature": 0.0
+    },
+    {
+      "start": 1022.86,
+      "duration": 2.2800000000000864,
+      "text": "But we are God's children now, he says.",
+      "avg_logprob": -0.18060848236083984,
+      "no_speech_prob": 7.038133639260258e-13,
+      "compression_ratio": 1.604878048780488,
+      "temperature": 0.0
+    },
+    {
+      "start": 1025.88,
+      "duration": 0.4399999999998272,
+      "text": "Okay?",
+      "avg_logprob": -0.18060848236083984,
+      "no_speech_prob": 7.038133639260258e-13,
+      "compression_ratio": 1.604878048780488,
+      "temperature": 0.0
+    },
+    {
+      "start": 1027.26,
+      "duration": 4.460000000000036,
+      "text": "But we know that when he appears, we shall be like him because we shall see him as he is.",
+      "avg_logprob": -0.18060848236083984,
+      "no_speech_prob": 7.038133639260258e-13,
+      "compression_ratio": 1.604878048780488,
+      "temperature": 0.0
+    },
+    {
+      "start": 1032.0,
+      "duration": 5.7000000000000455,
+      "text": "And everyone who thus hopes in him purifies himself as he is pure.",
+      "avg_logprob": -0.18060848236083984,
+      "no_speech_prob": 7.038133639260258e-13,
+      "compression_ratio": 1.604878048780488,
+      "temperature": 0.0
+    },
+    {
+      "start": 1037.72,
+      "duration": 0.599999999999909,
+      "text": "What is he saying?",
+      "avg_logprob": -0.18060848236083984,
+      "no_speech_prob": 7.038133639260258e-13,
+      "compression_ratio": 1.604878048780488,
+      "temperature": 0.0
+    },
+    {
+      "start": 1039.2800000000002,
+      "duration": 4.0799999999997,
+      "text": "He's saying we're saved by God's grace through faith.",
+      "avg_logprob": -0.18060848236083984,
+      "no_speech_prob": 7.038133639260258e-13,
+      "compression_ratio": 1.604878048780488,
+      "temperature": 0.0
+    },
+    {
+      "start": 1043.94,
+      "duration": 2.0799999999999272,
+      "text": "That hope in him.",
+      "avg_logprob": -0.18060848236083984,
+      "no_speech_prob": 7.038133639260258e-13,
+      "compression_ratio": 1.604878048780488,
+      "temperature": 0.0
+    },
+    {
+      "start": 1046.52,
+      "duration": 3.6200000000001182,
+      "text": "That that is how we are made clean.",
+      "avg_logprob": -0.18060848236083984,
+      "no_speech_prob": 7.038133639260258e-13,
+      "compression_ratio": 1.604878048780488,
+      "temperature": 0.0
+    },
+    {
+      "start": 1050.14,
+      "duration": 3.459999999999809,
+      "text": "That's how we are brought into the family of God.",
+      "avg_logprob": -0.14248126128624225,
+      "no_speech_prob": 7.010468052424945e-13,
+      "compression_ratio": 1.6820083682008369,
+      "temperature": 0.0
+    },
+    {
+      "start": 1053.8,
+      "duration": 1.5800000000001546,
+      "text": "It is only by faith.",
+      "avg_logprob": -0.14248126128624225,
+      "no_speech_prob": 7.010468052424945e-13,
+      "compression_ratio": 1.6820083682008369,
+      "temperature": 0.0
+    },
+    {
+      "start": 1057.92,
+      "duration": 5.679999999999836,
+      "text": "And so I think we can actually just marvel at the love of God for us.",
+      "avg_logprob": -0.14248126128624225,
+      "no_speech_prob": 7.010468052424945e-13,
+      "compression_ratio": 1.6820083682008369,
+      "temperature": 0.0
+    },
+    {
+      "start": 1063.68,
+      "duration": 6.119999999999891,
+      "text": "Like he says in verse one, see what kind of love the father has given to us, that we should be called children of God.",
+      "avg_logprob": -0.14248126128624225,
+      "no_speech_prob": 7.010468052424945e-13,
+      "compression_ratio": 1.6820083682008369,
+      "temperature": 0.0
+    },
+    {
+      "start": 1069.9,
+      "duration": 0.6199999999998909,
+      "text": "And so we are.",
+      "avg_logprob": -0.14248126128624225,
+      "no_speech_prob": 7.010468052424945e-13,
+      "compression_ratio": 1.6820083682008369,
+      "temperature": 0.0
+    },
+    {
+      "start": 1070.68,
+      "duration": 6.720000000000027,
+      "text": "And so as God's people, we should recognize, man, I did not deserve to be brought into the family of God.",
+      "avg_logprob": -0.14248126128624225,
+      "no_speech_prob": 7.010468052424945e-13,
+      "compression_ratio": 1.6820083682008369,
+      "temperature": 0.0
+    },
+    {
+      "start": 1077.52,
+      "duration": 0.7400000000000091,
+      "text": "But look what he did.",
+      "avg_logprob": -0.14248126128624225,
+      "no_speech_prob": 7.010468052424945e-13,
+      "compression_ratio": 1.6820083682008369,
+      "temperature": 0.0
+    },
+    {
+      "start": 1080.14,
+      "duration": 7.439999999999827,
+      "text": "loves us. So let's pray. God, thank you for your incredible love for us.",
+      "avg_logprob": -0.08851006104774081,
+      "no_speech_prob": 8.6567141259139e-13,
+      "compression_ratio": 1.7794871794871794,
+      "temperature": 0.0
+    },
+    {
+      "start": 1088.96,
+      "duration": 5.480000000000018,
+      "text": "And that you did not have to bring us into your family. You did not have to adopt us. You did not",
+      "avg_logprob": -0.08851006104774081,
+      "no_speech_prob": 8.6567141259139e-13,
+      "compression_ratio": 1.7794871794871794,
+      "temperature": 0.0
+    },
+    {
+      "start": 1094.44,
+      "duration": 5.899999999999864,
+      "text": "have to rescue us, to give us new birth and regenerate us and give us a new nature and do",
+      "avg_logprob": -0.08851006104774081,
+      "no_speech_prob": 8.6567141259139e-13,
+      "compression_ratio": 1.7794871794871794,
+      "temperature": 0.0
+    },
+    {
+      "start": 1100.34,
+      "duration": 8.720000000000027,
+      "text": "all of these things. But you did. And you did out of your great love for us so that we",
+      "avg_logprob": -0.08851006104774081,
+      "no_speech_prob": 8.6567141259139e-13,
+      "compression_ratio": 1.7794871794871794,
+      "temperature": 0.0
+    },
+    {
+      "start": 1110.14,
+      "duration": 9.059999999999945,
+      "text": "be with you. And Lord, we are so thankful. Father, would you, would you by your spirit,",
+      "avg_logprob": -0.09263524874834947,
+      "no_speech_prob": 7.578227867281739e-13,
+      "compression_ratio": 1.4619565217391304,
+      "temperature": 0.0
+    },
+    {
+      "start": 1119.7800000000002,
+      "duration": 5.839999999999691,
+      "text": "help that to sink deeper into our hearts tonight? Help us to discuss these things with one another",
+      "avg_logprob": -0.09263524874834947,
+      "no_speech_prob": 7.578227867281739e-13,
+      "compression_ratio": 1.4619565217391304,
+      "temperature": 0.0
+    },
+    {
+      "start": 1125.62,
+      "duration": 5.8400000000001455,
+      "text": "in these next few minutes. We lift this time to you. In Jesus' name we pray. Amen.",
+      "avg_logprob": -0.09263524874834947,
+      "no_speech_prob": 7.578227867281739e-13,
+      "compression_ratio": 1.4619565217391304,
+      "temperature": 0.0
+    }
+  ]
+}

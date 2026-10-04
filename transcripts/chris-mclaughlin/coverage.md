@@ -1,8 +1,8 @@
 # Transcript coverage
 
 Manifest recordings: 99
-Completed transcripts: 77
-Sources: {"Local Whisper large-v3-turbo (MLX)": 50, "YouTube auto captions": 27}
+Completed transcripts: 87
+Sources: {"Local Whisper large-v3-turbo (MLX)": 60, "YouTube auto captions": 27}
 
 Machine transcripts are not manually corrected. See verification.json for integrity checks and text samples.
 
@@ -38,12 +38,12 @@ Machine transcripts are not manually corrected. See verification.json for integr
 | 2024-02-07 | 4fh5wrr | Session 2 - Transcendental Arguments | no_confirmed_youtube_match |  |
 | 2024-02-14 | cmz2bj4 | Session 3 - Does God Exist? (Part 1) | no_confirmed_youtube_match |  |
 | 2024-02-18 | rq4ct8j | The Lost Art Of Companionship | complete | Local Whisper large-v3-turbo (MLX) |
-| 2024-02-21 | jpzdg6w | Session 4 - Does God Exist? (Part 2) | no_confirmed_youtube_match |  |
+| 2024-02-21 | jpzdg6w | Session 4 - Does God Exist? (Part 2) | complete | Local Whisper large-v3-turbo (MLX) |
 | 2024-03-03 | ghykdcr | Enjoy God's Daily Gifts | complete | Local Whisper large-v3-turbo (MLX) |
-| 2024-03-06 | vn462dn | Session 6 - The Bible; Textual Criticism | no_confirmed_youtube_match |  |
+| 2024-03-06 | vn462dn | Session 6 - The Bible; Textual Criticism | complete | Local Whisper large-v3-turbo (MLX) |
 | 2024-03-10 | 9h9fj9h | Face Suffering With Hope | complete | Local Whisper large-v3-turbo (MLX) |
-| 2024-03-13 | k8nfv57 | Session 7 - The Case For The Resurrection | no_confirmed_youtube_match |  |
-| 2024-03-20 | 5pmrrpf | Session 8 - The Problem of Evil | no_confirmed_youtube_match |  |
+| 2024-03-13 | k8nfv57 | Session 7 - The Case For The Resurrection | complete | Local Whisper large-v3-turbo (MLX) |
+| 2024-03-20 | 5pmrrpf | Session 8 - The Problem of Evil | complete | Local Whisper large-v3-turbo (MLX) |
 | 2024-04-07 | t5rb8xc | Enjoyment Restored | transcription_failed |  |
 | 2024-05-05 | zpz5gqr | Will You Listen? | complete | Local Whisper large-v3-turbo (MLX) |
 | 2024-05-19 | b9cwrfn | The Word Does The Work | complete | Local Whisper large-v3-turbo (MLX) |
@@ -55,15 +55,15 @@ Machine transcripts are not manually corrected. See verification.json for integr
 | 2024-08-18 | 9dwt5wz | Clinging To God | complete | Local Whisper large-v3-turbo (MLX) |
 | 2024-08-25 | rmqbdwd | Cultivating A Heart Of Worship | complete | Local Whisper large-v3-turbo (MLX) |
 | 2024-09-01 | sjzj5ym | The Light Shines | complete | Local Whisper large-v3-turbo (MLX) |
-| 2024-09-05 | 6qz5f5x | Session 1 | no_confirmed_youtube_match |  |
+| 2024-09-05 | 6qz5f5x | Session 1 | complete | Local Whisper large-v3-turbo (MLX) |
 | 2024-09-08 | wpxjmr3 | He Has Made Him Known | complete | Local Whisper large-v3-turbo (MLX) |
-| 2024-09-19 | syhmxmx | Session 3 | no_confirmed_youtube_match |  |
-| 2024-09-26 | xhvtfr5 | Session 4 | no_confirmed_youtube_match |  |
+| 2024-09-19 | syhmxmx | Session 3 | complete | Local Whisper large-v3-turbo (MLX) |
+| 2024-09-26 | xhvtfr5 | Session 4 | complete | Local Whisper large-v3-turbo (MLX) |
 | 2024-09-29 | ssrjrcb | A Bigger Hope | complete | Local Whisper large-v3-turbo (MLX) |
-| 2024-10-03 | 6g5t8y8 | Session 5 | no_confirmed_youtube_match |  |
+| 2024-10-03 | 6g5t8y8 | Session 5 | complete | Local Whisper large-v3-turbo (MLX) |
 | 2024-10-06 | z646g8z | A Better Authority | complete | Local Whisper large-v3-turbo (MLX) |
-| 2024-10-10 | pv752wm | Session 6 | no_confirmed_youtube_match |  |
-| 2024-10-17 | p2hrcdm | Session 7 | no_confirmed_youtube_match |  |
+| 2024-10-10 | pv752wm | Session 6 | complete | Local Whisper large-v3-turbo (MLX) |
+| 2024-10-17 | p2hrcdm | Session 7 | complete | Local Whisper large-v3-turbo (MLX) |
 | 2024-10-20 | tcsnqkb | Behold, What Manner Of Love | complete | Local Whisper large-v3-turbo (MLX) |
 | 2024-10-24 | tbtrwvj | Session 8 | complete | Local Whisper large-v3-turbo (MLX) |
 | 2024-11-03 | s5ntnrx | If You Only Knew | complete | Local Whisper large-v3-turbo (MLX) |
