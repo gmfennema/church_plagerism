@@ -35,10 +35,10 @@ python3 transcripts/chris-mclaughlin/collect_captions.py --offline
 After YouTube's limits clear, resume caption collection with:
 
 ```bash
-python3 transcripts/chris-mclaughlin/collect_captions.py --retry-failed
+python3 transcripts/chris-mclaughlin/collect_captions.py --retry-failed --request-delay 60
 ```
 
-The collector reuses completed caption files, spaces new requests, and stops network access on a blocking response. It never downloads audio/video. Audio transcription remains a later phase.
+The collector reuses completed caption files, waits 60 seconds between new requests by default, and stops network access on a blocking response. A later attempt with this spacing still received `IpBlocked` on its first new request, so the other failed requests were not retried in that run. It never downloads audio/video. Audio transcription remains a later phase.
 
 ## What has been tried
 

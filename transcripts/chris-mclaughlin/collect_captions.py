@@ -23,7 +23,10 @@ def main():
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument('--offline', action='store_true', help='Rebuild from saved captions without network requests')
     parser.add_argument('--retry-failed', action='store_true', help='Retry failures after allowing YouTube limits to clear')
+    parser.add_argument('--request-delay', type=float, default=60, help='Seconds between new caption requests (default: 60)')
     args = parser.parse_args()
+    if args.request_delay < 0:
+        parser.error('--request-delay must be nonnegative')
     items = json.loads((BASE / 'manifest.json').read_text())['items']
     assert len({item['short_code'] for item in items}) == len(items)
     output = BASE / 'items'
@@ -52,7 +55,7 @@ def main():
                     if not fetched['snippets'] or not any(s['text'].strip() for s in fetched['snippets']):
                         raise ValueError('Empty caption track')
                     save_json(metadata, {**item, **fetched})
-                    time.sleep(10)
+                    time.sleep(args.request_delay)
                 source = 'YouTube auto captions' if fetched['is_generated'] else 'YouTube human captions'
                 header = [f"Title: {item['title']}", f"Date: {item['date'][:10]}",
                           f"Speaker: {item['speaker']}", f"Passage: {item.get('scripture', '')}",
