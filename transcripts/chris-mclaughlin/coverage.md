@@ -1,8 +1,8 @@
 # Transcript coverage
 
 Manifest recordings: 99
-Completed transcripts: 87
-Sources: {"Local Whisper large-v3-turbo (MLX)": 60, "YouTube auto captions": 27}
+Completed transcripts: 97
+Sources: {"Local Whisper large-v3-turbo (MLX)": 70, "YouTube auto captions": 27}
 
 Machine transcripts are not manually corrected. See verification.json for integrity checks and text samples.
 
@@ -18,25 +18,25 @@ Machine transcripts are not manually corrected. See verification.json for integr
 | 2022-12-04 | p45vvvg | Be Ready | complete | Local Whisper large-v3-turbo (MLX) |
 | 2023-02-15 | pdqm8qr | Session 1 - Introduction | no_confirmed_youtube_match |  |
 | 2023-02-19 | qvj4987 | God Is Able | complete | Local Whisper large-v3-turbo (MLX) |
-| 2023-03-15 | sdczzjg | Session 5 - 2:17-23 | no_confirmed_youtube_match |  |
+| 2023-03-15 | sdczzjg | Session 5 - 2:17-23 | complete | Local Whisper large-v3-turbo (MLX) |
 | 2023-04-02 | mmrncgs | The Fruit Of Faith | complete | Local Whisper large-v3-turbo (MLX) |
 | 2023-06-04 | 9jkqhc9 | A Confident Expectation | complete | Local Whisper large-v3-turbo (MLX) |
 | 2023-08-27 | 58w2dmd | God's Two Books | complete | Local Whisper large-v3-turbo (MLX) |
-| 2023-09-08 | 3n25fz8 | Session 1 - Introduction to Acts | no_confirmed_youtube_match |  |
+| 2023-09-08 | 3n25fz8 | Session 1 - Introduction to Acts | complete | Local Whisper large-v3-turbo (MLX) |
 | 2023-09-17 | q4268vn | God's People In God's Place Under God's Rule | complete | Local Whisper large-v3-turbo (MLX) |
-| 2023-09-22 | vccs892 | Session 3 - Thessalonica and Berea | no_confirmed_youtube_match |  |
-| 2023-09-29 | 734vkfv | Session 4 - Athens | no_confirmed_youtube_match |  |
+| 2023-09-22 | vccs892 | Session 3 - Thessalonica and Berea | complete | Local Whisper large-v3-turbo (MLX) |
+| 2023-09-29 | 734vkfv | Session 4 - Athens | complete | Local Whisper large-v3-turbo (MLX) |
 | 2023-10-15 | fqyvs3m | The Promise Is For You | complete | Local Whisper large-v3-turbo (MLX) |
-| 2023-10-20 | vq757rc | Session 6 - Ephesus (Part 1) | no_confirmed_youtube_match |  |
-| 2023-11-10 | yxp7nqn | Session 9 - Road To Jerusalem | no_confirmed_youtube_match |  |
-| 2023-11-17 | ysb3hq7 | Session 10 - Conclusion | no_confirmed_youtube_match |  |
+| 2023-10-20 | vq757rc | Session 6 - Ephesus (Part 1) | complete | Local Whisper large-v3-turbo (MLX) |
+| 2023-11-10 | yxp7nqn | Session 9 - Road To Jerusalem | complete | Local Whisper large-v3-turbo (MLX) |
+| 2023-11-17 | ysb3hq7 | Session 10 - Conclusion | complete | Local Whisper large-v3-turbo (MLX) |
 | 2023-11-19 | fx83snz | A Sober Assessment of Sin | complete | Local Whisper large-v3-turbo (MLX) |
 | 2023-12-17 | wnnjvw3 | Son Of David | complete | Local Whisper large-v3-turbo (MLX) |
 | 2024-01-14 | jtvxwfp | The Search Begins | complete | Local Whisper large-v3-turbo (MLX) |
 | 2024-01-21 | rgcmdpc | The God Of Pleasures | complete | Local Whisper large-v3-turbo (MLX) |
-| 2024-01-31 | yj4wsky | Session 1 - Faith Vs. Reason? | no_confirmed_youtube_match |  |
-| 2024-02-07 | 4fh5wrr | Session 2 - Transcendental Arguments | no_confirmed_youtube_match |  |
-| 2024-02-14 | cmz2bj4 | Session 3 - Does God Exist? (Part 1) | no_confirmed_youtube_match |  |
+| 2024-01-31 | yj4wsky | Session 1 - Faith Vs. Reason? | complete | Local Whisper large-v3-turbo (MLX) |
+| 2024-02-07 | 4fh5wrr | Session 2 - Transcendental Arguments | complete | Local Whisper large-v3-turbo (MLX) |
+| 2024-02-14 | cmz2bj4 | Session 3 - Does God Exist? (Part 1) | complete | Local Whisper large-v3-turbo (MLX) |
 | 2024-02-18 | rq4ct8j | The Lost Art Of Companionship | complete | Local Whisper large-v3-turbo (MLX) |
 | 2024-02-21 | jpzdg6w | Session 4 - Does God Exist? (Part 2) | complete | Local Whisper large-v3-turbo (MLX) |
 | 2024-03-03 | ghykdcr | Enjoy God's Daily Gifts | complete | Local Whisper large-v3-turbo (MLX) |

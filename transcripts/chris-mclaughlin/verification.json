@@ -1,12 +1,12 @@
 {
-  "verified_transcripts": 87,
+  "verified_transcripts": 97,
   "matching_start_end_boundaries": true,
   "all_individual_files_in_combined": true,
   "timestamps_monotonic": true,
   "caption_segments_preserved_exactly": true,
-  "combined_bytes": 3377137,
-  "transcript_words": 478184,
-  "combined_sha256": "ab5f297bb866660cf28d5483e10c9181512a79f2950f0f48f1f021e817cdec02",
+  "combined_bytes": 3789696,
+  "transcript_words": 536879,
+  "combined_sha256": "e632c44e023d2d52b2dcfb8bacd0de53c110f6b41d6cfd9447ca4d094761bb26",
   "duration_discrepancies_over_10_percent_or_60_seconds": [],
   "verification_scope": "Structural and text-sample checks. Not a manual word-for-word audio verification. Names and references may be misrecognized.",
   "text_samples": [
@@ -632,6 +632,33 @@
       "archive_duration_seconds": 2325.89
     },
     {
+      "id": "cmz2bj4",
+      "title": "Session 3 - Does God Exist? (Part 1)",
+      "first": "That's a key point is understanding that through creation, through hearing God speak through his creation,",
+      "middle": "We just made the universe so big",
+      "last": "How would you refute this argument? See what you can come up with.",
+      "transcript_end_seconds": 3120.36,
+      "archive_duration_seconds": 3128.084
+    },
+    {
+      "id": "4fh5wrr",
+      "title": "Session 2 - Transcendental Arguments",
+      "first": "Well, we're going to dig more into the Romans 1 passage in a minute here,",
+      "middle": "Like, even, am I a good person?",
+      "last": "In Jesus' name we pray, amen.",
+      "transcript_end_seconds": 4221.22,
+      "archive_duration_seconds": 4224.078
+    },
+    {
+      "id": "yj4wsky",
+      "title": "Session 1 - Faith Vs. Reason?",
+      "first": "God, we thank you that your word is truth, and that we thank you that truth never, it's",
+      "middle": "and wish they could, but just don't realise that leaving is an option.",
+      "last": "I'm gonna stop there for tonight.",
+      "transcript_end_seconds": 3285.3,
+      "archive_duration_seconds": 3286.099
+    },
+    {
       "id": "rgcmdpc",
       "title": "The God Of Pleasures",
       "first": "The passage today is from Ecclesiastes 2, 1 through 11.",
@@ -668,6 +695,33 @@
       "archive_duration_seconds": 2198.282
     },
     {
+      "id": "ysb3hq7",
+      "title": "Session 10 - Conclusion",
+      "first": "Heavenly Father, thank you for this time together.",
+      "middle": "How has the study of Acts changed or strengthened your understanding of a specific characteristic of God?",
+      "last": "And so, yeah, we're in the same era, the same age.",
+      "transcript_end_seconds": 2359.34,
+      "archive_duration_seconds": 2364.081
+    },
+    {
+      "id": "yxp7nqn",
+      "title": "Session 9 - Road To Jerusalem",
+      "first": "Our Father, thank you so much for your word.",
+      "middle": "I think that's another option.",
+      "last": "Amen.",
+      "transcript_end_seconds": 2003.18,
+      "archive_duration_seconds": 2004.088
+    },
+    {
+      "id": "vq757rc",
+      "title": "Session 6 - Ephesus (Part 1)",
+      "first": "Well, let's pray, and we're gonna talk a little bit",
+      "middle": "We must let them see that nothing pleases us",
+      "last": "We pray this in Jesus' name, amen.",
+      "transcript_end_seconds": 1725.14,
+      "archive_duration_seconds": 1728.078
+    },
+    {
       "id": "fqyvs3m",
       "title": "The Promise Is For You",
       "first": "Good morning, church.",
@@ -677,6 +731,24 @@
       "archive_duration_seconds": 2160.77
     },
     {
+      "id": "734vkfv",
+      "title": "Session 4 - Athens",
+      "first": "Well, let's pray. And we're going to talk a little bit more about Athens. Let's pray.",
+      "middle": "Because just about everything else about God flows from this.",
+      "last": "We pray all this in Jesus' name, amen.",
+      "transcript_end_seconds": 1601.16,
+      "archive_duration_seconds": 1604.101
+    },
+    {
+      "id": "vccs892",
+      "title": "Session 3 - Thessalonica and Berea",
+      "first": "Gracious Father, thank you so much for bringing us together,",
+      "middle": "for the person that believes it, right?",
+      "last": "It's in Jesus' name we pray, amen.",
+      "transcript_end_seconds": 2143.64,
+      "archive_duration_seconds": 2146.089
+    },
+    {
       "id": "q4268vn",
       "title": "God's People In God's Place Under God's Rule",
       "first": "Well, this morning I get the privilege of bringing the Word to us today, and I'm excited.",
@@ -684,6 +756,15 @@
       "last": "Amen.",
       "transcript_end_seconds": 2442.64,
       "archive_duration_seconds": 2448.927
+    },
+    {
+      "id": "3n25fz8",
+      "title": "Session 1 - Introduction to Acts",
+      "first": "I want to start out with basically talking about this. Why are we here? What are we doing, right?",
+      "middle": "this message from Jesus kind of becomes a loose outline for the book of Acts. Okay. He talks,",
+      "last": "So, Lord, we love you. We pray this in Jesus' name. Amen.",
+      "transcript_end_seconds": 1867.92,
+      "archive_duration_seconds": 1870.08
     },
     {
       "id": "58w2dmd",
@@ -711,6 +792,15 @@
       "last": "oh god we praise you we thank you it's in jesus name we pray amen",
       "transcript_end_seconds": 2334.26,
       "archive_duration_seconds": 2335.921
+    },
+    {
+      "id": "sdczzjg",
+      "title": "Session 5 - 2:17-23",
+      "first": "Gracious Father, thank you so much for bringing us together tonight.",
+      "middle": "The Goel, right?",
+      "last": "We love you, Lord, and we pray this in Jesus' name. Amen.",
+      "transcript_end_seconds": 1748.72,
+      "archive_duration_seconds": 1749.603
     },
     {
       "id": "qvj4987",
