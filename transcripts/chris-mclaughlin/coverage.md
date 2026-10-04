@@ -1,8 +1,8 @@
 # Transcript coverage
 
 Manifest recordings: 99
-Completed transcripts: 37
-Sources: {"Local Whisper large-v3-turbo (MLX)": 10, "YouTube auto captions": 27}
+Completed transcripts: 47
+Sources: {"Local Whisper large-v3-turbo (MLX)": 20, "YouTube auto captions": 27}
 
 Machine transcripts are not manually corrected. See verification.json for integrity checks and text samples.
 
@@ -46,17 +46,17 @@ Machine transcripts are not manually corrected. See verification.json for integr
 | 2024-03-20 | 5pmrrpf | Session 8 - The Problem of Evil | no_confirmed_youtube_match |  |
 | 2024-04-07 | t5rb8xc | Enjoyment Restored | no_confirmed_youtube_match |  |
 | 2024-05-05 | zpz5gqr | Will You Listen? | no_confirmed_youtube_match |  |
-| 2024-05-19 | b9cwrfn | The Word Does The Work | caption_fetch_failed |  |
-| 2024-06-02 | 3zzcgwt | Who Are You? | caption_fetch_failed |  |
-| 2024-06-09 | 947m8dk | Show Them Jesus | caption_fetch_failed |  |
-| 2024-07-14 | 4yhx6qx | Re-Centered on the Mission | no_confirmed_youtube_match |  |
-| 2024-07-28 | dczr3wp | A Posture Of Humility | caption_fetch_failed |  |
-| 2024-08-11 | gd4yp2k | The Heart Of Repentance | no_confirmed_youtube_match |  |
-| 2024-08-18 | 9dwt5wz | Clinging To God | no_confirmed_youtube_match |  |
-| 2024-08-25 | rmqbdwd | Cultivating A Heart Of Worship | no_confirmed_youtube_match |  |
-| 2024-09-01 | sjzj5ym | The Light Shines | caption_fetch_failed |  |
+| 2024-05-19 | b9cwrfn | The Word Does The Work | complete | Local Whisper large-v3-turbo (MLX) |
+| 2024-06-02 | 3zzcgwt | Who Are You? | complete | Local Whisper large-v3-turbo (MLX) |
+| 2024-06-09 | 947m8dk | Show Them Jesus | complete | Local Whisper large-v3-turbo (MLX) |
+| 2024-07-14 | 4yhx6qx | Re-Centered on the Mission | complete | Local Whisper large-v3-turbo (MLX) |
+| 2024-07-28 | dczr3wp | A Posture Of Humility | complete | Local Whisper large-v3-turbo (MLX) |
+| 2024-08-11 | gd4yp2k | The Heart Of Repentance | complete | Local Whisper large-v3-turbo (MLX) |
+| 2024-08-18 | 9dwt5wz | Clinging To God | complete | Local Whisper large-v3-turbo (MLX) |
+| 2024-08-25 | rmqbdwd | Cultivating A Heart Of Worship | complete | Local Whisper large-v3-turbo (MLX) |
+| 2024-09-01 | sjzj5ym | The Light Shines | complete | Local Whisper large-v3-turbo (MLX) |
 | 2024-09-05 | 6qz5f5x | Session 1 | no_confirmed_youtube_match |  |
-| 2024-09-08 | wpxjmr3 | He Has Made Him Known | caption_fetch_failed |  |
+| 2024-09-08 | wpxjmr3 | He Has Made Him Known | complete | Local Whisper large-v3-turbo (MLX) |
 | 2024-09-19 | syhmxmx | Session 3 | no_confirmed_youtube_match |  |
 | 2024-09-26 | xhvtfr5 | Session 4 | no_confirmed_youtube_match |  |
 | 2024-09-29 | ssrjrcb | A Bigger Hope | complete | Local Whisper large-v3-turbo (MLX) |

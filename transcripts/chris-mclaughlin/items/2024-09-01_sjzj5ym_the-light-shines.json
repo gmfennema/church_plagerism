@@ -1,0 +1,4818 @@
+{
+  "title": "The Light Shines",
+  "date": "2024-09-01T00:00:00Z",
+  "scripture": "John 1:1-13",
+  "speaker": "Chris McLaughlin",
+  "site_url": "https://fieldspres.org/media/sjzj5ym/the-light-shines",
+  "short_code": "sjzj5ym",
+  "subsplash_url": "https://subspla.sh/sjzj5ym",
+  "audio_url": "https://cdn.subsplash.com/audios/83RBNZ/dc043ba0-3128-43fa-bdd4-38001e54620d/audio.mp3",
+  "video_url": "https://cdn.subsplash.com/videos/83RBNZ/_source/93af7f99-6018-4980-8c86-063ed2d5a7a7/video.mp4",
+  "duration_ms": 2243186,
+  "youtube_id": "bmsX3b1kCPA",
+  "youtube_url": "https://www.youtube.com/watch?v=bmsX3b1kCPA",
+  "youtube_title": "The Gospel of John 1.1 - \"The Light Shines\" // John 1:1-13",
+  "transcript_source": "Local Whisper large-v3-turbo (MLX)",
+  "transcript_source_url": "https://cdn.subsplash.com/audios/83RBNZ/dc043ba0-3128-43fa-bdd4-38001e54620d/audio.mp3",
+  "language_code": "en",
+  "transcribed_at": "2026-10-04T21:05:02.101613+00:00",
+  "transcription": {
+    "engine": "mlx-whisper",
+    "engine_version": "0.4.3",
+    "mlx_version": "0.32.3",
+    "model_repo": "mlx-community/whisper-large-v3-turbo",
+    "model_revision": "a4aaeec0636e6fef84abdcbe3544cb2bf7e9f6fb",
+    "language": "en",
+    "word_timestamps": true,
+    "condition_on_previous_text": false,
+    "hallucination_silence_threshold": 2.0,
+    "audio_duration_seconds": 2243.156009,
+    "processing_seconds": 167.12881674999971,
+    "speed_multiple": 13.421718962777277,
+    "audio_retained": false,
+    "cloud_audio_processing": false,
+    "manually_corrected": false
+  },
+  "quality_flags": [],
+  "snippets": [
+    {
+      "start": 19.82,
+      "duration": 3.1400000000000006,
+      "text": "John chapter 1 verses 1 to 13.",
+      "avg_logprob": -0.20113431706148036,
+      "no_speech_prob": 2.700840039896596e-13,
+      "compression_ratio": 1.3095238095238095,
+      "temperature": 0.0
+    },
+    {
+      "start": 23.740000000000002,
+      "duration": 4.68,
+      "text": "In the beginning was the Word, and the Word was with God, and the Word was God.",
+      "avg_logprob": -0.20113431706148036,
+      "no_speech_prob": 2.700840039896596e-13,
+      "compression_ratio": 1.3095238095238095,
+      "temperature": 0.0
+    },
+    {
+      "start": 30.0,
+      "duration": 6.079999999999998,
+      "text": "beginning with God. All things were made through him, and without him was not anything made that",
+      "avg_logprob": -0.1191491465414724,
+      "no_speech_prob": 1.6944437389657119e-12,
+      "compression_ratio": 1.8415841584158417,
+      "temperature": 0.0
+    },
+    {
+      "start": 36.08,
+      "duration": 7.600000000000001,
+      "text": "was made. In him was life, and the life was the light of men. The light shines in the darkness,",
+      "avg_logprob": -0.1191491465414724,
+      "no_speech_prob": 1.6944437389657119e-12,
+      "compression_ratio": 1.8415841584158417,
+      "temperature": 0.0
+    },
+    {
+      "start": 43.92,
+      "duration": 5.780000000000001,
+      "text": "and the darkness has not overcome it. There was a man sent from God whose name was John.",
+      "avg_logprob": -0.1191491465414724,
+      "no_speech_prob": 1.6944437389657119e-12,
+      "compression_ratio": 1.8415841584158417,
+      "temperature": 0.0
+    },
+    {
+      "start": 50.16,
+      "duration": 4.900000000000006,
+      "text": "He came as a witness, to bear witness about the light, that all might believe through him.",
+      "avg_logprob": -0.1191491465414724,
+      "no_speech_prob": 1.6944437389657119e-12,
+      "compression_ratio": 1.8415841584158417,
+      "temperature": 0.0
+    },
+    {
+      "start": 55.620000000000005,
+      "duration": 3.1399999999999935,
+      "text": "He was not the light, but came to bear witness about the light.",
+      "avg_logprob": -0.11898106959328722,
+      "no_speech_prob": 1.1648737530123299e-12,
+      "compression_ratio": 1.9402390438247012,
+      "temperature": 0.0
+    },
+    {
+      "start": 59.620000000000005,
+      "duration": 3.6799999999999926,
+      "text": "The true light, which gives light to everyone, was coming into the world.",
+      "avg_logprob": -0.11898106959328722,
+      "no_speech_prob": 1.1648737530123299e-12,
+      "compression_ratio": 1.9402390438247012,
+      "temperature": 0.0
+    },
+    {
+      "start": 63.720000000000006,
+      "duration": 3.8999999999999986,
+      "text": "He was in the world, and the world was made through him, yet the world did not know him.",
+      "avg_logprob": -0.11898106959328722,
+      "no_speech_prob": 1.1648737530123299e-12,
+      "compression_ratio": 1.9402390438247012,
+      "temperature": 0.0
+    },
+    {
+      "start": 68.18,
+      "duration": 3.739999999999995,
+      "text": "And he came to his own, and his own people did not receive him.",
+      "avg_logprob": -0.11898106959328722,
+      "no_speech_prob": 1.1648737530123299e-12,
+      "compression_ratio": 1.9402390438247012,
+      "temperature": 0.0
+    },
+    {
+      "start": 72.66,
+      "duration": 4.939999999999998,
+      "text": "But to all who did receive him, who believed in his name, he gave the right to become children",
+      "avg_logprob": -0.11898106959328722,
+      "no_speech_prob": 1.1648737530123299e-12,
+      "compression_ratio": 1.9402390438247012,
+      "temperature": 0.0
+    },
+    {
+      "start": 77.6,
+      "duration": 5.900000000000006,
+      "text": "of God, who were born not of blood, nor of the will of the flesh, nor of the will of man,",
+      "avg_logprob": -0.11898106959328722,
+      "no_speech_prob": 1.1648737530123299e-12,
+      "compression_ratio": 1.9402390438247012,
+      "temperature": 0.0
+    },
+    {
+      "start": 83.68,
+      "duration": 0.8599999999999994,
+      "text": "but of God.",
+      "avg_logprob": -0.11898106959328722,
+      "no_speech_prob": 1.1648737530123299e-12,
+      "compression_ratio": 1.9402390438247012,
+      "temperature": 0.0
+    },
+    {
+      "start": 85.48,
+      "duration": 7.780000000000001,
+      "text": "Well, we are starting a series on the Gospel of John today, and I'm excited to get into this series.",
+      "avg_logprob": -0.11381359895070393,
+      "no_speech_prob": 7.462590658272039e-13,
+      "compression_ratio": 1.7043478260869565,
+      "temperature": 0.0
+    },
+    {
+      "start": 94.46000000000001,
+      "duration": 9.459999999999994,
+      "text": "I think spending time in the Gospel of John is something that, as we've been praying about it and thinking about it over the summer, about what to do next,",
+      "avg_logprob": -0.11381359895070393,
+      "no_speech_prob": 7.462590658272039e-13,
+      "compression_ratio": 1.7043478260869565,
+      "temperature": 0.0
+    },
+    {
+      "start": 104.18,
+      "duration": 3.6999999999999886,
+      "text": "is something that I think that we really believe will be helpful for our young church.",
+      "avg_logprob": -0.11381359895070393,
+      "no_speech_prob": 7.462590658272039e-13,
+      "compression_ratio": 1.7043478260869565,
+      "temperature": 0.0
+    },
+    {
+      "start": 109.06,
+      "duration": 4.780000000000001,
+      "text": "You see, John was one of Jesus' closest friends.",
+      "avg_logprob": -0.11381359895070393,
+      "no_speech_prob": 7.462590658272039e-13,
+      "compression_ratio": 1.7043478260869565,
+      "temperature": 0.0
+    },
+    {
+      "start": 115.38,
+      "duration": 2.8599999999999994,
+      "text": "He called himself in his gospel.",
+      "avg_logprob": -0.1070725551018348,
+      "no_speech_prob": 5.169249902257922e-13,
+      "compression_ratio": 1.8423645320197044,
+      "temperature": 0.0
+    },
+    {
+      "start": 118.42,
+      "duration": 5.099999999999994,
+      "text": "He never names himself, but he calls himself the disciple that Jesus loved.",
+      "avg_logprob": -0.1070725551018348,
+      "no_speech_prob": 5.169249902257922e-13,
+      "compression_ratio": 1.8423645320197044,
+      "temperature": 0.0
+    },
+    {
+      "start": 125.22,
+      "duration": 3.5600000000000023,
+      "text": "And so what we're going to do by going to the gospel of John,",
+      "avg_logprob": -0.1070725551018348,
+      "no_speech_prob": 5.169249902257922e-13,
+      "compression_ratio": 1.8423645320197044,
+      "temperature": 0.0
+    },
+    {
+      "start": 128.84,
+      "duration": 1.9399999999999977,
+      "text": "what we're doing is we're actually going to Jesus' friend.",
+      "avg_logprob": -0.1070725551018348,
+      "no_speech_prob": 5.169249902257922e-13,
+      "compression_ratio": 1.8423645320197044,
+      "temperature": 0.0
+    },
+    {
+      "start": 131.46,
+      "duration": 5.519999999999982,
+      "text": "We're going to him, and we're listening to him as he's telling us who Jesus is.",
+      "avg_logprob": -0.1070725551018348,
+      "no_speech_prob": 5.169249902257922e-13,
+      "compression_ratio": 1.8423645320197044,
+      "temperature": 0.0
+    },
+    {
+      "start": 137.72,
+      "duration": 4.900000000000006,
+      "text": "His goal is to help us to really know him, to know who Jesus is.",
+      "avg_logprob": -0.1070725551018348,
+      "no_speech_prob": 5.169249902257922e-13,
+      "compression_ratio": 1.8423645320197044,
+      "temperature": 0.0
+    },
+    {
+      "start": 142.62,
+      "duration": 5.97999999999999,
+      "text": "Not just to know more about Jesus, but to know Jesus more.",
+      "avg_logprob": -0.14663779258728027,
+      "no_speech_prob": 4.526487962664555e-13,
+      "compression_ratio": 1.5936073059360731,
+      "temperature": 0.0
+    },
+    {
+      "start": 149.5,
+      "duration": 1.1200000000000045,
+      "text": "And that's the goal.",
+      "avg_logprob": -0.14663779258728027,
+      "no_speech_prob": 4.526487962664555e-13,
+      "compression_ratio": 1.5936073059360731,
+      "temperature": 0.0
+    },
+    {
+      "start": 151.94,
+      "duration": 4.240000000000009,
+      "text": "I just want to say, I think it's been really great over the last year.",
+      "avg_logprob": -0.14663779258728027,
+      "no_speech_prob": 4.526487962664555e-13,
+      "compression_ratio": 1.5936073059360731,
+      "temperature": 0.0
+    },
+    {
+      "start": 156.32,
+      "duration": 5.780000000000001,
+      "text": "This year, we've done some really kind of heavyweight sermon series.",
+      "avg_logprob": -0.14663779258728027,
+      "no_speech_prob": 4.526487962664555e-13,
+      "compression_ratio": 1.5936073059360731,
+      "temperature": 0.0
+    },
+    {
+      "start": 162.3,
+      "duration": 2.819999999999993,
+      "text": "Like we've gone through Ecclesiastes.",
+      "avg_logprob": -0.14663779258728027,
+      "no_speech_prob": 4.526487962664555e-13,
+      "compression_ratio": 1.5936073059360731,
+      "temperature": 0.0
+    },
+    {
+      "start": 165.42,
+      "duration": 1.420000000000016,
+      "text": "Very practical stuff.",
+      "avg_logprob": -0.14663779258728027,
+      "no_speech_prob": 4.526487962664555e-13,
+      "compression_ratio": 1.5936073059360731,
+      "temperature": 0.0
+    },
+    {
+      "start": 167.04,
+      "duration": 1.1800000000000068,
+      "text": "We went through 1 Peter.",
+      "avg_logprob": -0.14663779258728027,
+      "no_speech_prob": 4.526487962664555e-13,
+      "compression_ratio": 1.5936073059360731,
+      "temperature": 0.0
+    },
+    {
+      "start": 168.44,
+      "duration": 3.0800000000000125,
+      "text": "Very practical stuff for our church as well.",
+      "avg_logprob": -0.14663779258728027,
+      "no_speech_prob": 4.526487962664555e-13,
+      "compression_ratio": 1.5936073059360731,
+      "temperature": 0.0
+    },
+    {
+      "start": 172.62,
+      "duration": 2.8400000000000034,
+      "text": "And I think it's challenged us and it's moved us in a way.",
+      "avg_logprob": -0.15585301431377283,
+      "no_speech_prob": 4.2025963872122096e-13,
+      "compression_ratio": 1.5933014354066986,
+      "temperature": 0.0
+    },
+    {
+      "start": 175.66,
+      "duration": 3.780000000000001,
+      "text": "And so this step, going into John, is a little bit different.",
+      "avg_logprob": -0.15585301431377283,
+      "no_speech_prob": 4.2025963872122096e-13,
+      "compression_ratio": 1.5933014354066986,
+      "temperature": 0.0
+    },
+    {
+      "start": 180.42,
+      "duration": 4.900000000000006,
+      "text": "It's actually about how can we know Jesus more",
+      "avg_logprob": -0.15585301431377283,
+      "no_speech_prob": 4.2025963872122096e-13,
+      "compression_ratio": 1.5933014354066986,
+      "temperature": 0.0
+    },
+    {
+      "start": 185.32,
+      "duration": 4.260000000000019,
+      "text": "and actually experience the transformational power of the gospel",
+      "avg_logprob": -0.15585301431377283,
+      "no_speech_prob": 4.2025963872122096e-13,
+      "compression_ratio": 1.5933014354066986,
+      "temperature": 0.0
+    },
+    {
+      "start": 189.58,
+      "duration": 2.299999999999983,
+      "text": "as we know him more and more.",
+      "avg_logprob": -0.15585301431377283,
+      "no_speech_prob": 4.2025963872122096e-13,
+      "compression_ratio": 1.5933014354066986,
+      "temperature": 0.0
+    },
+    {
+      "start": 192.96,
+      "duration": 5.340000000000003,
+      "text": "Now listen, every word of Scripture, every word is the words of Jesus.",
+      "avg_logprob": -0.15585301431377283,
+      "no_speech_prob": 4.2025963872122096e-13,
+      "compression_ratio": 1.5933014354066986,
+      "temperature": 0.0
+    },
+    {
+      "start": 198.86,
+      "duration": 4.299999999999983,
+      "text": "But going to the Gospels is a little bit different",
+      "avg_logprob": -0.1178040300679003,
+      "no_speech_prob": 5.333327638031016e-13,
+      "compression_ratio": 1.704724409448819,
+      "temperature": 0.0
+    },
+    {
+      "start": 203.16,
+      "duration": 3.3799999999999955,
+      "text": "because we have a special opportunity when we read the Gospels",
+      "avg_logprob": -0.1178040300679003,
+      "no_speech_prob": 5.333327638031016e-13,
+      "compression_ratio": 1.704724409448819,
+      "temperature": 0.0
+    },
+    {
+      "start": 206.54,
+      "duration": 3.0600000000000023,
+      "text": "to read the words that Jesus spoke while he was on earth.",
+      "avg_logprob": -0.1178040300679003,
+      "no_speech_prob": 5.333327638031016e-13,
+      "compression_ratio": 1.704724409448819,
+      "temperature": 0.0
+    },
+    {
+      "start": 209.6,
+      "duration": 1.6800000000000068,
+      "text": "We get to see his teachings.",
+      "avg_logprob": -0.1178040300679003,
+      "no_speech_prob": 5.333327638031016e-13,
+      "compression_ratio": 1.704724409448819,
+      "temperature": 0.0
+    },
+    {
+      "start": 211.28,
+      "duration": 3.6599999999999966,
+      "text": "We get to see how he interacted with people.",
+      "avg_logprob": -0.1178040300679003,
+      "no_speech_prob": 5.333327638031016e-13,
+      "compression_ratio": 1.704724409448819,
+      "temperature": 0.0
+    },
+    {
+      "start": 215.28,
+      "duration": 4.240000000000009,
+      "text": "And we get to actually know the man who, what Hebrews says,",
+      "avg_logprob": -0.1178040300679003,
+      "no_speech_prob": 5.333327638031016e-13,
+      "compression_ratio": 1.704724409448819,
+      "temperature": 0.0
+    },
+    {
+      "start": 219.7,
+      "duration": 2.719999999999999,
+      "text": "is exactly what God the Father is like.",
+      "avg_logprob": -0.1178040300679003,
+      "no_speech_prob": 5.333327638031016e-13,
+      "compression_ratio": 1.704724409448819,
+      "temperature": 0.0
+    },
+    {
+      "start": 222.8,
+      "duration": 1.8199999999999932,
+      "text": "That as we get to know Jesus,",
+      "avg_logprob": -0.1178040300679003,
+      "no_speech_prob": 5.333327638031016e-13,
+      "compression_ratio": 1.704724409448819,
+      "temperature": 0.0
+    },
+    {
+      "start": 224.62,
+      "duration": 2.579999999999984,
+      "text": "that we're seeing the exact representation of the Father.",
+      "avg_logprob": -0.1178040300679003,
+      "no_speech_prob": 5.333327638031016e-13,
+      "compression_ratio": 1.704724409448819,
+      "temperature": 0.0
+    },
+    {
+      "start": 228.3,
+      "duration": 6.259999999999991,
+      "text": "come to the Gospel of John, we want to come to it with really open hearts, with open minds,",
+      "avg_logprob": -0.12910532710528133,
+      "no_speech_prob": 5.375161578856369e-13,
+      "compression_ratio": 1.7942583732057416,
+      "temperature": 0.0
+    },
+    {
+      "start": 236.14000000000001,
+      "duration": 5.8799999999999955,
+      "text": "to actually be willing to look at Jesus for who he is, the way that his friend John is telling us.",
+      "avg_logprob": -0.12910532710528133,
+      "no_speech_prob": 5.375161578856369e-13,
+      "compression_ratio": 1.7942583732057416,
+      "temperature": 0.0
+    },
+    {
+      "start": 243.94,
+      "duration": 4.8799999999999955,
+      "text": "And so that's what we're going to do. We're going to spend some time in the Gospel of John.",
+      "avg_logprob": -0.12910532710528133,
+      "no_speech_prob": 5.375161578856369e-13,
+      "compression_ratio": 1.7942583732057416,
+      "temperature": 0.0
+    },
+    {
+      "start": 249.84,
+      "duration": 4.4199999999999875,
+      "text": "Now when John wrote his Gospel, just a little bit of background. When John wrote his Gospel,",
+      "avg_logprob": -0.12910532710528133,
+      "no_speech_prob": 5.375161578856369e-13,
+      "compression_ratio": 1.7942583732057416,
+      "temperature": 0.0
+    },
+    {
+      "start": 254.26,
+      "duration": 3.1200000000000045,
+      "text": "It was probably later in the first century.",
+      "avg_logprob": -0.16656931586887525,
+      "no_speech_prob": 5.903466192454243e-13,
+      "compression_ratio": 1.8454545454545455,
+      "temperature": 0.0
+    },
+    {
+      "start": 258.08000000000004,
+      "duration": 5.199999999999932,
+      "text": "Most scholars think that it was written probably sometime around 80 or so AD.",
+      "avg_logprob": -0.16656931586887525,
+      "no_speech_prob": 5.903466192454243e-13,
+      "compression_ratio": 1.8454545454545455,
+      "temperature": 0.0
+    },
+    {
+      "start": 264.02000000000004,
+      "duration": 4.339999999999975,
+      "text": "And this was actually really important because it was nearing the end of the first century.",
+      "avg_logprob": -0.16656931586887525,
+      "no_speech_prob": 5.903466192454243e-13,
+      "compression_ratio": 1.8454545454545455,
+      "temperature": 0.0
+    },
+    {
+      "start": 268.56,
+      "duration": 6.839999999999975,
+      "text": "John was beginning to see problems that were arising in the world and problems that were happening in the church.",
+      "avg_logprob": -0.16656931586887525,
+      "no_speech_prob": 5.903466192454243e-13,
+      "compression_ratio": 1.8454545454545455,
+      "temperature": 0.0
+    },
+    {
+      "start": 275.6,
+      "duration": 4.339999999999975,
+      "text": "He was seeing disunity. He was seeing darkness. He was seeing spiritual death.",
+      "avg_logprob": -0.16656931586887525,
+      "no_speech_prob": 5.903466192454243e-13,
+      "compression_ratio": 1.8454545454545455,
+      "temperature": 0.0
+    },
+    {
+      "start": 281.02,
+      "duration": 2.240000000000009,
+      "text": "So really quickly, I mean, disunity.",
+      "avg_logprob": -0.16725653522419479,
+      "no_speech_prob": 5.029981964797814e-13,
+      "compression_ratio": 1.7478260869565216,
+      "temperature": 0.0
+    },
+    {
+      "start": 283.58,
+      "duration": 2.1000000000000227,
+      "text": "He was seeing that Rome, right?",
+      "avg_logprob": -0.16725653522419479,
+      "no_speech_prob": 5.029981964797814e-13,
+      "compression_ratio": 1.7478260869565216,
+      "temperature": 0.0
+    },
+    {
+      "start": 285.78,
+      "duration": 4.080000000000041,
+      "text": "Rome has taken power and was gaining even more control.",
+      "avg_logprob": -0.16725653522419479,
+      "no_speech_prob": 5.029981964797814e-13,
+      "compression_ratio": 1.7478260869565216,
+      "temperature": 0.0
+    },
+    {
+      "start": 290.26,
+      "duration": 4.199999999999989,
+      "text": "Rome had already come in and destroyed the temple in Jerusalem.",
+      "avg_logprob": -0.16725653522419479,
+      "no_speech_prob": 5.029981964797814e-13,
+      "compression_ratio": 1.7478260869565216,
+      "temperature": 0.0
+    },
+    {
+      "start": 295.84,
+      "duration": 1.7800000000000296,
+      "text": "And they had dominant control.",
+      "avg_logprob": -0.16725653522419479,
+      "no_speech_prob": 5.029981964797814e-13,
+      "compression_ratio": 1.7478260869565216,
+      "temperature": 0.0
+    },
+    {
+      "start": 298.68,
+      "duration": 3.519999999999982,
+      "text": "And so there was disunity even in the world, right?",
+      "avg_logprob": -0.16725653522419479,
+      "no_speech_prob": 5.029981964797814e-13,
+      "compression_ratio": 1.7478260869565216,
+      "temperature": 0.0
+    },
+    {
+      "start": 302.5,
+      "duration": 2.1999999999999886,
+      "text": "But there was also disunity within the church.",
+      "avg_logprob": -0.16725653522419479,
+      "no_speech_prob": 5.029981964797814e-13,
+      "compression_ratio": 1.7478260869565216,
+      "temperature": 0.0
+    },
+    {
+      "start": 304.9,
+      "duration": 4.180000000000007,
+      "text": "There were false teachers and heresies that were starting to crop up in the church.",
+      "avg_logprob": -0.16725653522419479,
+      "no_speech_prob": 5.029981964797814e-13,
+      "compression_ratio": 1.7478260869565216,
+      "temperature": 0.0
+    },
+    {
+      "start": 309.94,
+      "duration": 3.3799999999999955,
+      "text": "And so these people were leading people away from the true gospel.",
+      "avg_logprob": -0.18295411860689204,
+      "no_speech_prob": 4.913309884814476e-13,
+      "compression_ratio": 1.691588785046729,
+      "temperature": 0.0
+    },
+    {
+      "start": 313.54,
+      "duration": 2.079999999999984,
+      "text": "And so disunity was already happening there too.",
+      "avg_logprob": -0.18295411860689204,
+      "no_speech_prob": 4.913309884814476e-13,
+      "compression_ratio": 1.691588785046729,
+      "temperature": 0.0
+    },
+    {
+      "start": 316.22,
+      "duration": 1.2199999999999704,
+      "text": "There was darkness.",
+      "avg_logprob": -0.18295411860689204,
+      "no_speech_prob": 4.913309884814476e-13,
+      "compression_ratio": 1.691588785046729,
+      "temperature": 0.0
+    },
+    {
+      "start": 317.9,
+      "duration": 1.32000000000005,
+      "text": "Sin had corrupted the world.",
+      "avg_logprob": -0.18295411860689204,
+      "no_speech_prob": 4.913309884814476e-13,
+      "compression_ratio": 1.691588785046729,
+      "temperature": 0.0
+    },
+    {
+      "start": 319.62,
+      "duration": 6.339999999999975,
+      "text": "And everyone in it, and even though Jesus had come to defeat sin,",
+      "avg_logprob": -0.18295411860689204,
+      "no_speech_prob": 4.913309884814476e-13,
+      "compression_ratio": 1.691588785046729,
+      "temperature": 0.0
+    },
+    {
+      "start": 326.34,
+      "duration": 2.660000000000025,
+      "text": "darkness still remained in the world.",
+      "avg_logprob": -0.18295411860689204,
+      "no_speech_prob": 4.913309884814476e-13,
+      "compression_ratio": 1.691588785046729,
+      "temperature": 0.0
+    },
+    {
+      "start": 329.46,
+      "duration": 2.3799999999999955,
+      "text": "The world had not been restored yet.",
+      "avg_logprob": -0.18295411860689204,
+      "no_speech_prob": 4.913309884814476e-13,
+      "compression_ratio": 1.691588785046729,
+      "temperature": 0.0
+    },
+    {
+      "start": 332.82,
+      "duration": 1.1800000000000068,
+      "text": "And people had questions why.",
+      "avg_logprob": -0.18295411860689204,
+      "no_speech_prob": 4.913309884814476e-13,
+      "compression_ratio": 1.691588785046729,
+      "temperature": 0.0
+    },
+    {
+      "start": 335.28000000000003,
+      "duration": 1.579999999999984,
+      "text": "There was spiritual death.",
+      "avg_logprob": -0.18295411860689204,
+      "no_speech_prob": 4.913309884814476e-13,
+      "compression_ratio": 1.691588785046729,
+      "temperature": 0.0
+    },
+    {
+      "start": 336.86,
+      "duration": 5.71999999999997,
+      "text": "the sin that had left the souls of humankind in this dead state",
+      "avg_logprob": -0.1795030612390018,
+      "no_speech_prob": 5.049511698530795e-13,
+      "compression_ratio": 1.7767857142857142,
+      "temperature": 0.0
+    },
+    {
+      "start": 343.68,
+      "duration": 3.0,
+      "text": "was still lingering, was still there.",
+      "avg_logprob": -0.1795030612390018,
+      "no_speech_prob": 5.049511698530795e-13,
+      "compression_ratio": 1.7767857142857142,
+      "temperature": 0.0
+    },
+    {
+      "start": 347.44,
+      "duration": 3.0600000000000023,
+      "text": "And there were still people who were searching for answers,",
+      "avg_logprob": -0.1795030612390018,
+      "no_speech_prob": 5.049511698530795e-13,
+      "compression_ratio": 1.7767857142857142,
+      "temperature": 0.0
+    },
+    {
+      "start": 350.84,
+      "duration": 2.6200000000000045,
+      "text": "searching for answers to life's biggest questions,",
+      "avg_logprob": -0.1795030612390018,
+      "no_speech_prob": 5.049511698530795e-13,
+      "compression_ratio": 1.7767857142857142,
+      "temperature": 0.0
+    },
+    {
+      "start": 353.6,
+      "duration": 2.17999999999995,
+      "text": "but running to all the wrong things for those answers.",
+      "avg_logprob": -0.1795030612390018,
+      "no_speech_prob": 5.049511698530795e-13,
+      "compression_ratio": 1.7767857142857142,
+      "temperature": 0.0
+    },
+    {
+      "start": 356.58000000000004,
+      "duration": 2.5399999999999636,
+      "text": "And John looks around and he sees all of these things,",
+      "avg_logprob": -0.1795030612390018,
+      "no_speech_prob": 5.049511698530795e-13,
+      "compression_ratio": 1.7767857142857142,
+      "temperature": 0.0
+    },
+    {
+      "start": 359.16,
+      "duration": 1.4399999999999977,
+      "text": "and he's like, I need to write a gospel.",
+      "avg_logprob": -0.1795030612390018,
+      "no_speech_prob": 5.049511698530795e-13,
+      "compression_ratio": 1.7767857142857142,
+      "temperature": 0.0
+    },
+    {
+      "start": 361.0,
+      "duration": 1.839999999999975,
+      "text": "I want to tell people about Jesus,",
+      "avg_logprob": -0.1795030612390018,
+      "no_speech_prob": 5.049511698530795e-13,
+      "compression_ratio": 1.7767857142857142,
+      "temperature": 0.0
+    },
+    {
+      "start": 362.84,
+      "duration": 4.260000000000048,
+      "text": "because Jesus is the answer to all of these things.",
+      "avg_logprob": -0.20463322230747769,
+      "no_speech_prob": 4.285598297678467e-13,
+      "compression_ratio": 1.6812227074235808,
+      "temperature": 0.0
+    },
+    {
+      "start": 368.74,
+      "duration": 2.240000000000009,
+      "text": "I think it sounds a lot like what we see today, right?",
+      "avg_logprob": -0.20463322230747769,
+      "no_speech_prob": 4.285598297678467e-13,
+      "compression_ratio": 1.6812227074235808,
+      "temperature": 0.0
+    },
+    {
+      "start": 371.24,
+      "duration": 1.240000000000009,
+      "text": "We talk about disunity.",
+      "avg_logprob": -0.20463322230747769,
+      "no_speech_prob": 4.285598297678467e-13,
+      "compression_ratio": 1.6812227074235808,
+      "temperature": 0.0
+    },
+    {
+      "start": 372.92,
+      "duration": 1.0399999999999636,
+      "text": "We talk about darkness.",
+      "avg_logprob": -0.20463322230747769,
+      "no_speech_prob": 4.285598297678467e-13,
+      "compression_ratio": 1.6812227074235808,
+      "temperature": 0.0
+    },
+    {
+      "start": 374.4,
+      "duration": 1.3799999999999955,
+      "text": "We talk about spiritual death.",
+      "avg_logprob": -0.20463322230747769,
+      "no_speech_prob": 4.285598297678467e-13,
+      "compression_ratio": 1.6812227074235808,
+      "temperature": 0.0
+    },
+    {
+      "start": 376.18,
+      "duration": 3.0,
+      "text": "We see disunity in our world.",
+      "avg_logprob": -0.20463322230747769,
+      "no_speech_prob": 4.285598297678467e-13,
+      "compression_ratio": 1.6812227074235808,
+      "temperature": 0.0
+    },
+    {
+      "start": 379.66,
+      "duration": 3.659999999999968,
+      "text": "Nations that are at war, our own country divided politically,",
+      "avg_logprob": -0.20463322230747769,
+      "no_speech_prob": 4.285598297678467e-13,
+      "compression_ratio": 1.6812227074235808,
+      "temperature": 0.0
+    },
+    {
+      "start": 383.32,
+      "duration": 4.240000000000009,
+      "text": "and the church still experiencing some disunity, right?",
+      "avg_logprob": -0.20463322230747769,
+      "no_speech_prob": 4.285598297678467e-13,
+      "compression_ratio": 1.6812227074235808,
+      "temperature": 0.0
+    },
+    {
+      "start": 389.1,
+      "duration": 2.659999999999968,
+      "text": "There's darkness of sin that overshadows our world,",
+      "avg_logprob": -0.20463322230747769,
+      "no_speech_prob": 4.285598297678467e-13,
+      "compression_ratio": 1.6812227074235808,
+      "temperature": 0.0
+    },
+    {
+      "start": 392.84,
+      "duration": 1.6200000000000045,
+      "text": "every aspect of our lives.",
+      "avg_logprob": -0.17426597679054345,
+      "no_speech_prob": 4.403857649642323e-13,
+      "compression_ratio": 1.6431924882629108,
+      "temperature": 0.0
+    },
+    {
+      "start": 395.18,
+      "duration": 4.860000000000014,
+      "text": "And ultimately, humanity is brought into this world",
+      "avg_logprob": -0.17426597679054345,
+      "no_speech_prob": 4.403857649642323e-13,
+      "compression_ratio": 1.6431924882629108,
+      "temperature": 0.0
+    },
+    {
+      "start": 400.04,
+      "duration": 1.4799999999999613,
+      "text": "spiritually dead.",
+      "avg_logprob": -0.17426597679054345,
+      "no_speech_prob": 4.403857649642323e-13,
+      "compression_ratio": 1.6431924882629108,
+      "temperature": 0.0
+    },
+    {
+      "start": 403.06,
+      "duration": 2.480000000000018,
+      "text": "And people are scrambling for better answers",
+      "avg_logprob": -0.17426597679054345,
+      "no_speech_prob": 4.403857649642323e-13,
+      "compression_ratio": 1.6431924882629108,
+      "temperature": 0.0
+    },
+    {
+      "start": 405.54,
+      "duration": 2.4599999999999795,
+      "text": "to these biggest questions in life.",
+      "avg_logprob": -0.17426597679054345,
+      "no_speech_prob": 4.403857649642323e-13,
+      "compression_ratio": 1.6431924882629108,
+      "temperature": 0.0
+    },
+    {
+      "start": 408.16,
+      "duration": 3.0,
+      "text": "And so John knows that the only solution",
+      "avg_logprob": -0.17426597679054345,
+      "no_speech_prob": 4.403857649642323e-13,
+      "compression_ratio": 1.6431924882629108,
+      "temperature": 0.0
+    },
+    {
+      "start": 411.16,
+      "duration": 2.0600000000000023,
+      "text": "is found in the person of Jesus.",
+      "avg_logprob": -0.17426597679054345,
+      "no_speech_prob": 4.403857649642323e-13,
+      "compression_ratio": 1.6431924882629108,
+      "temperature": 0.0
+    },
+    {
+      "start": 413.96,
+      "duration": 2.2000000000000455,
+      "text": "The only solution is found in Jesus",
+      "avg_logprob": -0.17426597679054345,
+      "no_speech_prob": 4.403857649642323e-13,
+      "compression_ratio": 1.6431924882629108,
+      "temperature": 0.0
+    },
+    {
+      "start": 416.16,
+      "duration": 2.5399999999999636,
+      "text": "because in Jesus there is unity",
+      "avg_logprob": -0.17426597679054345,
+      "no_speech_prob": 4.403857649642323e-13,
+      "compression_ratio": 1.6431924882629108,
+      "temperature": 0.0
+    },
+    {
+      "start": 419.64,
+      "duration": 2.2800000000000296,
+      "text": "where there's disunity, right?",
+      "avg_logprob": -0.17426597679054345,
+      "no_speech_prob": 4.403857649642323e-13,
+      "compression_ratio": 1.6431924882629108,
+      "temperature": 0.0
+    },
+    {
+      "start": 422.84,
+      "duration": 0.8800000000000523,
+      "text": "Unity is in him.",
+      "avg_logprob": -0.14910377673248745,
+      "no_speech_prob": 4.990824377035241e-13,
+      "compression_ratio": 1.962962962962963,
+      "temperature": 0.0
+    },
+    {
+      "start": 424.12,
+      "duration": 2.6999999999999886,
+      "text": "In him there is light that comes into the darkness.",
+      "avg_logprob": -0.14910377673248745,
+      "no_speech_prob": 4.990824377035241e-13,
+      "compression_ratio": 1.962962962962963,
+      "temperature": 0.0
+    },
+    {
+      "start": 427.8,
+      "duration": 6.519999999999982,
+      "text": "And in him there's a new birth that is given to us when we are spiritually dead.",
+      "avg_logprob": -0.14910377673248745,
+      "no_speech_prob": 4.990824377035241e-13,
+      "compression_ratio": 1.962962962962963,
+      "temperature": 0.0
+    },
+    {
+      "start": 435.68,
+      "duration": 1.8199999999999932,
+      "text": "And so that's what we're going to talk about this morning.",
+      "avg_logprob": -0.14910377673248745,
+      "no_speech_prob": 4.990824377035241e-13,
+      "compression_ratio": 1.962962962962963,
+      "temperature": 0.0
+    },
+    {
+      "start": 437.62,
+      "duration": 2.9399999999999977,
+      "text": "When he opens up his gospel, this is what he wants to highlight,",
+      "avg_logprob": -0.14910377673248745,
+      "no_speech_prob": 4.990824377035241e-13,
+      "compression_ratio": 1.962962962962963,
+      "temperature": 0.0
+    },
+    {
+      "start": 440.58,
+      "duration": 1.1000000000000227,
+      "text": "that this is what he's doing here.",
+      "avg_logprob": -0.14910377673248745,
+      "no_speech_prob": 4.990824377035241e-13,
+      "compression_ratio": 1.962962962962963,
+      "temperature": 0.0
+    },
+    {
+      "start": 441.82,
+      "duration": 1.4800000000000182,
+      "text": "This is who Jesus is.",
+      "avg_logprob": -0.14910377673248745,
+      "no_speech_prob": 4.990824377035241e-13,
+      "compression_ratio": 1.962962962962963,
+      "temperature": 0.0
+    },
+    {
+      "start": 444.6,
+      "duration": 1.259999999999991,
+      "text": "And this is what he gives us.",
+      "avg_logprob": -0.14910377673248745,
+      "no_speech_prob": 4.990824377035241e-13,
+      "compression_ratio": 1.962962962962963,
+      "temperature": 0.0
+    },
+    {
+      "start": 445.96,
+      "duration": 2.6000000000000227,
+      "text": "He gives us unity where there's disunity, light where there's darkness,",
+      "avg_logprob": -0.14910377673248745,
+      "no_speech_prob": 4.990824377035241e-13,
+      "compression_ratio": 1.962962962962963,
+      "temperature": 0.0
+    },
+    {
+      "start": 449.04,
+      "duration": 1.8999999999999773,
+      "text": "and new birth where there's spiritual death.",
+      "avg_logprob": -0.14910377673248745,
+      "no_speech_prob": 4.990824377035241e-13,
+      "compression_ratio": 1.962962962962963,
+      "temperature": 0.0
+    },
+    {
+      "start": 453.12,
+      "duration": 1.259999999999991,
+      "text": "Let's look at verse 1.",
+      "avg_logprob": -0.23663355509440104,
+      "no_speech_prob": 4.4387919988925217e-13,
+      "compression_ratio": 1.7624309392265194,
+      "temperature": 0.0
+    },
+    {
+      "start": 454.7,
+      "duration": 1.240000000000009,
+      "text": "Let's look at this passage again.",
+      "avg_logprob": -0.23663355509440104,
+      "no_speech_prob": 4.4387919988925217e-13,
+      "compression_ratio": 1.7624309392265194,
+      "temperature": 0.0
+    },
+    {
+      "start": 457.14,
+      "duration": 0.8799999999999955,
+      "text": "Verse 1.",
+      "avg_logprob": -0.23663355509440104,
+      "no_speech_prob": 4.4387919988925217e-13,
+      "compression_ratio": 1.7624309392265194,
+      "temperature": 0.0
+    },
+    {
+      "start": 459.47999999999996,
+      "duration": 5.680000000000064,
+      "text": "In the beginning was the Word, and the Word was with God, and the Word was God.",
+      "avg_logprob": -0.23663355509440104,
+      "no_speech_prob": 4.4387919988925217e-13,
+      "compression_ratio": 1.7624309392265194,
+      "temperature": 0.0
+    },
+    {
+      "start": 465.6,
+      "duration": 7.17999999999995,
+      "text": "He was in the beginning with God, and all things were made through him, and without",
+      "avg_logprob": -0.23663355509440104,
+      "no_speech_prob": 4.4387919988925217e-13,
+      "compression_ratio": 1.7624309392265194,
+      "temperature": 0.0
+    },
+    {
+      "start": 472.78,
+      "duration": 2.9600000000000364,
+      "text": "him was not anything that was made.",
+      "avg_logprob": -0.23663355509440104,
+      "no_speech_prob": 4.4387919988925217e-13,
+      "compression_ratio": 1.7624309392265194,
+      "temperature": 0.0
+    },
+    {
+      "start": 477.32,
+      "duration": 4.420000000000016,
+      "text": "John begins by introducing us to the person of Jesus.",
+      "avg_logprob": -0.23663355509440104,
+      "no_speech_prob": 4.4387919988925217e-13,
+      "compression_ratio": 1.7624309392265194,
+      "temperature": 0.0
+    },
+    {
+      "start": 482.84,
+      "duration": 4.860000000000014,
+      "text": "And it doesn't start with Jesus' earthly ministry, like the Gospel of Mark.",
+      "avg_logprob": -0.13972771401498832,
+      "no_speech_prob": 3.841471140752367e-13,
+      "compression_ratio": 1.7660550458715596,
+      "temperature": 0.0
+    },
+    {
+      "start": 488.4,
+      "duration": 4.740000000000009,
+      "text": "And it doesn't start with Jesus' birth, his entrance into the world, like in Matthew and Luke.",
+      "avg_logprob": -0.13972771401498832,
+      "no_speech_prob": 3.841471140752367e-13,
+      "compression_ratio": 1.7660550458715596,
+      "temperature": 0.0
+    },
+    {
+      "start": 494.28,
+      "duration": 2.3800000000000523,
+      "text": "But he backs up all the way to the very beginning.",
+      "avg_logprob": -0.13972771401498832,
+      "no_speech_prob": 3.841471140752367e-13,
+      "compression_ratio": 1.7660550458715596,
+      "temperature": 0.0
+    },
+    {
+      "start": 498.0,
+      "duration": 4.279999999999973,
+      "text": "He backs up all the way to the time before Jesus became a human being,",
+      "avg_logprob": -0.13972771401498832,
+      "no_speech_prob": 3.841471140752367e-13,
+      "compression_ratio": 1.7660550458715596,
+      "temperature": 0.0
+    },
+    {
+      "start": 502.38,
+      "duration": 2.1000000000000227,
+      "text": "before the Son of God was made flesh and blood,",
+      "avg_logprob": -0.13972771401498832,
+      "no_speech_prob": 3.841471140752367e-13,
+      "compression_ratio": 1.7660550458715596,
+      "temperature": 0.0
+    },
+    {
+      "start": 505.12,
+      "duration": 2.740000000000009,
+      "text": "and the Son of God existed in eternity past.",
+      "avg_logprob": -0.13972771401498832,
+      "no_speech_prob": 3.841471140752367e-13,
+      "compression_ratio": 1.7660550458715596,
+      "temperature": 0.0
+    },
+    {
+      "start": 508.65999999999997,
+      "duration": 5.0,
+      "text": "And John begins his gospel by drawing us back to the very beginning of this entire story.",
+      "avg_logprob": -0.1988819208037987,
+      "no_speech_prob": 4.353077685641249e-13,
+      "compression_ratio": 1.6908212560386473,
+      "temperature": 0.0
+    },
+    {
+      "start": 515.44,
+      "duration": 4.399999999999977,
+      "text": "His first words in the beginning echo Genesis, right?",
+      "avg_logprob": -0.1988819208037987,
+      "no_speech_prob": 4.353077685641249e-13,
+      "compression_ratio": 1.6908212560386473,
+      "temperature": 0.0
+    },
+    {
+      "start": 520.02,
+      "duration": 2.2000000000000455,
+      "text": "Genesis 1, and that's very intentional.",
+      "avg_logprob": -0.1988819208037987,
+      "no_speech_prob": 4.353077685641249e-13,
+      "compression_ratio": 1.6908212560386473,
+      "temperature": 0.0
+    },
+    {
+      "start": 522.62,
+      "duration": 3.0,
+      "text": "In the beginning, he goes back to the very beginning.",
+      "avg_logprob": -0.1988819208037987,
+      "no_speech_prob": 4.353077685641249e-13,
+      "compression_ratio": 1.6908212560386473,
+      "temperature": 0.0
+    },
+    {
+      "start": 526.1,
+      "duration": 5.819999999999936,
+      "text": "And he tells us of the one true God, the sovereign king,",
+      "avg_logprob": -0.1988819208037987,
+      "no_speech_prob": 4.353077685641249e-13,
+      "compression_ratio": 1.6908212560386473,
+      "temperature": 0.0
+    },
+    {
+      "start": 532.28,
+      "duration": 4.360000000000014,
+      "text": "who created all things, and he did it through speaking.",
+      "avg_logprob": -0.1988819208037987,
+      "no_speech_prob": 4.353077685641249e-13,
+      "compression_ratio": 1.6908212560386473,
+      "temperature": 0.0
+    },
+    {
+      "start": 537.86,
+      "duration": 2.3199999999999363,
+      "text": "He did it through his word.",
+      "avg_logprob": -0.2228110769520635,
+      "no_speech_prob": 4.1536278539908156e-13,
+      "compression_ratio": 1.6428571428571428,
+      "temperature": 0.0
+    },
+    {
+      "start": 542.0,
+      "duration": 1.4600000000000364,
+      "text": "Now, John uses this word.",
+      "avg_logprob": -0.2228110769520635,
+      "no_speech_prob": 4.1536278539908156e-13,
+      "compression_ratio": 1.6428571428571428,
+      "temperature": 0.0
+    },
+    {
+      "start": 543.66,
+      "duration": 1.4600000000000364,
+      "text": "It's the word word.",
+      "avg_logprob": -0.2228110769520635,
+      "no_speech_prob": 4.1536278539908156e-13,
+      "compression_ratio": 1.6428571428571428,
+      "temperature": 0.0
+    },
+    {
+      "start": 545.86,
+      "duration": 1.6999999999999318,
+      "text": "In Greek, it's the word logos.",
+      "avg_logprob": -0.2228110769520635,
+      "no_speech_prob": 4.1536278539908156e-13,
+      "compression_ratio": 1.6428571428571428,
+      "temperature": 0.0
+    },
+    {
+      "start": 548.42,
+      "duration": 5.6200000000000045,
+      "text": "He uses this word, which, man, there's so much we could talk about.",
+      "avg_logprob": -0.2228110769520635,
+      "no_speech_prob": 4.1536278539908156e-13,
+      "compression_ratio": 1.6428571428571428,
+      "temperature": 0.0
+    },
+    {
+      "start": 554.16,
+      "duration": 2.3600000000000136,
+      "text": "But here's what I think is the main thing.",
+      "avg_logprob": -0.2228110769520635,
+      "no_speech_prob": 4.1536278539908156e-13,
+      "compression_ratio": 1.6428571428571428,
+      "temperature": 0.0
+    },
+    {
+      "start": 558.16,
+      "duration": 8.259999999999991,
+      "text": "So, in Greek philosophy, the word logos was often used to describe logic or wisdom.",
+      "avg_logprob": -0.2228110769520635,
+      "no_speech_prob": 4.1536278539908156e-13,
+      "compression_ratio": 1.6428571428571428,
+      "temperature": 0.0
+    },
+    {
+      "start": 567.86,
+      "duration": 2.2999999999999545,
+      "text": "And they described it as an abstract concept.",
+      "avg_logprob": -0.16951058127663352,
+      "no_speech_prob": 4.818288238013502e-13,
+      "compression_ratio": 1.7636363636363637,
+      "temperature": 0.0
+    },
+    {
+      "start": 570.16,
+      "duration": 4.080000000000041,
+      "text": "It was like this is the reason or the purpose for something.",
+      "avg_logprob": -0.16951058127663352,
+      "no_speech_prob": 4.818288238013502e-13,
+      "compression_ratio": 1.7636363636363637,
+      "temperature": 0.0
+    },
+    {
+      "start": 574.62,
+      "duration": 4.279999999999973,
+      "text": "Sometimes they would even talk about it like this is the reason for life.",
+      "avg_logprob": -0.16951058127663352,
+      "no_speech_prob": 4.818288238013502e-13,
+      "compression_ratio": 1.7636363636363637,
+      "temperature": 0.0
+    },
+    {
+      "start": 578.9,
+      "duration": 2.8799999999999955,
+      "text": "The logos would be the reason behind it all.",
+      "avg_logprob": -0.16951058127663352,
+      "no_speech_prob": 4.818288238013502e-13,
+      "compression_ratio": 1.7636363636363637,
+      "temperature": 0.0
+    },
+    {
+      "start": 582.72,
+      "duration": 3.019999999999982,
+      "text": "But what John does is he takes that concept,",
+      "avg_logprob": -0.16951058127663352,
+      "no_speech_prob": 4.818288238013502e-13,
+      "compression_ratio": 1.7636363636363637,
+      "temperature": 0.0
+    },
+    {
+      "start": 586.28,
+      "duration": 2.800000000000068,
+      "text": "but he also knows the Old Testament so well.",
+      "avg_logprob": -0.16951058127663352,
+      "no_speech_prob": 4.818288238013502e-13,
+      "compression_ratio": 1.7636363636363637,
+      "temperature": 0.0
+    },
+    {
+      "start": 589.94,
+      "duration": 3.5599999999999454,
+      "text": "And he sees that in the Old Testament that it was the word that created,",
+      "avg_logprob": -0.16951058127663352,
+      "no_speech_prob": 4.818288238013502e-13,
+      "compression_ratio": 1.7636363636363637,
+      "temperature": 0.0
+    },
+    {
+      "start": 593.98,
+      "duration": 6.17999999999995,
+      "text": "that it was the word that was in existence before all of creation.",
+      "avg_logprob": -0.1790746556650294,
+      "no_speech_prob": 4.856067262713759e-13,
+      "compression_ratio": 1.7069767441860466,
+      "temperature": 0.0
+    },
+    {
+      "start": 600.44,
+      "duration": 2.7199999999999136,
+      "text": "And so he brings that all together,",
+      "avg_logprob": -0.1790746556650294,
+      "no_speech_prob": 4.856067262713759e-13,
+      "compression_ratio": 1.7069767441860466,
+      "temperature": 0.0
+    },
+    {
+      "start": 603.16,
+      "duration": 3.4600000000000364,
+      "text": "and he borrows this term and connects it together with the Old Testament,",
+      "avg_logprob": -0.1790746556650294,
+      "no_speech_prob": 4.856067262713759e-13,
+      "compression_ratio": 1.7069767441860466,
+      "temperature": 0.0
+    },
+    {
+      "start": 606.82,
+      "duration": 2.659999999999968,
+      "text": "showing us that the Logos is not just an abstract concept,",
+      "avg_logprob": -0.1790746556650294,
+      "no_speech_prob": 4.856067262713759e-13,
+      "compression_ratio": 1.7069767441860466,
+      "temperature": 0.0
+    },
+    {
+      "start": 609.52,
+      "duration": 1.5199999999999818,
+      "text": "but this Logos is a person,",
+      "avg_logprob": -0.1790746556650294,
+      "no_speech_prob": 4.856067262713759e-13,
+      "compression_ratio": 1.7069767441860466,
+      "temperature": 0.0
+    },
+    {
+      "start": 612.9,
+      "duration": 5.860000000000014,
+      "text": "a person who is to be known and is to be loved just as he knows and loves us.",
+      "avg_logprob": -0.1790746556650294,
+      "no_speech_prob": 4.856067262713759e-13,
+      "compression_ratio": 1.7069767441860466,
+      "temperature": 0.0
+    },
+    {
+      "start": 619.94,
+      "duration": 1.099999999999909,
+      "text": "And so look what he says.",
+      "avg_logprob": -0.1790746556650294,
+      "no_speech_prob": 4.856067262713759e-13,
+      "compression_ratio": 1.7069767441860466,
+      "temperature": 0.0
+    },
+    {
+      "start": 621.04,
+      "duration": 6.639999999999986,
+      "text": "He says, in the beginning was the Word, and the Word was, he first says, the Word was with God.",
+      "avg_logprob": -0.13582058861142113,
+      "no_speech_prob": 5.655159500406182e-13,
+      "compression_ratio": 1.7357512953367875,
+      "temperature": 0.0
+    },
+    {
+      "start": 627.8,
+      "duration": 1.1600000000000819,
+      "text": "The Word was with God.",
+      "avg_logprob": -0.13582058861142113,
+      "no_speech_prob": 5.655159500406182e-13,
+      "compression_ratio": 1.7357512953367875,
+      "temperature": 0.0
+    },
+    {
+      "start": 629.62,
+      "duration": 3.5599999999999454,
+      "text": "And what he's doing here, he's going back to Proverbs 8.",
+      "avg_logprob": -0.13582058861142113,
+      "no_speech_prob": 5.655159500406182e-13,
+      "compression_ratio": 1.7357512953367875,
+      "temperature": 0.0
+    },
+    {
+      "start": 633.68,
+      "duration": 4.460000000000036,
+      "text": "In Proverbs 8, wisdom is personified.",
+      "avg_logprob": -0.13582058861142113,
+      "no_speech_prob": 5.655159500406182e-13,
+      "compression_ratio": 1.7357512953367875,
+      "temperature": 0.0
+    },
+    {
+      "start": 638.26,
+      "duration": 0.9800000000000182,
+      "text": "Wisdom is a person.",
+      "avg_logprob": -0.13582058861142113,
+      "no_speech_prob": 5.655159500406182e-13,
+      "compression_ratio": 1.7357512953367875,
+      "temperature": 0.0
+    },
+    {
+      "start": 640.2,
+      "duration": 4.3799999999999955,
+      "text": "And this person is seen alongside God in creation.",
+      "avg_logprob": -0.13582058861142113,
+      "no_speech_prob": 5.655159500406182e-13,
+      "compression_ratio": 1.7357512953367875,
+      "temperature": 0.0
+    },
+    {
+      "start": 645.32,
+      "duration": 2.1200000000000045,
+      "text": "It's crazy how he says this.",
+      "avg_logprob": -0.13582058861142113,
+      "no_speech_prob": 5.655159500406182e-13,
+      "compression_ratio": 1.7357512953367875,
+      "temperature": 0.0
+    },
+    {
+      "start": 647.46,
+      "duration": 0.5,
+      "text": "Look at what he says.",
+      "avg_logprob": -0.13582058861142113,
+      "no_speech_prob": 5.655159500406182e-13,
+      "compression_ratio": 1.7357512953367875,
+      "temperature": 0.0
+    },
+    {
+      "start": 647.96,
+      "duration": 5.079999999999927,
+      "text": "He says, when he established the heavens, wisdom says, I was there.",
+      "avg_logprob": -0.16082128223619963,
+      "no_speech_prob": 6.019850958861872e-13,
+      "compression_ratio": 1.8652849740932642,
+      "temperature": 0.0
+    },
+    {
+      "start": 654.34,
+      "duration": 6.559999999999945,
+      "text": "When he drew a circle on the face of the deep, when he made firm the skies above,",
+      "avg_logprob": -0.16082128223619963,
+      "no_speech_prob": 6.019850958861872e-13,
+      "compression_ratio": 1.8652849740932642,
+      "temperature": 0.0
+    },
+    {
+      "start": 661.14,
+      "duration": 4.779999999999973,
+      "text": "when he established the fountains of the deep, when he assigned to the sea its limit,",
+      "avg_logprob": -0.16082128223619963,
+      "no_speech_prob": 6.019850958861872e-13,
+      "compression_ratio": 1.8652849740932642,
+      "temperature": 0.0
+    },
+    {
+      "start": 665.94,
+      "duration": 3.3599999999999,
+      "text": "so that the waters might not transgress his command.",
+      "avg_logprob": -0.16082128223619963,
+      "no_speech_prob": 6.019850958861872e-13,
+      "compression_ratio": 1.8652849740932642,
+      "temperature": 0.0
+    },
+    {
+      "start": 669.82,
+      "duration": 4.899999999999977,
+      "text": "When he marked out the foundations of the earth, then I was beside him.",
+      "avg_logprob": -0.16082128223619963,
+      "no_speech_prob": 6.019850958861872e-13,
+      "compression_ratio": 1.8652849740932642,
+      "temperature": 0.0
+    },
+    {
+      "start": 676.1,
+      "duration": 1.6200000000000045,
+      "text": "like a master workman.",
+      "avg_logprob": -0.24380794731346336,
+      "no_speech_prob": 4.508683736689084e-13,
+      "compression_ratio": 1.5975609756097562,
+      "temperature": 0.0
+    },
+    {
+      "start": 679.02,
+      "duration": 1.259999999999991,
+      "text": "And listen to this.",
+      "avg_logprob": -0.24380794731346336,
+      "no_speech_prob": 4.508683736689084e-13,
+      "compression_ratio": 1.5975609756097562,
+      "temperature": 0.0
+    },
+    {
+      "start": 681.52,
+      "duration": 5.060000000000059,
+      "text": "And I was daily his delight, rejoicing before him always,",
+      "avg_logprob": -0.24380794731346336,
+      "no_speech_prob": 4.508683736689084e-13,
+      "compression_ratio": 1.5975609756097562,
+      "temperature": 0.0
+    },
+    {
+      "start": 687.58,
+      "duration": 2.259999999999991,
+      "text": "rejoicing in his inhabited world",
+      "avg_logprob": -0.24380794731346336,
+      "no_speech_prob": 4.508683736689084e-13,
+      "compression_ratio": 1.5975609756097562,
+      "temperature": 0.0
+    },
+    {
+      "start": 689.84,
+      "duration": 2.3799999999999955,
+      "text": "and delighting in the children of man.",
+      "avg_logprob": -0.24380794731346336,
+      "no_speech_prob": 4.508683736689084e-13,
+      "compression_ratio": 1.5975609756097562,
+      "temperature": 0.0
+    },
+    {
+      "start": 693.84,
+      "duration": 3.8199999999999363,
+      "text": "And here is this other being, this wisdom personified",
+      "avg_logprob": -0.24380794731346336,
+      "no_speech_prob": 4.508683736689084e-13,
+      "compression_ratio": 1.5975609756097562,
+      "temperature": 0.0
+    },
+    {
+      "start": 699.12,
+      "duration": 1.67999999999995,
+      "text": "that was with God in the beginning,",
+      "avg_logprob": -0.24380794731346336,
+      "no_speech_prob": 4.508683736689084e-13,
+      "compression_ratio": 1.5975609756097562,
+      "temperature": 0.0
+    },
+    {
+      "start": 702.0600000000001,
+      "duration": 2.8799999999999955,
+      "text": "rejoicing in this relationship with the Father.",
+      "avg_logprob": -0.21448598009474734,
+      "no_speech_prob": 4.780772674441158e-13,
+      "compression_ratio": 1.7064676616915422,
+      "temperature": 0.0
+    },
+    {
+      "start": 706.12,
+      "duration": 5.039999999999964,
+      "text": "So the Word was with God, but the Word was God as well.",
+      "avg_logprob": -0.21448598009474734,
+      "no_speech_prob": 4.780772674441158e-13,
+      "compression_ratio": 1.7064676616915422,
+      "temperature": 0.0
+    },
+    {
+      "start": 712.0600000000001,
+      "duration": 1.759999999999991,
+      "text": "The Word is God.",
+      "avg_logprob": -0.21448598009474734,
+      "no_speech_prob": 4.780772674441158e-13,
+      "compression_ratio": 1.7064676616915422,
+      "temperature": 0.0
+    },
+    {
+      "start": 714.12,
+      "duration": 3.6399999999999864,
+      "text": "The Old Testament, Judaism at the time,",
+      "avg_logprob": -0.21448598009474734,
+      "no_speech_prob": 4.780772674441158e-13,
+      "compression_ratio": 1.7064676616915422,
+      "temperature": 0.0
+    },
+    {
+      "start": 718.54,
+      "duration": 4.32000000000005,
+      "text": "is unique amongst all religions as being a monotheistic religion,",
+      "avg_logprob": -0.21448598009474734,
+      "no_speech_prob": 4.780772674441158e-13,
+      "compression_ratio": 1.7064676616915422,
+      "temperature": 0.0
+    },
+    {
+      "start": 722.86,
+      "duration": 1.8400000000000318,
+      "text": "only having one God.",
+      "avg_logprob": -0.21448598009474734,
+      "no_speech_prob": 4.780772674441158e-13,
+      "compression_ratio": 1.7064676616915422,
+      "temperature": 0.0
+    },
+    {
+      "start": 725.02,
+      "duration": 1.3400000000000318,
+      "text": "There's only one God.",
+      "avg_logprob": -0.21448598009474734,
+      "no_speech_prob": 4.780772674441158e-13,
+      "compression_ratio": 1.7064676616915422,
+      "temperature": 0.0
+    },
+    {
+      "start": 726.8,
+      "duration": 3.900000000000091,
+      "text": "When all the other religions of the world says that there were many gods,",
+      "avg_logprob": -0.21448598009474734,
+      "no_speech_prob": 4.780772674441158e-13,
+      "compression_ratio": 1.7064676616915422,
+      "temperature": 0.0
+    },
+    {
+      "start": 731.86,
+      "duration": 7.559999999999945,
+      "text": "And so the Word, who is also with God, well, he's also God himself.",
+      "avg_logprob": -0.1553355337868274,
+      "no_speech_prob": 3.767292196515254e-13,
+      "compression_ratio": 1.5987261146496816,
+      "temperature": 0.0
+    },
+    {
+      "start": 741.24,
+      "duration": 5.580000000000041,
+      "text": "John wants to make sure that we understand that this Logos was not created.",
+      "avg_logprob": -0.1553355337868274,
+      "no_speech_prob": 3.767292196515254e-13,
+      "compression_ratio": 1.5987261146496816,
+      "temperature": 0.0
+    },
+    {
+      "start": 747.96,
+      "duration": 3.740000000000009,
+      "text": "This Logos was not God's first creation.",
+      "avg_logprob": -0.1553355337868274,
+      "no_speech_prob": 3.767292196515254e-13,
+      "compression_ratio": 1.5987261146496816,
+      "temperature": 0.0
+    },
+    {
+      "start": 752.26,
+      "duration": 6.259999999999991,
+      "text": "This Logos was not a man that became God at some point in history.",
+      "avg_logprob": -0.1553355337868274,
+      "no_speech_prob": 3.767292196515254e-13,
+      "compression_ratio": 1.5987261146496816,
+      "temperature": 0.0
+    },
+    {
+      "start": 759.1800000000001,
+      "duration": 5.379999999999882,
+      "text": "but the word even in the beginning before time itself was God.",
+      "avg_logprob": -0.16297056090156986,
+      "no_speech_prob": 4.951383270404563e-13,
+      "compression_ratio": 1.7389558232931728,
+      "temperature": 0.0
+    },
+    {
+      "start": 765.62,
+      "duration": 4.039999999999964,
+      "text": "And so right here in this first verse, we're introduced to this incredible mystery.",
+      "avg_logprob": -0.16297056090156986,
+      "no_speech_prob": 4.951383270404563e-13,
+      "compression_ratio": 1.7389558232931728,
+      "temperature": 0.0
+    },
+    {
+      "start": 770.28,
+      "duration": 3.060000000000059,
+      "text": "This mystery about this being, the mystery of the Trinity.",
+      "avg_logprob": -0.16297056090156986,
+      "no_speech_prob": 4.951383270404563e-13,
+      "compression_ratio": 1.7389558232931728,
+      "temperature": 0.0
+    },
+    {
+      "start": 774.44,
+      "duration": 4.219999999999914,
+      "text": "This being that is one God who eternally exists in three persons,",
+      "avg_logprob": -0.16297056090156986,
+      "no_speech_prob": 4.951383270404563e-13,
+      "compression_ratio": 1.7389558232931728,
+      "temperature": 0.0
+    },
+    {
+      "start": 778.84,
+      "duration": 1.6599999999999682,
+      "text": "the Father, the Son, and the Holy Spirit.",
+      "avg_logprob": -0.16297056090156986,
+      "no_speech_prob": 4.951383270404563e-13,
+      "compression_ratio": 1.7389558232931728,
+      "temperature": 0.0
+    },
+    {
+      "start": 780.64,
+      "duration": 5.5,
+      "text": "And because they're one, these three persons, they have perfect unity with one another",
+      "avg_logprob": -0.16297056090156986,
+      "no_speech_prob": 4.951383270404563e-13,
+      "compression_ratio": 1.7389558232931728,
+      "temperature": 0.0
+    },
+    {
+      "start": 786.14,
+      "duration": 1.3799999999999955,
+      "text": "and they can never be separated.",
+      "avg_logprob": -0.16297056090156986,
+      "no_speech_prob": 4.951383270404563e-13,
+      "compression_ratio": 1.7389558232931728,
+      "temperature": 0.0
+    },
+    {
+      "start": 788.8000000000001,
+      "duration": 1.2599999999998772,
+      "text": "They can never be separated.",
+      "avg_logprob": -0.17405423079386795,
+      "no_speech_prob": 5.129014075434812e-13,
+      "compression_ratio": 1.6791666666666667,
+      "temperature": 0.0
+    },
+    {
+      "start": 790.24,
+      "duration": 3.019999999999982,
+      "text": "Whatever God does, he does it together.",
+      "avg_logprob": -0.17405423079386795,
+      "no_speech_prob": 5.129014075434812e-13,
+      "compression_ratio": 1.6791666666666667,
+      "temperature": 0.0
+    },
+    {
+      "start": 796.24,
+      "duration": 1.9600000000000364,
+      "text": "The persons of the Trinity do it together.",
+      "avg_logprob": -0.17405423079386795,
+      "no_speech_prob": 5.129014075434812e-13,
+      "compression_ratio": 1.6791666666666667,
+      "temperature": 0.0
+    },
+    {
+      "start": 798.9,
+      "duration": 4.800000000000068,
+      "text": "The Son never does anything without the Father and the Spirit in full agreement",
+      "avg_logprob": -0.17405423079386795,
+      "no_speech_prob": 5.129014075434812e-13,
+      "compression_ratio": 1.6791666666666667,
+      "temperature": 0.0
+    },
+    {
+      "start": 803.7,
+      "duration": 2.3199999999999363,
+      "text": "working together to accomplish that purpose.",
+      "avg_logprob": -0.17405423079386795,
+      "no_speech_prob": 5.129014075434812e-13,
+      "compression_ratio": 1.6791666666666667,
+      "temperature": 0.0
+    },
+    {
+      "start": 807.7,
+      "duration": 3.3199999999999363,
+      "text": "So when God created the heavens and the earth, he did so through the Word.",
+      "avg_logprob": -0.17405423079386795,
+      "no_speech_prob": 5.129014075434812e-13,
+      "compression_ratio": 1.6791666666666667,
+      "temperature": 0.0
+    },
+    {
+      "start": 811.22,
+      "duration": 3.3600000000000136,
+      "text": "And so John says in verse 3, back in our passage,",
+      "avg_logprob": -0.17405423079386795,
+      "no_speech_prob": 5.129014075434812e-13,
+      "compression_ratio": 1.6791666666666667,
+      "temperature": 0.0
+    },
+    {
+      "start": 815.08,
+      "duration": 2.8799999999999955,
+      "text": "he says all things were made through him.",
+      "avg_logprob": -0.17405423079386795,
+      "no_speech_prob": 5.129014075434812e-13,
+      "compression_ratio": 1.6791666666666667,
+      "temperature": 0.0
+    },
+    {
+      "start": 819.28,
+      "duration": 1.1200000000000045,
+      "text": "through the word.",
+      "avg_logprob": -0.2316413836532764,
+      "no_speech_prob": 4.932076340218028e-13,
+      "compression_ratio": 1.5524861878453038,
+      "temperature": 0.0
+    },
+    {
+      "start": 822.62,
+      "duration": 3.8999999999999773,
+      "text": "And this is echoing, again, the Old Testament,",
+      "avg_logprob": -0.2316413836532764,
+      "no_speech_prob": 4.932076340218028e-13,
+      "compression_ratio": 1.5524861878453038,
+      "temperature": 0.0
+    },
+    {
+      "start": 826.94,
+      "duration": 5.5,
+      "text": "echoing what we know about who this word is.",
+      "avg_logprob": -0.2316413836532764,
+      "no_speech_prob": 4.932076340218028e-13,
+      "compression_ratio": 1.5524861878453038,
+      "temperature": 0.0
+    },
+    {
+      "start": 832.82,
+      "duration": 4.659999999999968,
+      "text": "Psalm 33, Psalm 33, verse 6, says,",
+      "avg_logprob": -0.2316413836532764,
+      "no_speech_prob": 4.932076340218028e-13,
+      "compression_ratio": 1.5524861878453038,
+      "temperature": 0.0
+    },
+    {
+      "start": 837.72,
+      "duration": 3.259999999999991,
+      "text": "By the word of the Lord, the heavens were made.",
+      "avg_logprob": -0.2316413836532764,
+      "no_speech_prob": 4.932076340218028e-13,
+      "compression_ratio": 1.5524861878453038,
+      "temperature": 0.0
+    },
+    {
+      "start": 841.46,
+      "duration": 2.980000000000018,
+      "text": "By the breath of his mouth, all their hosts.",
+      "avg_logprob": -0.2316413836532764,
+      "no_speech_prob": 4.932076340218028e-13,
+      "compression_ratio": 1.5524861878453038,
+      "temperature": 0.0
+    },
+    {
+      "start": 844.68,
+      "duration": 2.7000000000000455,
+      "text": "He gathers the waters of the sea as a heap.",
+      "avg_logprob": -0.2316413836532764,
+      "no_speech_prob": 4.932076340218028e-13,
+      "compression_ratio": 1.5524861878453038,
+      "temperature": 0.0
+    },
+    {
+      "start": 850.4200000000001,
+      "duration": 1.6599999999999682,
+      "text": "You see what he's saying?",
+      "avg_logprob": -0.17795708121323003,
+      "no_speech_prob": 4.990684514954991e-13,
+      "compression_ratio": 1.5852272727272727,
+      "temperature": 0.0
+    },
+    {
+      "start": 853.12,
+      "duration": 7.5,
+      "text": "He's saying that by the word of the Lord, God created the heavens and he created the earth.",
+      "avg_logprob": -0.17795708121323003,
+      "no_speech_prob": 4.990684514954991e-13,
+      "compression_ratio": 1.5852272727272727,
+      "temperature": 0.0
+    },
+    {
+      "start": 863.1800000000001,
+      "duration": 1.759999999999991,
+      "text": "Now, why does John start with this?",
+      "avg_logprob": -0.17795708121323003,
+      "no_speech_prob": 4.990684514954991e-13,
+      "compression_ratio": 1.5852272727272727,
+      "temperature": 0.0
+    },
+    {
+      "start": 865.5,
+      "duration": 3.4400000000000546,
+      "text": "Why does John talk about Jesus in this way?",
+      "avg_logprob": -0.17795708121323003,
+      "no_speech_prob": 4.990684514954991e-13,
+      "compression_ratio": 1.5852272727272727,
+      "temperature": 0.0
+    },
+    {
+      "start": 869.62,
+      "duration": 2.439999999999941,
+      "text": "Well, two reasons.",
+      "avg_logprob": -0.17795708121323003,
+      "no_speech_prob": 4.990684514954991e-13,
+      "compression_ratio": 1.5852272727272727,
+      "temperature": 0.0
+    },
+    {
+      "start": 872.22,
+      "duration": 5.0,
+      "text": "One, I think John wants us to know the nature of who Jesus is.",
+      "avg_logprob": -0.17795708121323003,
+      "no_speech_prob": 4.990684514954991e-13,
+      "compression_ratio": 1.5852272727272727,
+      "temperature": 0.0
+    },
+    {
+      "start": 878.52,
+      "duration": 7.7000000000000455,
+      "text": "understand that Jesus, this rabbi from Nazareth, is actually the promised Christ, the one that",
+      "avg_logprob": -0.07225073377291362,
+      "no_speech_prob": 7.820001699139489e-13,
+      "compression_ratio": 1.6382978723404256,
+      "temperature": 0.0
+    },
+    {
+      "start": 886.22,
+      "duration": 5.740000000000009,
+      "text": "we've been waiting for, that he's God, and he's always been God. Here's the thing. John was writing",
+      "avg_logprob": -0.07225073377291362,
+      "no_speech_prob": 7.820001699139489e-13,
+      "compression_ratio": 1.6382978723404256,
+      "temperature": 0.0
+    },
+    {
+      "start": 891.96,
+      "duration": 6.399999999999977,
+      "text": "at a time, like I said before, there was heresy cropping up. There were false teachers that were",
+      "avg_logprob": -0.07225073377291362,
+      "no_speech_prob": 7.820001699139489e-13,
+      "compression_ratio": 1.6382978723404256,
+      "temperature": 0.0
+    },
+    {
+      "start": 898.36,
+      "duration": 6.159999999999968,
+      "text": "talking about, that were teaching Christianity, but teaching a different gospel. And so there",
+      "avg_logprob": -0.07225073377291362,
+      "no_speech_prob": 7.820001699139489e-13,
+      "compression_ratio": 1.6382978723404256,
+      "temperature": 0.0
+    },
+    {
+      "start": 904.52,
+      "duration": 4.7000000000000455,
+      "text": "were people at the time when he was writing this that didn't believe this about Jesus.",
+      "avg_logprob": -0.0905017446964345,
+      "no_speech_prob": 4.526352166342451e-13,
+      "compression_ratio": 1.8523809523809525,
+      "temperature": 0.0
+    },
+    {
+      "start": 909.82,
+      "duration": 5.539999999999964,
+      "text": "They believed, there were some that believed that Jesus was just a normal man, someone",
+      "avg_logprob": -0.0905017446964345,
+      "no_speech_prob": 4.526352166342451e-13,
+      "compression_ratio": 1.8523809523809525,
+      "temperature": 0.0
+    },
+    {
+      "start": 915.36,
+      "duration": 5.480000000000018,
+      "text": "who God blessed, someone who God made divine for a short time.",
+      "avg_logprob": -0.0905017446964345,
+      "no_speech_prob": 4.526352166342451e-13,
+      "compression_ratio": 1.8523809523809525,
+      "temperature": 0.0
+    },
+    {
+      "start": 922.44,
+      "duration": 7.119999999999891,
+      "text": "In fact, this is even a belief held by some today, that Jesus was just some guy that God",
+      "avg_logprob": -0.0905017446964345,
+      "no_speech_prob": 4.526352166342451e-13,
+      "compression_ratio": 1.8523809523809525,
+      "temperature": 0.0
+    },
+    {
+      "start": 929.56,
+      "duration": 3.6400000000001,
+      "text": "blessed, just some guy that started a revolution and then died.",
+      "avg_logprob": -0.0905017446964345,
+      "no_speech_prob": 4.526352166342451e-13,
+      "compression_ratio": 1.8523809523809525,
+      "temperature": 0.0
+    },
+    {
+      "start": 934.98,
+      "duration": 2.0,
+      "text": "Now, we're going to talk more about that on Thursday.",
+      "avg_logprob": -0.15880512800373014,
+      "no_speech_prob": 5.087855050461831e-13,
+      "compression_ratio": 1.7294117647058824,
+      "temperature": 0.0
+    },
+    {
+      "start": 937.28,
+      "duration": 2.6800000000000637,
+      "text": "There's a little shameless plug for the first John study.",
+      "avg_logprob": -0.15880512800373014,
+      "no_speech_prob": 5.087855050461831e-13,
+      "compression_ratio": 1.7294117647058824,
+      "temperature": 0.0
+    },
+    {
+      "start": 939.96,
+      "duration": 3.740000000000009,
+      "text": "We're going to talk more about this because this is part of John's mindset",
+      "avg_logprob": -0.15880512800373014,
+      "no_speech_prob": 5.087855050461831e-13,
+      "compression_ratio": 1.7294117647058824,
+      "temperature": 0.0
+    },
+    {
+      "start": 943.7,
+      "duration": 2.2799999999999727,
+      "text": "of why he wants to talk about Jesus in this way.",
+      "avg_logprob": -0.15880512800373014,
+      "no_speech_prob": 5.087855050461831e-13,
+      "compression_ratio": 1.7294117647058824,
+      "temperature": 0.0
+    },
+    {
+      "start": 946.88,
+      "duration": 6.0,
+      "text": "But he wants us to understand that Jesus was not just a man who became God,",
+      "avg_logprob": -0.15880512800373014,
+      "no_speech_prob": 5.087855050461831e-13,
+      "compression_ratio": 1.7294117647058824,
+      "temperature": 0.0
+    },
+    {
+      "start": 952.9,
+      "duration": 3.1800000000000637,
+      "text": "but that he is the eternally divine Logos.",
+      "avg_logprob": -0.15880512800373014,
+      "no_speech_prob": 5.087855050461831e-13,
+      "compression_ratio": 1.7294117647058824,
+      "temperature": 0.0
+    },
+    {
+      "start": 956.82,
+      "duration": 3.7399999999998954,
+      "text": "He's the Word of God who is with God and has always been God.",
+      "avg_logprob": -0.15880512800373014,
+      "no_speech_prob": 5.087855050461831e-13,
+      "compression_ratio": 1.7294117647058824,
+      "temperature": 0.0
+    },
+    {
+      "start": 960.76,
+      "duration": 2.060000000000059,
+      "text": "And church, this is key.",
+      "avg_logprob": -0.15880512800373014,
+      "no_speech_prob": 5.087855050461831e-13,
+      "compression_ratio": 1.7294117647058824,
+      "temperature": 0.0
+    },
+    {
+      "start": 964.5,
+      "duration": 8.960000000000036,
+      "text": "important. It is so important because without this, the gospel falls apart. See, if Jesus was merely a",
+      "avg_logprob": -0.05732855478922526,
+      "no_speech_prob": 4.335987135745817e-13,
+      "compression_ratio": 1.7251461988304093,
+      "temperature": 0.0
+    },
+    {
+      "start": 973.46,
+      "duration": 4.199999999999932,
+      "text": "man, think about this for a second. If Jesus was merely a man, then his sacrifice on the cross",
+      "avg_logprob": -0.05732855478922526,
+      "no_speech_prob": 4.335987135745817e-13,
+      "compression_ratio": 1.7251461988304093,
+      "temperature": 0.0
+    },
+    {
+      "start": 977.66,
+      "duration": 8.960000000000036,
+      "text": "cannot carry the full weight of our sin. If Jesus was merely a man, then we don't have God giving",
+      "avg_logprob": -0.05732855478922526,
+      "no_speech_prob": 4.335987135745817e-13,
+      "compression_ratio": 1.7251461988304093,
+      "temperature": 0.0
+    },
+    {
+      "start": 986.62,
+      "duration": 2.1399999999999864,
+      "text": "himself to us.",
+      "avg_logprob": -0.2644664111890291,
+      "no_speech_prob": 4.3022454088853523e-13,
+      "compression_ratio": 1.4444444444444444,
+      "temperature": 0.0
+    },
+    {
+      "start": 990.2,
+      "duration": 1.4399999999999409,
+      "text": "But we have God",
+      "avg_logprob": -0.2644664111890291,
+      "no_speech_prob": 4.3022454088853523e-13,
+      "compression_ratio": 1.4444444444444444,
+      "temperature": 0.0
+    },
+    {
+      "start": 992.74,
+      "duration": 1.6200000000000045,
+      "text": "sacrificing a human being.",
+      "avg_logprob": -0.2644664111890291,
+      "no_speech_prob": 4.3022454088853523e-13,
+      "compression_ratio": 1.4444444444444444,
+      "temperature": 0.0
+    },
+    {
+      "start": 996.14,
+      "duration": 2.5,
+      "text": "And that is not our God.",
+      "avg_logprob": -0.2644664111890291,
+      "no_speech_prob": 4.3022454088853523e-13,
+      "compression_ratio": 1.4444444444444444,
+      "temperature": 0.0
+    },
+    {
+      "start": 1001.0,
+      "duration": 1.4800000000000182,
+      "text": "See, without this reality,",
+      "avg_logprob": -0.2644664111890291,
+      "no_speech_prob": 4.3022454088853523e-13,
+      "compression_ratio": 1.4444444444444444,
+      "temperature": 0.0
+    },
+    {
+      "start": 1002.76,
+      "duration": 3.3799999999999955,
+      "text": "the Christian gospel falls apart, and that means that we are still in our sins.",
+      "avg_logprob": -0.2644664111890291,
+      "no_speech_prob": 4.3022454088853523e-13,
+      "compression_ratio": 1.4444444444444444,
+      "temperature": 0.0
+    },
+    {
+      "start": 1008.4200000000001,
+      "duration": 1.599999999999909,
+      "text": "God had to come in the flesh.",
+      "avg_logprob": -0.2644664111890291,
+      "no_speech_prob": 4.3022454088853523e-13,
+      "compression_ratio": 1.4444444444444444,
+      "temperature": 0.0
+    },
+    {
+      "start": 1012.54,
+      "duration": 1.1399999999999864,
+      "text": "But here's the other thing,",
+      "avg_logprob": -0.2644664111890291,
+      "no_speech_prob": 4.3022454088853523e-13,
+      "compression_ratio": 1.4444444444444444,
+      "temperature": 0.0
+    },
+    {
+      "start": 1013.68,
+      "duration": 6.420000000000073,
+      "text": "is that John is so concerned with us having the unity that God has.",
+      "avg_logprob": -0.11716809096159758,
+      "no_speech_prob": 5.029966785967399e-13,
+      "compression_ratio": 1.632,
+      "temperature": 0.0
+    },
+    {
+      "start": 1020.24,
+      "duration": 2.17999999999995,
+      "text": "God has that unity within himself, right?",
+      "avg_logprob": -0.11716809096159758,
+      "no_speech_prob": 5.029966785967399e-13,
+      "compression_ratio": 1.632,
+      "temperature": 0.0
+    },
+    {
+      "start": 1022.48,
+      "duration": 3.1800000000000637,
+      "text": "The Father, the Son, and the Spirit all together, unified together,",
+      "avg_logprob": -0.11716809096159758,
+      "no_speech_prob": 5.029966785967399e-13,
+      "compression_ratio": 1.632,
+      "temperature": 0.0
+    },
+    {
+      "start": 1025.94,
+      "duration": 1.2799999999999727,
+      "text": "doing everything together.",
+      "avg_logprob": -0.11716809096159758,
+      "no_speech_prob": 5.029966785967399e-13,
+      "compression_ratio": 1.632,
+      "temperature": 0.0
+    },
+    {
+      "start": 1027.4,
+      "duration": 5.5,
+      "text": "And he wants so much for us to experience that kind of unity as well.",
+      "avg_logprob": -0.11716809096159758,
+      "no_speech_prob": 5.029966785967399e-13,
+      "compression_ratio": 1.632,
+      "temperature": 0.0
+    },
+    {
+      "start": 1034.68,
+      "duration": 2.9199999999998454,
+      "text": "Lord willing, in a couple years from now, we'll get to John 17,",
+      "avg_logprob": -0.11716809096159758,
+      "no_speech_prob": 5.029966785967399e-13,
+      "compression_ratio": 1.632,
+      "temperature": 0.0
+    },
+    {
+      "start": 1038.22,
+      "duration": 4.619999999999891,
+      "text": "and when we get there, you're going to hear the high priestly prayer.",
+      "avg_logprob": -0.11716809096159758,
+      "no_speech_prob": 5.029966785967399e-13,
+      "compression_ratio": 1.632,
+      "temperature": 0.0
+    },
+    {
+      "start": 1043.68,
+      "duration": 6.5,
+      "text": "And in the high priestly prayer, Jesus says two things that I think are just so, so important.",
+      "avg_logprob": -0.09574364807646153,
+      "no_speech_prob": 4.1374347524436583e-13,
+      "compression_ratio": 1.9264069264069263,
+      "temperature": 0.0
+    },
+    {
+      "start": 1050.4,
+      "duration": 3.699999999999818,
+      "text": "He says first that he prays that we would have unity with one another.",
+      "avg_logprob": -0.09574364807646153,
+      "no_speech_prob": 4.1374347524436583e-13,
+      "compression_ratio": 1.9264069264069263,
+      "temperature": 0.0
+    },
+    {
+      "start": 1054.92,
+      "duration": 0.6799999999998363,
+      "text": "What does he pray?",
+      "avg_logprob": -0.09574364807646153,
+      "no_speech_prob": 4.1374347524436583e-13,
+      "compression_ratio": 1.9264069264069263,
+      "temperature": 0.0
+    },
+    {
+      "start": 1055.66,
+      "duration": 4.1599999999998545,
+      "text": "He prays that they may be one even as we are one is the way that Jesus says it.",
+      "avg_logprob": -0.09574364807646153,
+      "no_speech_prob": 4.1374347524436583e-13,
+      "compression_ratio": 1.9264069264069263,
+      "temperature": 0.0
+    },
+    {
+      "start": 1060.22,
+      "duration": 5.139999999999873,
+      "text": "That we would have the same unity that God the Father has with the Son and the Spirit.",
+      "avg_logprob": -0.09574364807646153,
+      "no_speech_prob": 4.1374347524436583e-13,
+      "compression_ratio": 1.9264069264069263,
+      "temperature": 0.0
+    },
+    {
+      "start": 1066.5,
+      "duration": 4.119999999999891,
+      "text": "But then the other thing that he prays is that we would not only have unity with one another,",
+      "avg_logprob": -0.09574364807646153,
+      "no_speech_prob": 4.1374347524436583e-13,
+      "compression_ratio": 1.9264069264069263,
+      "temperature": 0.0
+    },
+    {
+      "start": 1070.62,
+      "duration": 2.900000000000091,
+      "text": "but that we would have a unity with God himself.",
+      "avg_logprob": -0.15895284455398034,
+      "no_speech_prob": 5.481300092632924e-13,
+      "compression_ratio": 1.6061946902654867,
+      "temperature": 0.0
+    },
+    {
+      "start": 1075.28,
+      "duration": 0.6200000000001182,
+      "text": "Look at this.",
+      "avg_logprob": -0.15895284455398034,
+      "no_speech_prob": 5.481300092632924e-13,
+      "compression_ratio": 1.6061946902654867,
+      "temperature": 0.0
+    },
+    {
+      "start": 1075.94,
+      "duration": 1.0,
+      "text": "This is John 17.",
+      "avg_logprob": -0.15895284455398034,
+      "no_speech_prob": 5.481300092632924e-13,
+      "compression_ratio": 1.6061946902654867,
+      "temperature": 0.0
+    },
+    {
+      "start": 1078.14,
+      "duration": 1.5799999999999272,
+      "text": "He says, Jesus is praying.",
+      "avg_logprob": -0.15895284455398034,
+      "no_speech_prob": 5.481300092632924e-13,
+      "compression_ratio": 1.6061946902654867,
+      "temperature": 0.0
+    },
+    {
+      "start": 1079.86,
+      "duration": 1.5200000000002092,
+      "text": "He says, I do not ask for these only,",
+      "avg_logprob": -0.15895284455398034,
+      "no_speech_prob": 5.481300092632924e-13,
+      "compression_ratio": 1.6061946902654867,
+      "temperature": 0.0
+    },
+    {
+      "start": 1081.52,
+      "duration": 2.6800000000000637,
+      "text": "but also for those who will believe in me through their word,",
+      "avg_logprob": -0.15895284455398034,
+      "no_speech_prob": 5.481300092632924e-13,
+      "compression_ratio": 1.6061946902654867,
+      "temperature": 0.0
+    },
+    {
+      "start": 1084.42,
+      "duration": 2.019999999999982,
+      "text": "that they all may be one,",
+      "avg_logprob": -0.15895284455398034,
+      "no_speech_prob": 5.481300092632924e-13,
+      "compression_ratio": 1.6061946902654867,
+      "temperature": 0.0
+    },
+    {
+      "start": 1086.44,
+      "duration": 3.019999999999982,
+      "text": "just as you, Father, are in me and I in you.",
+      "avg_logprob": -0.15895284455398034,
+      "no_speech_prob": 5.481300092632924e-13,
+      "compression_ratio": 1.6061946902654867,
+      "temperature": 0.0
+    },
+    {
+      "start": 1089.82,
+      "duration": 0.44000000000005457,
+      "text": "Why?",
+      "avg_logprob": -0.15895284455398034,
+      "no_speech_prob": 5.481300092632924e-13,
+      "compression_ratio": 1.6061946902654867,
+      "temperature": 0.0
+    },
+    {
+      "start": 1090.72,
+      "duration": 2.5799999999999272,
+      "text": "That they also may be in us",
+      "avg_logprob": -0.15895284455398034,
+      "no_speech_prob": 5.481300092632924e-13,
+      "compression_ratio": 1.6061946902654867,
+      "temperature": 0.0
+    },
+    {
+      "start": 1094.3,
+      "duration": 3.8600000000001273,
+      "text": "so that the world may believe that you have sent me.",
+      "avg_logprob": -0.15895284455398034,
+      "no_speech_prob": 5.481300092632924e-13,
+      "compression_ratio": 1.6061946902654867,
+      "temperature": 0.0
+    },
+    {
+      "start": 1100.62,
+      "duration": 4.560000000000173,
+      "text": "See, Jesus is not praying that we would become God,",
+      "avg_logprob": -0.17511706449547593,
+      "no_speech_prob": 3.147709957268541e-13,
+      "compression_ratio": 1.6490384615384615,
+      "temperature": 0.0
+    },
+    {
+      "start": 1105.8000000000002,
+      "duration": 2.0399999999997362,
+      "text": "that we become little gods.",
+      "avg_logprob": -0.17511706449547593,
+      "no_speech_prob": 3.147709957268541e-13,
+      "compression_ratio": 1.6490384615384615,
+      "temperature": 0.0
+    },
+    {
+      "start": 1107.9,
+      "duration": 2.8599999999999,
+      "text": "He's not praying that we just become part of God,",
+      "avg_logprob": -0.17511706449547593,
+      "no_speech_prob": 3.147709957268541e-13,
+      "compression_ratio": 1.6490384615384615,
+      "temperature": 0.0
+    },
+    {
+      "start": 1111.16,
+      "duration": 2.2200000000000273,
+      "text": "sort of like an Eastern tradition.",
+      "avg_logprob": -0.17511706449547593,
+      "no_speech_prob": 3.147709957268541e-13,
+      "compression_ratio": 1.6490384615384615,
+      "temperature": 0.0
+    },
+    {
+      "start": 1114.52,
+      "duration": 4.519999999999982,
+      "text": "But as Christians, what he's talking about is a union with God,",
+      "avg_logprob": -0.17511706449547593,
+      "no_speech_prob": 3.147709957268541e-13,
+      "compression_ratio": 1.6490384615384615,
+      "temperature": 0.0
+    },
+    {
+      "start": 1119.06,
+      "duration": 2.259999999999991,
+      "text": "a perfect fellowship with him,",
+      "avg_logprob": -0.17511706449547593,
+      "no_speech_prob": 3.147709957268541e-13,
+      "compression_ratio": 1.6490384615384615,
+      "temperature": 0.0
+    },
+    {
+      "start": 1121.52,
+      "duration": 2.3600000000001273,
+      "text": "where God, just like in Proverbs 8,",
+      "avg_logprob": -0.17511706449547593,
+      "no_speech_prob": 3.147709957268541e-13,
+      "compression_ratio": 1.6490384615384615,
+      "temperature": 0.0
+    },
+    {
+      "start": 1124.16,
+      "duration": 3.8999999999998636,
+      "text": "where God delights in us and we delight in him.",
+      "avg_logprob": -0.17511706449547593,
+      "no_speech_prob": 3.147709957268541e-13,
+      "compression_ratio": 1.6490384615384615,
+      "temperature": 0.0
+    },
+    {
+      "start": 1129.56,
+      "duration": 2.5399999999999636,
+      "text": "that we would have that same kind of union.",
+      "avg_logprob": -0.21844699059003664,
+      "no_speech_prob": 4.137412255248579e-13,
+      "compression_ratio": 1.675977653631285,
+      "temperature": 0.0
+    },
+    {
+      "start": 1134.7,
+      "duration": 4.599999999999909,
+      "text": "And the beautiful thing about this is that this unity does not start at death.",
+      "avg_logprob": -0.21844699059003664,
+      "no_speech_prob": 4.137412255248579e-13,
+      "compression_ratio": 1.675977653631285,
+      "temperature": 0.0
+    },
+    {
+      "start": 1141.2,
+      "duration": 1.4600000000000364,
+      "text": "It starts right now.",
+      "avg_logprob": -0.21844699059003664,
+      "no_speech_prob": 4.137412255248579e-13,
+      "compression_ratio": 1.675977653631285,
+      "temperature": 0.0
+    },
+    {
+      "start": 1143.4,
+      "duration": 4.6599999999998545,
+      "text": "We can have that unity right now.",
+      "avg_logprob": -0.21844699059003664,
+      "no_speech_prob": 4.137412255248579e-13,
+      "compression_ratio": 1.675977653631285,
+      "temperature": 0.0
+    },
+    {
+      "start": 1148.3,
+      "duration": 1.900000000000091,
+      "text": "Unity with God and unity with one another.",
+      "avg_logprob": -0.21844699059003664,
+      "no_speech_prob": 4.137412255248579e-13,
+      "compression_ratio": 1.675977653631285,
+      "temperature": 0.0
+    },
+    {
+      "start": 1151.3400000000001,
+      "duration": 1.7799999999997453,
+      "text": "The unity of God is beautiful.",
+      "avg_logprob": -0.21844699059003664,
+      "no_speech_prob": 4.137412255248579e-13,
+      "compression_ratio": 1.675977653631285,
+      "temperature": 0.0
+    },
+    {
+      "start": 1153.8400000000001,
+      "duration": 3.0199999999997544,
+      "text": "It's unlike anything that we have here on earth.",
+      "avg_logprob": -0.21844699059003664,
+      "no_speech_prob": 4.137412255248579e-13,
+      "compression_ratio": 1.675977653631285,
+      "temperature": 0.0
+    },
+    {
+      "start": 1158.08,
+      "duration": 6.380000000000109,
+      "text": "And through Jesus, the perfect unity that he has, he wants to share that with us.",
+      "avg_logprob": -0.16229167249467638,
+      "no_speech_prob": 3.1971604183556046e-13,
+      "compression_ratio": 1.5696202531645569,
+      "temperature": 0.0
+    },
+    {
+      "start": 1165.68,
+      "duration": 3.1399999999998727,
+      "text": "To bring unity where there is disunity.",
+      "avg_logprob": -0.16229167249467638,
+      "no_speech_prob": 3.1971604183556046e-13,
+      "compression_ratio": 1.5696202531645569,
+      "temperature": 0.0
+    },
+    {
+      "start": 1171.48,
+      "duration": 2.099999999999909,
+      "text": "The second thing is that he wants to bring light.",
+      "avg_logprob": -0.16229167249467638,
+      "no_speech_prob": 3.1971604183556046e-13,
+      "compression_ratio": 1.5696202531645569,
+      "temperature": 0.0
+    },
+    {
+      "start": 1175.6200000000001,
+      "duration": 6.819999999999936,
+      "text": "See, it says, if you look at verse 4, back in our passage, verse 4, he says,",
+      "avg_logprob": -0.16229167249467638,
+      "no_speech_prob": 3.1971604183556046e-13,
+      "compression_ratio": 1.5696202531645569,
+      "temperature": 0.0
+    },
+    {
+      "start": 1185.1,
+      "duration": 6.759999999999991,
+      "text": "In him was life, and the life was the light of men.",
+      "avg_logprob": -0.2244250742594401,
+      "no_speech_prob": 4.025821017696052e-13,
+      "compression_ratio": 1.5782312925170068,
+      "temperature": 0.0
+    },
+    {
+      "start": 1192.44,
+      "duration": 5.319999999999936,
+      "text": "The light shines in the darkness, and the darkness has not overcome it.",
+      "avg_logprob": -0.2244250742594401,
+      "no_speech_prob": 4.025821017696052e-13,
+      "compression_ratio": 1.5782312925170068,
+      "temperature": 0.0
+    },
+    {
+      "start": 1198.94,
+      "duration": 1.8599999999999,
+      "text": "So, what does he say?",
+      "avg_logprob": -0.2244250742594401,
+      "no_speech_prob": 4.025821017696052e-13,
+      "compression_ratio": 1.5782312925170068,
+      "temperature": 0.0
+    },
+    {
+      "start": 1201.14,
+      "duration": 3.459999999999809,
+      "text": "In the word, in this logos, is life.",
+      "avg_logprob": -0.2244250742594401,
+      "no_speech_prob": 4.025821017696052e-13,
+      "compression_ratio": 1.5782312925170068,
+      "temperature": 0.0
+    },
+    {
+      "start": 1205.14,
+      "duration": 0.6599999999998545,
+      "text": "Okay?",
+      "avg_logprob": -0.2244250742594401,
+      "no_speech_prob": 4.025821017696052e-13,
+      "compression_ratio": 1.5782312925170068,
+      "temperature": 0.0
+    },
+    {
+      "start": 1206.04,
+      "duration": 3.740000000000009,
+      "text": "This is, in him is the very source of life.",
+      "avg_logprob": -0.2244250742594401,
+      "no_speech_prob": 4.025821017696052e-13,
+      "compression_ratio": 1.5782312925170068,
+      "temperature": 0.0
+    },
+    {
+      "start": 1209.78,
+      "duration": 6.100000000000136,
+      "text": "And since all things are created through him, that means that he is the very fountain from which life flows.",
+      "avg_logprob": -0.13014427451200264,
+      "no_speech_prob": 4.837278581165672e-13,
+      "compression_ratio": 1.6153846153846154,
+      "temperature": 0.0
+    },
+    {
+      "start": 1217.3400000000001,
+      "duration": 4.459999999999809,
+      "text": "John calls this life the light of men, the light of all humankind.",
+      "avg_logprob": -0.13014427451200264,
+      "no_speech_prob": 4.837278581165672e-13,
+      "compression_ratio": 1.6153846153846154,
+      "temperature": 0.0
+    },
+    {
+      "start": 1222.6000000000001,
+      "duration": 4.019999999999754,
+      "text": "The light is life that comes from the word.",
+      "avg_logprob": -0.13014427451200264,
+      "no_speech_prob": 4.837278581165672e-13,
+      "compression_ratio": 1.6153846153846154,
+      "temperature": 0.0
+    },
+    {
+      "start": 1227.8200000000002,
+      "duration": 4.979999999999791,
+      "text": "Now verse 5 says that this light continues to shine even in the darkness,",
+      "avg_logprob": -0.13014427451200264,
+      "no_speech_prob": 4.837278581165672e-13,
+      "compression_ratio": 1.6153846153846154,
+      "temperature": 0.0
+    },
+    {
+      "start": 1233.44,
+      "duration": 1.8999999999998636,
+      "text": "in this world that's been darkened by sin.",
+      "avg_logprob": -0.13014427451200264,
+      "no_speech_prob": 4.837278581165672e-13,
+      "compression_ratio": 1.6153846153846154,
+      "temperature": 0.0
+    },
+    {
+      "start": 1235.34,
+      "duration": 4.7000000000000455,
+      "text": "It paints, you guys, it paints this picture for us of our world.",
+      "avg_logprob": -0.12308158045229704,
+      "no_speech_prob": 5.010363326486689e-13,
+      "compression_ratio": 1.7429906542056075,
+      "temperature": 0.0
+    },
+    {
+      "start": 1241.24,
+      "duration": 3.9600000000000364,
+      "text": "If you can imagine this beautiful creation that God has made",
+      "avg_logprob": -0.12308158045229704,
+      "no_speech_prob": 5.010363326486689e-13,
+      "compression_ratio": 1.7429906542056075,
+      "temperature": 0.0
+    },
+    {
+      "start": 1245.2,
+      "duration": 2.7200000000000273,
+      "text": "where everything is in its perfect state of paradise",
+      "avg_logprob": -0.12308158045229704,
+      "no_speech_prob": 5.010363326486689e-13,
+      "compression_ratio": 1.7429906542056075,
+      "temperature": 0.0
+    },
+    {
+      "start": 1247.92,
+      "duration": 1.740000000000009,
+      "text": "and it's just beautiful and gorgeous,",
+      "avg_logprob": -0.12308158045229704,
+      "no_speech_prob": 5.010363326486689e-13,
+      "compression_ratio": 1.7429906542056075,
+      "temperature": 0.0
+    },
+    {
+      "start": 1249.84,
+      "duration": 3.5,
+      "text": "but then sin enters the world and darkens it.",
+      "avg_logprob": -0.12308158045229704,
+      "no_speech_prob": 5.010363326486689e-13,
+      "compression_ratio": 1.7429906542056075,
+      "temperature": 0.0
+    },
+    {
+      "start": 1254.26,
+      "duration": 4.6400000000001,
+      "text": "Sin enters the world like this overcast cloud",
+      "avg_logprob": -0.12308158045229704,
+      "no_speech_prob": 5.010363326486689e-13,
+      "compression_ratio": 1.7429906542056075,
+      "temperature": 0.0
+    },
+    {
+      "start": 1258.9,
+      "duration": 3.740000000000009,
+      "text": "that just comes over everything and everything is dark and gray.",
+      "avg_logprob": -0.12308158045229704,
+      "no_speech_prob": 5.010363326486689e-13,
+      "compression_ratio": 1.7429906542056075,
+      "temperature": 0.0
+    },
+    {
+      "start": 1264.68,
+      "duration": 4.119999999999891,
+      "text": "and what he says is that there's a light that still shines in the darkness a light",
+      "avg_logprob": -0.09300659978112509,
+      "no_speech_prob": 4.561986097044446e-13,
+      "compression_ratio": 1.775609756097561,
+      "temperature": 0.0
+    },
+    {
+      "start": 1268.8,
+      "duration": 8.180000000000064,
+      "text": "that the darkness of the world could never extinguish and this light gives hope to all people",
+      "avg_logprob": -0.09300659978112509,
+      "no_speech_prob": 4.561986097044446e-13,
+      "compression_ratio": 1.775609756097561,
+      "temperature": 0.0
+    },
+    {
+      "start": 1279.98,
+      "duration": 6.579999999999927,
+      "text": "it reminds me of uh on disney plus over the summer there was a really good movie that came",
+      "avg_logprob": -0.09300659978112509,
+      "no_speech_prob": 4.561986097044446e-13,
+      "compression_ratio": 1.775609756097561,
+      "temperature": 0.0
+    },
+    {
+      "start": 1286.56,
+      "duration": 4.440000000000055,
+      "text": "out and i feel like most times i can't recommend movies but this one was actually pretty good uh",
+      "avg_logprob": -0.09300659978112509,
+      "no_speech_prob": 4.561986097044446e-13,
+      "compression_ratio": 1.775609756097561,
+      "temperature": 0.0
+    },
+    {
+      "start": 1292.6799999999998,
+      "duration": 6.920000000000073,
+      "text": "biography of a woman about 100 years ago named Trudy Ederly. And Trudy Ederly, if you've never",
+      "avg_logprob": -0.09987115387869354,
+      "no_speech_prob": 5.250170957704636e-13,
+      "compression_ratio": 1.5757575757575757,
+      "temperature": 0.0
+    },
+    {
+      "start": 1299.6,
+      "duration": 7.5,
+      "text": "heard of her, in August of 1926, she was the first woman to swim the English Channel.",
+      "avg_logprob": -0.09987115387869354,
+      "no_speech_prob": 5.250170957704636e-13,
+      "compression_ratio": 1.5757575757575757,
+      "temperature": 0.0
+    },
+    {
+      "start": 1308.1599999999999,
+      "duration": 5.660000000000082,
+      "text": "Okay? Really, really impressive. In fact, when she did it, not only did she swim the English",
+      "avg_logprob": -0.09987115387869354,
+      "no_speech_prob": 5.250170957704636e-13,
+      "compression_ratio": 1.5757575757575757,
+      "temperature": 0.0
+    },
+    {
+      "start": 1313.82,
+      "duration": 5.8400000000001455,
+      "text": "Channel, but she swam it two hours faster than anybody before her. It's pretty impressive.",
+      "avg_logprob": -0.09987115387869354,
+      "no_speech_prob": 5.250170957704636e-13,
+      "compression_ratio": 1.5757575757575757,
+      "temperature": 0.0
+    },
+    {
+      "start": 1321.1200000000001,
+      "duration": 3.8199999999999363,
+      "text": "Now, the swim from France to England is about 21 miles across.",
+      "avg_logprob": -0.1650327156329977,
+      "no_speech_prob": 5.209792558295845e-13,
+      "compression_ratio": 1.6113744075829384,
+      "temperature": 0.0
+    },
+    {
+      "start": 1325.22,
+      "duration": 5.240000000000009,
+      "text": "You start at France and then you head over to England and you're going to end at the cliffs of Dover.",
+      "avg_logprob": -0.1650327156329977,
+      "no_speech_prob": 5.209792558295845e-13,
+      "compression_ratio": 1.6113744075829384,
+      "temperature": 0.0
+    },
+    {
+      "start": 1331.68,
+      "duration": 5.220000000000027,
+      "text": "And her trainer and her crew followed her on this stretch of the swim.",
+      "avg_logprob": -0.1650327156329977,
+      "no_speech_prob": 5.209792558295845e-13,
+      "compression_ratio": 1.6113744075829384,
+      "temperature": 0.0
+    },
+    {
+      "start": 1336.9,
+      "duration": 3.4199999999998454,
+      "text": "They were following her in this tugboat.",
+      "avg_logprob": -0.1650327156329977,
+      "no_speech_prob": 5.209792558295845e-13,
+      "compression_ratio": 1.6113744075829384,
+      "temperature": 0.0
+    },
+    {
+      "start": 1340.48,
+      "duration": 3.0599999999999454,
+      "text": "They would give her water to drink and food throughout the day.",
+      "avg_logprob": -0.1650327156329977,
+      "no_speech_prob": 5.209792558295845e-13,
+      "compression_ratio": 1.6113744075829384,
+      "temperature": 0.0
+    },
+    {
+      "start": 1345.8600000000001,
+      "duration": 2.7799999999999727,
+      "text": "but before she came to that final stretch",
+      "avg_logprob": -0.06114840040019914,
+      "no_speech_prob": 4.3018591618614044e-13,
+      "compression_ratio": 1.7757009345794392,
+      "temperature": 0.0
+    },
+    {
+      "start": 1348.64,
+      "duration": 3.2199999999998,
+      "text": "the last two miles going towards the cliffs of Dover",
+      "avg_logprob": -0.06114840040019914,
+      "no_speech_prob": 4.3018591618614044e-13,
+      "compression_ratio": 1.7757009345794392,
+      "temperature": 0.0
+    },
+    {
+      "start": 1351.86,
+      "duration": 2.1200000000001182,
+      "text": "the boat could not follow her",
+      "avg_logprob": -0.06114840040019914,
+      "no_speech_prob": 4.3018591618614044e-13,
+      "compression_ratio": 1.7757009345794392,
+      "temperature": 0.0
+    },
+    {
+      "start": 1353.98,
+      "duration": 2.2999999999999545,
+      "text": "because the water was too shallow",
+      "avg_logprob": -0.06114840040019914,
+      "no_speech_prob": 4.3018591618614044e-13,
+      "compression_ratio": 1.7757009345794392,
+      "temperature": 0.0
+    },
+    {
+      "start": 1356.28,
+      "duration": 1.7000000000000455,
+      "text": "there were all these shallows that were right there",
+      "avg_logprob": -0.06114840040019914,
+      "no_speech_prob": 4.3018591618614044e-13,
+      "compression_ratio": 1.7757009345794392,
+      "temperature": 0.0
+    },
+    {
+      "start": 1357.98,
+      "duration": 0.8199999999999363,
+      "text": "that they couldn't follow",
+      "avg_logprob": -0.06114840040019914,
+      "no_speech_prob": 4.3018591618614044e-13,
+      "compression_ratio": 1.7757009345794392,
+      "temperature": 0.0
+    },
+    {
+      "start": 1358.8,
+      "duration": 1.8400000000001455,
+      "text": "so they had to find another way around",
+      "avg_logprob": -0.06114840040019914,
+      "no_speech_prob": 4.3018591618614044e-13,
+      "compression_ratio": 1.7757009345794392,
+      "temperature": 0.0
+    },
+    {
+      "start": 1360.64,
+      "duration": 2.599999999999909,
+      "text": "and Trudy had to finish the swim alone",
+      "avg_logprob": -0.06114840040019914,
+      "no_speech_prob": 4.3018591618614044e-13,
+      "compression_ratio": 1.7757009345794392,
+      "temperature": 0.0
+    },
+    {
+      "start": 1365.16,
+      "duration": 1.6599999999998545,
+      "text": "now by that time",
+      "avg_logprob": -0.06114840040019914,
+      "no_speech_prob": 4.3018591618614044e-13,
+      "compression_ratio": 1.7757009345794392,
+      "temperature": 0.0
+    },
+    {
+      "start": 1367.54,
+      "duration": 1.2799999999999727,
+      "text": "the sun had gone down",
+      "avg_logprob": -0.06114840040019914,
+      "no_speech_prob": 4.3018591618614044e-13,
+      "compression_ratio": 1.7757009345794392,
+      "temperature": 0.0
+    },
+    {
+      "start": 1368.82,
+      "duration": 1.5199999999999818,
+      "text": "and it was completely dark",
+      "avg_logprob": -0.06114840040019914,
+      "no_speech_prob": 4.3018591618614044e-13,
+      "compression_ratio": 1.7757009345794392,
+      "temperature": 0.0
+    },
+    {
+      "start": 1371.1200000000001,
+      "duration": 3.7999999999999545,
+      "text": "And that day, a huge storm came in.",
+      "avg_logprob": -0.16142167948713207,
+      "no_speech_prob": 4.874613625076296e-13,
+      "compression_ratio": 1.6384976525821595,
+      "temperature": 0.0
+    },
+    {
+      "start": 1375.72,
+      "duration": 1.8799999999998818,
+      "text": "It was raining like crazy.",
+      "avg_logprob": -0.16142167948713207,
+      "no_speech_prob": 4.874613625076296e-13,
+      "compression_ratio": 1.6384976525821595,
+      "temperature": 0.0
+    },
+    {
+      "start": 1377.74,
+      "duration": 3.7799999999999727,
+      "text": "And you're talking about cold, choppy water of the English Channel",
+      "avg_logprob": -0.16142167948713207,
+      "no_speech_prob": 4.874613625076296e-13,
+      "compression_ratio": 1.6384976525821595,
+      "temperature": 0.0
+    },
+    {
+      "start": 1381.52,
+      "duration": 3.259999999999991,
+      "text": "with a storm going on in the dark.",
+      "avg_logprob": -0.16142167948713207,
+      "no_speech_prob": 4.874613625076296e-13,
+      "compression_ratio": 1.6384976525821595,
+      "temperature": 0.0
+    },
+    {
+      "start": 1385.7,
+      "duration": 3.4199999999998454,
+      "text": "It would be so easy for her to get turned around.",
+      "avg_logprob": -0.16142167948713207,
+      "no_speech_prob": 4.874613625076296e-13,
+      "compression_ratio": 1.6384976525821595,
+      "temperature": 0.0
+    },
+    {
+      "start": 1389.46,
+      "duration": 3.0799999999999272,
+      "text": "It would be so easy for her to start swimming in the wrong direction,",
+      "avg_logprob": -0.16142167948713207,
+      "no_speech_prob": 4.874613625076296e-13,
+      "compression_ratio": 1.6384976525821595,
+      "temperature": 0.0
+    },
+    {
+      "start": 1392.54,
+      "duration": 3.0599999999999454,
+      "text": "to not know which way to go, and she would just swim out to sea.",
+      "avg_logprob": -0.16142167948713207,
+      "no_speech_prob": 4.874613625076296e-13,
+      "compression_ratio": 1.6384976525821595,
+      "temperature": 0.0
+    },
+    {
+      "start": 1399.62,
+      "duration": 5.0,
+      "text": "now there were people who were listening to her story kind of getting these updates on the radio",
+      "avg_logprob": -0.04904074309974588,
+      "no_speech_prob": 4.561864124300041e-13,
+      "compression_ratio": 1.8018867924528301,
+      "temperature": 0.0
+    },
+    {
+      "start": 1404.62,
+      "duration": 6.760000000000218,
+      "text": "at the time and the people in england wanted to go out and watch her come in and support her so",
+      "avg_logprob": -0.04904074309974588,
+      "no_speech_prob": 4.561864124300041e-13,
+      "compression_ratio": 1.8018867924528301,
+      "temperature": 0.0
+    },
+    {
+      "start": 1411.38,
+      "duration": 4.439999999999827,
+      "text": "they went to the cliffs of dover and they lit these bonfires all on the top of the cliffs",
+      "avg_logprob": -0.04904074309974588,
+      "no_speech_prob": 4.561864124300041e-13,
+      "compression_ratio": 1.8018867924528301,
+      "temperature": 0.0
+    },
+    {
+      "start": 1415.82,
+      "duration": 7.880000000000109,
+      "text": "to light the way in the movie it was it was just so uh such a beautiful picture because you see her",
+      "avg_logprob": -0.04904074309974588,
+      "no_speech_prob": 4.561864124300041e-13,
+      "compression_ratio": 1.8018867924528301,
+      "temperature": 0.0
+    },
+    {
+      "start": 1425.6,
+      "duration": 3.880000000000109,
+      "text": "and she looks up and she sees in the very far distance,",
+      "avg_logprob": -0.21960762568882533,
+      "no_speech_prob": 3.796721238184114e-13,
+      "compression_ratio": 1.6439024390243901,
+      "temperature": 0.0
+    },
+    {
+      "start": 1429.48,
+      "duration": 3.2200000000000273,
+      "text": "miles away, these little orange fires",
+      "avg_logprob": -0.21960762568882533,
+      "no_speech_prob": 3.796721238184114e-13,
+      "compression_ratio": 1.6439024390243901,
+      "temperature": 0.0
+    },
+    {
+      "start": 1432.7,
+      "duration": 1.8999999999998636,
+      "text": "lit all along the cliffs.",
+      "avg_logprob": -0.21960762568882533,
+      "no_speech_prob": 3.796721238184114e-13,
+      "compression_ratio": 1.6439024390243901,
+      "temperature": 0.0
+    },
+    {
+      "start": 1435.74,
+      "duration": 3.4400000000000546,
+      "text": "And that light shining in the darkness gave her hope.",
+      "avg_logprob": -0.21960762568882533,
+      "no_speech_prob": 3.796721238184114e-13,
+      "compression_ratio": 1.6439024390243901,
+      "temperature": 0.0
+    },
+    {
+      "start": 1439.58,
+      "duration": 1.300000000000182,
+      "text": "I know which way to go.",
+      "avg_logprob": -0.21960762568882533,
+      "no_speech_prob": 3.796721238184114e-13,
+      "compression_ratio": 1.6439024390243901,
+      "temperature": 0.0
+    },
+    {
+      "start": 1441.8200000000002,
+      "duration": 1.2599999999997635,
+      "text": "I know how to get home.",
+      "avg_logprob": -0.21960762568882533,
+      "no_speech_prob": 3.796721238184114e-13,
+      "compression_ratio": 1.6439024390243901,
+      "temperature": 0.0
+    },
+    {
+      "start": 1444.8400000000001,
+      "duration": 2.8599999999999,
+      "text": "You guys, a light in a darkness gives hope like that.",
+      "avg_logprob": -0.21960762568882533,
+      "no_speech_prob": 3.796721238184114e-13,
+      "compression_ratio": 1.6439024390243901,
+      "temperature": 0.0
+    },
+    {
+      "start": 1449.02,
+      "duration": 3.1800000000000637,
+      "text": "This light, the light of life",
+      "avg_logprob": -0.21960762568882533,
+      "no_speech_prob": 3.796721238184114e-13,
+      "compression_ratio": 1.6439024390243901,
+      "temperature": 0.0
+    },
+    {
+      "start": 1452.2,
+      "duration": 1.9800000000000182,
+      "text": "that's within the divine logos,",
+      "avg_logprob": -0.21960762568882533,
+      "no_speech_prob": 3.796721238184114e-13,
+      "compression_ratio": 1.6439024390243901,
+      "temperature": 0.0
+    },
+    {
+      "start": 1455.6,
+      "duration": 4.720000000000027,
+      "text": "This light could never be extinguished by the darkness of this world.",
+      "avg_logprob": -0.14838983615239462,
+      "no_speech_prob": 6.162794341686706e-13,
+      "compression_ratio": 1.6816143497757847,
+      "temperature": 0.0
+    },
+    {
+      "start": 1461.96,
+      "duration": 4.279999999999973,
+      "text": "The light continues to shine brightly, giving hope to all of humanity.",
+      "avg_logprob": -0.14838983615239462,
+      "no_speech_prob": 6.162794341686706e-13,
+      "compression_ratio": 1.6816143497757847,
+      "temperature": 0.0
+    },
+    {
+      "start": 1466.48,
+      "duration": 1.259999999999991,
+      "text": "What is John talking about?",
+      "avg_logprob": -0.14838983615239462,
+      "no_speech_prob": 6.162794341686706e-13,
+      "compression_ratio": 1.6816143497757847,
+      "temperature": 0.0
+    },
+    {
+      "start": 1467.86,
+      "duration": 4.100000000000136,
+      "text": "Well, the darkness is sin that's entered the world,",
+      "avg_logprob": -0.14838983615239462,
+      "no_speech_prob": 6.162794341686706e-13,
+      "compression_ratio": 1.6816143497757847,
+      "temperature": 0.0
+    },
+    {
+      "start": 1472.04,
+      "duration": 2.3600000000001273,
+      "text": "sin that's corrupted God's good creation,",
+      "avg_logprob": -0.14838983615239462,
+      "no_speech_prob": 6.162794341686706e-13,
+      "compression_ratio": 1.6816143497757847,
+      "temperature": 0.0
+    },
+    {
+      "start": 1474.4,
+      "duration": 4.0,
+      "text": "where all of creation is groaning for redemption, right?",
+      "avg_logprob": -0.14838983615239462,
+      "no_speech_prob": 6.162794341686706e-13,
+      "compression_ratio": 1.6816143497757847,
+      "temperature": 0.0
+    },
+    {
+      "start": 1478.8,
+      "duration": 3.380000000000109,
+      "text": "But it's also sin that has corrupted every human being,",
+      "avg_logprob": -0.14838983615239462,
+      "no_speech_prob": 6.162794341686706e-13,
+      "compression_ratio": 1.6816143497757847,
+      "temperature": 0.0
+    },
+    {
+      "start": 1482.18,
+      "duration": 3.759999999999991,
+      "text": "this darkness that has infiltrated every part of our being",
+      "avg_logprob": -0.1937030082525209,
+      "no_speech_prob": 4.421640191574344e-13,
+      "compression_ratio": 1.5631067961165048,
+      "temperature": 0.0
+    },
+    {
+      "start": 1485.94,
+      "duration": 2.980000000000018,
+      "text": "and pulling us away from the one who created us,",
+      "avg_logprob": -0.1937030082525209,
+      "no_speech_prob": 4.421640191574344e-13,
+      "compression_ratio": 1.5631067961165048,
+      "temperature": 0.0
+    },
+    {
+      "start": 1489.04,
+      "duration": 4.759999999999991,
+      "text": "so much so that even when the true light himself came into the world,",
+      "avg_logprob": -0.1937030082525209,
+      "no_speech_prob": 4.421640191574344e-13,
+      "compression_ratio": 1.5631067961165048,
+      "temperature": 0.0
+    },
+    {
+      "start": 1493.96,
+      "duration": 2.0,
+      "text": "that the world rejected him.",
+      "avg_logprob": -0.1937030082525209,
+      "no_speech_prob": 4.421640191574344e-13,
+      "compression_ratio": 1.5631067961165048,
+      "temperature": 0.0
+    },
+    {
+      "start": 1498.24,
+      "duration": 1.0599999999999454,
+      "text": "Verse 11 says,",
+      "avg_logprob": -0.1937030082525209,
+      "no_speech_prob": 4.421640191574344e-13,
+      "compression_ratio": 1.5631067961165048,
+      "temperature": 0.0
+    },
+    {
+      "start": 1499.42,
+      "duration": 3.3599999999999,
+      "text": "He came to his own, but his own people did not receive him.",
+      "avg_logprob": -0.1937030082525209,
+      "no_speech_prob": 4.421640191574344e-13,
+      "compression_ratio": 1.5631067961165048,
+      "temperature": 0.0
+    },
+    {
+      "start": 1504.22,
+      "duration": 3.5399999999999636,
+      "text": "But our sin, this overwhelming darkness,",
+      "avg_logprob": -0.1937030082525209,
+      "no_speech_prob": 4.421640191574344e-13,
+      "compression_ratio": 1.5631067961165048,
+      "temperature": 0.0
+    },
+    {
+      "start": 1507.76,
+      "duration": 6.6400000000001,
+      "text": "could never cause our God to give up on his creation.",
+      "avg_logprob": -0.2814472824779909,
+      "no_speech_prob": 4.0570265246245296e-13,
+      "compression_ratio": 1.5217391304347827,
+      "temperature": 0.0
+    },
+    {
+      "start": 1515.8400000000001,
+      "duration": 4.699999999999818,
+      "text": "His light shines forth giving hope that rescue is coming.",
+      "avg_logprob": -0.2814472824779909,
+      "no_speech_prob": 4.0570265246245296e-13,
+      "compression_ratio": 1.5217391304347827,
+      "temperature": 0.0
+    },
+    {
+      "start": 1522.24,
+      "duration": 1.8399999999999181,
+      "text": "How does his light shine forth?",
+      "avg_logprob": -0.2814472824779909,
+      "no_speech_prob": 4.0570265246245296e-13,
+      "compression_ratio": 1.5217391304347827,
+      "temperature": 0.0
+    },
+    {
+      "start": 1526.18,
+      "duration": 3.259999999999991,
+      "text": "Well, it started right away.",
+      "avg_logprob": -0.2814472824779909,
+      "no_speech_prob": 4.0570265246245296e-13,
+      "compression_ratio": 1.5217391304347827,
+      "temperature": 0.0
+    },
+    {
+      "start": 1530.0,
+      "duration": 2.160000000000082,
+      "text": "Right when sin came into the world.",
+      "avg_logprob": -0.2814472824779909,
+      "no_speech_prob": 4.0570265246245296e-13,
+      "compression_ratio": 1.5217391304347827,
+      "temperature": 0.0
+    },
+    {
+      "start": 1533.52,
+      "duration": 2.8600000000001273,
+      "text": "Right when that happened, God spoke.",
+      "avg_logprob": -0.2814472824779909,
+      "no_speech_prob": 4.0570265246245296e-13,
+      "compression_ratio": 1.5217391304347827,
+      "temperature": 0.0
+    },
+    {
+      "start": 1537.76,
+      "duration": 6.880000000000109,
+      "text": "serpent and he spoke to Eve and he spoke to Adam and he told them that there will be a son,",
+      "avg_logprob": -0.11850152696881976,
+      "no_speech_prob": 8.325088665314673e-13,
+      "compression_ratio": 1.5277777777777777,
+      "temperature": 0.0
+    },
+    {
+      "start": 1544.86,
+      "duration": 7.920000000000073,
+      "text": "a son born of the woman who will crush the head of the serpent. The light began to shine.",
+      "avg_logprob": -0.11850152696881976,
+      "no_speech_prob": 8.325088665314673e-13,
+      "compression_ratio": 1.5277777777777777,
+      "temperature": 0.0
+    },
+    {
+      "start": 1554.16,
+      "duration": 7.959999999999809,
+      "text": "You fast forward to Exodus 12 where God gives the Passover lamb this sacrificial meal, right?",
+      "avg_logprob": -0.11850152696881976,
+      "no_speech_prob": 8.325088665314673e-13,
+      "compression_ratio": 1.5277777777777777,
+      "temperature": 0.0
+    },
+    {
+      "start": 1562.12,
+      "duration": 3.6000000000001364,
+      "text": "And then like in Leviticus when God gives the sacrifices",
+      "avg_logprob": -0.1309463849631689,
+      "no_speech_prob": 4.169879231404744e-13,
+      "compression_ratio": 1.6205357142857142,
+      "temperature": 0.0
+    },
+    {
+      "start": 1565.72,
+      "duration": 5.279999999999973,
+      "text": "and all of these things point forward to a once-for-all sacrifice",
+      "avg_logprob": -0.1309463849631689,
+      "no_speech_prob": 4.169879231404744e-13,
+      "compression_ratio": 1.6205357142857142,
+      "temperature": 0.0
+    },
+    {
+      "start": 1571.0,
+      "duration": 2.759999999999991,
+      "text": "that would secure our freedom from the darkness.",
+      "avg_logprob": -0.1309463849631689,
+      "no_speech_prob": 4.169879231404744e-13,
+      "compression_ratio": 1.6205357142857142,
+      "temperature": 0.0
+    },
+    {
+      "start": 1574.74,
+      "duration": 1.9200000000000728,
+      "text": "The light continues to shine.",
+      "avg_logprob": -0.1309463849631689,
+      "no_speech_prob": 4.169879231404744e-13,
+      "compression_ratio": 1.6205357142857142,
+      "temperature": 0.0
+    },
+    {
+      "start": 1578.3,
+      "duration": 6.080000000000155,
+      "text": "We can go to 2 Samuel 7 when King David is promised by God a future kingdom",
+      "avg_logprob": -0.1309463849631689,
+      "no_speech_prob": 4.169879231404744e-13,
+      "compression_ratio": 1.6205357142857142,
+      "temperature": 0.0
+    },
+    {
+      "start": 1584.38,
+      "duration": 4.939999999999827,
+      "text": "that would be a place of peace and rest, a place in the light free from the darkness.",
+      "avg_logprob": -0.1309463849631689,
+      "no_speech_prob": 4.169879231404744e-13,
+      "compression_ratio": 1.6205357142857142,
+      "temperature": 0.0
+    },
+    {
+      "start": 1590.4199999999998,
+      "duration": 4.540000000000191,
+      "text": "We can go to 1 Kings 18 and the prophet Elijah,",
+      "avg_logprob": -0.24684611032175463,
+      "no_speech_prob": 4.0417070189778526e-13,
+      "compression_ratio": 1.5258215962441315,
+      "temperature": 0.0
+    },
+    {
+      "start": 1594.96,
+      "duration": 5.099999999999909,
+      "text": "who at the time was the only prophet of God left in the entire nation of Israel.",
+      "avg_logprob": -0.24684611032175463,
+      "no_speech_prob": 4.0417070189778526e-13,
+      "compression_ratio": 1.5258215962441315,
+      "temperature": 0.0
+    },
+    {
+      "start": 1600.8,
+      "duration": 3.3199999999999363,
+      "text": "When it seemed like the darkness had overtaken everything,",
+      "avg_logprob": -0.24684611032175463,
+      "no_speech_prob": 4.0417070189778526e-13,
+      "compression_ratio": 1.5258215962441315,
+      "temperature": 0.0
+    },
+    {
+      "start": 1605.12,
+      "duration": 0.6800000000000637,
+      "text": "and what happened?",
+      "avg_logprob": -0.24684611032175463,
+      "no_speech_prob": 4.0417070189778526e-13,
+      "compression_ratio": 1.5258215962441315,
+      "temperature": 0.0
+    },
+    {
+      "start": 1608.6,
+      "duration": 4.380000000000109,
+      "text": "He made his sacrifice to the Lord, and the Lord brought fire down,",
+      "avg_logprob": -0.24684611032175463,
+      "no_speech_prob": 4.0417070189778526e-13,
+      "compression_ratio": 1.5258215962441315,
+      "temperature": 0.0
+    },
+    {
+      "start": 1614.5,
+      "duration": 1.1600000000000819,
+      "text": "giving hope.",
+      "avg_logprob": -0.24684611032175463,
+      "no_speech_prob": 4.0417070189778526e-13,
+      "compression_ratio": 1.5258215962441315,
+      "temperature": 0.0
+    },
+    {
+      "start": 1616.3,
+      "duration": 2.160000000000082,
+      "text": "The light was shining in the darkness.",
+      "avg_logprob": -0.24684611032175463,
+      "no_speech_prob": 4.0417070189778526e-13,
+      "compression_ratio": 1.5258215962441315,
+      "temperature": 0.0
+    },
+    {
+      "start": 1619.54,
+      "duration": 3.380000000000109,
+      "text": "We can go on and on and talk about all of these stories from the Old Testament,",
+      "avg_logprob": -0.0944236946105957,
+      "no_speech_prob": 4.186190782039245e-13,
+      "compression_ratio": 1.658008658008658,
+      "temperature": 0.0
+    },
+    {
+      "start": 1623.14,
+      "duration": 3.599999999999909,
+      "text": "about Daniel, about Esther, about the very end of the Old Testament",
+      "avg_logprob": -0.0944236946105957,
+      "no_speech_prob": 4.186190782039245e-13,
+      "compression_ratio": 1.658008658008658,
+      "temperature": 0.0
+    },
+    {
+      "start": 1626.74,
+      "duration": 3.9400000000000546,
+      "text": "where the promised Elijah would return to usher in the coming of Christ.",
+      "avg_logprob": -0.0944236946105957,
+      "no_speech_prob": 4.186190782039245e-13,
+      "compression_ratio": 1.658008658008658,
+      "temperature": 0.0
+    },
+    {
+      "start": 1631.6,
+      "duration": 6.940000000000055,
+      "text": "So the light of the gospel, this hope for humanity, has never stopped shining.",
+      "avg_logprob": -0.0944236946105957,
+      "no_speech_prob": 4.186190782039245e-13,
+      "compression_ratio": 1.658008658008658,
+      "temperature": 0.0
+    },
+    {
+      "start": 1640.08,
+      "duration": 2.6000000000001364,
+      "text": "And so that's why John can say this.",
+      "avg_logprob": -0.0944236946105957,
+      "no_speech_prob": 4.186190782039245e-13,
+      "compression_ratio": 1.658008658008658,
+      "temperature": 0.0
+    },
+    {
+      "start": 1642.72,
+      "duration": 2.599999999999909,
+      "text": "That's why he says this right here in verse 5.",
+      "avg_logprob": -0.0944236946105957,
+      "no_speech_prob": 4.186190782039245e-13,
+      "compression_ratio": 1.658008658008658,
+      "temperature": 0.0
+    },
+    {
+      "start": 1645.32,
+      "duration": 4.620000000000118,
+      "text": "The light shines in the darkness, and the darkness has not overcome it.",
+      "avg_logprob": -0.20085482848318,
+      "no_speech_prob": 4.456180162284301e-13,
+      "compression_ratio": 1.7337662337662338,
+      "temperature": 0.0
+    },
+    {
+      "start": 1652.0,
+      "duration": 1.759999999999991,
+      "text": "And this is what John wants to communicate.",
+      "avg_logprob": -0.20085482848318,
+      "no_speech_prob": 4.456180162284301e-13,
+      "compression_ratio": 1.7337662337662338,
+      "temperature": 0.0
+    },
+    {
+      "start": 1653.98,
+      "duration": 4.579999999999927,
+      "text": "He wants us to know that Jesus, in Jesus is unity, in Jesus is light.",
+      "avg_logprob": -0.20085482848318,
+      "no_speech_prob": 4.456180162284301e-13,
+      "compression_ratio": 1.7337662337662338,
+      "temperature": 0.0
+    },
+    {
+      "start": 1659.78,
+      "duration": 6.480000000000018,
+      "text": "But lastly, he wants us to know that in him is the new birth.",
+      "avg_logprob": -0.20085482848318,
+      "no_speech_prob": 4.456180162284301e-13,
+      "compression_ratio": 1.7337662337662338,
+      "temperature": 0.0
+    },
+    {
+      "start": 1666.8400000000001,
+      "duration": 1.099999999999909,
+      "text": "It's the new birth.",
+      "avg_logprob": -0.20085482848318,
+      "no_speech_prob": 4.456180162284301e-13,
+      "compression_ratio": 1.7337662337662338,
+      "temperature": 0.0
+    },
+    {
+      "start": 1669.7,
+      "duration": 6.240000000000009,
+      "text": "Sin's destructive power has made all of humanity spiritually dead.",
+      "avg_logprob": -0.21250599018041638,
+      "no_speech_prob": 3.580659260846858e-13,
+      "compression_ratio": 1.6646341463414633,
+      "temperature": 0.0
+    },
+    {
+      "start": 1677.46,
+      "duration": 0.9400000000000546,
+      "text": "Spiritually dead.",
+      "avg_logprob": -0.21250599018041638,
+      "no_speech_prob": 3.580659260846858e-13,
+      "compression_ratio": 1.6646341463414633,
+      "temperature": 0.0
+    },
+    {
+      "start": 1679.34,
+      "duration": 1.1000000000001364,
+      "text": "What does this mean?",
+      "avg_logprob": -0.21250599018041638,
+      "no_speech_prob": 3.580659260846858e-13,
+      "compression_ratio": 1.6646341463414633,
+      "temperature": 0.0
+    },
+    {
+      "start": 1682.04,
+      "duration": 4.400000000000091,
+      "text": "Being spiritually dead means we no longer want to obey our creator.",
+      "avg_logprob": -0.21250599018041638,
+      "no_speech_prob": 3.580659260846858e-13,
+      "compression_ratio": 1.6646341463414633,
+      "temperature": 0.0
+    },
+    {
+      "start": 1688.24,
+      "duration": 2.4600000000000364,
+      "text": "It means we no longer seek after him.",
+      "avg_logprob": -0.21250599018041638,
+      "no_speech_prob": 3.580659260846858e-13,
+      "compression_ratio": 1.6646341463414633,
+      "temperature": 0.0
+    },
+    {
+      "start": 1691.92,
+      "duration": 3.699999999999818,
+      "text": "It means that instead we seek out the pleasures of this world",
+      "avg_logprob": -0.21250599018041638,
+      "no_speech_prob": 3.580659260846858e-13,
+      "compression_ratio": 1.6646341463414633,
+      "temperature": 0.0
+    },
+    {
+      "start": 1695.62,
+      "duration": 2.6400000000001,
+      "text": "to try to fill that space in our life.",
+      "avg_logprob": -0.21919281381956288,
+      "no_speech_prob": 3.5527884887504024e-13,
+      "compression_ratio": 1.5823529411764705,
+      "temperature": 0.0
+    },
+    {
+      "start": 1699.26,
+      "duration": 2.3599999999999,
+      "text": "And by doing so, that we become rebels",
+      "avg_logprob": -0.21919281381956288,
+      "no_speech_prob": 3.5527884887504024e-13,
+      "compression_ratio": 1.5823529411764705,
+      "temperature": 0.0
+    },
+    {
+      "start": 1701.62,
+      "duration": 2.660000000000082,
+      "text": "against the sovereign king of the universe,",
+      "avg_logprob": -0.21919281381956288,
+      "no_speech_prob": 3.5527884887504024e-13,
+      "compression_ratio": 1.5823529411764705,
+      "temperature": 0.0
+    },
+    {
+      "start": 1705.72,
+      "duration": 3.0799999999999272,
+      "text": "committing continuous acts of high treason against him.",
+      "avg_logprob": -0.21919281381956288,
+      "no_speech_prob": 3.5527884887504024e-13,
+      "compression_ratio": 1.5823529411764705,
+      "temperature": 0.0
+    },
+    {
+      "start": 1711.0,
+      "duration": 1.3199999999999363,
+      "text": "And at the end of the day,",
+      "avg_logprob": -0.21919281381956288,
+      "no_speech_prob": 3.5527884887504024e-13,
+      "compression_ratio": 1.5823529411764705,
+      "temperature": 0.0
+    },
+    {
+      "start": 1713.8400000000001,
+      "duration": 4.899999999999864,
+      "text": "this spiritual death means that we deserve death for our crimes.",
+      "avg_logprob": -0.21919281381956288,
+      "no_speech_prob": 3.5527884887504024e-13,
+      "compression_ratio": 1.5823529411764705,
+      "temperature": 0.0
+    },
+    {
+      "start": 1721.3,
+      "duration": 0.9800000000000182,
+      "text": "and I think",
+      "avg_logprob": -0.15437729358673097,
+      "no_speech_prob": 3.796710125111846e-13,
+      "compression_ratio": 1.7702702702702702,
+      "temperature": 0.0
+    },
+    {
+      "start": 1724.02,
+      "duration": 1.6200000000001182,
+      "text": "I think that each of us",
+      "avg_logprob": -0.15437729358673097,
+      "no_speech_prob": 3.796710125111846e-13,
+      "compression_ratio": 1.7702702702702702,
+      "temperature": 0.0
+    },
+    {
+      "start": 1727.1200000000001,
+      "duration": 2.2999999999999545,
+      "text": "feel that in one way or another",
+      "avg_logprob": -0.15437729358673097,
+      "no_speech_prob": 3.796710125111846e-13,
+      "compression_ratio": 1.7702702702702702,
+      "temperature": 0.0
+    },
+    {
+      "start": 1731.74,
+      "duration": 1.8399999999999181,
+      "text": "whether you're a Christian or not",
+      "avg_logprob": -0.15437729358673097,
+      "no_speech_prob": 3.796710125111846e-13,
+      "compression_ratio": 1.7702702702702702,
+      "temperature": 0.0
+    },
+    {
+      "start": 1733.58,
+      "duration": 1.300000000000182,
+      "text": "whether you're a believer or not",
+      "avg_logprob": -0.15437729358673097,
+      "no_speech_prob": 3.796710125111846e-13,
+      "compression_ratio": 1.7702702702702702,
+      "temperature": 0.0
+    },
+    {
+      "start": 1736.1200000000001,
+      "duration": 0.8999999999998636,
+      "text": "we know",
+      "avg_logprob": -0.15437729358673097,
+      "no_speech_prob": 3.796710125111846e-13,
+      "compression_ratio": 1.7702702702702702,
+      "temperature": 0.0
+    },
+    {
+      "start": 1737.02,
+      "duration": 2.7999999999999545,
+      "text": "we know that we are broken",
+      "avg_logprob": -0.15437729358673097,
+      "no_speech_prob": 3.796710125111846e-13,
+      "compression_ratio": 1.7702702702702702,
+      "temperature": 0.0
+    },
+    {
+      "start": 1740.64,
+      "duration": 2.0799999999999272,
+      "text": "we know that there's something wrong",
+      "avg_logprob": -0.15437729358673097,
+      "no_speech_prob": 3.796710125111846e-13,
+      "compression_ratio": 1.7702702702702702,
+      "temperature": 0.0
+    },
+    {
+      "start": 1742.72,
+      "duration": 1.0199999999999818,
+      "text": "in us",
+      "avg_logprob": -0.15437729358673097,
+      "no_speech_prob": 3.796710125111846e-13,
+      "compression_ratio": 1.7702702702702702,
+      "temperature": 0.0
+    },
+    {
+      "start": 1743.74,
+      "duration": 2.8599999999999,
+      "text": "something is not the way that it's supposed to be",
+      "avg_logprob": -0.15437729358673097,
+      "no_speech_prob": 3.796710125111846e-13,
+      "compression_ratio": 1.7702702702702702,
+      "temperature": 0.0
+    },
+    {
+      "start": 1748.34,
+      "duration": 3.9400000000000546,
+      "text": "each of us has a sense that there's something not right inside of us",
+      "avg_logprob": -0.0874471358763866,
+      "no_speech_prob": 4.932532247231558e-13,
+      "compression_ratio": 1.9447852760736197,
+      "temperature": 0.0
+    },
+    {
+      "start": 1753.62,
+      "duration": 2.7800000000002,
+      "text": "i mean each time we experience a broken relationship",
+      "avg_logprob": -0.0874471358763866,
+      "no_speech_prob": 4.932532247231558e-13,
+      "compression_ratio": 1.9447852760736197,
+      "temperature": 0.0
+    },
+    {
+      "start": 1758.26,
+      "duration": 6.380000000000109,
+      "text": "each time we turn to something else that we know is going to hurt us or we know it's going to hurt",
+      "avg_logprob": -0.0874471358763866,
+      "no_speech_prob": 4.932532247231558e-13,
+      "compression_ratio": 1.9447852760736197,
+      "temperature": 0.0
+    },
+    {
+      "start": 1764.64,
+      "duration": 8.47999999999979,
+      "text": "our relationships but we turn to it anyway why do we do that we feel the brokenness inside of us",
+      "avg_logprob": -0.0874471358763866,
+      "no_speech_prob": 4.932532247231558e-13,
+      "compression_ratio": 1.9447852760736197,
+      "temperature": 0.0
+    },
+    {
+      "start": 1773.12,
+      "duration": 5.3400000000001455,
+      "text": "and we ache, we ache for restoration.",
+      "avg_logprob": -0.18412237043504592,
+      "no_speech_prob": 4.219160828003443e-13,
+      "compression_ratio": 1.646067415730337,
+      "temperature": 0.0
+    },
+    {
+      "start": 1781.14,
+      "duration": 4.6599999999998545,
+      "text": "I remember feeling this when I first became a Christian.",
+      "avg_logprob": -0.18412237043504592,
+      "no_speech_prob": 4.219160828003443e-13,
+      "compression_ratio": 1.646067415730337,
+      "temperature": 0.0
+    },
+    {
+      "start": 1785.8,
+      "duration": 2.2200000000000273,
+      "text": "I remember having a sense of this,",
+      "avg_logprob": -0.18412237043504592,
+      "no_speech_prob": 4.219160828003443e-13,
+      "compression_ratio": 1.646067415730337,
+      "temperature": 0.0
+    },
+    {
+      "start": 1788.04,
+      "duration": 4.519999999999982,
+      "text": "but it was actually years later that I thought about my own sin.",
+      "avg_logprob": -0.18412237043504592,
+      "no_speech_prob": 4.219160828003443e-13,
+      "compression_ratio": 1.646067415730337,
+      "temperature": 0.0
+    },
+    {
+      "start": 1793.28,
+      "duration": 4.579999999999927,
+      "text": "I thought about the sin in my life and what that meant,",
+      "avg_logprob": -0.18412237043504592,
+      "no_speech_prob": 4.219160828003443e-13,
+      "compression_ratio": 1.646067415730337,
+      "temperature": 0.0
+    },
+    {
+      "start": 1799.52,
+      "duration": 2.880000000000109,
+      "text": "that I actually deserved the wrath of God.",
+      "avg_logprob": -0.18412237043504592,
+      "no_speech_prob": 4.219160828003443e-13,
+      "compression_ratio": 1.646067415730337,
+      "temperature": 0.0
+    },
+    {
+      "start": 1803.82,
+      "duration": 5.880000000000109,
+      "text": "that I actually deserved hell just to be straight up about it.",
+      "avg_logprob": -0.1916673323687385,
+      "no_speech_prob": 4.706227269869745e-13,
+      "compression_ratio": 1.5087719298245614,
+      "temperature": 0.0
+    },
+    {
+      "start": 1811.28,
+      "duration": 4.559999999999945,
+      "text": "And it was so overwhelming to me in that moment that I just like,",
+      "avg_logprob": -0.1916673323687385,
+      "no_speech_prob": 4.706227269869745e-13,
+      "compression_ratio": 1.5087719298245614,
+      "temperature": 0.0
+    },
+    {
+      "start": 1816.02,
+      "duration": 2.4400000000000546,
+      "text": "man, that's truly what I deserve.",
+      "avg_logprob": -0.1916673323687385,
+      "no_speech_prob": 4.706227269869745e-13,
+      "compression_ratio": 1.5087719298245614,
+      "temperature": 0.0
+    },
+    {
+      "start": 1820.38,
+      "duration": 5.7999999999999545,
+      "text": "But that flood of terror only lasted a moment",
+      "avg_logprob": -0.1916673323687385,
+      "no_speech_prob": 4.706227269869745e-13,
+      "compression_ratio": 1.5087719298245614,
+      "temperature": 0.0
+    },
+    {
+      "start": 1827.84,
+      "duration": 4.920000000000073,
+      "text": "because instantly I felt God's peace wash over me",
+      "avg_logprob": -0.1916673323687385,
+      "no_speech_prob": 4.706227269869745e-13,
+      "compression_ratio": 1.5087719298245614,
+      "temperature": 0.0
+    },
+    {
+      "start": 1833.12,
+      "duration": 7.720000000000027,
+      "text": "remembered what he has done for me, that he has not left me alone, but that God has given me a new",
+      "avg_logprob": -0.07951962030850925,
+      "no_speech_prob": 5.109166128364206e-13,
+      "compression_ratio": 1.821656050955414,
+      "temperature": 0.0
+    },
+    {
+      "start": 1840.84,
+      "duration": 7.960000000000036,
+      "text": "birth, that he's restored me. And because he's restored me, that he's called me his own, he's",
+      "avg_logprob": -0.07951962030850925,
+      "no_speech_prob": 5.109166128364206e-13,
+      "compression_ratio": 1.821656050955414,
+      "temperature": 0.0
+    },
+    {
+      "start": 1848.8,
+      "duration": 6.279999999999973,
+      "text": "made me his own child, given me his inheritance, called me into his home and into his family.",
+      "avg_logprob": -0.07951962030850925,
+      "no_speech_prob": 5.109166128364206e-13,
+      "compression_ratio": 1.821656050955414,
+      "temperature": 0.0
+    },
+    {
+      "start": 1859.72,
+      "duration": 3.6800000000000637,
+      "text": "See, this is the only solution that can save us.",
+      "avg_logprob": -0.24169498941172723,
+      "no_speech_prob": 3.5113993418663114e-13,
+      "compression_ratio": 1.8549618320610688,
+      "temperature": 0.0
+    },
+    {
+      "start": 1864.8,
+      "duration": 8.88000000000011,
+      "text": "It's the only solution that can actually keep us free from that feeling of dread and terror.",
+      "avg_logprob": -0.24169498941172723,
+      "no_speech_prob": 3.5113993418663114e-13,
+      "compression_ratio": 1.8549618320610688,
+      "temperature": 0.0
+    },
+    {
+      "start": 1874.54,
+      "duration": 4.380000000000109,
+      "text": "It's the only solution that keeps us out of that eternal destiny.",
+      "avg_logprob": -0.24169498941172723,
+      "no_speech_prob": 3.5113993418663114e-13,
+      "compression_ratio": 1.8549618320610688,
+      "temperature": 0.0
+    },
+    {
+      "start": 1879.34,
+      "duration": 1.2000000000000455,
+      "text": "It's a new birth.",
+      "avg_logprob": -0.24169498941172723,
+      "no_speech_prob": 3.5113993418663114e-13,
+      "compression_ratio": 1.8549618320610688,
+      "temperature": 0.0
+    },
+    {
+      "start": 1881.08,
+      "duration": 1.1600000000000819,
+      "text": "It's a new birth.",
+      "avg_logprob": -0.24169498941172723,
+      "no_speech_prob": 3.5113993418663114e-13,
+      "compression_ratio": 1.8549618320610688,
+      "temperature": 0.0
+    },
+    {
+      "start": 1884.6200000000001,
+      "duration": 4.939999999999827,
+      "text": "John has a very special language for that for us.",
+      "avg_logprob": -0.22454543230010243,
+      "no_speech_prob": 5.128540279085436e-13,
+      "compression_ratio": 1.5649717514124293,
+      "temperature": 0.0
+    },
+    {
+      "start": 1889.7,
+      "duration": 1.240000000000009,
+      "text": "Look at what he says in verse 12.",
+      "avg_logprob": -0.22454543230010243,
+      "no_speech_prob": 5.128540279085436e-13,
+      "compression_ratio": 1.5649717514124293,
+      "temperature": 0.0
+    },
+    {
+      "start": 1891.78,
+      "duration": 0.8199999999999363,
+      "text": "Verse 12.",
+      "avg_logprob": -0.22454543230010243,
+      "no_speech_prob": 5.128540279085436e-13,
+      "compression_ratio": 1.5649717514124293,
+      "temperature": 0.0
+    },
+    {
+      "start": 1895.24,
+      "duration": 6.879999999999882,
+      "text": "See, he says, he just finished talking about how Jesus came, the word came to his own.",
+      "avg_logprob": -0.22454543230010243,
+      "no_speech_prob": 5.128540279085436e-13,
+      "compression_ratio": 1.5649717514124293,
+      "temperature": 0.0
+    },
+    {
+      "start": 1902.42,
+      "duration": 1.6199999999998909,
+      "text": "His own people didn't receive him.",
+      "avg_logprob": -0.22454543230010243,
+      "no_speech_prob": 5.128540279085436e-13,
+      "compression_ratio": 1.5649717514124293,
+      "temperature": 0.0
+    },
+    {
+      "start": 1904.12,
+      "duration": 2.8400000000001455,
+      "text": "But then in verse 12 he says, but to all who did receive him.",
+      "avg_logprob": -0.22454543230010243,
+      "no_speech_prob": 5.128540279085436e-13,
+      "compression_ratio": 1.5649717514124293,
+      "temperature": 0.0
+    },
+    {
+      "start": 1908.1,
+      "duration": 4.019999999999982,
+      "text": "For all who did receive him, who believed in his name,",
+      "avg_logprob": -0.17049464982809479,
+      "no_speech_prob": 4.3361158847537995e-13,
+      "compression_ratio": 1.5858585858585859,
+      "temperature": 0.0
+    },
+    {
+      "start": 1913.1399999999999,
+      "duration": 3.380000000000109,
+      "text": "he gave the right to become children of God,",
+      "avg_logprob": -0.17049464982809479,
+      "no_speech_prob": 4.3361158847537995e-13,
+      "compression_ratio": 1.5858585858585859,
+      "temperature": 0.0
+    },
+    {
+      "start": 1917.48,
+      "duration": 3.8199999999999363,
+      "text": "who were born not of blood, nor of the will of the flesh,",
+      "avg_logprob": -0.17049464982809479,
+      "no_speech_prob": 4.3361158847537995e-13,
+      "compression_ratio": 1.5858585858585859,
+      "temperature": 0.0
+    },
+    {
+      "start": 1921.66,
+      "duration": 2.7799999999999727,
+      "text": "nor of the will of man, but of God.",
+      "avg_logprob": -0.17049464982809479,
+      "no_speech_prob": 4.3361158847537995e-13,
+      "compression_ratio": 1.5858585858585859,
+      "temperature": 0.0
+    },
+    {
+      "start": 1927.02,
+      "duration": 1.8399999999999181,
+      "text": "How do we receive this new birth?",
+      "avg_logprob": -0.17049464982809479,
+      "no_speech_prob": 4.3361158847537995e-13,
+      "compression_ratio": 1.5858585858585859,
+      "temperature": 0.0
+    },
+    {
+      "start": 1929.02,
+      "duration": 2.599999999999909,
+      "text": "How can our spirit be reborn and made new?",
+      "avg_logprob": -0.17049464982809479,
+      "no_speech_prob": 4.3361158847537995e-13,
+      "compression_ratio": 1.5858585858585859,
+      "temperature": 0.0
+    },
+    {
+      "start": 1931.84,
+      "duration": 1.4200000000000728,
+      "text": "Look at what John says here.",
+      "avg_logprob": -0.17049464982809479,
+      "no_speech_prob": 4.3361158847537995e-13,
+      "compression_ratio": 1.5858585858585859,
+      "temperature": 0.0
+    },
+    {
+      "start": 1933.42,
+      "duration": 0.7799999999999727,
+      "text": "It's so clear.",
+      "avg_logprob": -0.17049464982809479,
+      "no_speech_prob": 4.3361158847537995e-13,
+      "compression_ratio": 1.5858585858585859,
+      "temperature": 0.0
+    },
+    {
+      "start": 1934.2,
+      "duration": 3.5,
+      "text": "The new birth is only something that God can do.",
+      "avg_logprob": -0.15589430928230286,
+      "no_speech_prob": 5.743682439385278e-13,
+      "compression_ratio": 1.78099173553719,
+      "temperature": 0.0
+    },
+    {
+      "start": 1939.56,
+      "duration": 1.3400000000001455,
+      "text": "It's like a newborn baby.",
+      "avg_logprob": -0.15589430928230286,
+      "no_speech_prob": 5.743682439385278e-13,
+      "compression_ratio": 1.78099173553719,
+      "temperature": 0.0
+    },
+    {
+      "start": 1941.12,
+      "duration": 2.380000000000109,
+      "text": "The newborn baby has nothing to do with their own birth.",
+      "avg_logprob": -0.15589430928230286,
+      "no_speech_prob": 5.743682439385278e-13,
+      "compression_ratio": 1.78099173553719,
+      "temperature": 0.0
+    },
+    {
+      "start": 1943.52,
+      "duration": 1.4800000000000182,
+      "text": "It's something that happens to them.",
+      "avg_logprob": -0.15589430928230286,
+      "no_speech_prob": 5.743682439385278e-13,
+      "compression_ratio": 1.78099173553719,
+      "temperature": 0.0
+    },
+    {
+      "start": 1946.62,
+      "duration": 0.44000000000005457,
+      "text": "Right?",
+      "avg_logprob": -0.15589430928230286,
+      "no_speech_prob": 5.743682439385278e-13,
+      "compression_ratio": 1.78099173553719,
+      "temperature": 0.0
+    },
+    {
+      "start": 1947.36,
+      "duration": 3.6000000000001364,
+      "text": "And so the new birth, what he says, that it can't be given to us by blood.",
+      "avg_logprob": -0.15589430928230286,
+      "no_speech_prob": 5.743682439385278e-13,
+      "compression_ratio": 1.78099173553719,
+      "temperature": 0.0
+    },
+    {
+      "start": 1950.96,
+      "duration": 1.259999999999991,
+      "text": "He says, not by blood.",
+      "avg_logprob": -0.15589430928230286,
+      "no_speech_prob": 5.743682439385278e-13,
+      "compression_ratio": 1.78099173553719,
+      "temperature": 0.0
+    },
+    {
+      "start": 1952.22,
+      "duration": 4.339999999999918,
+      "text": "In other words, just by having Christian parents doesn't mean that you're reborn.",
+      "avg_logprob": -0.15589430928230286,
+      "no_speech_prob": 5.743682439385278e-13,
+      "compression_ratio": 1.78099173553719,
+      "temperature": 0.0
+    },
+    {
+      "start": 1957.48,
+      "duration": 0.44000000000005457,
+      "text": "Okay?",
+      "avg_logprob": -0.15589430928230286,
+      "no_speech_prob": 5.743682439385278e-13,
+      "compression_ratio": 1.78099173553719,
+      "temperature": 0.0
+    },
+    {
+      "start": 1958.82,
+      "duration": 3.160000000000082,
+      "text": "He says, the new birth can't be given to us by the will of the flesh.",
+      "avg_logprob": -0.15589430928230286,
+      "no_speech_prob": 5.743682439385278e-13,
+      "compression_ratio": 1.78099173553719,
+      "temperature": 0.0
+    },
+    {
+      "start": 1961.98,
+      "duration": 2.7200000000000273,
+      "text": "In other words, we can't will ourselves to be reborn.",
+      "avg_logprob": -0.1377424082361666,
+      "no_speech_prob": 5.35421750338938e-13,
+      "compression_ratio": 1.6925925925925926,
+      "temperature": 0.0
+    },
+    {
+      "start": 1965.5200000000002,
+      "duration": 1.9799999999997908,
+      "text": "We can't muster it up ourselves.",
+      "avg_logprob": -0.1377424082361666,
+      "no_speech_prob": 5.35421750338938e-13,
+      "compression_ratio": 1.6925925925925926,
+      "temperature": 0.0
+    },
+    {
+      "start": 1968.7800000000002,
+      "duration": 3.299999999999727,
+      "text": "The new birth can't be forced upon us by the will of man, he says.",
+      "avg_logprob": -0.1377424082361666,
+      "no_speech_prob": 5.35421750338938e-13,
+      "compression_ratio": 1.6925925925925926,
+      "temperature": 0.0
+    },
+    {
+      "start": 1972.16,
+      "duration": 4.139999999999873,
+      "text": "In other words, no government or institution can point to us and be like,",
+      "avg_logprob": -0.1377424082361666,
+      "no_speech_prob": 5.35421750338938e-13,
+      "compression_ratio": 1.6925925925925926,
+      "temperature": 0.0
+    },
+    {
+      "start": 1976.5,
+      "duration": 1.2999999999999545,
+      "text": "you, you're going to be a Christian now.",
+      "avg_logprob": -0.1377424082361666,
+      "no_speech_prob": 5.35421750338938e-13,
+      "compression_ratio": 1.6925925925925926,
+      "temperature": 0.0
+    },
+    {
+      "start": 1979.2,
+      "duration": 4.180000000000064,
+      "text": "That's not going to work because the new birth is only given to us by God.",
+      "avg_logprob": -0.1377424082361666,
+      "no_speech_prob": 5.35421750338938e-13,
+      "compression_ratio": 1.6925925925925926,
+      "temperature": 0.0
+    },
+    {
+      "start": 1984.8200000000002,
+      "duration": 2.1399999999998727,
+      "text": "And so how do we receive the new birth?",
+      "avg_logprob": -0.1377424082361666,
+      "no_speech_prob": 5.35421750338938e-13,
+      "compression_ratio": 1.6925925925925926,
+      "temperature": 0.0
+    },
+    {
+      "start": 1987.18,
+      "duration": 1.5399999999999636,
+      "text": "Well, John tells us very clearly.",
+      "avg_logprob": -0.1377424082361666,
+      "no_speech_prob": 5.35421750338938e-13,
+      "compression_ratio": 1.6925925925925926,
+      "temperature": 0.0
+    },
+    {
+      "start": 1988.84,
+      "duration": 1.1400000000001,
+      "text": "Look at what he says in verse 12 again.",
+      "avg_logprob": -0.1377424082361666,
+      "no_speech_prob": 5.35421750338938e-13,
+      "compression_ratio": 1.6925925925925926,
+      "temperature": 0.0
+    },
+    {
+      "start": 1999.82,
+      "duration": 3.160000000000082,
+      "text": "We receive him. We believe in his name.",
+      "avg_logprob": -0.28794097900390625,
+      "no_speech_prob": 4.913302837500355e-13,
+      "compression_ratio": 1.4437086092715232,
+      "temperature": 0.0
+    },
+    {
+      "start": 2004.84,
+      "duration": 3.5800000000001546,
+      "text": "Church, it's by faith. It's only by faith.",
+      "avg_logprob": -0.28794097900390625,
+      "no_speech_prob": 4.913302837500355e-13,
+      "compression_ratio": 1.4437086092715232,
+      "temperature": 0.0
+    },
+    {
+      "start": 2009.6,
+      "duration": 3.660000000000082,
+      "text": "For those who look at Jesus and believe that he is the Christ,",
+      "avg_logprob": -0.28794097900390625,
+      "no_speech_prob": 4.913302837500355e-13,
+      "compression_ratio": 1.4437086092715232,
+      "temperature": 0.0
+    },
+    {
+      "start": 2014.0,
+      "duration": 1.9200000000000728,
+      "text": "that he's the promised Savior,",
+      "avg_logprob": -0.28794097900390625,
+      "no_speech_prob": 4.913302837500355e-13,
+      "compression_ratio": 1.4437086092715232,
+      "temperature": 0.0
+    },
+    {
+      "start": 2016.62,
+      "duration": 3.2000000000000455,
+      "text": "that he wasn't just a guy who became God,",
+      "avg_logprob": -0.28794097900390625,
+      "no_speech_prob": 4.913302837500355e-13,
+      "compression_ratio": 1.4437086092715232,
+      "temperature": 0.0
+    },
+    {
+      "start": 2020.48,
+      "duration": 3.2799999999999727,
+      "text": "he wasn't just some guy that ended up getting killed on a cross,",
+      "avg_logprob": -0.32125258143944074,
+      "no_speech_prob": 3.680016632135602e-13,
+      "compression_ratio": 1.478021978021978,
+      "temperature": 0.0
+    },
+    {
+      "start": 2024.5800000000002,
+      "duration": 3.5599999999999454,
+      "text": "but that he is the divine Logos,",
+      "avg_logprob": -0.32125258143944074,
+      "no_speech_prob": 3.680016632135602e-13,
+      "compression_ratio": 1.478021978021978,
+      "temperature": 0.0
+    },
+    {
+      "start": 2028.14,
+      "duration": 2.619999999999891,
+      "text": "who eternally existed with the Father.",
+      "avg_logprob": -0.32125258143944074,
+      "no_speech_prob": 3.680016632135602e-13,
+      "compression_ratio": 1.478021978021978,
+      "temperature": 0.0
+    },
+    {
+      "start": 2031.94,
+      "duration": 2.839999999999918,
+      "text": "That he gave himself,",
+      "avg_logprob": -0.32125258143944074,
+      "no_speech_prob": 3.680016632135602e-13,
+      "compression_ratio": 1.478021978021978,
+      "temperature": 0.0
+    },
+    {
+      "start": 2036.2600000000002,
+      "duration": 3.1599999999998545,
+      "text": "gave himself for us,",
+      "avg_logprob": -0.32125258143944074,
+      "no_speech_prob": 3.680016632135602e-13,
+      "compression_ratio": 1.478021978021978,
+      "temperature": 0.0
+    },
+    {
+      "start": 2040.76,
+      "duration": 3.240000000000009,
+      "text": "shedding his blood for all of our sin on the cross.",
+      "avg_logprob": -0.32125258143944074,
+      "no_speech_prob": 3.680016632135602e-13,
+      "compression_ratio": 1.478021978021978,
+      "temperature": 0.0
+    },
+    {
+      "start": 2045.96,
+      "duration": 2.1399999999998727,
+      "text": "Church, if you believe that by faith,",
+      "avg_logprob": -0.32125258143944074,
+      "no_speech_prob": 3.680016632135602e-13,
+      "compression_ratio": 1.478021978021978,
+      "temperature": 0.0
+    },
+    {
+      "start": 2049.82,
+      "duration": 8.899999999999636,
+      "text": "you believe that by faith, then today you can have the certainty that you have the new birth,",
+      "avg_logprob": -0.15975533069019587,
+      "no_speech_prob": 4.421079388000626e-13,
+      "compression_ratio": 1.6589595375722543,
+      "temperature": 0.0
+    },
+    {
+      "start": 2060.36,
+      "duration": 7.339999999999691,
+      "text": "that you've been made new, and that life that is in the divine logos that John is talking about",
+      "avg_logprob": -0.15975533069019587,
+      "no_speech_prob": 4.421079388000626e-13,
+      "compression_ratio": 1.6589595375722543,
+      "temperature": 0.0
+    },
+    {
+      "start": 2067.7,
+      "duration": 10.840000000000146,
+      "text": "is yours. You can have that certainty. Church, as we study the gospel of John together this fall,",
+      "avg_logprob": -0.15975533069019587,
+      "no_speech_prob": 4.421079388000626e-13,
+      "compression_ratio": 1.6589595375722543,
+      "temperature": 0.0
+    },
+    {
+      "start": 2080.2000000000003,
+      "duration": 1.9399999999995998,
+      "text": "I want you to know that we're praying.",
+      "avg_logprob": -0.17605891670148396,
+      "no_speech_prob": 6.35820714654789e-13,
+      "compression_ratio": 1.766839378238342,
+      "temperature": 0.0
+    },
+    {
+      "start": 2082.92,
+      "duration": 1.2399999999997817,
+      "text": "We're praying for you.",
+      "avg_logprob": -0.17605891670148396,
+      "no_speech_prob": 6.35820714654789e-13,
+      "compression_ratio": 1.766839378238342,
+      "temperature": 0.0
+    },
+    {
+      "start": 2084.32,
+      "duration": 1.2399999999997817,
+      "text": "We're praying for us as a church.",
+      "avg_logprob": -0.17605891670148396,
+      "no_speech_prob": 6.35820714654789e-13,
+      "compression_ratio": 1.766839378238342,
+      "temperature": 0.0
+    },
+    {
+      "start": 2086.32,
+      "duration": 4.279999999999745,
+      "text": "We're praying for those that the Lord is going to bring into our community.",
+      "avg_logprob": -0.17605891670148396,
+      "no_speech_prob": 6.35820714654789e-13,
+      "compression_ratio": 1.766839378238342,
+      "temperature": 0.0
+    },
+    {
+      "start": 2092.2000000000003,
+      "duration": 4.359999999999673,
+      "text": "For those that aren't sure about faith in Jesus Christ yet,",
+      "avg_logprob": -0.17605891670148396,
+      "no_speech_prob": 6.35820714654789e-13,
+      "compression_ratio": 1.766839378238342,
+      "temperature": 0.0
+    },
+    {
+      "start": 2096.56,
+      "duration": 4.380000000000109,
+      "text": "I hope that you will do what this passage says.",
+      "avg_logprob": -0.17605891670148396,
+      "no_speech_prob": 6.35820714654789e-13,
+      "compression_ratio": 1.766839378238342,
+      "temperature": 0.0
+    },
+    {
+      "start": 2101.6,
+      "duration": 1.5399999999999636,
+      "text": "That you will receive him.",
+      "avg_logprob": -0.17605891670148396,
+      "no_speech_prob": 6.35820714654789e-13,
+      "compression_ratio": 1.766839378238342,
+      "temperature": 0.0
+    },
+    {
+      "start": 2103.7200000000003,
+      "duration": 1.7399999999997817,
+      "text": "That you will believe in his name.",
+      "avg_logprob": -0.17605891670148396,
+      "no_speech_prob": 6.35820714654789e-13,
+      "compression_ratio": 1.766839378238342,
+      "temperature": 0.0
+    },
+    {
+      "start": 2106.6,
+      "duration": 3.3600000000001273,
+      "text": "that you will look on the person of Jesus",
+      "avg_logprob": -0.15878309087550385,
+      "no_speech_prob": 3.767176728983884e-13,
+      "compression_ratio": 1.72,
+      "temperature": 0.0
+    },
+    {
+      "start": 2113.08,
+      "duration": 1.9600000000000364,
+      "text": "and you will believe in him.",
+      "avg_logprob": -0.15878309087550385,
+      "no_speech_prob": 3.767176728983884e-13,
+      "compression_ratio": 1.72,
+      "temperature": 0.0
+    },
+    {
+      "start": 2116.18,
+      "duration": 2.3400000000001455,
+      "text": "That you would, at the very least,",
+      "avg_logprob": -0.15878309087550385,
+      "no_speech_prob": 3.767176728983884e-13,
+      "compression_ratio": 1.72,
+      "temperature": 0.0
+    },
+    {
+      "start": 2118.8,
+      "duration": 3.0,
+      "text": "that you would see Jesus for who he is",
+      "avg_logprob": -0.15878309087550385,
+      "no_speech_prob": 3.767176728983884e-13,
+      "compression_ratio": 1.72,
+      "temperature": 0.0
+    },
+    {
+      "start": 2121.8,
+      "duration": 0.8599999999996726,
+      "text": "and that you would just say,",
+      "avg_logprob": -0.15878309087550385,
+      "no_speech_prob": 3.767176728983884e-13,
+      "compression_ratio": 1.72,
+      "temperature": 0.0
+    },
+    {
+      "start": 2122.84,
+      "duration": 2.899999999999636,
+      "text": "man, I need him in my life.",
+      "avg_logprob": -0.15878309087550385,
+      "no_speech_prob": 3.767176728983884e-13,
+      "compression_ratio": 1.72,
+      "temperature": 0.0
+    },
+    {
+      "start": 2125.74,
+      "duration": 3.9400000000000546,
+      "text": "I need that unity and the light and the new birth.",
+      "avg_logprob": -0.15878309087550385,
+      "no_speech_prob": 3.767176728983884e-13,
+      "compression_ratio": 1.72,
+      "temperature": 0.0
+    },
+    {
+      "start": 2129.8,
+      "duration": 0.919999999999618,
+      "text": "I need that.",
+      "avg_logprob": -0.15878309087550385,
+      "no_speech_prob": 3.767176728983884e-13,
+      "compression_ratio": 1.72,
+      "temperature": 0.0
+    },
+    {
+      "start": 2132.8,
+      "duration": 1.6599999999998545,
+      "text": "For those of us who are Christians,",
+      "avg_logprob": -0.15878309087550385,
+      "no_speech_prob": 3.767176728983884e-13,
+      "compression_ratio": 1.72,
+      "temperature": 0.0
+    },
+    {
+      "start": 2135.6,
+      "duration": 4.380000000000109,
+      "text": "I hope that you walk deeper in your relationship with the Lord",
+      "avg_logprob": -0.19873966035388765,
+      "no_speech_prob": 5.149061515705156e-13,
+      "compression_ratio": 1.7571428571428571,
+      "temperature": 0.0
+    },
+    {
+      "start": 2139.98,
+      "duration": 2.7199999999998,
+      "text": "so that your faith deepens.",
+      "avg_logprob": -0.19873966035388765,
+      "no_speech_prob": 5.149061515705156e-13,
+      "compression_ratio": 1.7571428571428571,
+      "temperature": 0.0
+    },
+    {
+      "start": 2144.02,
+      "duration": 3.1399999999998727,
+      "text": "So that you desire Christ more than any other desire in this world.",
+      "avg_logprob": -0.19873966035388765,
+      "no_speech_prob": 5.149061515705156e-13,
+      "compression_ratio": 1.7571428571428571,
+      "temperature": 0.0
+    },
+    {
+      "start": 2147.3,
+      "duration": 2.1599999999998545,
+      "text": "So that you wouldn't just know more about Jesus,",
+      "avg_logprob": -0.19873966035388765,
+      "no_speech_prob": 5.149061515705156e-13,
+      "compression_ratio": 1.7571428571428571,
+      "temperature": 0.0
+    },
+    {
+      "start": 2149.62,
+      "duration": 1.6600000000003092,
+      "text": "but that you would know Jesus more.",
+      "avg_logprob": -0.19873966035388765,
+      "no_speech_prob": 5.149061515705156e-13,
+      "compression_ratio": 1.7571428571428571,
+      "temperature": 0.0
+    },
+    {
+      "start": 2152.9,
+      "duration": 1.4800000000000182,
+      "text": "You would know him more.",
+      "avg_logprob": -0.19873966035388765,
+      "no_speech_prob": 5.149061515705156e-13,
+      "compression_ratio": 1.7571428571428571,
+      "temperature": 0.0
+    },
+    {
+      "start": 2154.9,
+      "duration": 1.5599999999999454,
+      "text": "Because who he is is good.",
+      "avg_logprob": -0.19873966035388765,
+      "no_speech_prob": 5.149061515705156e-13,
+      "compression_ratio": 1.7571428571428571,
+      "temperature": 0.0
+    },
+    {
+      "start": 2157.72,
+      "duration": 1.2200000000002547,
+      "text": "Who he is is good.",
+      "avg_logprob": -0.19873966035388765,
+      "no_speech_prob": 5.149061515705156e-13,
+      "compression_ratio": 1.7571428571428571,
+      "temperature": 0.0
+    },
+    {
+      "start": 2160.3,
+      "duration": 3.6399999999998727,
+      "text": "He is unity, he is light, and he offers the new birth.",
+      "avg_logprob": -0.19873966035388765,
+      "no_speech_prob": 5.149061515705156e-13,
+      "compression_ratio": 1.7571428571428571,
+      "temperature": 0.0
+    },
+    {
+      "start": 2165.46,
+      "duration": 1.5399999999999636,
+      "text": "That we're all longing for.",
+      "avg_logprob": -0.3119973171962781,
+      "no_speech_prob": 4.169866492029217e-13,
+      "compression_ratio": 1.5449101796407185,
+      "temperature": 0.0
+    },
+    {
+      "start": 2168.36,
+      "duration": 0.8399999999996908,
+      "text": "Let's pray.",
+      "avg_logprob": -0.3119973171962781,
+      "no_speech_prob": 4.169866492029217e-13,
+      "compression_ratio": 1.5449101796407185,
+      "temperature": 0.0
+    },
+    {
+      "start": 2171.32,
+      "duration": 0.919999999999618,
+      "text": "Our Father,",
+      "avg_logprob": -0.3119973171962781,
+      "no_speech_prob": 4.169866492029217e-13,
+      "compression_ratio": 1.5449101796407185,
+      "temperature": 0.0
+    },
+    {
+      "start": 2174.36,
+      "duration": 1.2999999999997272,
+      "text": "we praise you.",
+      "avg_logprob": -0.3119973171962781,
+      "no_speech_prob": 4.169866492029217e-13,
+      "compression_ratio": 1.5449101796407185,
+      "temperature": 0.0
+    },
+    {
+      "start": 2175.82,
+      "duration": 2.2199999999998,
+      "text": "We praise you this morning for your Son,",
+      "avg_logprob": -0.3119973171962781,
+      "no_speech_prob": 4.169866492029217e-13,
+      "compression_ratio": 1.5449101796407185,
+      "temperature": 0.0
+    },
+    {
+      "start": 2179.08,
+      "duration": 1.4200000000000728,
+      "text": "the Word of God,",
+      "avg_logprob": -0.3119973171962781,
+      "no_speech_prob": 4.169866492029217e-13,
+      "compression_ratio": 1.5449101796407185,
+      "temperature": 0.0
+    },
+    {
+      "start": 2181.06,
+      "duration": 1.6399999999998727,
+      "text": "the divine Logos.",
+      "avg_logprob": -0.3119973171962781,
+      "no_speech_prob": 4.169866492029217e-13,
+      "compression_ratio": 1.5449101796407185,
+      "temperature": 0.0
+    },
+    {
+      "start": 2184.06,
+      "duration": 1.599999999999909,
+      "text": "In him is life,",
+      "avg_logprob": -0.3119973171962781,
+      "no_speech_prob": 4.169866492029217e-13,
+      "compression_ratio": 1.5449101796407185,
+      "temperature": 0.0
+    },
+    {
+      "start": 2185.82,
+      "duration": 3.619999999999891,
+      "text": "the life that we so desperately need every day.",
+      "avg_logprob": -0.3119973171962781,
+      "no_speech_prob": 4.169866492029217e-13,
+      "compression_ratio": 1.5449101796407185,
+      "temperature": 0.0
+    },
+    {
+      "start": 2190.34,
+      "duration": 1.8399999999996908,
+      "text": "We can feel it.",
+      "avg_logprob": -0.3119973171962781,
+      "no_speech_prob": 4.169866492029217e-13,
+      "compression_ratio": 1.5449101796407185,
+      "temperature": 0.0
+    },
+    {
+      "start": 2192.24,
+      "duration": 2.7200000000002547,
+      "text": "We can feel our need for that life.",
+      "avg_logprob": -0.3119973171962781,
+      "no_speech_prob": 4.169866492029217e-13,
+      "compression_ratio": 1.5449101796407185,
+      "temperature": 0.0
+    },
+    {
+      "start": 2197.14,
+      "duration": 1.7600000000002183,
+      "text": "and apart from him we can do nothing.",
+      "avg_logprob": -0.21566829484762604,
+      "no_speech_prob": 4.089215402923452e-13,
+      "compression_ratio": 1.67,
+      "temperature": 0.0
+    },
+    {
+      "start": 2200.96,
+      "duration": 4.900000000000091,
+      "text": "Fill us, Lord, with a desire to grow in the knowledge of the Lord Jesus Christ,",
+      "avg_logprob": -0.21566829484762604,
+      "no_speech_prob": 4.089215402923452e-13,
+      "compression_ratio": 1.67,
+      "temperature": 0.0
+    },
+    {
+      "start": 2206.04,
+      "duration": 1.8600000000001273,
+      "text": "to know him more and more,",
+      "avg_logprob": -0.21566829484762604,
+      "no_speech_prob": 4.089215402923452e-13,
+      "compression_ratio": 1.67,
+      "temperature": 0.0
+    },
+    {
+      "start": 2208.42,
+      "duration": 2.9400000000000546,
+      "text": "so that we would receive him, that we would believe in his name,",
+      "avg_logprob": -0.21566829484762604,
+      "no_speech_prob": 4.089215402923452e-13,
+      "compression_ratio": 1.67,
+      "temperature": 0.0
+    },
+    {
+      "start": 2211.38,
+      "duration": 4.639999999999873,
+      "text": "and that we would be in him and he in us.",
+      "avg_logprob": -0.21566829484762604,
+      "no_speech_prob": 4.089215402923452e-13,
+      "compression_ratio": 1.67,
+      "temperature": 0.0
+    },
+    {
+      "start": 2218.02,
+      "duration": 1.2400000000002365,
+      "text": "God, that's our prayer.",
+      "avg_logprob": -0.21566829484762604,
+      "no_speech_prob": 4.089215402923452e-13,
+      "compression_ratio": 1.67,
+      "temperature": 0.0
+    },
+    {
+      "start": 2220.78,
+      "duration": 4.579999999999927,
+      "text": "That over these next few weeks, over these next few years,",
+      "avg_logprob": -0.21566829484762604,
+      "no_speech_prob": 4.089215402923452e-13,
+      "compression_ratio": 1.67,
+      "temperature": 0.0
+    },
+    {
+      "start": 2225.46,
+      "duration": 1.2799999999997453,
+      "text": "as we look at the gospel of John,",
+      "avg_logprob": -0.18394798928118766,
+      "no_speech_prob": 3.525113957247167e-13,
+      "compression_ratio": 1.2522522522522523,
+      "temperature": 0.0
+    },
+    {
+      "start": 2226.84,
+      "duration": 1.9400000000000546,
+      "text": "that you would do this great work in us.",
+      "avg_logprob": -0.18394798928118766,
+      "no_speech_prob": 3.525113957247167e-13,
+      "compression_ratio": 1.2522522522522523,
+      "temperature": 0.0
+    },
+    {
+      "start": 2231.18,
+      "duration": 1.2400000000002365,
+      "text": "That we would know you more.",
+      "avg_logprob": -0.18394798928118766,
+      "no_speech_prob": 3.525113957247167e-13,
+      "compression_ratio": 1.2522522522522523,
+      "temperature": 0.0
+    },
+    {
+      "start": 2235.46,
+      "duration": 1.3200000000001637,
+      "text": "Pray this all in Jesus' name.",
+      "avg_logprob": -0.18394798928118766,
+      "no_speech_prob": 3.525113957247167e-13,
+      "compression_ratio": 1.2522522522522523,
+      "temperature": 0.0
+    },
+    {
+      "start": 2237.24,
+      "duration": 0.36000000000012733,
+      "text": "Amen.",
+      "avg_logprob": -0.18394798928118766,
+      "no_speech_prob": 3.525113957247167e-13,
+      "compression_ratio": 1.2522522522522523,
+      "temperature": 0.0
+    }
+  ]
+}

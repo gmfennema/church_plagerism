@@ -1,12 +1,12 @@
 {
-  "verified_transcripts": 37,
+  "verified_transcripts": 47,
   "matching_start_end_boundaries": true,
   "all_individual_files_in_combined": true,
   "timestamps_monotonic": true,
   "caption_segments_preserved_exactly": true,
-  "combined_bytes": 1551048,
-  "transcript_words": 213113,
-  "combined_sha256": "9e6213f3e02670205570bae66bf4d6ecd98a1a152cc7732845a2fe6fce034f24",
+  "combined_bytes": 1919988,
+  "transcript_words": 266831,
+  "combined_sha256": "3191fe9abb0409a0047425f06c0aa37af2b42440c171545dd3498a634c20870b",
   "duration_discrepancies_over_10_percent_or_60_seconds": [],
   "verification_scope": "Structural and text-sample checks. Not a manual word-for-word audio verification. Names and references may be misrecognized.",
   "text_samples": [
@@ -342,6 +342,96 @@
       "last": "In Jesus' name we pray. Amen.",
       "transcript_end_seconds": 2329.24,
       "archive_duration_seconds": 2335.059
+    },
+    {
+      "id": "wpxjmr3",
+      "title": "He Has Made Him Known",
+      "first": "And the Word became flesh and dwelt among us, and we have seen His glory, glory as of",
+      "middle": "That we long to be face-to-face with people.",
+      "last": "Thank you.",
+      "transcript_end_seconds": 2203.54,
+      "archive_duration_seconds": 2223.621
+    },
+    {
+      "id": "sjzj5ym",
+      "title": "The Light Shines",
+      "first": "John chapter 1 verses 1 to 13.",
+      "middle": "But as Christians, what he's talking about is a union with God,",
+      "last": "Amen.",
+      "transcript_end_seconds": 2237.6,
+      "archive_duration_seconds": 2243.186
+    },
+    {
+      "id": "rmqbdwd",
+      "title": "Cultivating A Heart Of Worship",
+      "first": "Psalm 100.",
+      "middle": "Going into a palace.",
+      "last": "Amen.",
+      "transcript_end_seconds": 2348.86,
+      "archive_duration_seconds": 2354.886
+    },
+    {
+      "id": "9dwt5wz",
+      "title": "Clinging To God",
+      "first": "One of the things that I pray for, for our church, for myself, is that we would, really what this song that we just sang was singing about, that we would have a longing for God.",
+      "middle": "Think about Augustine.",
+      "last": "Thank you.",
+      "transcript_end_seconds": 2400.92,
+      "archive_duration_seconds": 2401.959
+    },
+    {
+      "id": "gd4yp2k",
+      "title": "The Heart Of Repentance",
+      "first": "a few months ago back in may i got to go hear a couple messages at a conference that was really",
+      "middle": "refusing to repent of it,",
+      "last": "Thank you.",
+      "transcript_end_seconds": 2124.52,
+      "archive_duration_seconds": 2124.956
+    },
+    {
+      "id": "dczr3wp",
+      "title": "A Posture Of Humility",
+      "first": "1 Peter 5.",
+      "middle": "Because when that happens,",
+      "last": "We pray this in Jesus' name. Amen.",
+      "transcript_end_seconds": 2391.96,
+      "archive_duration_seconds": 2398.197
+    },
+    {
+      "id": "4yhx6qx",
+      "title": "Re-Centered on the Mission",
+      "first": "Good morning, good morning.",
+      "middle": "He's saying, who are the strangers, the outsiders inside the church that need to see this brotherly love?",
+      "last": "Amen.",
+      "transcript_end_seconds": 2418.02,
+      "archive_duration_seconds": 2423.745
+    },
+    {
+      "id": "947m8dk",
+      "title": "Show Them Jesus",
+      "first": "So we're in 1 Peter chapter 2, starting at verse 11.",
+      "middle": "when others see that we are suffering unjustly",
+      "last": "in whose name we pray. Amen.",
+      "transcript_end_seconds": 2477.34,
+      "archive_duration_seconds": 2483.722
+    },
+    {
+      "id": "3zzcgwt",
+      "title": "Who Are You?",
+      "first": "If you have your Bible in front of you, open that up to 1 Peter chapter 2 today.",
+      "middle": "We can't trust Jesus on some things and not on others.",
+      "last": "Thank you.",
+      "transcript_end_seconds": 2267.44,
+      "archive_duration_seconds": 2267.637
+    },
+    {
+      "id": "b9cwrfn",
+      "title": "The Word Does The Work",
+      "first": "Good morning, everyone.",
+      "middle": "Look at this.",
+      "last": "We pray this all in Jesus' name. Amen.",
+      "transcript_end_seconds": 2468.56,
+      "archive_duration_seconds": 2474.631
     }
   ]
 }
