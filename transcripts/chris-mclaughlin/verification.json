@@ -1,13 +1,14 @@
 {
-  "verified_transcripts": 27,
+  "verified_transcripts": 37,
   "matching_start_end_boundaries": true,
   "all_individual_files_in_combined": true,
   "timestamps_monotonic": true,
+  "caption_segments_preserved_exactly": true,
+  "combined_bytes": 1551048,
+  "transcript_words": 213113,
+  "combined_sha256": "9e6213f3e02670205570bae66bf4d6ecd98a1a152cc7732845a2fe6fce034f24",
   "duration_discrepancies_over_10_percent_or_60_seconds": [],
-  "combined_bytes": 1171882,
-  "transcript_words": 156383,
-  "combined_sha256": "573edba94233dda1f1bdb0eddd77c2493acee33e5e26aad0d5603f7ac17f8254",
-  "verification_scope": "Caption text and metadata checks only; not checked against source audio. Names and Scripture references may have auto-caption errors.",
+  "verification_scope": "Structural and text-sample checks. Not a manual word-for-word audio verification. Names and references may be misrecognized.",
   "text_samples": [
     {
       "id": "vwtp3nq",
@@ -15,7 +16,7 @@
       "first": "Most of you are probably familiar with",
       "middle": "this. There's a bigger spiritual war and",
       "last": "Pray this in Jesus name. Amen.",
-      "caption_end_seconds": 2404.6800000000003,
+      "transcript_end_seconds": 2404.6800000000003,
       "archive_duration_seconds": 2406.582
     },
     {
@@ -24,7 +25,7 @@
       "first": "[music] Well, we've been in the book of",
       "middle": "that we would figure out how to trust",
       "last": "And pray this in Jesus name. Amen.",
-      "caption_end_seconds": 2045.48,
+      "transcript_end_seconds": 2045.48,
       "archive_duration_seconds": 2047.32
     },
     {
@@ -33,7 +34,7 @@
       "first": "This might be, as Mike mentioned, I",
       "middle": "And he gives some instructions. He says,",
       "last": "pray this in Jesus name. Amen.",
-      "caption_end_seconds": 2377.96,
+      "transcript_end_seconds": 2377.96,
       "archive_duration_seconds": 2379.65
     },
     {
@@ -42,7 +43,7 @@
       "first": "[music]",
       "middle": "talk about it later. But verse one says,",
       "last": "your holy name. Amen.",
-      "caption_end_seconds": 2403.88,
+      "transcript_end_seconds": 2403.88,
       "archive_duration_seconds": 2406.243
     },
     {
@@ -51,7 +52,7 @@
       "first": "Now, as we read about the plagues of",
       "middle": "that we have together to unpack the",
       "last": "Jesus name. Amen.",
-      "caption_end_seconds": 2265.32,
+      "transcript_end_seconds": 2265.32,
       "archive_duration_seconds": 2267.271
     },
     {
@@ -60,7 +61,7 @@
       "first": "Then the Lord said to Moses,",
       "middle": "always what they do. Everyone always",
       "last": "We pray this all in Jesus name. Amen.",
-      "caption_end_seconds": 2432.2,
+      "transcript_end_seconds": 2432.2,
       "archive_duration_seconds": 2433.724
     },
     {
@@ -69,7 +70,7 @@
       "first": "I'm going to take you back a little",
       "middle": "what God is about to show him is that he",
       "last": "name we pray. Amen.",
-      "caption_end_seconds": 2489.56,
+      "transcript_end_seconds": 2489.56,
       "archive_duration_seconds": 2491.245
     },
     {
@@ -78,7 +79,7 @@
       "first": "Well, uh, if you have your Bible with",
       "middle": "outnumber the stars of the sky but these",
       "last": "Amen.",
-      "caption_end_seconds": 2414.599,
+      "transcript_end_seconds": 2414.599,
       "archive_duration_seconds": 2418.912
     },
     {
@@ -87,7 +88,7 @@
       "first": "These are the names of the sons of",
       "middle": "right? Why Why does this happen?",
       "last": "that. We pray this in Jesus name. Amen.",
-      "caption_end_seconds": 2259.4,
+      "transcript_end_seconds": 2259.4,
       "archive_duration_seconds": 2260.95
     },
     {
@@ -96,7 +97,7 @@
       "first": "[music]",
       "middle": "he has this vision where he sees the",
       "last": "And it's in that name we pray. Amen.",
-      "caption_end_seconds": 2272.04,
+      "transcript_end_seconds": 2272.04,
       "archive_duration_seconds": 2274.507
     },
     {
@@ -105,7 +106,7 @@
       "first": "[music]",
       "middle": "anymore because she's received all from",
       "last": "Jesus, we pray this in your name. Amen.",
-      "caption_end_seconds": 2133.32,
+      "transcript_end_seconds": 2133.32,
       "archive_duration_seconds": 2135.431
     },
     {
@@ -114,7 +115,7 @@
       "first": "How many of you have seen the movie",
       "middle": "up inside of him. And so the question is",
       "last": "We pray this together. Amen.",
-      "caption_end_seconds": 2136.04,
+      "transcript_end_seconds": 2136.04,
       "archive_duration_seconds": 2137.521
     },
     {
@@ -123,7 +124,7 @@
       "first": "John chapter 10 verse 22.",
       "middle": "is the day when uh Martin Luther 508",
       "last": "We pray this in Jesus name. Amen.",
-      "caption_end_seconds": 2464.119,
+      "transcript_end_seconds": 2464.119,
       "archive_duration_seconds": 2466.481
     },
     {
@@ -132,7 +133,7 @@
       "first": "Um, when the light shines, when light",
       "middle": "Okay. At the very end of the story, you",
       "last": "name. Amen.",
-      "caption_end_seconds": 2334.6800000000003,
+      "transcript_end_seconds": 2334.6800000000003,
       "archive_duration_seconds": 2336.078
     },
     {
@@ -141,7 +142,7 @@
       "first": "[Music]",
       "middle": "looking down on us.",
       "last": "Amen.",
-      "caption_end_seconds": 2397.96,
+      "transcript_end_seconds": 2397.96,
       "archive_duration_seconds": 2399.686
     },
     {
@@ -150,7 +151,7 @@
       "first": "[Music]",
       "middle": "That's the first thing. Look at verse",
       "last": "this in Jesus name. Amen.",
-      "caption_end_seconds": 2203.56,
+      "transcript_end_seconds": 2203.56,
       "archive_duration_seconds": 2205.466
     },
     {
@@ -159,7 +160,7 @@
       "first": "[Music]",
       "middle": "someone could hear your every thought,",
       "last": "Amen.",
-      "caption_end_seconds": 2948.76,
+      "transcript_end_seconds": 2948.76,
       "archive_duration_seconds": 2951.131
     },
     {
@@ -168,7 +169,7 @@
       "first": "[Music]",
       "middle": "is that",
       "last": "We pray this in Jesus name. Amen.",
-      "caption_end_seconds": 2274.28,
+      "transcript_end_seconds": 2274.28,
       "archive_duration_seconds": 2276.31
     },
     {
@@ -177,7 +178,7 @@
       "first": "[Music]",
       "middle": "shape us, to help us to trust him even",
       "last": "We pray this in Jesus name. Amen.",
-      "caption_end_seconds": 2306.8390000000004,
+      "transcript_end_seconds": 2306.8390000000004,
       "archive_duration_seconds": 2308.623
     },
     {
@@ -186,7 +187,7 @@
       "first": "[Music]",
       "middle": "walk through this because I think it is",
       "last": "Amen.",
-      "caption_end_seconds": 2362.04,
+      "transcript_end_seconds": 2362.04,
       "archive_duration_seconds": 2364.003
     },
     {
@@ -195,7 +196,7 @@
       "first": "[Music]",
       "middle": "Jacob.\" Okay? All Israelites are king's",
       "last": "free. It's in Jesus name we pray. Amen.",
-      "caption_end_seconds": 2206.2,
+      "transcript_end_seconds": 2206.2,
       "archive_duration_seconds": 2207.686
     },
     {
@@ -204,7 +205,7 @@
       "first": "[Music]",
       "middle": "like, \"Oh, sugar. I'll just live off of",
       "last": "name. Amen.",
-      "caption_end_seconds": 2113.56,
+      "transcript_end_seconds": 2113.56,
       "archive_duration_seconds": 2116.127
     },
     {
@@ -213,7 +214,7 @@
       "first": "[Music]",
       "middle": "judge by appearances, but judge with",
       "last": "home. We pray this in Jesus name. Amen.",
-      "caption_end_seconds": 2243.48,
+      "transcript_end_seconds": 2243.48,
       "archive_duration_seconds": 2246.086
     },
     {
@@ -222,7 +223,7 @@
       "first": "[Music]",
       "middle": "Galatians 5, he says the cross is",
       "last": "we would have life.",
-      "caption_end_seconds": 2153.4,
+      "transcript_end_seconds": 2153.4,
       "archive_duration_seconds": 2156.199
     },
     {
@@ -231,8 +232,17 @@
       "first": "[Music]",
       "middle": "2003 um I was in a car accident I was in",
       "last": "amen",
-      "caption_end_seconds": 2138.72,
+      "transcript_end_seconds": 2138.72,
       "archive_duration_seconds": 2140.342
+    },
+    {
+      "id": "q2nxsj2",
+      "title": "Judging Jesus",
+      "first": "John chapter 5, starting at verse 19.",
+      "middle": "knowledge of the glory of God in the face of Jesus Christ. He's saying we can see the glory of God",
+      "last": "Praise in Jesus' name, amen.",
+      "transcript_end_seconds": 2396.74,
+      "archive_duration_seconds": 2403.082
     },
     {
       "id": "kfj59fh",
@@ -240,7 +250,7 @@
       "first": "[Music]",
       "middle": "who hopes in God's steadfast love it's",
       "last": "pray amen",
-      "caption_end_seconds": 2434.28,
+      "transcript_end_seconds": 2434.28,
       "archive_duration_seconds": 2437.381
     },
     {
@@ -249,9 +259,89 @@
       "first": "[Music]",
       "middle": "this is this is so good he's talking",
       "last": "for us we pray this in Jesus name amen",
-      "caption_end_seconds": 2573.88,
+      "transcript_end_seconds": 2573.88,
       "archive_duration_seconds": 2577.031
+    },
+    {
+      "id": "vpb33p9",
+      "title": "A Leader To Follow",
+      "first": "And now, O Priests,",
+      "middle": "He feared me.",
+      "last": "Amen.",
+      "transcript_end_seconds": 2256.78,
+      "archive_duration_seconds": 2262.961
+    },
+    {
+      "id": "2y9jgrw",
+      "title": "God's Love, God's Hate",
+      "first": "The Oracle of the Word of the Lord to Israel by Malachi.",
+      "middle": "He says this",
+      "last": "Amen.",
+      "transcript_end_seconds": 2541.82,
+      "archive_duration_seconds": 2548.506
+    },
+    {
+      "id": "h3m7kz4",
+      "title": "...Because He Cares For You",
+      "first": "There was a certain man of Ramatham Zotham, of the hill country of Ephraim, whose name",
+      "middle": "She rightly understood who God is and then her relationship to God. God is not in her service.",
+      "last": "Amen",
+      "transcript_end_seconds": 2485.76,
+      "archive_duration_seconds": 2492.551
+    },
+    {
+      "id": "49g6zjf",
+      "title": "Hope Against Hope - The Birth of Isaac",
+      "first": "it's great to be with everyone this morning to celebrate the beginning of advent this is",
+      "middle": "So why would he go back on that now?",
+      "last": "Thank you.",
+      "transcript_end_seconds": 2363.66,
+      "archive_duration_seconds": 2365.309
+    },
+    {
+      "id": "5wtc82x",
+      "title": "New Levels Of Faith",
+      "first": "After the two days, he departed for Galilee.",
+      "middle": "Maybe it gets answered in a different way.",
+      "last": "Amen",
+      "transcript_end_seconds": 2338.48,
+      "archive_duration_seconds": 2344.724
+    },
+    {
+      "id": "s5ntnrx",
+      "title": "If You Only Knew",
+      "first": "Now when Jesus learned that the Pharisees had heard that Jesus was making and baptizing more disciples than John,",
+      "middle": "He renews our souls.",
+      "last": "that it would go out from us to the nations as well.",
+      "transcript_end_seconds": 2234.26,
+      "archive_duration_seconds": 2239.947
+    },
+    {
+      "id": "tcsnqkb",
+      "title": "Behold, What Manner Of Love",
+      "first": "For God so loved the world that he gave his only son,",
+      "middle": "this, you know, we read that story, we're just like, man, how could Abraham even be willing to",
+      "last": "and we pray this in Jesus' name, amen.",
+      "transcript_end_seconds": 2323.7,
+      "archive_duration_seconds": 2330.226
+    },
+    {
+      "id": "z646g8z",
+      "title": "A Better Authority",
+      "first": "When I was a really little kid, I remember one of my favorite shows was Mr. Rogers.",
+      "middle": "I will raise it up. And what I love what Jesus did here is he actually uses a different word",
+      "last": "Thank you.",
+      "transcript_end_seconds": 2271.48,
+      "archive_duration_seconds": 2271.66
+    },
+    {
+      "id": "ssrjrcb",
+      "title": "A Bigger Hope",
+      "first": "Have you ever experienced something that you had some hope for, some expectation for,",
+      "middle": "Not just saving one family's social status, but to save the entire world from sin.",
+      "last": "In Jesus' name we pray. Amen.",
+      "transcript_end_seconds": 2329.24,
+      "archive_duration_seconds": 2335.059
     }
-  ],
-  "caption_segments_preserved_exactly": true
+  ]
 }

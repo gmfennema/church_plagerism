@@ -11,6 +11,7 @@ from pathlib import Path
 BASE = Path(__file__).resolve().parent
 sys.path.insert(0, str(BASE.parents[1] / 'tools'))
 from fetch_transcripts import fetch_one, format_timestamp
+from corpus import rebuild
 
 
 def save_json(path, value):
@@ -27,6 +28,9 @@ def main():
     args = parser.parse_args()
     if args.request_delay < 0:
         parser.error('--request-delay must be nonnegative')
+    if args.offline:
+        print(json.dumps(rebuild()['status_counts']))
+        return
     items = json.loads((BASE / 'manifest.json').read_text())['items']
     assert len({item['short_code'] for item in items}) == len(items)
     output = BASE / 'items'
@@ -49,6 +53,9 @@ def main():
             try:
                 if metadata.exists():
                     fetched = json.loads(metadata.read_text())
+                    if fetched.get('transcription'):
+                        records.append(previous[item['short_code']])
+                        continue
                 else:
                     fetched = fetch_one(item['youtube_id'], ['en', 'en-US', 'en-GB'])
                     fetched['fetched_at'] = datetime.now(timezone.utc).isoformat()
@@ -80,30 +87,7 @@ def main():
         records.append(record)
         save_json(BASE / 'coverage.json', {'generated_at': datetime.now(timezone.utc).isoformat(), 'items': records})
 
-    complete = sorted((r for r in records if r['status'] == 'complete'), key=lambda r: (r['date'], r['short_code']))
-    counts = {status: sum(r['status'] == status for r in records) for status in sorted({r['status'] for r in records})}
-    combined = ['CHRIS MCLAUGHLIN — CAPTION TRANSCRIPT COLLECTION',
-                f"Included: {len(complete)} of {len(items)} manifest recordings.",
-                'Scope: English captions from confirmed YouTube matches only; audio transcription is pending.',
-                'Captions are preserved as retrieved and may contain recognition errors.',
-                'See coverage.json for omitted recordings and fetch errors.', '', 'CONTENTS']
-    for n, record in enumerate(complete, 1):
-        combined.append(f"{n:03d} | {record['short_code']} | {record['date'][:10]} | {record['title']}")
-    for n, record in enumerate(complete, 1):
-        marker = f"SERMON {n:03d} | {record['short_code']}"
-        combined.extend(['', '=' * 80, f'START {marker}', '=' * 80,
-                         (BASE / record['transcript_file']).read_text().rstrip(),
-                         '=' * 80, f'END {marker}', '=' * 80])
-    (BASE / 'chris-mclaughlin-all.txt').write_text('\n'.join(combined) + '\n', encoding='utf-8')
-    save_json(BASE / 'coverage.json', {'generated_at': datetime.now(timezone.utc).isoformat(),
-                                     'manifest_count': len(items), 'status_counts': counts,
-                                     'transcript_word_count': sum(r['word_count'] for r in complete), 'items': records})
-    report = ['# Caption coverage', '', f'Manifest recordings: {len(items)}',
-              f'Completed captions: {len(complete)}', '',
-              '| Date | ID | Title | Status |', '|---|---|---|---|']
-    report.extend(f"| {r['date'][:10]} | {r['short_code']} | {r['title'].replace('|', '/')} | {r['status']} |" for r in sorted(records, key=lambda r: r['date']))
-    (BASE / 'coverage.md').write_text('\n'.join(report) + '\n', encoding='utf-8')
-    print(json.dumps(counts), flush=True)
+    print(json.dumps(rebuild()['status_counts']), flush=True)
 
 
 if __name__ == '__main__':

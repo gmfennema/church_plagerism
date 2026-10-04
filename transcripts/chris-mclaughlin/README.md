@@ -1,4 +1,4 @@
-# Chris McLaughlin transcript handoff
+# Chris McLaughlin transcript collection
 
 This folder is a transcript store for the user's requested collection. Do not create a church record, plagiarism finding, site report, or Convex task for this work. The requested deliverables are individual sermon text files and one combined text file in this folder. Keep source audio and video out of Git.
 
@@ -13,6 +13,32 @@ The speaker page displayed **105** items on 2026-09-29 UTC. Its live `POST /cont
 
 **43 items** have high-confidence YouTube matches based on exact normalized titles, with Scripture used to resolve ambiguity. The remaining **56** have no confirmed YouTube counterpart. A match does not establish that captions can be downloaded.
 
+## Local audio transcription pipeline
+
+The remaining recordings are processed with **Whisper large-v3-turbo through MLX on Apple Silicon**, using a pinned local model revision. Current counts, source types, and failures are in [`coverage.md`](coverage.md) and [`coverage.json`](coverage.json). The combined [`chris-mclaughlin-all.txt`](chris-mclaughlin-all.txt) is rebuilt after every completed recording; its chronological numbering can change, so cite the stable item ID and timestamp.
+
+The worker downloads one public MP3 at a time, checks its duration against the manifest, transcribes it locally, saves timestamped text and segment metadata, rebuilds and checks the combined file, and deletes the temporary audio. For the single item without an MP3, it streams the source video and retains only audio. No video file is saved. Sermon audio is not uploaded to an AI service. Model and library downloads require network access during setup; Hugging Face telemetry is disabled and the worker loads the model offline.
+
+Machine transcriptions are labeled separately from YouTube captions, with engine/model versions, pinned model revision, processing time, and quality flags. They are not manually corrected. Repetition, unusually sparse output, decoder scores, and early transcript endings are checked; consequential quotations should still be verified against the recording.
+
+The queue prioritizes failed caption matches, then other Sunday sermons, then weekday teachings. `--sync` commits and pushes after **every 10 additional local transcripts**, including new text, segment metadata, the combined file, and coverage/verification reports. It also syncs the final remainder. A push failure stops the worker for recovery. Existing completed files are reused, and a lock prevents duplicate workers.
+
+Setup on an Apple Silicon Mac with Python and ffmpeg installed:
+
+```bash
+python3 -m venv .transcription/venv
+.transcription/venv/bin/python -m pip install -r transcripts/chris-mclaughlin/transcription-requirements.txt
+.transcription/venv/bin/python transcripts/chris-mclaughlin/setup_transcription_model.py
+```
+
+Run or resume:
+
+```bash
+caffeinate -i .transcription/venv/bin/python -u transcripts/chris-mclaughlin/transcribe_remaining.py --sync
+```
+
+The ignored `.transcription/` directory contains the environment, model, lock, and `run.json` progress. Only one recording's temporary audio is present during processing. Checkpoint sync uses the already signed-in `gmfennema` GitHub account without changing the default account. Run on `main` with no unrelated staged changes.
+
 ## Caption collection — 2026-10-04
 
 The first caption pass produced **27 English auto-caption transcripts**, containing **156,383 transcript words**. The combined file is ready for querying:
@@ -22,7 +48,7 @@ The first caption pass produced **27 English auto-caption transcripts**, contain
 - [`coverage.md`](coverage.md) / [`coverage.json`](coverage.json): status of every one of the 99 manifest recordings.
 - [`verification.json`](verification.json): integrity checks and beginning/middle/end text samples from every completed recording.
 
-**This is a partial corpus.** Of the 43 confirmed YouTube matches, 27 captions were retrieved and 16 requests returned `IpBlocked`. Those failures do not establish that the videos lack captions. The other 56 recordings have no confirmed YouTube match and were not fetched. No audio or video was downloaded, and no local transcription was performed. The archive's earlier 105-versus-99 discrepancy remains unresolved.
+**Caption-stage result:** of the 43 confirmed YouTube matches, 27 captions were retrieved and 16 requests returned `IpBlocked`. Those failures do not establish that the videos lack captions. The other 56 recordings have no confirmed YouTube match and were not fetched during this stage. No audio or video was downloaded during the caption pass. The archive's earlier 105-versus-99 discrepancy remains unresolved.
 
 Verification confirmed matching start/end boundaries, inclusion of each individual transcript in the combined file, ordered timestamps, and caption endpoints within 10% or 60 seconds of the archive durations. The caption text was inspected at the beginning, middle, and end; it has not been checked against audio. Automatic captions may misrecognize names, references, and quotations. Preserve the original captions and verify any consequential quotation against its recording.
 
@@ -38,7 +64,7 @@ After YouTube's limits clear, resume caption collection with:
 python3 transcripts/chris-mclaughlin/collect_captions.py --retry-failed --request-delay 60
 ```
 
-The collector reuses completed caption files, waits 60 seconds between new requests by default, and stops network access on a blocking response. A later attempt with this spacing still received `IpBlocked` on its first new request, so the other failed requests were not retried in that run. It never downloads audio/video. Audio transcription remains a later phase.
+The caption collector reuses completed files, waits 60 seconds between new requests by default, and stops network access on a blocking response. A later attempt with this spacing still received `IpBlocked` on its first new request, so the other failed requests were not retried in that run. It never downloads audio/video. The shared offline builder includes both saved captions and local audio transcripts.
 
 ## What has been tried
 

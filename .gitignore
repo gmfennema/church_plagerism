@@ -19,6 +19,7 @@ __pycache__/
 *.py[cod]
 .DS_Store
 .venv/
+.transcription/
 
 # Local JavaScript dependencies and deployment credentials
 node_modules/

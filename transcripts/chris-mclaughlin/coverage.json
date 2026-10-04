@@ -1,12 +1,16 @@
 {
-  "generated_at": "2026-10-04T20:19:35.417949+00:00",
+  "generated_at": "2026-10-04T20:59:20.942457+00:00",
   "manifest_count": 99,
   "status_counts": {
-    "caption_fetch_failed": 16,
-    "complete": 27,
+    "caption_fetch_failed": 6,
+    "complete": 37,
     "no_confirmed_youtube_match": 56
   },
-  "transcript_word_count": 156383,
+  "transcript_sources": {
+    "Local Whisper large-v3-turbo (MLX)": 10,
+    "YouTube auto captions": 27
+  },
+  "transcript_word_count": 213113,
   "items": [
     {
       "title": "The Lord Is My Banner",
@@ -24,12 +28,13 @@
       "youtube_title": "Exodus #20 - \"The Lord Is My Banner\" // Exodus 17:8-16",
       "status": "complete",
       "transcript_file": "items/2026-05-17_vwtp3nq_the-lord-is-my-banner.txt",
-      "caption_file": "items/2026-05-17_vwtp3nq_the-lord-is-my-banner.json",
+      "metadata_file": "items/2026-05-17_vwtp3nq_the-lord-is-my-banner.json",
       "transcript_source": "YouTube auto captions",
       "snippet_count": 902,
       "word_count": 5887,
       "first_timestamp": 18.48,
-      "last_timestamp": 2400.4
+      "last_timestamp": 2400.4,
+      "caption_file": "items/2026-05-17_vwtp3nq_the-lord-is-my-banner.json"
     },
     {
       "title": "The People Versus The Rock",
@@ -47,12 +52,13 @@
       "youtube_title": "Exodus #19 - \"The People Versus The Rock\" // Exodus 17:1-7",
       "status": "complete",
       "transcript_file": "items/2026-05-10_6fm289d_the-people-versus-the-rock.txt",
-      "caption_file": "items/2026-05-10_6fm289d_the-people-versus-the-rock.json",
+      "metadata_file": "items/2026-05-10_6fm289d_the-people-versus-the-rock.json",
       "transcript_source": "YouTube auto captions",
       "snippet_count": 791,
       "word_count": 5199,
       "first_timestamp": 18.34,
-      "last_timestamp": 2041.039
+      "last_timestamp": 2041.039,
+      "caption_file": "items/2026-05-10_6fm289d_the-people-versus-the-rock.json"
     },
     {
       "title": "The New Humanity",
@@ -70,12 +76,13 @@
       "youtube_title": "Exodus #16 - \"The New Humanity\" // Exodus 14:1-31",
       "status": "complete",
       "transcript_file": "items/2026-04-19_y2wymcj_the-new-humanity.txt",
-      "caption_file": "items/2026-04-19_y2wymcj_the-new-humanity.json",
+      "metadata_file": "items/2026-04-19_y2wymcj_the-new-humanity.json",
       "transcript_source": "YouTube auto captions",
       "snippet_count": 852,
       "word_count": 5309,
       "first_timestamp": 18.8,
-      "last_timestamp": 2373.599
+      "last_timestamp": 2373.599,
+      "caption_file": "items/2026-04-19_y2wymcj_the-new-humanity.json"
     },
     {
       "title": "Do This In Remembrance Of Me",
@@ -93,12 +100,13 @@
       "youtube_title": "Exodus #15 - \"Do This In Remembrance Of Me\" // Exodus 13:1-22",
       "status": "complete",
       "transcript_file": "items/2026-04-12_ykjz67s_do-this-in-remembrance-of-me.txt",
-      "caption_file": "items/2026-04-12_ykjz67s_do-this-in-remembrance-of-me.json",
+      "metadata_file": "items/2026-04-12_ykjz67s_do-this-in-remembrance-of-me.json",
       "transcript_source": "YouTube auto captions",
       "snippet_count": 918,
       "word_count": 6196,
       "first_timestamp": 3.274,
-      "last_timestamp": 2399.52
+      "last_timestamp": 2399.52,
+      "caption_file": "items/2026-04-12_ykjz67s_do-this-in-remembrance-of-me.json"
     },
     {
       "title": "The Lord Makes A Distinction",
@@ -116,12 +124,13 @@
       "youtube_title": "Exodus #12 - \"The Lord Makes A Distinction\" // Exodus 11:1-10",
       "status": "complete",
       "transcript_file": "items/2026-03-22_wgc4jx3_the-lord-makes-a-distinction.txt",
-      "caption_file": "items/2026-03-22_wgc4jx3_the-lord-makes-a-distinction.json",
+      "metadata_file": "items/2026-03-22_wgc4jx3_the-lord-makes-a-distinction.json",
       "transcript_source": "YouTube auto captions",
       "snippet_count": 833,
       "word_count": 5398,
       "first_timestamp": 18.32,
-      "last_timestamp": 2261.599
+      "last_timestamp": 2261.599,
+      "caption_file": "items/2026-03-22_wgc4jx3_the-lord-makes-a-distinction.json"
     },
     {
       "title": "Dismantling Idols",
@@ -139,12 +148,13 @@
       "youtube_title": "Exodus #9 - \"Dismantling Idols\" // Exodus 8:1-32",
       "status": "complete",
       "transcript_file": "items/2026-03-01_x9nzgnv_dismantling-idols.txt",
-      "caption_file": "items/2026-03-01_x9nzgnv_dismantling-idols.json",
+      "metadata_file": "items/2026-03-01_x9nzgnv_dismantling-idols.json",
       "transcript_source": "YouTube auto captions",
       "snippet_count": 896,
       "word_count": 6020,
       "first_timestamp": 18.48,
-      "last_timestamp": 2427.2
+      "last_timestamp": 2427.2,
+      "caption_file": "items/2026-03-01_x9nzgnv_dismantling-idols.json"
     },
     {
       "title": "Do I Have What It Takes?",
@@ -162,12 +172,13 @@
       "youtube_title": "Exodus #6 - \"Do I Have What It Takes?\" // Exodus 5:22-6:13",
       "status": "complete",
       "transcript_file": "items/2026-02-08_cnwwcbh_do-i-have-what-it-takes.txt",
-      "caption_file": "items/2026-02-08_cnwwcbh_do-i-have-what-it-takes.json",
+      "metadata_file": "items/2026-02-08_cnwwcbh_do-i-have-what-it-takes.json",
       "transcript_source": "YouTube auto captions",
       "snippet_count": 955,
       "word_count": 6523,
       "first_timestamp": 18.56,
-      "last_timestamp": 2485.92
+      "last_timestamp": 2485.92,
+      "caption_file": "items/2026-02-08_cnwwcbh_do-i-have-what-it-takes.json"
     },
     {
       "title": "Questions and Doubts",
@@ -185,12 +196,13 @@
       "youtube_title": "Exodus #3 - \"Questions and Doubts\" // Exodus 3:1-4:17",
       "status": "complete",
       "transcript_file": "items/2026-01-18_jxz6q79_questions-and-doubts.txt",
-      "caption_file": "items/2026-01-18_jxz6q79_questions-and-doubts.json",
+      "metadata_file": "items/2026-01-18_jxz6q79_questions-and-doubts.json",
       "transcript_source": "YouTube auto captions",
       "snippet_count": 876,
       "word_count": 5813,
       "first_timestamp": 18.64,
-      "last_timestamp": 2411.599
+      "last_timestamp": 2411.599,
+      "caption_file": "items/2026-01-18_jxz6q79_questions-and-doubts.json"
     },
     {
       "title": "The Battle Lines Are Drawn",
@@ -208,12 +220,13 @@
       "youtube_title": "Exodus #1 - \"The Battle Lines Are Drawn\" // Exodus 1:1-22",
       "status": "complete",
       "transcript_file": "items/2026-01-04_qgp2n5t_the-battle-lines-are-drawn.txt",
-      "caption_file": "items/2026-01-04_qgp2n5t_the-battle-lines-are-drawn.json",
+      "metadata_file": "items/2026-01-04_qgp2n5t_the-battle-lines-are-drawn.json",
       "transcript_source": "YouTube auto captions",
       "snippet_count": 797,
       "word_count": 4990,
       "first_timestamp": 18.48,
-      "last_timestamp": 2253.28
+      "last_timestamp": 2253.28,
+      "caption_file": "items/2026-01-04_qgp2n5t_the-battle-lines-are-drawn.json"
     },
     {
       "title": "Holy Is His Name",
@@ -231,12 +244,13 @@
       "youtube_title": "\"Holy Is His Name\" // Luke 1:46-55",
       "status": "complete",
       "transcript_file": "items/2025-12-21_v6fr4zq_holy-is-his-name.txt",
-      "caption_file": "items/2025-12-21_v6fr4zq_holy-is-his-name.json",
+      "metadata_file": "items/2025-12-21_v6fr4zq_holy-is-his-name.json",
       "transcript_source": "YouTube auto captions",
       "snippet_count": 815,
       "word_count": 5299,
       "first_timestamp": 1.964,
-      "last_timestamp": 2266.96
+      "last_timestamp": 2266.96,
+      "caption_file": "items/2025-12-21_v6fr4zq_holy-is-his-name.json"
     },
     {
       "title": "Love's Freedom",
@@ -254,12 +268,13 @@
       "youtube_title": "The Gospel of John 3.10 - \"Love's Freedom\" // John 11:55-12:11",
       "status": "complete",
       "transcript_file": "items/2025-12-07_c55g4yr_love-s-freedom.txt",
-      "caption_file": "items/2025-12-07_c55g4yr_love-s-freedom.json",
+      "metadata_file": "items/2025-12-07_c55g4yr_love-s-freedom.json",
       "transcript_source": "YouTube auto captions",
       "snippet_count": 783,
       "word_count": 5189,
       "first_timestamp": 16.375,
-      "last_timestamp": 2128.32
+      "last_timestamp": 2128.32,
+      "caption_file": "items/2025-12-07_c55g4yr_love-s-freedom.json"
     },
     {
       "title": "The Fiercest Love",
@@ -277,12 +292,13 @@
       "youtube_title": "The Gospel of John 3.8 - \"The Fiercest Love\" // John 11:28-37",
       "status": "complete",
       "transcript_file": "items/2025-11-23_798tg79_the-fiercest-love.txt",
-      "caption_file": "items/2025-11-23_798tg79_the-fiercest-love.json",
+      "metadata_file": "items/2025-11-23_798tg79_the-fiercest-love.json",
       "transcript_source": "YouTube auto captions",
       "snippet_count": 776,
       "word_count": 5084,
       "first_timestamp": 22.48,
-      "last_timestamp": 2130.96
+      "last_timestamp": 2130.96,
+      "caption_file": "items/2025-11-23_798tg79_the-fiercest-love.json"
     },
     {
       "title": "Assurances",
@@ -300,12 +316,13 @@
       "youtube_title": "The Gospel of John 3.5 - \"Assurances\" // John 10:22-42",
       "status": "complete",
       "transcript_file": "items/2025-11-02_mkr7bbg_assurances.txt",
-      "caption_file": "items/2025-11-02_mkr7bbg_assurances.json",
+      "metadata_file": "items/2025-11-02_mkr7bbg_assurances.json",
       "transcript_source": "YouTube auto captions",
       "snippet_count": 914,
       "word_count": 6079,
       "first_timestamp": 22.64,
-      "last_timestamp": 2459.76
+      "last_timestamp": 2459.76,
+      "caption_file": "items/2025-11-02_mkr7bbg_assurances.json"
     },
     {
       "title": "The Nature Of Light",
@@ -323,12 +340,13 @@
       "youtube_title": "The Gospel of John 3.2 - \"The Nature Of Light\" // John 9:8-41",
       "status": "complete",
       "transcript_file": "items/2025-10-12_zsx4mvc_the-nature-of-light.txt",
-      "caption_file": "items/2025-10-12_zsx4mvc_the-nature-of-light.json",
+      "metadata_file": "items/2025-10-12_zsx4mvc_the-nature-of-light.json",
       "transcript_source": "YouTube auto captions",
       "snippet_count": 889,
       "word_count": 6105,
       "first_timestamp": 21.92,
-      "last_timestamp": 2331.119
+      "last_timestamp": 2331.119,
+      "caption_file": "items/2025-10-12_zsx4mvc_the-nature-of-light.json"
     },
     {
       "title": "What Life Is For",
@@ -346,12 +364,13 @@
       "youtube_title": "The Gospel of John 3.1 - \"What Life Is For\" // John 9:1-7",
       "status": "complete",
       "transcript_file": "items/2025-10-05_c4t8mfn_what-life-is-for.txt",
-      "caption_file": "items/2025-10-05_c4t8mfn_what-life-is-for.json",
+      "metadata_file": "items/2025-10-05_c4t8mfn_what-life-is-for.json",
       "transcript_source": "YouTube auto captions",
       "snippet_count": 906,
       "word_count": 6143,
       "first_timestamp": 6.08,
-      "last_timestamp": 2394.96
+      "last_timestamp": 2394.96,
+      "caption_file": "items/2025-10-05_c4t8mfn_what-life-is-for.json"
     },
     {
       "title": "When Praise Is Silent",
@@ -369,12 +388,13 @@
       "youtube_title": "\"When Praise Is Silent\" // Summer Psalms 2025 #11 // Psalm 65",
       "status": "complete",
       "transcript_file": "items/2025-08-24_gt3grsw_when-praise-is-silent.txt",
-      "caption_file": "items/2025-08-24_gt3grsw_when-praise-is-silent.json",
+      "metadata_file": "items/2025-08-24_gt3grsw_when-praise-is-silent.json",
       "transcript_source": "YouTube auto captions",
       "snippet_count": 821,
       "word_count": 5546,
       "first_timestamp": 1.03,
-      "last_timestamp": 2199.599
+      "last_timestamp": 2199.599,
+      "caption_file": "items/2025-08-24_gt3grsw_when-praise-is-silent.json"
     },
     {
       "title": "Known and Loved",
@@ -392,12 +412,13 @@
       "youtube_title": "\"Known and Loved\" // Summer Psalms 2025 #8 // Psalm 139",
       "status": "complete",
       "transcript_file": "items/2025-08-03_tkfs72n_known-and-loved.txt",
-      "caption_file": "items/2025-08-03_tkfs72n_known-and-loved.json",
+      "metadata_file": "items/2025-08-03_tkfs72n_known-and-loved.json",
       "transcript_source": "YouTube auto captions",
       "snippet_count": 1103,
       "word_count": 7632,
       "first_timestamp": 0.75,
-      "last_timestamp": 2945.76
+      "last_timestamp": 2945.76,
+      "caption_file": "items/2025-08-03_tkfs72n_known-and-loved.json"
     },
     {
       "title": "When Life Seems Hopeless",
@@ -415,12 +436,13 @@
       "youtube_title": "\"When Life Seems Hopeless\" // Summer Psalms 2025 #6 // Psalm 88",
       "status": "complete",
       "transcript_file": "items/2025-07-20_22jpnzg_when-life-seems-hopeless.txt",
-      "caption_file": "items/2025-07-20_22jpnzg_when-life-seems-hopeless.json",
+      "metadata_file": "items/2025-07-20_22jpnzg_when-life-seems-hopeless.json",
       "transcript_source": "YouTube auto captions",
       "snippet_count": 864,
       "word_count": 5664,
       "first_timestamp": 0.75,
-      "last_timestamp": 2269.92
+      "last_timestamp": 2269.92,
+      "caption_file": "items/2025-07-20_22jpnzg_when-life-seems-hopeless.json"
     },
     {
       "title": "Wait Through Seeking",
@@ -438,12 +460,13 @@
       "youtube_title": "\"Wait Through Seeking\" // Summer Psalms 2025 #3 // Psalm 27",
       "status": "complete",
       "transcript_file": "items/2025-06-29_w72gk47_wait-through-seeking.txt",
-      "caption_file": "items/2025-06-29_w72gk47_wait-through-seeking.json",
+      "metadata_file": "items/2025-06-29_w72gk47_wait-through-seeking.json",
       "transcript_source": "YouTube auto captions",
       "snippet_count": 843,
       "word_count": 5795,
       "first_timestamp": 0.72,
-      "last_timestamp": 2302.079
+      "last_timestamp": 2302.079,
+      "caption_file": "items/2025-06-29_w72gk47_wait-through-seeking.json"
     },
     {
       "title": "The Voice",
@@ -461,12 +484,13 @@
       "youtube_title": "\"The Voice\" // Summer Psalms 2025 #1 // Psalm 29",
       "status": "complete",
       "transcript_file": "items/2025-06-15_2gkhbp3_the-voice.txt",
-      "caption_file": "items/2025-06-15_2gkhbp3_the-voice.json",
+      "metadata_file": "items/2025-06-15_2gkhbp3_the-voice.json",
       "transcript_source": "YouTube auto captions",
       "snippet_count": 851,
       "word_count": 5640,
       "first_timestamp": 0.88,
-      "last_timestamp": 2359.04
+      "last_timestamp": 2359.04,
+      "caption_file": "items/2025-06-15_2gkhbp3_the-voice.json"
     },
     {
       "title": "They'll Never Take Our Freedom!",
@@ -484,12 +508,13 @@
       "youtube_title": "The Gospel of John 2.13 - \"...They'll Never Take Our Freedom!\" // John 8:30-38",
       "status": "complete",
       "transcript_file": "items/2025-05-25_hdrb7km_they-ll-never-take-our-freedom.txt",
-      "caption_file": "items/2025-05-25_hdrb7km_they-ll-never-take-our-freedom.json",
+      "metadata_file": "items/2025-05-25_hdrb7km_they-ll-never-take-our-freedom.json",
       "transcript_source": "YouTube auto captions",
       "snippet_count": 836,
       "word_count": 5353,
       "first_timestamp": 6.3,
-      "last_timestamp": 2200.52
+      "last_timestamp": 2200.52,
+      "caption_file": "items/2025-05-25_hdrb7km_they-ll-never-take-our-freedom.json"
     },
     {
       "title": "Is Anyone Thirsty?",
@@ -507,12 +532,13 @@
       "youtube_title": "The Gospel of John 2.10 - \"Is Anyone Thirsty?\" // John 7:37-52",
       "status": "complete",
       "transcript_file": "items/2025-05-04_jw5sb47_is-anyone-thirsty.txt",
-      "caption_file": "items/2025-05-04_jw5sb47_is-anyone-thirsty.json",
+      "metadata_file": "items/2025-05-04_jw5sb47_is-anyone-thirsty.json",
       "transcript_source": "YouTube auto captions",
       "snippet_count": 815,
       "word_count": 5401,
       "first_timestamp": 1.8,
-      "last_timestamp": 2110.0
+      "last_timestamp": 2110.0,
+      "caption_file": "items/2025-05-04_jw5sb47_is-anyone-thirsty.json"
     },
     {
       "title": "The Brothers, The Crowd, And The Opposition",
@@ -530,12 +556,13 @@
       "youtube_title": "The Gospel of John 2.9 - \"The Brothers, The Crowd, And The Opposition\" // John 7:1-36",
       "status": "complete",
       "transcript_file": "items/2025-04-27_kcknqtf_the-brothers-the-crowd-and-the-opposition.txt",
-      "caption_file": "items/2025-04-27_kcknqtf_the-brothers-the-crowd-and-the-opposition.json",
+      "metadata_file": "items/2025-04-27_kcknqtf_the-brothers-the-crowd-and-the-opposition.json",
       "transcript_source": "YouTube auto captions",
       "snippet_count": 850,
       "word_count": 5800,
       "first_timestamp": 1.8,
-      "last_timestamp": 2237.48
+      "last_timestamp": 2237.48,
+      "caption_file": "items/2025-04-27_kcknqtf_the-brothers-the-crowd-and-the-opposition.json"
     },
     {
       "title": "Grumblers Gonna Grumble",
@@ -553,12 +580,13 @@
       "youtube_title": "The Gospel of John 2.7 - \"Grumblers Gonna Grumble\" // John 6:35-59",
       "status": "complete",
       "transcript_file": "items/2025-04-13_4hh9fmz_grumblers-gonna-grumble.txt",
-      "caption_file": "items/2025-04-13_4hh9fmz_grumblers-gonna-grumble.json",
+      "metadata_file": "items/2025-04-13_4hh9fmz_grumblers-gonna-grumble.json",
       "transcript_source": "YouTube auto captions",
       "snippet_count": 816,
       "word_count": 5596,
       "first_timestamp": 1.8,
-      "last_timestamp": 2149.839
+      "last_timestamp": 2149.839,
+      "caption_file": "items/2025-04-13_4hh9fmz_grumblers-gonna-grumble.json"
     },
     {
       "title": "Session 10",
@@ -589,12 +617,13 @@
       "youtube_title": "The Gospel of John 2.5 - \"Safe To Shore\" // John 6:16-21",
       "status": "complete",
       "transcript_file": "items/2025-03-30_t9nkh44_safe-to-shore.txt",
-      "caption_file": "items/2025-03-30_t9nkh44_safe-to-shore.json",
+      "metadata_file": "items/2025-03-30_t9nkh44_safe-to-shore.json",
       "transcript_source": "YouTube auto captions",
       "snippet_count": 791,
       "word_count": 5658,
       "first_timestamp": 1.8,
-      "last_timestamp": 2135.72
+      "last_timestamp": 2135.72,
+      "caption_file": "items/2025-03-30_t9nkh44_safe-to-shore.json"
     },
     {
       "title": "Session 9",
@@ -623,9 +652,32 @@
       "youtube_id": "I154L91SQu0",
       "youtube_url": "https://www.youtube.com/watch?v=I154L91SQu0",
       "youtube_title": "The Gospel of John 2.2 - \"Judging Jesus\" // John 5:19-30",
-      "status": "caption_fetch_failed",
-      "error_type": "IpBlocked",
-      "error": "\nCould not retrieve a transcript for the video https://www.youtube.com/watch?v=I154L91SQu0! This is most likely caused by:\n\nYouTube is blocking requests from your IP. This usually is due to one of the following reasons:\n- You have done too many requests and your IP has been blocked by YouTube\n- You are doing requests from an IP belonging to a cloud provider (like AWS, Google Cloud Platform, Azure, etc.). Unfortunately, most IPs from cloud providers are blocked by YouTube.\n\nWays to work around this are explained in the \"Working around IP bans\" section of the README (https://github.com/jdepoix/youtube-transcript-api?tab=readme-ov-file#working-around-ip-bans-requestblocked-or-ipblocked-exception).\n\n\nIf you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the informati"
+      "status": "complete",
+      "transcript_file": "items/2025-03-09_q2nxsj2_judging-jesus.txt",
+      "metadata_file": "items/2025-03-09_q2nxsj2_judging-jesus.json",
+      "transcript_source": "Local Whisper large-v3-turbo (MLX)",
+      "snippet_count": 446,
+      "word_count": 5812,
+      "first_timestamp": 26.279999999999998,
+      "last_timestamp": 2394.7000000000003,
+      "transcription": {
+        "engine": "mlx-whisper",
+        "engine_version": "0.4.3",
+        "mlx_version": "0.32.3",
+        "model_repo": "mlx-community/whisper-large-v3-turbo",
+        "model_revision": "a4aaeec0636e6fef84abdcbe3544cb2bf7e9f6fb",
+        "language": "en",
+        "word_timestamps": true,
+        "condition_on_previous_text": false,
+        "hallucination_silence_threshold": 2.0,
+        "audio_duration_seconds": 2403.049342,
+        "processing_seconds": 174.45785200000046,
+        "speed_multiple": 13.77438340809099,
+        "audio_retained": false,
+        "cloud_audio_processing": false,
+        "manually_corrected": false
+      },
+      "quality_flags": []
     },
     {
       "title": "The Day of the Lord",
@@ -643,12 +695,13 @@
       "youtube_title": "Malachi 3:16-4:6 // \"The Day of the Lord\"",
       "status": "complete",
       "transcript_file": "items/2025-02-23_kfj59fh_the-day-of-the-lord.txt",
-      "caption_file": "items/2025-02-23_kfj59fh_the-day-of-the-lord.json",
+      "metadata_file": "items/2025-02-23_kfj59fh_the-day-of-the-lord.json",
       "transcript_source": "YouTube auto captions",
       "snippet_count": 936,
       "word_count": 6289,
       "first_timestamp": 1.23,
-      "last_timestamp": 2430.52
+      "last_timestamp": 2430.52,
+      "caption_file": "items/2025-02-23_kfj59fh_the-day-of-the-lord.json"
     },
     {
       "title": "Session 4",
@@ -692,12 +745,13 @@
       "youtube_title": "Malachi 3:6-12 // \"The Power of the Tithe\"",
       "status": "complete",
       "transcript_file": "items/2025-02-09_y4swqns_the-power-of-the-tithe.txt",
-      "caption_file": "items/2025-02-09_y4swqns_the-power-of-the-tithe.json",
+      "metadata_file": "items/2025-02-09_y4swqns_the-power-of-the-tithe.json",
       "transcript_source": "YouTube auto captions",
       "snippet_count": 961,
       "word_count": 6775,
       "first_timestamp": 1.53,
-      "last_timestamp": 2568.839
+      "last_timestamp": 2568.839,
+      "caption_file": "items/2025-02-09_y4swqns_the-power-of-the-tithe.json"
     },
     {
       "title": "Session 1 - Introduction to Nehemiah",
@@ -726,9 +780,32 @@
       "youtube_id": "1ptx-6oAMY8",
       "youtube_url": "https://www.youtube.com/watch?v=1ptx-6oAMY8",
       "youtube_title": "Malachi 2:1-9 // \"A Leader To Follow\"",
-      "status": "caption_fetch_failed",
-      "error_type": "IpBlocked",
-      "error": "\nCould not retrieve a transcript for the video https://www.youtube.com/watch?v=1ptx-6oAMY8! This is most likely caused by:\n\nYouTube is blocking requests from your IP. This usually is due to one of the following reasons:\n- You have done too many requests and your IP has been blocked by YouTube\n- You are doing requests from an IP belonging to a cloud provider (like AWS, Google Cloud Platform, Azure, etc.). Unfortunately, most IPs from cloud providers are blocked by YouTube.\n\nWays to work around this are explained in the \"Working around IP bans\" section of the README (https://github.com/jdepoix/youtube-transcript-api?tab=readme-ov-file#working-around-ip-bans-requestblocked-or-ipblocked-exception).\n\n\nIf you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the informati"
+      "status": "complete",
+      "transcript_file": "items/2025-01-19_vpb33p9_a-leader-to-follow.txt",
+      "metadata_file": "items/2025-01-19_vpb33p9_a-leader-to-follow.json",
+      "transcript_source": "Local Whisper large-v3-turbo (MLX)",
+      "snippet_count": 542,
+      "word_count": 5663,
+      "first_timestamp": 27.62,
+      "last_timestamp": 2256.24,
+      "transcription": {
+        "engine": "mlx-whisper",
+        "engine_version": "0.4.3",
+        "mlx_version": "0.32.3",
+        "model_repo": "mlx-community/whisper-large-v3-turbo",
+        "model_revision": "a4aaeec0636e6fef84abdcbe3544cb2bf7e9f6fb",
+        "language": "en",
+        "word_timestamps": true,
+        "condition_on_previous_text": false,
+        "hallucination_silence_threshold": 2.0,
+        "audio_duration_seconds": 2262.931995,
+        "processing_seconds": 161.33043866699973,
+        "speed_multiple": 14.026689654460627,
+        "audio_retained": false,
+        "cloud_audio_processing": false,
+        "manually_corrected": false
+      },
+      "quality_flags": []
     },
     {
       "title": "God's Love, God's Hate",
@@ -744,9 +821,32 @@
       "youtube_id": "VxeeOCPaIUk",
       "youtube_url": "https://www.youtube.com/watch?v=VxeeOCPaIUk",
       "youtube_title": "Malachi 1:1-5 // \"God's Love, God's Hate\"",
-      "status": "caption_fetch_failed",
-      "error_type": "IpBlocked",
-      "error": "\nCould not retrieve a transcript for the video https://www.youtube.com/watch?v=VxeeOCPaIUk! This is most likely caused by:\n\nYouTube is blocking requests from your IP. This usually is due to one of the following reasons:\n- You have done too many requests and your IP has been blocked by YouTube\n- You are doing requests from an IP belonging to a cloud provider (like AWS, Google Cloud Platform, Azure, etc.). Unfortunately, most IPs from cloud providers are blocked by YouTube.\n\nWays to work around this are explained in the \"Working around IP bans\" section of the README (https://github.com/jdepoix/youtube-transcript-api?tab=readme-ov-file#working-around-ip-bans-requestblocked-or-ipblocked-exception).\n\n\nIf you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the informati"
+      "status": "complete",
+      "transcript_file": "items/2025-01-05_2y9jgrw_god-s-love-god-s-hate.txt",
+      "metadata_file": "items/2025-01-05_2y9jgrw_god-s-love-god-s-hate.json",
+      "transcript_source": "Local Whisper large-v3-turbo (MLX)",
+      "snippet_count": 637,
+      "word_count": 6006,
+      "first_timestamp": 27.579999999999995,
+      "last_timestamp": 2541.44,
+      "transcription": {
+        "engine": "mlx-whisper",
+        "engine_version": "0.4.3",
+        "mlx_version": "0.32.3",
+        "model_repo": "mlx-community/whisper-large-v3-turbo",
+        "model_revision": "a4aaeec0636e6fef84abdcbe3544cb2bf7e9f6fb",
+        "language": "en",
+        "word_timestamps": true,
+        "condition_on_previous_text": false,
+        "hallucination_silence_threshold": 2.0,
+        "audio_duration_seconds": 2548.478662,
+        "processing_seconds": 196.41270516700024,
+        "speed_multiple": 12.975121236852532,
+        "audio_retained": false,
+        "cloud_audio_processing": false,
+        "manually_corrected": false
+      },
+      "quality_flags": []
     },
     {
       "title": "...Because He Cares For You",
@@ -762,9 +862,32 @@
       "youtube_id": "f1jQ2Ai-Iqk",
       "youtube_url": "https://www.youtube.com/watch?v=f1jQ2Ai-Iqk",
       "youtube_title": "A Child Is Born #3 - \"...Because He Cares For You\"",
-      "status": "caption_fetch_failed",
-      "error_type": "IpBlocked",
-      "error": "\nCould not retrieve a transcript for the video https://www.youtube.com/watch?v=f1jQ2Ai-Iqk! This is most likely caused by:\n\nYouTube is blocking requests from your IP. This usually is due to one of the following reasons:\n- You have done too many requests and your IP has been blocked by YouTube\n- You are doing requests from an IP belonging to a cloud provider (like AWS, Google Cloud Platform, Azure, etc.). Unfortunately, most IPs from cloud providers are blocked by YouTube.\n\nWays to work around this are explained in the \"Working around IP bans\" section of the README (https://github.com/jdepoix/youtube-transcript-api?tab=readme-ov-file#working-around-ip-bans-requestblocked-or-ipblocked-exception).\n\n\nIf you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the informati"
+      "status": "complete",
+      "transcript_file": "items/2024-12-15_h3m7kz4_because-he-cares-for-you.txt",
+      "metadata_file": "items/2024-12-15_h3m7kz4_because-he-cares-for-you.json",
+      "transcript_source": "Local Whisper large-v3-turbo (MLX)",
+      "snippet_count": 480,
+      "word_count": 5952,
+      "first_timestamp": 19.119999999999997,
+      "last_timestamp": 2484.9,
+      "transcription": {
+        "engine": "mlx-whisper",
+        "engine_version": "0.4.3",
+        "mlx_version": "0.32.3",
+        "model_repo": "mlx-community/whisper-large-v3-turbo",
+        "model_revision": "a4aaeec0636e6fef84abdcbe3544cb2bf7e9f6fb",
+        "language": "en",
+        "word_timestamps": true,
+        "condition_on_previous_text": false,
+        "hallucination_silence_threshold": 2.0,
+        "audio_duration_seconds": 2492.500658,
+        "processing_seconds": 186.5529380829994,
+        "speed_multiple": 13.36082231463468,
+        "audio_retained": false,
+        "cloud_audio_processing": false,
+        "manually_corrected": false
+      },
+      "quality_flags": []
     },
     {
       "title": "Hope Against Hope - The Birth of Isaac",
@@ -780,9 +903,32 @@
       "youtube_id": "5QWM5759gnU",
       "youtube_url": "https://www.youtube.com/watch?v=5QWM5759gnU",
       "youtube_title": "A Child Is Born #1 - \"Hope Against Hope\" - The Birth of Isaac",
-      "status": "caption_fetch_failed",
-      "error_type": "IpBlocked",
-      "error": "\nCould not retrieve a transcript for the video https://www.youtube.com/watch?v=5QWM5759gnU! This is most likely caused by:\n\nYouTube is blocking requests from your IP. This usually is due to one of the following reasons:\n- You have done too many requests and your IP has been blocked by YouTube\n- You are doing requests from an IP belonging to a cloud provider (like AWS, Google Cloud Platform, Azure, etc.). Unfortunately, most IPs from cloud providers are blocked by YouTube.\n\nWays to work around this are explained in the \"Working around IP bans\" section of the README (https://github.com/jdepoix/youtube-transcript-api?tab=readme-ov-file#working-around-ip-bans-requestblocked-or-ipblocked-exception).\n\n\nIf you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the informati"
+      "status": "complete",
+      "transcript_file": "items/2024-12-01_49g6zjf_hope-against-hope-the-birth-of-isaac.txt",
+      "metadata_file": "items/2024-12-01_49g6zjf_hope-against-hope-the-birth-of-isaac.json",
+      "transcript_source": "Local Whisper large-v3-turbo (MLX)",
+      "snippet_count": 480,
+      "word_count": 5459,
+      "first_timestamp": 18.759999999999998,
+      "last_timestamp": 2362.46,
+      "transcription": {
+        "engine": "mlx-whisper",
+        "engine_version": "0.4.3",
+        "mlx_version": "0.32.3",
+        "model_repo": "mlx-community/whisper-large-v3-turbo",
+        "model_revision": "a4aaeec0636e6fef84abdcbe3544cb2bf7e9f6fb",
+        "language": "en",
+        "word_timestamps": true,
+        "condition_on_previous_text": false,
+        "hallucination_silence_threshold": 2.0,
+        "audio_duration_seconds": 2365.268005,
+        "processing_seconds": 177.32963929200014,
+        "speed_multiple": 13.33825532180341,
+        "audio_retained": false,
+        "cloud_audio_processing": false,
+        "manually_corrected": false
+      },
+      "quality_flags": []
     },
     {
       "title": "New Levels Of Faith",
@@ -798,9 +944,32 @@
       "youtube_id": "O8HI3B_8MoM",
       "youtube_url": "https://www.youtube.com/watch?v=O8HI3B_8MoM",
       "youtube_title": "The Gospel of John 1.12 - \"New Levels Of Faith\" // John 4:43-54",
-      "status": "caption_fetch_failed",
-      "error_type": "IpBlocked",
-      "error": "\nCould not retrieve a transcript for the video https://www.youtube.com/watch?v=O8HI3B_8MoM! This is most likely caused by:\n\nYouTube is blocking requests from your IP. This usually is due to one of the following reasons:\n- You have done too many requests and your IP has been blocked by YouTube\n- You are doing requests from an IP belonging to a cloud provider (like AWS, Google Cloud Platform, Azure, etc.). Unfortunately, most IPs from cloud providers are blocked by YouTube.\n\nWays to work around this are explained in the \"Working around IP bans\" section of the README (https://github.com/jdepoix/youtube-transcript-api?tab=readme-ov-file#working-around-ip-bans-requestblocked-or-ipblocked-exception).\n\n\nIf you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the informati"
+      "status": "complete",
+      "transcript_file": "items/2024-11-17_5wtc82x_new-levels-of-faith.txt",
+      "metadata_file": "items/2024-11-17_5wtc82x_new-levels-of-faith.json",
+      "transcript_source": "Local Whisper large-v3-turbo (MLX)",
+      "snippet_count": 568,
+      "word_count": 5456,
+      "first_timestamp": 18.439999999999998,
+      "last_timestamp": 2338.04,
+      "transcription": {
+        "engine": "mlx-whisper",
+        "engine_version": "0.4.3",
+        "mlx_version": "0.32.3",
+        "model_repo": "mlx-community/whisper-large-v3-turbo",
+        "model_revision": "a4aaeec0636e6fef84abdcbe3544cb2bf7e9f6fb",
+        "language": "en",
+        "word_timestamps": true,
+        "condition_on_previous_text": false,
+        "hallucination_silence_threshold": 2.0,
+        "audio_duration_seconds": 2344.681338,
+        "processing_seconds": 178.09804574999998,
+        "speed_multiple": 13.165115474042198,
+        "audio_retained": false,
+        "cloud_audio_processing": false,
+        "manually_corrected": false
+      },
+      "quality_flags": []
     },
     {
       "title": "Session 10",
@@ -842,9 +1011,32 @@
       "youtube_id": "IqwKGyaEx3w",
       "youtube_url": "https://www.youtube.com/watch?v=IqwKGyaEx3w",
       "youtube_title": "The Gospel of John 1.10 - \"If You Only Knew\" // John 4:1-26",
-      "status": "caption_fetch_failed",
-      "error_type": "IpBlocked",
-      "error": "\nCould not retrieve a transcript for the video https://www.youtube.com/watch?v=IqwKGyaEx3w! This is most likely caused by:\n\nYouTube is blocking requests from your IP. This usually is due to one of the following reasons:\n- You have done too many requests and your IP has been blocked by YouTube\n- You are doing requests from an IP belonging to a cloud provider (like AWS, Google Cloud Platform, Azure, etc.). Unfortunately, most IPs from cloud providers are blocked by YouTube.\n\nWays to work around this are explained in the \"Working around IP bans\" section of the README (https://github.com/jdepoix/youtube-transcript-api?tab=readme-ov-file#working-around-ip-bans-requestblocked-or-ipblocked-exception).\n\n\nIf you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the informati"
+      "status": "complete",
+      "transcript_file": "items/2024-11-03_s5ntnrx_if-you-only-knew.txt",
+      "metadata_file": "items/2024-11-03_s5ntnrx_if-you-only-knew.json",
+      "transcript_source": "Local Whisper large-v3-turbo (MLX)",
+      "snippet_count": 504,
+      "word_count": 5638,
+      "first_timestamp": 18.56,
+      "last_timestamp": 2231.8,
+      "transcription": {
+        "engine": "mlx-whisper",
+        "engine_version": "0.4.3",
+        "mlx_version": "0.32.3",
+        "model_repo": "mlx-community/whisper-large-v3-turbo",
+        "model_revision": "a4aaeec0636e6fef84abdcbe3544cb2bf7e9f6fb",
+        "language": "en",
+        "word_timestamps": true,
+        "condition_on_previous_text": false,
+        "hallucination_silence_threshold": 2.0,
+        "audio_duration_seconds": 2239.913333,
+        "processing_seconds": 169.15391458399972,
+        "speed_multiple": 13.241865188332293,
+        "audio_retained": false,
+        "cloud_audio_processing": false,
+        "manually_corrected": false
+      },
+      "quality_flags": []
     },
     {
       "title": "Session 8",
@@ -873,9 +1065,32 @@
       "youtube_id": "DziSPvlIcp8",
       "youtube_url": "https://www.youtube.com/watch?v=DziSPvlIcp8",
       "youtube_title": "The Gospel of John 1.8 - \"Behold, What Manner Of Love\" // John 3:16-21",
-      "status": "caption_fetch_failed",
-      "error_type": "IpBlocked",
-      "error": "\nCould not retrieve a transcript for the video https://www.youtube.com/watch?v=DziSPvlIcp8! This is most likely caused by:\n\nYouTube is blocking requests from your IP. This usually is due to one of the following reasons:\n- You have done too many requests and your IP has been blocked by YouTube\n- You are doing requests from an IP belonging to a cloud provider (like AWS, Google Cloud Platform, Azure, etc.). Unfortunately, most IPs from cloud providers are blocked by YouTube.\n\nWays to work around this are explained in the \"Working around IP bans\" section of the README (https://github.com/jdepoix/youtube-transcript-api?tab=readme-ov-file#working-around-ip-bans-requestblocked-or-ipblocked-exception).\n\n\nIf you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the informati"
+      "status": "complete",
+      "transcript_file": "items/2024-10-20_tcsnqkb_behold-what-manner-of-love.txt",
+      "metadata_file": "items/2024-10-20_tcsnqkb_behold-what-manner-of-love.json",
+      "transcript_source": "Local Whisper large-v3-turbo (MLX)",
+      "snippet_count": 470,
+      "word_count": 5595,
+      "first_timestamp": 19.680000000000003,
+      "last_timestamp": 2321.4,
+      "transcription": {
+        "engine": "mlx-whisper",
+        "engine_version": "0.4.3",
+        "mlx_version": "0.32.3",
+        "model_repo": "mlx-community/whisper-large-v3-turbo",
+        "model_revision": "a4aaeec0636e6fef84abdcbe3544cb2bf7e9f6fb",
+        "language": "en",
+        "word_timestamps": true,
+        "condition_on_previous_text": false,
+        "hallucination_silence_threshold": 2.0,
+        "audio_duration_seconds": 2330.196009,
+        "processing_seconds": 179.27052266699957,
+        "speed_multiple": 12.9982106055908,
+        "audio_retained": false,
+        "cloud_audio_processing": false,
+        "manually_corrected": false
+      },
+      "quality_flags": []
     },
     {
       "title": "Session 7",
@@ -917,9 +1132,32 @@
       "youtube_id": "uIHE0f4AswU",
       "youtube_url": "https://www.youtube.com/watch?v=uIHE0f4AswU",
       "youtube_title": "The Gospel of John 1.6 - \"A Better Authority\" // John 2:13-22",
-      "status": "caption_fetch_failed",
-      "error_type": "IpBlocked",
-      "error": "\nCould not retrieve a transcript for the video https://www.youtube.com/watch?v=uIHE0f4AswU! This is most likely caused by:\n\nYouTube is blocking requests from your IP. This usually is due to one of the following reasons:\n- You have done too many requests and your IP has been blocked by YouTube\n- You are doing requests from an IP belonging to a cloud provider (like AWS, Google Cloud Platform, Azure, etc.). Unfortunately, most IPs from cloud providers are blocked by YouTube.\n\nWays to work around this are explained in the \"Working around IP bans\" section of the README (https://github.com/jdepoix/youtube-transcript-api?tab=readme-ov-file#working-around-ip-bans-requestblocked-or-ipblocked-exception).\n\n\nIf you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the informati"
+      "status": "complete",
+      "transcript_file": "items/2024-10-06_z646g8z_a-better-authority.txt",
+      "metadata_file": "items/2024-10-06_z646g8z_a-better-authority.json",
+      "transcript_source": "Local Whisper large-v3-turbo (MLX)",
+      "snippet_count": 443,
+      "word_count": 5684,
+      "first_timestamp": 19.76,
+      "last_timestamp": 2270.2000000000003,
+      "transcription": {
+        "engine": "mlx-whisper",
+        "engine_version": "0.4.3",
+        "mlx_version": "0.32.3",
+        "model_repo": "mlx-community/whisper-large-v3-turbo",
+        "model_revision": "a4aaeec0636e6fef84abdcbe3544cb2bf7e9f6fb",
+        "language": "en",
+        "word_timestamps": true,
+        "condition_on_previous_text": false,
+        "hallucination_silence_threshold": 2.0,
+        "audio_duration_seconds": 2271.614671,
+        "processing_seconds": 172.90978925000036,
+        "speed_multiple": 13.137571220537446,
+        "audio_retained": false,
+        "cloud_audio_processing": false,
+        "manually_corrected": false
+      },
+      "quality_flags": []
     },
     {
       "title": "Session 5",
@@ -948,9 +1186,32 @@
       "youtube_id": "5QfZMu-cZNM",
       "youtube_url": "https://www.youtube.com/watch?v=5QfZMu-cZNM",
       "youtube_title": "The Gospel of John 1.5 - \"A Bigger Hope\" // John 2:1-12",
-      "status": "caption_fetch_failed",
-      "error_type": "IpBlocked",
-      "error": "\nCould not retrieve a transcript for the video https://www.youtube.com/watch?v=5QfZMu-cZNM! This is most likely caused by:\n\nYouTube is blocking requests from your IP. This usually is due to one of the following reasons:\n- You have done too many requests and your IP has been blocked by YouTube\n- You are doing requests from an IP belonging to a cloud provider (like AWS, Google Cloud Platform, Azure, etc.). Unfortunately, most IPs from cloud providers are blocked by YouTube.\n\nWays to work around this are explained in the \"Working around IP bans\" section of the README (https://github.com/jdepoix/youtube-transcript-api?tab=readme-ov-file#working-around-ip-bans-requestblocked-or-ipblocked-exception).\n\n\nIf you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the informati"
+      "status": "complete",
+      "transcript_file": "items/2024-09-29_ssrjrcb_a-bigger-hope.txt",
+      "metadata_file": "items/2024-09-29_ssrjrcb_a-bigger-hope.json",
+      "transcript_source": "Local Whisper large-v3-turbo (MLX)",
+      "snippet_count": 420,
+      "word_count": 5465,
+      "first_timestamp": 19.419999999999998,
+      "last_timestamp": 2327.26,
+      "transcription": {
+        "engine": "mlx-whisper",
+        "engine_version": "0.4.3",
+        "mlx_version": "0.32.3",
+        "model_repo": "mlx-community/whisper-large-v3-turbo",
+        "model_revision": "a4aaeec0636e6fef84abdcbe3544cb2bf7e9f6fb",
+        "language": "en",
+        "word_timestamps": true,
+        "condition_on_previous_text": false,
+        "hallucination_silence_threshold": 2.0,
+        "audio_duration_seconds": 2335.017347,
+        "processing_seconds": 175.72393520900005,
+        "speed_multiple": 13.287986888199438,
+        "audio_retained": false,
+        "cloud_audio_processing": false,
+        "manually_corrected": false
+      },
+      "quality_flags": []
     },
     {
       "title": "Session 4",
