@@ -1,8 +1,8 @@
 # Transcript coverage
 
 Manifest recordings: 99
-Completed transcripts: 47
-Sources: {"Local Whisper large-v3-turbo (MLX)": 20, "YouTube auto captions": 27}
+Completed transcripts: 57
+Sources: {"Local Whisper large-v3-turbo (MLX)": 30, "YouTube auto captions": 27}
 
 Machine transcripts are not manually corrected. See verification.json for integrity checks and text samples.
 
@@ -23,29 +23,29 @@ Machine transcripts are not manually corrected. See verification.json for integr
 | 2023-06-04 | 9jkqhc9 | A Confident Expectation | no_confirmed_youtube_match |  |
 | 2023-08-27 | 58w2dmd | God's Two Books | no_confirmed_youtube_match |  |
 | 2023-09-08 | 3n25fz8 | Session 1 - Introduction to Acts | no_confirmed_youtube_match |  |
-| 2023-09-17 | q4268vn | God's People In God's Place Under God's Rule | no_confirmed_youtube_match |  |
+| 2023-09-17 | q4268vn | God's People In God's Place Under God's Rule | complete | Local Whisper large-v3-turbo (MLX) |
 | 2023-09-22 | vccs892 | Session 3 - Thessalonica and Berea | no_confirmed_youtube_match |  |
 | 2023-09-29 | 734vkfv | Session 4 - Athens | no_confirmed_youtube_match |  |
-| 2023-10-15 | fqyvs3m | The Promise Is For You | no_confirmed_youtube_match |  |
+| 2023-10-15 | fqyvs3m | The Promise Is For You | complete | Local Whisper large-v3-turbo (MLX) |
 | 2023-10-20 | vq757rc | Session 6 - Ephesus (Part 1) | no_confirmed_youtube_match |  |
 | 2023-11-10 | yxp7nqn | Session 9 - Road To Jerusalem | no_confirmed_youtube_match |  |
 | 2023-11-17 | ysb3hq7 | Session 10 - Conclusion | no_confirmed_youtube_match |  |
-| 2023-11-19 | fx83snz | A Sober Assessment of Sin | no_confirmed_youtube_match |  |
-| 2023-12-17 | wnnjvw3 | Son Of David | no_confirmed_youtube_match |  |
-| 2024-01-14 | jtvxwfp | The Search Begins | no_confirmed_youtube_match |  |
-| 2024-01-21 | rgcmdpc | The God Of Pleasures | no_confirmed_youtube_match |  |
+| 2023-11-19 | fx83snz | A Sober Assessment of Sin | complete | Local Whisper large-v3-turbo (MLX) |
+| 2023-12-17 | wnnjvw3 | Son Of David | complete | Local Whisper large-v3-turbo (MLX) |
+| 2024-01-14 | jtvxwfp | The Search Begins | complete | Local Whisper large-v3-turbo (MLX) |
+| 2024-01-21 | rgcmdpc | The God Of Pleasures | complete | Local Whisper large-v3-turbo (MLX) |
 | 2024-01-31 | yj4wsky | Session 1 - Faith Vs. Reason? | no_confirmed_youtube_match |  |
 | 2024-02-07 | 4fh5wrr | Session 2 - Transcendental Arguments | no_confirmed_youtube_match |  |
 | 2024-02-14 | cmz2bj4 | Session 3 - Does God Exist? (Part 1) | no_confirmed_youtube_match |  |
-| 2024-02-18 | rq4ct8j | The Lost Art Of Companionship | no_confirmed_youtube_match |  |
+| 2024-02-18 | rq4ct8j | The Lost Art Of Companionship | complete | Local Whisper large-v3-turbo (MLX) |
 | 2024-02-21 | jpzdg6w | Session 4 - Does God Exist? (Part 2) | no_confirmed_youtube_match |  |
-| 2024-03-03 | ghykdcr | Enjoy God's Daily Gifts | no_confirmed_youtube_match |  |
+| 2024-03-03 | ghykdcr | Enjoy God's Daily Gifts | complete | Local Whisper large-v3-turbo (MLX) |
 | 2024-03-06 | vn462dn | Session 6 - The Bible; Textual Criticism | no_confirmed_youtube_match |  |
-| 2024-03-10 | 9h9fj9h | Face Suffering With Hope | no_confirmed_youtube_match |  |
+| 2024-03-10 | 9h9fj9h | Face Suffering With Hope | complete | Local Whisper large-v3-turbo (MLX) |
 | 2024-03-13 | k8nfv57 | Session 7 - The Case For The Resurrection | no_confirmed_youtube_match |  |
 | 2024-03-20 | 5pmrrpf | Session 8 - The Problem of Evil | no_confirmed_youtube_match |  |
-| 2024-04-07 | t5rb8xc | Enjoyment Restored | no_confirmed_youtube_match |  |
-| 2024-05-05 | zpz5gqr | Will You Listen? | no_confirmed_youtube_match |  |
+| 2024-04-07 | t5rb8xc | Enjoyment Restored | transcription_failed |  |
+| 2024-05-05 | zpz5gqr | Will You Listen? | complete | Local Whisper large-v3-turbo (MLX) |
 | 2024-05-19 | b9cwrfn | The Word Does The Work | complete | Local Whisper large-v3-turbo (MLX) |
 | 2024-06-02 | 3zzcgwt | Who Are You? | complete | Local Whisper large-v3-turbo (MLX) |
 | 2024-06-09 | 947m8dk | Show Them Jesus | complete | Local Whisper large-v3-turbo (MLX) |

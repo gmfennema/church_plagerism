@@ -1,0 +1,4833 @@
+{
+  "title": "The Search Begins",
+  "date": "2024-01-14T00:00:00Z",
+  "scripture": "Ecclesiastes 1:12-18",
+  "speaker": "Chris McLaughlin",
+  "site_url": "https://fieldspres.org/media/jtvxwfp/the-search-begins",
+  "short_code": "jtvxwfp",
+  "subsplash_url": "https://subspla.sh/jtvxwfp",
+  "audio_url": "https://cdn.subsplash.com/audios/83RBNZ/d3ab63c1-5de2-44dd-bde8-f2858771e550/audio.mp3",
+  "video_url": "https://cdn.subsplash.com/videos/83RBNZ/_source/7f8cd8c0-7417-4403-93e1-84e7b3ea71dd/video.mp4",
+  "duration_ms": 2198883,
+  "transcript_source": "Local Whisper large-v3-turbo (MLX)",
+  "transcript_source_url": "https://cdn.subsplash.com/audios/83RBNZ/d3ab63c1-5de2-44dd-bde8-f2858771e550/audio.mp3",
+  "language_code": "en",
+  "transcribed_at": "2026-10-04T21:47:11.791393+00:00",
+  "transcription": {
+    "engine": "mlx-whisper",
+    "engine_version": "0.4.3",
+    "mlx_version": "0.32.3",
+    "model_repo": "mlx-community/whisper-large-v3-turbo",
+    "model_revision": "a4aaeec0636e6fef84abdcbe3544cb2bf7e9f6fb",
+    "language": "en",
+    "word_timestamps": true,
+    "condition_on_previous_text": false,
+    "hallucination_silence_threshold": 2.0,
+    "audio_duration_seconds": 2198.846667,
+    "processing_seconds": 163.0527232079985,
+    "speed_multiple": 13.485494898450957,
+    "audio_retained": false,
+    "cloud_audio_processing": false,
+    "manually_corrected": false
+  },
+  "quality_flags": [],
+  "snippets": [
+    {
+      "start": 20.82,
+      "duration": 2.1400000000000006,
+      "text": "Ecclesiastes 1, 12-18",
+      "avg_logprob": -0.20945512837377087,
+      "no_speech_prob": 2.660261876237524e-13,
+      "compression_ratio": 1.0126582278481013,
+      "temperature": 0.0
+    },
+    {
+      "start": 23.580000000000002,
+      "duration": 3.1999999999999993,
+      "text": "I, the preacher, have been king over Israel and Jerusalem,",
+      "avg_logprob": -0.20945512837377087,
+      "no_speech_prob": 2.660261876237524e-13,
+      "compression_ratio": 1.0126582278481013,
+      "temperature": 0.0
+    },
+    {
+      "start": 26.78,
+      "duration": 5.059999999999999,
+      "text": "and I applied my heart to seek and to search out by wisdom all that is done under heaven.",
+      "avg_logprob": -0.09066423537239196,
+      "no_speech_prob": 1.2111548743087841e-12,
+      "compression_ratio": 1.8013698630136987,
+      "temperature": 0.0
+    },
+    {
+      "start": 32.1,
+      "duration": 4.199999999999996,
+      "text": "It is an unhappy business that God has given to the children of man to be busy with.",
+      "avg_logprob": -0.09066423537239196,
+      "no_speech_prob": 1.2111548743087841e-12,
+      "compression_ratio": 1.8013698630136987,
+      "temperature": 0.0
+    },
+    {
+      "start": 36.58,
+      "duration": 6.079999999999998,
+      "text": "I have seen everything that is done under the sun, and behold, all is vanity and is striving after the wind.",
+      "avg_logprob": -0.09066423537239196,
+      "no_speech_prob": 1.2111548743087841e-12,
+      "compression_ratio": 1.8013698630136987,
+      "temperature": 0.0
+    },
+    {
+      "start": 43.06,
+      "duration": 4.0,
+      "text": "What is crooked cannot be made straight, and what is lacking cannot be counted.",
+      "avg_logprob": -0.09066423537239196,
+      "no_speech_prob": 1.2111548743087841e-12,
+      "compression_ratio": 1.8013698630136987,
+      "temperature": 0.0
+    },
+    {
+      "start": 47.52,
+      "duration": 5.359999999999999,
+      "text": "I said in my heart, I have acquired great wisdom, surpassing all who were over Jerusalem before me,",
+      "avg_logprob": -0.09066423537239196,
+      "no_speech_prob": 1.2111548743087841e-12,
+      "compression_ratio": 1.8013698630136987,
+      "temperature": 0.0
+    },
+    {
+      "start": 52.9,
+      "duration": 3.1799999999999997,
+      "text": "and my heart has had great experience of wisdom and knowledge.",
+      "avg_logprob": -0.09066423537239196,
+      "no_speech_prob": 1.2111548743087841e-12,
+      "compression_ratio": 1.8013698630136987,
+      "temperature": 0.0
+    },
+    {
+      "start": 56.78,
+      "duration": 3.4399999999999977,
+      "text": "And I applied my heart to no wisdom and to no madness and folly.",
+      "avg_logprob": -0.24018022537231445,
+      "no_speech_prob": 8.131495693800006e-13,
+      "compression_ratio": 1.5278969957081545,
+      "temperature": 0.0
+    },
+    {
+      "start": 60.38,
+      "duration": 3.779999999999994,
+      "text": "I perceived that this also is but a striving after the wind.",
+      "avg_logprob": -0.24018022537231445,
+      "no_speech_prob": 8.131495693800006e-13,
+      "compression_ratio": 1.5278969957081545,
+      "temperature": 0.0
+    },
+    {
+      "start": 64.42,
+      "duration": 5.420000000000002,
+      "text": "For in much wisdom is much vexation, and he who increases knowledge increases sorrow.",
+      "avg_logprob": -0.24018022537231445,
+      "no_speech_prob": 8.131495693800006e-13,
+      "compression_ratio": 1.5278969957081545,
+      "temperature": 0.0
+    },
+    {
+      "start": 70.42,
+      "duration": 2.700000000000003,
+      "text": "The grass withers and the flower fades.",
+      "avg_logprob": -0.24018022537231445,
+      "no_speech_prob": 8.131495693800006e-13,
+      "compression_ratio": 1.5278969957081545,
+      "temperature": 0.0
+    },
+    {
+      "start": 73.52,
+      "duration": 2.3599999999999994,
+      "text": "The word of our God will stand forever.",
+      "avg_logprob": -0.24018022537231445,
+      "no_speech_prob": 8.131495693800006e-13,
+      "compression_ratio": 1.5278969957081545,
+      "temperature": 0.0
+    },
+    {
+      "start": 76.24,
+      "duration": 0.5400000000000063,
+      "text": "Amen.",
+      "avg_logprob": -0.24018022537231445,
+      "no_speech_prob": 8.131495693800006e-13,
+      "compression_ratio": 1.5278969957081545,
+      "temperature": 0.0
+    },
+    {
+      "start": 78.06,
+      "duration": 1.3199999999999932,
+      "text": "Well, good morning, everyone.",
+      "avg_logprob": -0.24018022537231445,
+      "no_speech_prob": 8.131495693800006e-13,
+      "compression_ratio": 1.5278969957081545,
+      "temperature": 0.0
+    },
+    {
+      "start": 80.34,
+      "duration": 2.9799999999999898,
+      "text": "You know, the year was 1993.",
+      "avg_logprob": -0.24018022537231445,
+      "no_speech_prob": 8.131495693800006e-13,
+      "compression_ratio": 1.5278969957081545,
+      "temperature": 0.0
+    },
+    {
+      "start": 84.8,
+      "duration": 6.299999999999997,
+      "text": "and this little low-budget movie starring Bill Murray and Andy McDowell came out called Groundhog Day.",
+      "avg_logprob": -0.16989517211914062,
+      "no_speech_prob": 8.930729961977024e-13,
+      "compression_ratio": 1.5774647887323943,
+      "temperature": 0.0
+    },
+    {
+      "start": 91.4,
+      "duration": 1.1599999999999966,
+      "text": "You guys remember this movie?",
+      "avg_logprob": -0.16989517211914062,
+      "no_speech_prob": 8.930729961977024e-13,
+      "compression_ratio": 1.5774647887323943,
+      "temperature": 0.0
+    },
+    {
+      "start": 93.58,
+      "duration": 1.519999999999996,
+      "text": "Okay, so this is kind of the plot.",
+      "avg_logprob": -0.16989517211914062,
+      "no_speech_prob": 8.930729961977024e-13,
+      "compression_ratio": 1.5774647887323943,
+      "temperature": 0.0
+    },
+    {
+      "start": 95.28,
+      "duration": 6.799999999999997,
+      "text": "Okay, a local Pennsylvania weatherman goes to report on the famous groundhog, Punxsutawney Phil, right,",
+      "avg_logprob": -0.16989517211914062,
+      "no_speech_prob": 8.930729961977024e-13,
+      "compression_ratio": 1.5774647887323943,
+      "temperature": 0.0
+    },
+    {
+      "start": 102.28,
+      "duration": 2.4200000000000017,
+      "text": "to see whether or not he was going to see a shadow.",
+      "avg_logprob": -0.16989517211914062,
+      "no_speech_prob": 8.930729961977024e-13,
+      "compression_ratio": 1.5774647887323943,
+      "temperature": 0.0
+    },
+    {
+      "start": 104.92,
+      "duration": 3.1200000000000045,
+      "text": "And Phil, who's the weatherman, he's a pretty miserable guy.",
+      "avg_logprob": -0.16989517211914062,
+      "no_speech_prob": 8.930729961977024e-13,
+      "compression_ratio": 1.5774647887323943,
+      "temperature": 0.0
+    },
+    {
+      "start": 108.48,
+      "duration": 1.6199999999999903,
+      "text": "He doesn't really enjoy his life.",
+      "avg_logprob": -0.16989517211914062,
+      "no_speech_prob": 8.930729961977024e-13,
+      "compression_ratio": 1.5774647887323943,
+      "temperature": 0.0
+    },
+    {
+      "start": 111.2,
+      "duration": 0.8799999999999955,
+      "text": "He's prideful.",
+      "avg_logprob": -0.16989517211914062,
+      "no_speech_prob": 8.930729961977024e-13,
+      "compression_ratio": 1.5774647887323943,
+      "temperature": 0.0
+    },
+    {
+      "start": 112.22,
+      "duration": 0.519999999999996,
+      "text": "He's arrogant.",
+      "avg_logprob": -0.16989517211914062,
+      "no_speech_prob": 8.930729961977024e-13,
+      "compression_ratio": 1.5774647887323943,
+      "temperature": 0.0
+    },
+    {
+      "start": 115.02,
+      "duration": 2.8400000000000034,
+      "text": "He doesn't really love anything, actually, at the end of the day.",
+      "avg_logprob": -0.08164162879442646,
+      "no_speech_prob": 7.375849605563423e-13,
+      "compression_ratio": 1.8210526315789475,
+      "temperature": 0.0
+    },
+    {
+      "start": 118.08,
+      "duration": 5.939999999999998,
+      "text": "And the thing about him, too, is that he kind of hopes that his circumstances are going to change",
+      "avg_logprob": -0.08164162879442646,
+      "no_speech_prob": 7.375849605563423e-13,
+      "compression_ratio": 1.8210526315789475,
+      "temperature": 0.0
+    },
+    {
+      "start": 124.02,
+      "duration": 1.8800000000000097,
+      "text": "so that he's going to like his life better.",
+      "avg_logprob": -0.08164162879442646,
+      "no_speech_prob": 7.375849605563423e-13,
+      "compression_ratio": 1.8210526315789475,
+      "temperature": 0.0
+    },
+    {
+      "start": 125.94,
+      "duration": 1.519999999999996,
+      "text": "That's what he thinks is going to solve the issue.",
+      "avg_logprob": -0.08164162879442646,
+      "no_speech_prob": 7.375849605563423e-13,
+      "compression_ratio": 1.8210526315789475,
+      "temperature": 0.0
+    },
+    {
+      "start": 127.68,
+      "duration": 4.560000000000002,
+      "text": "And so after going to report on the groundhog, he gets stuck in this little town",
+      "avg_logprob": -0.08164162879442646,
+      "no_speech_prob": 7.375849605563423e-13,
+      "compression_ratio": 1.8210526315789475,
+      "temperature": 0.0
+    },
+    {
+      "start": 132.24,
+      "duration": 3.0600000000000023,
+      "text": "and then has to stay another night in the bed and breakfast,",
+      "avg_logprob": -0.08164162879442646,
+      "no_speech_prob": 7.375849605563423e-13,
+      "compression_ratio": 1.8210526315789475,
+      "temperature": 0.0
+    },
+    {
+      "start": 135.36,
+      "duration": 3.859999999999985,
+      "text": "and he wakes up the next morning only to find out that he's reliving the same day",
+      "avg_logprob": -0.08164162879442646,
+      "no_speech_prob": 7.375849605563423e-13,
+      "compression_ratio": 1.8210526315789475,
+      "temperature": 0.0
+    },
+    {
+      "start": 139.22,
+      "duration": 2.1999999999999886,
+      "text": "over and over and over again, right?",
+      "avg_logprob": -0.08164162879442646,
+      "no_speech_prob": 7.375849605563423e-13,
+      "compression_ratio": 1.8210526315789475,
+      "temperature": 0.0
+    },
+    {
+      "start": 143.32,
+      "duration": 5.599999999999994,
+      "text": "What he's really trying to do is he's trying to figure out what's the thing in life that's really going to make him happy.",
+      "avg_logprob": -0.12383927690221909,
+      "no_speech_prob": 4.893712388445715e-13,
+      "compression_ratio": 1.7058823529411764,
+      "temperature": 0.0
+    },
+    {
+      "start": 149.24,
+      "duration": 3.6799999999999784,
+      "text": "Actually, the question is, what is the purpose of life?",
+      "avg_logprob": -0.12383927690221909,
+      "no_speech_prob": 4.893712388445715e-13,
+      "compression_ratio": 1.7058823529411764,
+      "temperature": 0.0
+    },
+    {
+      "start": 153.06,
+      "duration": 5.5,
+      "text": "And he finds that nothing in life really satisfies him except the way the movie goes.",
+      "avg_logprob": -0.12383927690221909,
+      "no_speech_prob": 4.893712388445715e-13,
+      "compression_ratio": 1.7058823529411764,
+      "temperature": 0.0
+    },
+    {
+      "start": 159.1,
+      "duration": 7.939999999999998,
+      "text": "He concludes that learning to love this woman, Andy McDowell's character, is going to bring meaning to his life.",
+      "avg_logprob": -0.12383927690221909,
+      "no_speech_prob": 4.893712388445715e-13,
+      "compression_ratio": 1.7058823529411764,
+      "temperature": 0.0
+    },
+    {
+      "start": 167.73999999999998,
+      "duration": 3.2600000000000193,
+      "text": "Now, what's fascinating about this movie, after the movie came out,",
+      "avg_logprob": -0.13752149798206448,
+      "no_speech_prob": 4.912117804525828e-13,
+      "compression_ratio": 1.5732758620689655,
+      "temperature": 0.0
+    },
+    {
+      "start": 171.22,
+      "duration": 5.9199999999999875,
+      "text": "it was directed by Harold Ramis, who he's the guy that played Egon in the Ghostbusters movie, right?",
+      "avg_logprob": -0.13752149798206448,
+      "no_speech_prob": 4.912117804525828e-13,
+      "compression_ratio": 1.5732758620689655,
+      "temperature": 0.0
+    },
+    {
+      "start": 177.38,
+      "duration": 4.740000000000009,
+      "text": "And so he got a ton of feedback from people all over the world",
+      "avg_logprob": -0.13752149798206448,
+      "no_speech_prob": 4.912117804525828e-13,
+      "compression_ratio": 1.5732758620689655,
+      "temperature": 0.0
+    },
+    {
+      "start": 182.12,
+      "duration": 4.240000000000009,
+      "text": "of all different religious and non-religious faiths, okay?",
+      "avg_logprob": -0.13752149798206448,
+      "no_speech_prob": 4.912117804525828e-13,
+      "compression_ratio": 1.5732758620689655,
+      "temperature": 0.0
+    },
+    {
+      "start": 187.0,
+      "duration": 6.780000000000001,
+      "text": "And they all said that the movie resonated with them at such a deep level.",
+      "avg_logprob": -0.13752149798206448,
+      "no_speech_prob": 4.912117804525828e-13,
+      "compression_ratio": 1.5732758620689655,
+      "temperature": 0.0
+    },
+    {
+      "start": 194.6,
+      "duration": 2.780000000000001,
+      "text": "And the reason was is because ultimately at the end of the day,",
+      "avg_logprob": -0.15171083303598257,
+      "no_speech_prob": 5.502639359791783e-13,
+      "compression_ratio": 1.7790697674418605,
+      "temperature": 0.0
+    },
+    {
+      "start": 197.56,
+      "duration": 2.4000000000000057,
+      "text": "this movie, what it's doing, it's asking this question,",
+      "avg_logprob": -0.15171083303598257,
+      "no_speech_prob": 5.502639359791783e-13,
+      "compression_ratio": 1.7790697674418605,
+      "temperature": 0.0
+    },
+    {
+      "start": 200.08,
+      "duration": 2.559999999999974,
+      "text": "the same question that Solomon is asking,",
+      "avg_logprob": -0.15171083303598257,
+      "no_speech_prob": 5.502639359791783e-13,
+      "compression_ratio": 1.7790697674418605,
+      "temperature": 0.0
+    },
+    {
+      "start": 202.8,
+      "duration": 2.4399999999999977,
+      "text": "what is the meaning of our life?",
+      "avg_logprob": -0.15171083303598257,
+      "no_speech_prob": 5.502639359791783e-13,
+      "compression_ratio": 1.7790697674418605,
+      "temperature": 0.0
+    },
+    {
+      "start": 206.12,
+      "duration": 1.1200000000000045,
+      "text": "That's what the movie is asking.",
+      "avg_logprob": -0.15171083303598257,
+      "no_speech_prob": 5.502639359791783e-13,
+      "compression_ratio": 1.7790697674418605,
+      "temperature": 0.0
+    },
+    {
+      "start": 208.26,
+      "duration": 2.5,
+      "text": "So we are in a series we just started last week",
+      "avg_logprob": -0.15171083303598257,
+      "no_speech_prob": 5.502639359791783e-13,
+      "compression_ratio": 1.7790697674418605,
+      "temperature": 0.0
+    },
+    {
+      "start": 210.76,
+      "duration": 2.6200000000000045,
+      "text": "in the book of Ecclesiastes called Meaningful.",
+      "avg_logprob": -0.15171083303598257,
+      "no_speech_prob": 5.502639359791783e-13,
+      "compression_ratio": 1.7790697674418605,
+      "temperature": 0.0
+    },
+    {
+      "start": 214.52,
+      "duration": 1.6999999999999886,
+      "text": "Ecclesiastes written by King Solomon.",
+      "avg_logprob": -0.15171083303598257,
+      "no_speech_prob": 5.502639359791783e-13,
+      "compression_ratio": 1.7790697674418605,
+      "temperature": 0.0
+    },
+    {
+      "start": 216.8,
+      "duration": 3.299999999999983,
+      "text": "And through this series, what we're looking to find,",
+      "avg_logprob": -0.15171083303598257,
+      "no_speech_prob": 5.502639359791783e-13,
+      "compression_ratio": 1.7790697674418605,
+      "temperature": 0.0
+    },
+    {
+      "start": 220.18,
+      "duration": 2.5,
+      "text": "what we're seeing here is that life in Christ",
+      "avg_logprob": -0.15171083303598257,
+      "no_speech_prob": 5.502639359791783e-13,
+      "compression_ratio": 1.7790697674418605,
+      "temperature": 0.0
+    },
+    {
+      "start": 223.78,
+      "duration": 3.1599999999999966,
+      "text": "really our only hope for living a life of purpose and joy.",
+      "avg_logprob": -0.21377038955688477,
+      "no_speech_prob": 6.821392409261939e-13,
+      "compression_ratio": 1.5069124423963134,
+      "temperature": 0.0
+    },
+    {
+      "start": 227.7,
+      "duration": 0.46000000000000796,
+      "text": "Okay?",
+      "avg_logprob": -0.21377038955688477,
+      "no_speech_prob": 6.821392409261939e-13,
+      "compression_ratio": 1.5069124423963134,
+      "temperature": 0.0
+    },
+    {
+      "start": 228.72,
+      "duration": 4.0,
+      "text": "So last week, Pastor Mike preached on the first section of chapter 1,",
+      "avg_logprob": -0.21377038955688477,
+      "no_speech_prob": 6.821392409261939e-13,
+      "compression_ratio": 1.5069124423963134,
+      "temperature": 0.0
+    },
+    {
+      "start": 232.86,
+      "duration": 5.439999999999998,
+      "text": "and I think that we saw there the main question of the book of Ecclesiastes.",
+      "avg_logprob": -0.21377038955688477,
+      "no_speech_prob": 6.821392409261939e-13,
+      "compression_ratio": 1.5069124423963134,
+      "temperature": 0.0
+    },
+    {
+      "start": 238.84,
+      "duration": 2.0200000000000102,
+      "text": "It's in verse 3, chapter 1.",
+      "avg_logprob": -0.21377038955688477,
+      "no_speech_prob": 6.821392409261939e-13,
+      "compression_ratio": 1.5069124423963134,
+      "temperature": 0.0
+    },
+    {
+      "start": 240.94,
+      "duration": 0.2400000000000091,
+      "text": "It says,",
+      "avg_logprob": -0.21377038955688477,
+      "no_speech_prob": 6.821392409261939e-13,
+      "compression_ratio": 1.5069124423963134,
+      "temperature": 0.0
+    },
+    {
+      "start": 248.00000000000003,
+      "duration": 2.379999999999967,
+      "text": "Solomon looks at all the work that we do,",
+      "avg_logprob": -0.21377038955688477,
+      "no_speech_prob": 6.821392409261939e-13,
+      "compression_ratio": 1.5069124423963134,
+      "temperature": 0.0
+    },
+    {
+      "start": 250.52,
+      "duration": 2.9199999999999875,
+      "text": "every earthly endeavor in the world,",
+      "avg_logprob": -0.21377038955688477,
+      "no_speech_prob": 6.821392409261939e-13,
+      "compression_ratio": 1.5069124423963134,
+      "temperature": 0.0
+    },
+    {
+      "start": 253.78,
+      "duration": 3.0800000000000125,
+      "text": "And he asks the question, what do we gain from all of it?",
+      "avg_logprob": -0.1402303805718055,
+      "no_speech_prob": 3.88688620135344e-13,
+      "compression_ratio": 1.6329113924050633,
+      "temperature": 0.0
+    },
+    {
+      "start": 257.38,
+      "duration": 1.3199999999999932,
+      "text": "What does all this work for?",
+      "avg_logprob": -0.1402303805718055,
+      "no_speech_prob": 3.88688620135344e-13,
+      "compression_ratio": 1.6329113924050633,
+      "temperature": 0.0
+    },
+    {
+      "start": 259.88,
+      "duration": 2.3600000000000136,
+      "text": "He's asking, what is the purpose of life?",
+      "avg_logprob": -0.1402303805718055,
+      "no_speech_prob": 3.88688620135344e-13,
+      "compression_ratio": 1.6329113924050633,
+      "temperature": 0.0
+    },
+    {
+      "start": 263.16,
+      "duration": 4.279999999999973,
+      "text": "Now, this is a key question that every single one of us is going to wrestle with at some point in our life.",
+      "avg_logprob": -0.1402303805718055,
+      "no_speech_prob": 3.88688620135344e-13,
+      "compression_ratio": 1.6329113924050633,
+      "temperature": 0.0
+    },
+    {
+      "start": 267.58,
+      "duration": 2.0400000000000205,
+      "text": "We will think about this.",
+      "avg_logprob": -0.1402303805718055,
+      "no_speech_prob": 3.88688620135344e-13,
+      "compression_ratio": 1.6329113924050633,
+      "temperature": 0.0
+    },
+    {
+      "start": 270.56,
+      "duration": 6.920000000000016,
+      "text": "And I think the key is that whether by conscious thought and decision",
+      "avg_logprob": -0.1402303805718055,
+      "no_speech_prob": 3.88688620135344e-13,
+      "compression_ratio": 1.6329113924050633,
+      "temperature": 0.0
+    },
+    {
+      "start": 277.48,
+      "duration": 3.5399999999999636,
+      "text": "or just simply by living out just through our actions,",
+      "avg_logprob": -0.1402303805718055,
+      "no_speech_prob": 3.88688620135344e-13,
+      "compression_ratio": 1.6329113924050633,
+      "temperature": 0.0
+    },
+    {
+      "start": 281.02,
+      "duration": 4.800000000000011,
+      "text": "we actually end up making a claim about what we think the purpose of life is.",
+      "avg_logprob": -0.12758660578465725,
+      "no_speech_prob": 5.010219127597748e-13,
+      "compression_ratio": 1.5811965811965811,
+      "temperature": 0.0
+    },
+    {
+      "start": 287.2,
+      "duration": 5.220000000000027,
+      "text": "And how we answer that question ends up shaping the way that we live every single day.",
+      "avg_logprob": -0.12758660578465725,
+      "no_speech_prob": 5.010219127597748e-13,
+      "compression_ratio": 1.5811965811965811,
+      "temperature": 0.0
+    },
+    {
+      "start": 293.46,
+      "duration": 6.819999999999993,
+      "text": "So this book, what Solomon's search is really about, it has deep significance for us even today.",
+      "avg_logprob": -0.12758660578465725,
+      "no_speech_prob": 5.010219127597748e-13,
+      "compression_ratio": 1.5811965811965811,
+      "temperature": 0.0
+    },
+    {
+      "start": 300.98,
+      "duration": 6.659999999999968,
+      "text": "And so when we look at this passage, verses 12 through 18, we're going to see how Solomon begins his search.",
+      "avg_logprob": -0.12758660578465725,
+      "no_speech_prob": 5.010219127597748e-13,
+      "compression_ratio": 1.5811965811965811,
+      "temperature": 0.0
+    },
+    {
+      "start": 307.64,
+      "duration": 5.980000000000018,
+      "text": "This is kind of his, like, if you're familiar with, like, papers and stuff, this is, like, his abstract, right?",
+      "avg_logprob": -0.11069733575479873,
+      "no_speech_prob": 7.433525366432048e-13,
+      "compression_ratio": 1.7407407407407407,
+      "temperature": 0.0
+    },
+    {
+      "start": 313.64,
+      "duration": 3.9399999999999977,
+      "text": "He's going to give, like, this is what I'm seeking out to do, and these are my initial conclusions.",
+      "avg_logprob": -0.11069733575479873,
+      "no_speech_prob": 7.433525366432048e-13,
+      "compression_ratio": 1.7407407407407407,
+      "temperature": 0.0
+    },
+    {
+      "start": 317.78,
+      "duration": 1.5,
+      "text": "This is what he does in the beginning here.",
+      "avg_logprob": -0.11069733575479873,
+      "no_speech_prob": 7.433525366432048e-13,
+      "compression_ratio": 1.7407407407407407,
+      "temperature": 0.0
+    },
+    {
+      "start": 319.62,
+      "duration": 3.259999999999991,
+      "text": "So let's look at the passage a little bit more in depth.",
+      "avg_logprob": -0.11069733575479873,
+      "no_speech_prob": 7.433525366432048e-13,
+      "compression_ratio": 1.7407407407407407,
+      "temperature": 0.0
+    },
+    {
+      "start": 323.44,
+      "duration": 4.240000000000009,
+      "text": "Starting at verse 12, Solomon gives his credentials, okay?",
+      "avg_logprob": -0.11069733575479873,
+      "no_speech_prob": 7.433525366432048e-13,
+      "compression_ratio": 1.7407407407407407,
+      "temperature": 0.0
+    },
+    {
+      "start": 328.04,
+      "duration": 3.019999999999982,
+      "text": "He's like, I, the preacher, have been king over Israel in Jerusalem.",
+      "avg_logprob": -0.11069733575479873,
+      "no_speech_prob": 7.433525366432048e-13,
+      "compression_ratio": 1.7407407407407407,
+      "temperature": 0.0
+    },
+    {
+      "start": 331.42,
+      "duration": 2.4599999999999795,
+      "text": "It's like, all right, I'm the king.",
+      "avg_logprob": -0.11069733575479873,
+      "no_speech_prob": 7.433525366432048e-13,
+      "compression_ratio": 1.7407407407407407,
+      "temperature": 0.0
+    },
+    {
+      "start": 334.04,
+      "duration": 0.7399999999999523,
+      "text": "This is who I am.",
+      "avg_logprob": -0.11069733575479873,
+      "no_speech_prob": 7.433525366432048e-13,
+      "compression_ratio": 1.7407407407407407,
+      "temperature": 0.0
+    },
+    {
+      "start": 334.94,
+      "duration": 0.6800000000000068,
+      "text": "Here's my credentials.",
+      "avg_logprob": -0.11069733575479873,
+      "no_speech_prob": 7.433525366432048e-13,
+      "compression_ratio": 1.7407407407407407,
+      "temperature": 0.0
+    },
+    {
+      "start": 336.52,
+      "duration": 5.6200000000000045,
+      "text": "And then in verse 13, this is where he's going to give his, like, the main thing that he's looking for.",
+      "avg_logprob": -0.18564649488105148,
+      "no_speech_prob": 5.009752378562493e-13,
+      "compression_ratio": 1.7708333333333333,
+      "temperature": 0.0
+    },
+    {
+      "start": 342.24,
+      "duration": 0.6800000000000068,
+      "text": "This is his goal.",
+      "avg_logprob": -0.18564649488105148,
+      "no_speech_prob": 5.009752378562493e-13,
+      "compression_ratio": 1.7708333333333333,
+      "temperature": 0.0
+    },
+    {
+      "start": 343.18,
+      "duration": 6.699999999999989,
+      "text": "He says, I applied my heart to seek and to search out by wisdom all that is done under heaven.",
+      "avg_logprob": -0.18564649488105148,
+      "no_speech_prob": 5.009752378562493e-13,
+      "compression_ratio": 1.7708333333333333,
+      "temperature": 0.0
+    },
+    {
+      "start": 350.24,
+      "duration": 2.7199999999999704,
+      "text": "All right, this is his, kind of his thesis, right?",
+      "avg_logprob": -0.18564649488105148,
+      "no_speech_prob": 5.009752378562493e-13,
+      "compression_ratio": 1.7708333333333333,
+      "temperature": 0.0
+    },
+    {
+      "start": 353.0,
+      "duration": 0.8000000000000114,
+      "text": "This is where he's going.",
+      "avg_logprob": -0.18564649488105148,
+      "no_speech_prob": 5.009752378562493e-13,
+      "compression_ratio": 1.7708333333333333,
+      "temperature": 0.0
+    },
+    {
+      "start": 354.46,
+      "duration": 2.240000000000009,
+      "text": "And what we see here is really important.",
+      "avg_logprob": -0.18564649488105148,
+      "no_speech_prob": 5.009752378562493e-13,
+      "compression_ratio": 1.7708333333333333,
+      "temperature": 0.0
+    },
+    {
+      "start": 357.96,
+      "duration": 4.860000000000014,
+      "text": "First of all, he says that he's seeking and searching out things under heaven.",
+      "avg_logprob": -0.18564649488105148,
+      "no_speech_prob": 5.009752378562493e-13,
+      "compression_ratio": 1.7708333333333333,
+      "temperature": 0.0
+    },
+    {
+      "start": 363.28,
+      "duration": 0.6200000000000045,
+      "text": "All right?",
+      "avg_logprob": -0.18564649488105148,
+      "no_speech_prob": 5.009752378562493e-13,
+      "compression_ratio": 1.7708333333333333,
+      "temperature": 0.0
+    },
+    {
+      "start": 365.62,
+      "duration": 4.579999999999984,
+      "text": "says it another way throughout the book, the things under the sun, right? If you've read through it,",
+      "avg_logprob": -0.05590502096682179,
+      "no_speech_prob": 6.585161018909935e-13,
+      "compression_ratio": 1.8,
+      "temperature": 0.0
+    },
+    {
+      "start": 370.26,
+      "duration": 4.6200000000000045,
+      "text": "you know he says that under the sun over and over and over again, right? What is he saying? He's",
+      "avg_logprob": -0.05590502096682179,
+      "no_speech_prob": 6.585161018909935e-13,
+      "compression_ratio": 1.8,
+      "temperature": 0.0
+    },
+    {
+      "start": 374.88,
+      "duration": 7.860000000000014,
+      "text": "looking at the things of this world. He's looking at every earthly endeavor, and he's trying to",
+      "avg_logprob": -0.05590502096682179,
+      "no_speech_prob": 6.585161018909935e-13,
+      "compression_ratio": 1.8,
+      "temperature": 0.0
+    },
+    {
+      "start": 382.74,
+      "duration": 6.199999999999989,
+      "text": "figure out, how do I answer this question? Is there ultimate meaning in life through these things that",
+      "avg_logprob": -0.05590502096682179,
+      "no_speech_prob": 6.585161018909935e-13,
+      "compression_ratio": 1.8,
+      "temperature": 0.0
+    },
+    {
+      "start": 388.94,
+      "duration": 7.5400000000000205,
+      "text": "we see under the sun, under heaven. He even gives us a method of how he's going to figure this out",
+      "avg_logprob": -0.11477225503803772,
+      "no_speech_prob": 4.597645506497494e-13,
+      "compression_ratio": 1.5508021390374331,
+      "temperature": 0.0
+    },
+    {
+      "start": 396.48,
+      "duration": 6.859999999999957,
+      "text": "right here in verse 13. He says, I applied my heart to seek and search out what? It says by,",
+      "avg_logprob": -0.11477225503803772,
+      "no_speech_prob": 4.597645506497494e-13,
+      "compression_ratio": 1.5508021390374331,
+      "temperature": 0.0
+    },
+    {
+      "start": 404.94,
+      "duration": 8.199999999999989,
+      "text": "you can say it, by wisdom. Yeah, by wisdom. His method for figuring this out is to use his wisdom.",
+      "avg_logprob": -0.11477225503803772,
+      "no_speech_prob": 4.597645506497494e-13,
+      "compression_ratio": 1.5508021390374331,
+      "temperature": 0.0
+    },
+    {
+      "start": 413.78,
+      "duration": 2.8600000000000136,
+      "text": "And this is wisdom from experience.",
+      "avg_logprob": -0.13671486332731428,
+      "no_speech_prob": 4.724661959408516e-13,
+      "compression_ratio": 1.7324561403508771,
+      "temperature": 0.0
+    },
+    {
+      "start": 416.96,
+      "duration": 6.800000000000011,
+      "text": "He's going to experience these things and see if it actually gives meaning to his life.",
+      "avg_logprob": -0.13671486332731428,
+      "no_speech_prob": 4.724661959408516e-13,
+      "compression_ratio": 1.7324561403508771,
+      "temperature": 0.0
+    },
+    {
+      "start": 424.62,
+      "duration": 4.360000000000014,
+      "text": "He even, in this passage, gives the intensity that he's going to go after this.",
+      "avg_logprob": -0.13671486332731428,
+      "no_speech_prob": 4.724661959408516e-13,
+      "compression_ratio": 1.7324561403508771,
+      "temperature": 0.0
+    },
+    {
+      "start": 429.12,
+      "duration": 3.5600000000000023,
+      "text": "The very first line here, he says, I applied my heart, is what it says.",
+      "avg_logprob": -0.13671486332731428,
+      "no_speech_prob": 4.724661959408516e-13,
+      "compression_ratio": 1.7324561403508771,
+      "temperature": 0.0
+    },
+    {
+      "start": 432.88,
+      "duration": 6.060000000000002,
+      "text": "In the Hebrew, it's, I gave my whole heart, my whole self to this endeavor.",
+      "avg_logprob": -0.13671486332731428,
+      "no_speech_prob": 4.724661959408516e-13,
+      "compression_ratio": 1.7324561403508771,
+      "temperature": 0.0
+    },
+    {
+      "start": 439.84,
+      "duration": 2.660000000000025,
+      "text": "He's giving his whole self to this project.",
+      "avg_logprob": -0.13671486332731428,
+      "no_speech_prob": 4.724661959408516e-13,
+      "compression_ratio": 1.7324561403508771,
+      "temperature": 0.0
+    },
+    {
+      "start": 443.18,
+      "duration": 4.399999999999977,
+      "text": "So he does all this, and he ends up giving us his conclusion.",
+      "avg_logprob": -0.13529188998110658,
+      "no_speech_prob": 5.354215877086121e-13,
+      "compression_ratio": 1.6883116883116882,
+      "temperature": 0.0
+    },
+    {
+      "start": 448.68,
+      "duration": 2.819999999999993,
+      "text": "Verse 13, the next part of it, look at what it says.",
+      "avg_logprob": -0.13529188998110658,
+      "no_speech_prob": 5.354215877086121e-13,
+      "compression_ratio": 1.6883116883116882,
+      "temperature": 0.0
+    },
+    {
+      "start": 453.20000000000005,
+      "duration": 6.779999999999973,
+      "text": "It is an unhappy business that God has given to the children of man to be busy with.",
+      "avg_logprob": -0.13529188998110658,
+      "no_speech_prob": 5.354215877086121e-13,
+      "compression_ratio": 1.6883116883116882,
+      "temperature": 0.0
+    },
+    {
+      "start": 460.26,
+      "duration": 1.1000000000000227,
+      "text": "That's where he lands.",
+      "avg_logprob": -0.13529188998110658,
+      "no_speech_prob": 5.354215877086121e-13,
+      "compression_ratio": 1.6883116883116882,
+      "temperature": 0.0
+    },
+    {
+      "start": 461.94,
+      "duration": 3.839999999999975,
+      "text": "This is an unhappy business that he's given us.",
+      "avg_logprob": -0.13529188998110658,
+      "no_speech_prob": 5.354215877086121e-13,
+      "compression_ratio": 1.6883116883116882,
+      "temperature": 0.0
+    },
+    {
+      "start": 466.72,
+      "duration": 1.6599999999999682,
+      "text": "What is the unhappy business?",
+      "avg_logprob": -0.13529188998110658,
+      "no_speech_prob": 5.354215877086121e-13,
+      "compression_ratio": 1.6883116883116882,
+      "temperature": 0.0
+    },
+    {
+      "start": 468.64,
+      "duration": 1.0,
+      "text": "What is he actually talking about?",
+      "avg_logprob": -0.13529188998110658,
+      "no_speech_prob": 5.354215877086121e-13,
+      "compression_ratio": 1.6883116883116882,
+      "temperature": 0.0
+    },
+    {
+      "start": 469.72,
+      "duration": 2.7199999999999704,
+      "text": "He's talking about, again, verse 3, that big question.",
+      "avg_logprob": -0.13529188998110658,
+      "no_speech_prob": 5.354215877086121e-13,
+      "compression_ratio": 1.6883116883116882,
+      "temperature": 0.0
+    },
+    {
+      "start": 473.16,
+      "duration": 2.839999999999975,
+      "text": "He's talking about the work that we're doing on earth.",
+      "avg_logprob": -0.11164697847868267,
+      "no_speech_prob": 7.375905441975306e-13,
+      "compression_ratio": 1.6209677419354838,
+      "temperature": 0.0
+    },
+    {
+      "start": 476.28,
+      "duration": 5.060000000000002,
+      "text": "In fact, Solomon is going to more kind of clarify this a little bit later in the book.",
+      "avg_logprob": -0.11164697847868267,
+      "no_speech_prob": 7.375905441975306e-13,
+      "compression_ratio": 1.6209677419354838,
+      "temperature": 0.0
+    },
+    {
+      "start": 481.34,
+      "duration": 3.240000000000009,
+      "text": "This is in chapter 8, verse 16.",
+      "avg_logprob": -0.11164697847868267,
+      "no_speech_prob": 7.375905441975306e-13,
+      "compression_ratio": 1.6209677419354838,
+      "temperature": 0.0
+    },
+    {
+      "start": 485.70000000000005,
+      "duration": 2.859999999999957,
+      "text": "Man, this verse is so clarifying in so many ways.",
+      "avg_logprob": -0.11164697847868267,
+      "no_speech_prob": 7.375905441975306e-13,
+      "compression_ratio": 1.6209677419354838,
+      "temperature": 0.0
+    },
+    {
+      "start": 488.82,
+      "duration": 4.900000000000034,
+      "text": "He says, he's talking about what his search was.",
+      "avg_logprob": -0.11164697847868267,
+      "no_speech_prob": 7.375905441975306e-13,
+      "compression_ratio": 1.6209677419354838,
+      "temperature": 0.0
+    },
+    {
+      "start": 493.78,
+      "duration": 4.720000000000027,
+      "text": "When I applied my heart to know wisdom and to see the business, there's that word again,",
+      "avg_logprob": -0.11164697847868267,
+      "no_speech_prob": 7.375905441975306e-13,
+      "compression_ratio": 1.6209677419354838,
+      "temperature": 0.0
+    },
+    {
+      "start": 498.78,
+      "duration": 2.2600000000000477,
+      "text": "that is done on earth, what does he say?",
+      "avg_logprob": -0.11164697847868267,
+      "no_speech_prob": 7.375905441975306e-13,
+      "compression_ratio": 1.6209677419354838,
+      "temperature": 0.0
+    },
+    {
+      "start": 501.04,
+      "duration": 4.859999999999957,
+      "text": "how neither day nor night do one's eyes see sleep.",
+      "avg_logprob": -0.1537572667839822,
+      "no_speech_prob": 5.08909320934281e-13,
+      "compression_ratio": 1.5294117647058822,
+      "temperature": 0.0
+    },
+    {
+      "start": 506.56,
+      "duration": 4.480000000000018,
+      "text": "So as we toil and work and spin and do all the things that we do,",
+      "avg_logprob": -0.1537572667839822,
+      "no_speech_prob": 5.08909320934281e-13,
+      "compression_ratio": 1.5294117647058822,
+      "temperature": 0.0
+    },
+    {
+      "start": 511.08,
+      "duration": 0.6999999999999886,
+      "text": "what does he say?",
+      "avg_logprob": -0.1537572667839822,
+      "no_speech_prob": 5.08909320934281e-13,
+      "compression_ratio": 1.5294117647058822,
+      "temperature": 0.0
+    },
+    {
+      "start": 511.98,
+      "duration": 3.8600000000000136,
+      "text": "He says at the end of the day, we don't find any rest.",
+      "avg_logprob": -0.1537572667839822,
+      "no_speech_prob": 5.08909320934281e-13,
+      "compression_ratio": 1.5294117647058822,
+      "temperature": 0.0
+    },
+    {
+      "start": 516.46,
+      "duration": 4.67999999999995,
+      "text": "We don't find any meaning and satisfaction in any of it.",
+      "avg_logprob": -0.1537572667839822,
+      "no_speech_prob": 5.08909320934281e-13,
+      "compression_ratio": 1.5294117647058822,
+      "temperature": 0.0
+    },
+    {
+      "start": 524.6,
+      "duration": 2.980000000000018,
+      "text": "Now, a few years ago, this was in 2017,",
+      "avg_logprob": -0.1537572667839822,
+      "no_speech_prob": 5.08909320934281e-13,
+      "compression_ratio": 1.5294117647058822,
+      "temperature": 0.0
+    },
+    {
+      "start": 528.5200000000001,
+      "duration": 2.839999999999918,
+      "text": "there's a group called the Pew Research Center",
+      "avg_logprob": -0.1873669332387496,
+      "no_speech_prob": 6.383144338616142e-13,
+      "compression_ratio": 1.6304347826086956,
+      "temperature": 0.0
+    },
+    {
+      "start": 531.36,
+      "duration": 3.659999999999968,
+      "text": "and they did a study on, really,",
+      "avg_logprob": -0.1873669332387496,
+      "no_speech_prob": 6.383144338616142e-13,
+      "compression_ratio": 1.6304347826086956,
+      "temperature": 0.0
+    },
+    {
+      "start": 535.24,
+      "duration": 1.6599999999999682,
+      "text": "they do studies on a lot of things,",
+      "avg_logprob": -0.1873669332387496,
+      "no_speech_prob": 6.383144338616142e-13,
+      "compression_ratio": 1.6304347826086956,
+      "temperature": 0.0
+    },
+    {
+      "start": 537.0,
+      "duration": 1.67999999999995,
+      "text": "but they asked this open-ended question",
+      "avg_logprob": -0.1873669332387496,
+      "no_speech_prob": 6.383144338616142e-13,
+      "compression_ratio": 1.6304347826086956,
+      "temperature": 0.0
+    },
+    {
+      "start": 538.68,
+      "duration": 2.080000000000041,
+      "text": "to a whole wide group of people",
+      "avg_logprob": -0.1873669332387496,
+      "no_speech_prob": 6.383144338616142e-13,
+      "compression_ratio": 1.6304347826086956,
+      "temperature": 0.0
+    },
+    {
+      "start": 542.3200000000002,
+      "duration": 4.6599999999998545,
+      "text": "asking what provides you with a sense of meaning in your life?",
+      "avg_logprob": -0.1873669332387496,
+      "no_speech_prob": 6.383144338616142e-13,
+      "compression_ratio": 1.6304347826086956,
+      "temperature": 0.0
+    },
+    {
+      "start": 548.2200000000001,
+      "duration": 2.5599999999998317,
+      "text": "And the wide group included people",
+      "avg_logprob": -0.1873669332387496,
+      "no_speech_prob": 6.383144338616142e-13,
+      "compression_ratio": 1.6304347826086956,
+      "temperature": 0.0
+    },
+    {
+      "start": 550.78,
+      "duration": 2.300000000000068,
+      "text": "from all religious and non-religious backgrounds.",
+      "avg_logprob": -0.1873669332387496,
+      "no_speech_prob": 6.383144338616142e-13,
+      "compression_ratio": 1.6304347826086956,
+      "temperature": 0.0
+    },
+    {
+      "start": 554.0200000000001,
+      "duration": 1.5799999999999272,
+      "text": "What they found was really interesting.",
+      "avg_logprob": -0.1873669332387496,
+      "no_speech_prob": 6.383144338616142e-13,
+      "compression_ratio": 1.6304347826086956,
+      "temperature": 0.0
+    },
+    {
+      "start": 557.58,
+      "duration": 5.839999999999918,
+      "text": "group, they found that the number one thing that they said provided meaning in their life",
+      "avg_logprob": -0.08810618905460134,
+      "no_speech_prob": 5.311266292225281e-13,
+      "compression_ratio": 1.6,
+      "temperature": 0.0
+    },
+    {
+      "start": 563.42,
+      "duration": 7.280000000000086,
+      "text": "was, can anyone want to guess what they think it might be? Anyone? No? Yeah, yeah, family.",
+      "avg_logprob": -0.08810618905460134,
+      "no_speech_prob": 5.311266292225281e-13,
+      "compression_ratio": 1.6,
+      "temperature": 0.0
+    },
+    {
+      "start": 571.14,
+      "duration": 6.8799999999999955,
+      "text": "Family was the thing. 63% said family. After that were things like financial security,",
+      "avg_logprob": -0.08810618905460134,
+      "no_speech_prob": 5.311266292225281e-13,
+      "compression_ratio": 1.6,
+      "temperature": 0.0
+    },
+    {
+      "start": 578.62,
+      "duration": 5.6200000000000045,
+      "text": "hobbies, travel, experiences, right? And so essentially what they concluded was that",
+      "avg_logprob": -0.08810618905460134,
+      "no_speech_prob": 5.311266292225281e-13,
+      "compression_ratio": 1.6,
+      "temperature": 0.0
+    },
+    {
+      "start": 584.24,
+      "duration": 5.7000000000000455,
+      "text": "non-religious people are convinced that if they have just the right relationships and the right",
+      "avg_logprob": -0.06939795651013338,
+      "no_speech_prob": 6.308943710335579e-13,
+      "compression_ratio": 1.6233183856502242,
+      "temperature": 0.0
+    },
+    {
+      "start": 589.94,
+      "duration": 7.019999999999982,
+      "text": "experiences, that they'll find meaning and significance in their life. Now, what was",
+      "avg_logprob": -0.06939795651013338,
+      "no_speech_prob": 6.308943710335579e-13,
+      "compression_ratio": 1.6233183856502242,
+      "temperature": 0.0
+    },
+    {
+      "start": 596.96,
+      "duration": 6.439999999999941,
+      "text": "shocking about the study was that American Christians were not too far off from this.",
+      "avg_logprob": -0.06939795651013338,
+      "no_speech_prob": 6.308943710335579e-13,
+      "compression_ratio": 1.6233183856502242,
+      "temperature": 0.0
+    },
+    {
+      "start": 604.6800000000001,
+      "duration": 7.67999999999995,
+      "text": "In fact, more American Christians than atheists said that family was the number one thing where",
+      "avg_logprob": -0.06939795651013338,
+      "no_speech_prob": 6.308943710335579e-13,
+      "compression_ratio": 1.6233183856502242,
+      "temperature": 0.0
+    },
+    {
+      "start": 614.5799999999999,
+      "duration": 0.7000000000000455,
+      "text": "67%.",
+      "avg_logprob": -0.19452554914686415,
+      "no_speech_prob": 5.655160584608354e-13,
+      "compression_ratio": 1.6063348416289593,
+      "temperature": 0.0
+    },
+    {
+      "start": 615.28,
+      "duration": 2.0400000000000773,
+      "text": "It's really interesting.",
+      "avg_logprob": -0.19452554914686415,
+      "no_speech_prob": 5.655160584608354e-13,
+      "compression_ratio": 1.6063348416289593,
+      "temperature": 0.0
+    },
+    {
+      "start": 618.18,
+      "duration": 3.82000000000005,
+      "text": "And this should tell us something really significant about all of our hearts.",
+      "avg_logprob": -0.19452554914686415,
+      "no_speech_prob": 5.655160584608354e-13,
+      "compression_ratio": 1.6063348416289593,
+      "temperature": 0.0
+    },
+    {
+      "start": 622.12,
+      "duration": 7.279999999999973,
+      "text": "Whether we believe in Jesus or not, is that no one, no one is immune to the temptation",
+      "avg_logprob": -0.19452554914686415,
+      "no_speech_prob": 5.655160584608354e-13,
+      "compression_ratio": 1.6063348416289593,
+      "temperature": 0.0
+    },
+    {
+      "start": 629.4,
+      "duration": 4.580000000000041,
+      "text": "to place ultimate meaning in our life into something finite,",
+      "avg_logprob": -0.19452554914686415,
+      "no_speech_prob": 5.655160584608354e-13,
+      "compression_ratio": 1.6063348416289593,
+      "temperature": 0.0
+    },
+    {
+      "start": 634.48,
+      "duration": 3.6200000000000045,
+      "text": "into something that ultimately will fail us.",
+      "avg_logprob": -0.19452554914686415,
+      "no_speech_prob": 5.655160584608354e-13,
+      "compression_ratio": 1.6063348416289593,
+      "temperature": 0.0
+    },
+    {
+      "start": 638.96,
+      "duration": 2.3600000000000136,
+      "text": "And it raises this obvious question.",
+      "avg_logprob": -0.19452554914686415,
+      "no_speech_prob": 5.655160584608354e-13,
+      "compression_ratio": 1.6063348416289593,
+      "temperature": 0.0
+    },
+    {
+      "start": 642.2,
+      "duration": 1.3599999999999,
+      "text": "Where do we turn?",
+      "avg_logprob": -0.19452554914686415,
+      "no_speech_prob": 5.655160584608354e-13,
+      "compression_ratio": 1.6063348416289593,
+      "temperature": 0.0
+    },
+    {
+      "start": 644.9799999999999,
+      "duration": 2.980000000000132,
+      "text": "when you're looking for ultimate meaning in your life?",
+      "avg_logprob": -0.1554149885972341,
+      "no_speech_prob": 4.894306531236237e-13,
+      "compression_ratio": 1.7227722772277227,
+      "temperature": 0.0
+    },
+    {
+      "start": 649.86,
+      "duration": 3.0599999999999454,
+      "text": "I mean, a way to think about how to answer this question is,",
+      "avg_logprob": -0.1554149885972341,
+      "no_speech_prob": 4.894306531236237e-13,
+      "compression_ratio": 1.7227722772277227,
+      "temperature": 0.0
+    },
+    {
+      "start": 653.08,
+      "duration": 3.419999999999959,
+      "text": "what would devastate you if you lost it?",
+      "avg_logprob": -0.1554149885972341,
+      "no_speech_prob": 4.894306531236237e-13,
+      "compression_ratio": 1.7227722772277227,
+      "temperature": 0.0
+    },
+    {
+      "start": 658.12,
+      "duration": 3.6200000000000045,
+      "text": "If you lost it, what would absolutely devastate you?",
+      "avg_logprob": -0.1554149885972341,
+      "no_speech_prob": 4.894306531236237e-13,
+      "compression_ratio": 1.7227722772277227,
+      "temperature": 0.0
+    },
+    {
+      "start": 663.2,
+      "duration": 3.3799999999999955,
+      "text": "We might be placing too much emphasis on that thing",
+      "avg_logprob": -0.1554149885972341,
+      "no_speech_prob": 4.894306531236237e-13,
+      "compression_ratio": 1.7227722772277227,
+      "temperature": 0.0
+    },
+    {
+      "start": 668.14,
+      "duration": 1.240000000000009,
+      "text": "if that would happen.",
+      "avg_logprob": -0.1554149885972341,
+      "no_speech_prob": 4.894306531236237e-13,
+      "compression_ratio": 1.7227722772277227,
+      "temperature": 0.0
+    },
+    {
+      "start": 669.56,
+      "duration": 0.82000000000005,
+      "text": "So think about this.",
+      "avg_logprob": -0.1554149885972341,
+      "no_speech_prob": 4.894306531236237e-13,
+      "compression_ratio": 1.7227722772277227,
+      "temperature": 0.0
+    },
+    {
+      "start": 670.48,
+      "duration": 2.1000000000000227,
+      "text": "What if those things in our life goes away?",
+      "avg_logprob": -0.1554149885972341,
+      "no_speech_prob": 4.894306531236237e-13,
+      "compression_ratio": 1.7227722772277227,
+      "temperature": 0.0
+    },
+    {
+      "start": 674.36,
+      "duration": 7.720000000000027,
+      "text": "job that we've wrapped our identity into? What if our security is in our finances, but then the",
+      "avg_logprob": -0.06555987942603327,
+      "no_speech_prob": 5.654643420172079e-13,
+      "compression_ratio": 1.7638888888888888,
+      "temperature": 0.0
+    },
+    {
+      "start": 682.08,
+      "duration": 5.839999999999918,
+      "text": "stock market crashes and our investment portfolio is just trash at that point? What if we get sick",
+      "avg_logprob": -0.06555987942603327,
+      "no_speech_prob": 5.654643420172079e-13,
+      "compression_ratio": 1.7638888888888888,
+      "temperature": 0.0
+    },
+    {
+      "start": 687.92,
+      "duration": 6.1200000000000045,
+      "text": "and injured and we can't travel and we can't do the hobbies that we love? What happens tragically?",
+      "avg_logprob": -0.06555987942603327,
+      "no_speech_prob": 5.654643420172079e-13,
+      "compression_ratio": 1.7638888888888888,
+      "temperature": 0.0
+    },
+    {
+      "start": 694.16,
+      "duration": 7.660000000000082,
+      "text": "What if we lose our family? What happens at that point? This is what Solomon is saying.",
+      "avg_logprob": -0.06555987942603327,
+      "no_speech_prob": 5.654643420172079e-13,
+      "compression_ratio": 1.7638888888888888,
+      "temperature": 0.0
+    },
+    {
+      "start": 702.42,
+      "duration": 7.060000000000059,
+      "text": "He's saying that nothing under the sun can ever give our life ultimate meaning and fulfillment.",
+      "avg_logprob": -0.17163677935330374,
+      "no_speech_prob": 6.138768421544427e-13,
+      "compression_ratio": 1.8454935622317596,
+      "temperature": 0.0
+    },
+    {
+      "start": 709.68,
+      "duration": 2.560000000000059,
+      "text": "There is nothing on this earth, listen to this,",
+      "avg_logprob": -0.17163677935330374,
+      "no_speech_prob": 6.138768421544427e-13,
+      "compression_ratio": 1.8454935622317596,
+      "temperature": 0.0
+    },
+    {
+      "start": 712.4,
+      "duration": 5.779999999999973,
+      "text": "there's nothing on this earth that could ever support the weight of giving ultimate meaning to your life.",
+      "avg_logprob": -0.17163677935330374,
+      "no_speech_prob": 6.138768421544427e-13,
+      "compression_ratio": 1.8454935622317596,
+      "temperature": 0.0
+    },
+    {
+      "start": 719.08,
+      "duration": 0.4799999999999045,
+      "text": "Nothing.",
+      "avg_logprob": -0.17163677935330374,
+      "no_speech_prob": 6.138768421544427e-13,
+      "compression_ratio": 1.8454935622317596,
+      "temperature": 0.0
+    },
+    {
+      "start": 721.36,
+      "duration": 1.17999999999995,
+      "text": "That's his first conclusion.",
+      "avg_logprob": -0.17163677935330374,
+      "no_speech_prob": 6.138768421544427e-13,
+      "compression_ratio": 1.8454935622317596,
+      "temperature": 0.0
+    },
+    {
+      "start": 723.3,
+      "duration": 1.4600000000000364,
+      "text": "Nothing on earth gives us meaning.",
+      "avg_logprob": -0.17163677935330374,
+      "no_speech_prob": 6.138768421544427e-13,
+      "compression_ratio": 1.8454935622317596,
+      "temperature": 0.0
+    },
+    {
+      "start": 726.06,
+      "duration": 3.7800000000000864,
+      "text": "He kind of has a second conclusion that he gives us here, sort of implied.",
+      "avg_logprob": -0.17163677935330374,
+      "no_speech_prob": 6.138768421544427e-13,
+      "compression_ratio": 1.8454935622317596,
+      "temperature": 0.0
+    },
+    {
+      "start": 730.22,
+      "duration": 1.3399999999999181,
+      "text": "I think it's really interesting.",
+      "avg_logprob": -0.17163677935330374,
+      "no_speech_prob": 6.138768421544427e-13,
+      "compression_ratio": 1.8454935622317596,
+      "temperature": 0.0
+    },
+    {
+      "start": 731.82,
+      "duration": 8.559999999999945,
+      "text": "at verse 14, back in our passage. Verse 14 says, I have seen everything that is done under the sun,",
+      "avg_logprob": -0.13038305135873648,
+      "no_speech_prob": 3.5386285373271986e-13,
+      "compression_ratio": 1.5454545454545454,
+      "temperature": 0.0
+    },
+    {
+      "start": 741.0600000000001,
+      "duration": 9.319999999999936,
+      "text": "and behold, all is vanity and a striving after wind. So at the end of the search, he's able,",
+      "avg_logprob": -0.13038305135873648,
+      "no_speech_prob": 3.5386285373271986e-13,
+      "compression_ratio": 1.5454545454545454,
+      "temperature": 0.0
+    },
+    {
+      "start": 750.64,
+      "duration": 8.06000000000006,
+      "text": "he is unable to find any meaning in life through the things under the sun. So much so that he is",
+      "avg_logprob": -0.13038305135873648,
+      "no_speech_prob": 3.5386285373271986e-13,
+      "compression_ratio": 1.5454545454545454,
+      "temperature": 0.0
+    },
+    {
+      "start": 758.7,
+      "duration": 5.939999999999941,
+      "text": "starting to get to, he thinks that the search itself was a failure. The search was as meaningless",
+      "avg_logprob": -0.08444021186050103,
+      "no_speech_prob": 8.006191196119339e-13,
+      "compression_ratio": 1.5932203389830508,
+      "temperature": 0.0
+    },
+    {
+      "start": 764.64,
+      "duration": 7.279999999999973,
+      "text": "as the things of this world, okay? So I want to jump back to the passage that we looked at before",
+      "avg_logprob": -0.08444021186050103,
+      "no_speech_prob": 8.006191196119339e-13,
+      "compression_ratio": 1.5932203389830508,
+      "temperature": 0.0
+    },
+    {
+      "start": 771.92,
+      "duration": 6.680000000000064,
+      "text": "in chapter 8. So here's verse 16 again. If we keep going, look at what he says. Verse 16 says,",
+      "avg_logprob": -0.08444021186050103,
+      "no_speech_prob": 8.006191196119339e-13,
+      "compression_ratio": 1.5932203389830508,
+      "temperature": 0.0
+    },
+    {
+      "start": 779.6,
+      "duration": 5.419999999999959,
+      "text": "when I applied my heart to know wisdom and to see the business that is done on earth,",
+      "avg_logprob": -0.08444021186050103,
+      "no_speech_prob": 8.006191196119339e-13,
+      "compression_ratio": 1.5932203389830508,
+      "temperature": 0.0
+    },
+    {
+      "start": 785.02,
+      "duration": 3.6399999999999864,
+      "text": "how neither day nor night do one's eyes see sleep.",
+      "avg_logprob": -0.22721362423587155,
+      "no_speech_prob": 5.587895597625181e-13,
+      "compression_ratio": 1.563953488372093,
+      "temperature": 0.0
+    },
+    {
+      "start": 789.36,
+      "duration": 2.699999999999932,
+      "text": "Then I saw all the work of God,",
+      "avg_logprob": -0.22721362423587155,
+      "no_speech_prob": 5.587895597625181e-13,
+      "compression_ratio": 1.563953488372093,
+      "temperature": 0.0
+    },
+    {
+      "start": 793.04,
+      "duration": 4.660000000000082,
+      "text": "that man cannot find out the work that is done under the sun.",
+      "avg_logprob": -0.22721362423587155,
+      "no_speech_prob": 5.587895597625181e-13,
+      "compression_ratio": 1.563953488372093,
+      "temperature": 0.0
+    },
+    {
+      "start": 798.9,
+      "duration": 4.8799999999999955,
+      "text": "However much man may toil in seeking, he will not find it out.",
+      "avg_logprob": -0.22721362423587155,
+      "no_speech_prob": 5.587895597625181e-13,
+      "compression_ratio": 1.563953488372093,
+      "temperature": 0.0
+    },
+    {
+      "start": 804.32,
+      "duration": 5.099999999999909,
+      "text": "Even though a wise man claims to know, he cannot find it out.",
+      "avg_logprob": -0.22721362423587155,
+      "no_speech_prob": 5.587895597625181e-13,
+      "compression_ratio": 1.563953488372093,
+      "temperature": 0.0
+    },
+    {
+      "start": 810.1800000000001,
+      "duration": 5.2999999999999545,
+      "text": "three times in that verse, he says, we can't know.",
+      "avg_logprob": -0.2470222200666155,
+      "no_speech_prob": 5.312544566586641e-13,
+      "compression_ratio": 1.6321243523316062,
+      "temperature": 0.0
+    },
+    {
+      "start": 816.4000000000001,
+      "duration": 1.1599999999998545,
+      "text": "We can't know.",
+      "avg_logprob": -0.2470222200666155,
+      "no_speech_prob": 5.312544566586641e-13,
+      "compression_ratio": 1.6321243523316062,
+      "temperature": 0.0
+    },
+    {
+      "start": 817.96,
+      "duration": 3.3999999999999773,
+      "text": "The whole search is futile.",
+      "avg_logprob": -0.2470222200666155,
+      "no_speech_prob": 5.312544566586641e-13,
+      "compression_ratio": 1.6321243523316062,
+      "temperature": 0.0
+    },
+    {
+      "start": 822.4,
+      "duration": 2.1399999999999864,
+      "text": "And so he ends with a proverb in verse 15.",
+      "avg_logprob": -0.2470222200666155,
+      "no_speech_prob": 5.312544566586641e-13,
+      "compression_ratio": 1.6321243523316062,
+      "temperature": 0.0
+    },
+    {
+      "start": 824.82,
+      "duration": 6.139999999999986,
+      "text": "He says, what is crooked, so like the meaninglessness of the world,",
+      "avg_logprob": -0.2470222200666155,
+      "no_speech_prob": 5.312544566586641e-13,
+      "compression_ratio": 1.6321243523316062,
+      "temperature": 0.0
+    },
+    {
+      "start": 831.22,
+      "duration": 2.159999999999968,
+      "text": "what is crooked cannot be made straight.",
+      "avg_logprob": -0.2470222200666155,
+      "no_speech_prob": 5.312544566586641e-13,
+      "compression_ratio": 1.6321243523316062,
+      "temperature": 0.0
+    },
+    {
+      "start": 833.38,
+      "duration": 1.0,
+      "text": "We can't fix that.",
+      "avg_logprob": -0.2470222200666155,
+      "no_speech_prob": 5.312544566586641e-13,
+      "compression_ratio": 1.6321243523316062,
+      "temperature": 0.0
+    },
+    {
+      "start": 834.8,
+      "duration": 3.340000000000032,
+      "text": "And then he says, what is lacking, in other words,",
+      "avg_logprob": -0.2470222200666155,
+      "no_speech_prob": 5.312544566586641e-13,
+      "compression_ratio": 1.6321243523316062,
+      "temperature": 0.0
+    },
+    {
+      "start": 839.6799999999998,
+      "duration": 1.3800000000001091,
+      "text": "actually finding that meaning.",
+      "avg_logprob": -0.16995716094970703,
+      "no_speech_prob": 6.33366623037368e-13,
+      "compression_ratio": 1.6597510373443984,
+      "temperature": 0.0
+    },
+    {
+      "start": 841.2,
+      "duration": 1.0399999999999636,
+      "text": "You can't find it.",
+      "avg_logprob": -0.16995716094970703,
+      "no_speech_prob": 6.33366623037368e-13,
+      "compression_ratio": 1.6597510373443984,
+      "temperature": 0.0
+    },
+    {
+      "start": 842.3,
+      "duration": 1.4800000000000182,
+      "text": "He's like, what is lacking cannot be counted.",
+      "avg_logprob": -0.16995716094970703,
+      "no_speech_prob": 6.33366623037368e-13,
+      "compression_ratio": 1.6597510373443984,
+      "temperature": 0.0
+    },
+    {
+      "start": 843.84,
+      "duration": 0.8399999999999181,
+      "text": "There's nothing there to count.",
+      "avg_logprob": -0.16995716094970703,
+      "no_speech_prob": 6.33366623037368e-13,
+      "compression_ratio": 1.6597510373443984,
+      "temperature": 0.0
+    },
+    {
+      "start": 846.24,
+      "duration": 1.7999999999999545,
+      "text": "And so he ends there.",
+      "avg_logprob": -0.16995716094970703,
+      "no_speech_prob": 6.33366623037368e-13,
+      "compression_ratio": 1.6597510373443984,
+      "temperature": 0.0
+    },
+    {
+      "start": 850.22,
+      "duration": 3.7200000000000273,
+      "text": "Now in a few weeks, we're going to look at why we can't know these things.",
+      "avg_logprob": -0.16995716094970703,
+      "no_speech_prob": 6.33366623037368e-13,
+      "compression_ratio": 1.6597510373443984,
+      "temperature": 0.0
+    },
+    {
+      "start": 853.94,
+      "duration": 1.2799999999999727,
+      "text": "It's really significant.",
+      "avg_logprob": -0.16995716094970703,
+      "no_speech_prob": 6.33366623037368e-13,
+      "compression_ratio": 1.6597510373443984,
+      "temperature": 0.0
+    },
+    {
+      "start": 855.22,
+      "duration": 1.759999999999991,
+      "text": "We're going to see what he says about that.",
+      "avg_logprob": -0.16995716094970703,
+      "no_speech_prob": 6.33366623037368e-13,
+      "compression_ratio": 1.6597510373443984,
+      "temperature": 0.0
+    },
+    {
+      "start": 857.36,
+      "duration": 2.080000000000041,
+      "text": "But for now, this is where Solomon lands.",
+      "avg_logprob": -0.16995716094970703,
+      "no_speech_prob": 6.33366623037368e-13,
+      "compression_ratio": 1.6597510373443984,
+      "temperature": 0.0
+    },
+    {
+      "start": 859.96,
+      "duration": 4.759999999999991,
+      "text": "The search for meaning in the things under the sun is pointless.",
+      "avg_logprob": -0.16995716094970703,
+      "no_speech_prob": 6.33366623037368e-13,
+      "compression_ratio": 1.6597510373443984,
+      "temperature": 0.0
+    },
+    {
+      "start": 866.38,
+      "duration": 4.360000000000014,
+      "text": "Nothing on earth gives us meaning or purpose in life.",
+      "avg_logprob": -0.18621100148847025,
+      "no_speech_prob": 5.949733978063976e-13,
+      "compression_ratio": 1.5275229357798166,
+      "temperature": 0.0
+    },
+    {
+      "start": 871.32,
+      "duration": 1.9599999999999227,
+      "text": "The search itself is futile.",
+      "avg_logprob": -0.18621100148847025,
+      "no_speech_prob": 5.949733978063976e-13,
+      "compression_ratio": 1.5275229357798166,
+      "temperature": 0.0
+    },
+    {
+      "start": 874.14,
+      "duration": 1.6200000000000045,
+      "text": "Is anyone feeling encouraged yet?",
+      "avg_logprob": -0.18621100148847025,
+      "no_speech_prob": 5.949733978063976e-13,
+      "compression_ratio": 1.5275229357798166,
+      "temperature": 0.0
+    },
+    {
+      "start": 876.32,
+      "duration": 0.7799999999999727,
+      "text": "Doing all right?",
+      "avg_logprob": -0.18621100148847025,
+      "no_speech_prob": 5.949733978063976e-13,
+      "compression_ratio": 1.5275229357798166,
+      "temperature": 0.0
+    },
+    {
+      "start": 879.0,
+      "duration": 2.580000000000041,
+      "text": "Honestly, I want to just challenge you for a second.",
+      "avg_logprob": -0.18621100148847025,
+      "no_speech_prob": 5.949733978063976e-13,
+      "compression_ratio": 1.5275229357798166,
+      "temperature": 0.0
+    },
+    {
+      "start": 881.7,
+      "duration": 0.5199999999999818,
+      "text": "Take a step back.",
+      "avg_logprob": -0.18621100148847025,
+      "no_speech_prob": 5.949733978063976e-13,
+      "compression_ratio": 1.5275229357798166,
+      "temperature": 0.0
+    },
+    {
+      "start": 882.34,
+      "duration": 1.5399999999999636,
+      "text": "I think you should feel a little bit encouraged.",
+      "avg_logprob": -0.18621100148847025,
+      "no_speech_prob": 5.949733978063976e-13,
+      "compression_ratio": 1.5275229357798166,
+      "temperature": 0.0
+    },
+    {
+      "start": 884.5600000000001,
+      "duration": 3.3199999999999363,
+      "text": "Because I think that instinctively we know this.",
+      "avg_logprob": -0.18621100148847025,
+      "no_speech_prob": 5.949733978063976e-13,
+      "compression_ratio": 1.5275229357798166,
+      "temperature": 0.0
+    },
+    {
+      "start": 888.8000000000001,
+      "duration": 1.5599999999999454,
+      "text": "We know that this is the case.",
+      "avg_logprob": -0.18621100148847025,
+      "no_speech_prob": 5.949733978063976e-13,
+      "compression_ratio": 1.5275229357798166,
+      "temperature": 0.0
+    },
+    {
+      "start": 891.54,
+      "duration": 5.420000000000073,
+      "text": "and what this means is that the Bible lines up exactly with what we know instinctively, right?",
+      "avg_logprob": -0.13567000421984443,
+      "no_speech_prob": 5.926570540749909e-13,
+      "compression_ratio": 1.6498194945848375,
+      "temperature": 0.0
+    },
+    {
+      "start": 897.06,
+      "duration": 4.060000000000059,
+      "text": "So we should be encouraged and we should know that what's coming is going to be even better.",
+      "avg_logprob": -0.13567000421984443,
+      "no_speech_prob": 5.926570540749909e-13,
+      "compression_ratio": 1.6498194945848375,
+      "temperature": 0.0
+    },
+    {
+      "start": 901.26,
+      "duration": 2.2799999999999727,
+      "text": "So let's keep going. Where does Solomon go next?",
+      "avg_logprob": -0.13567000421984443,
+      "no_speech_prob": 5.926570540749909e-13,
+      "compression_ratio": 1.6498194945848375,
+      "temperature": 0.0
+    },
+    {
+      "start": 905.5,
+      "duration": 6.480000000000018,
+      "text": "After explaining his search, how he's, you know, seeking the meaning of life through wisdom and he finds none,",
+      "avg_logprob": -0.13567000421984443,
+      "no_speech_prob": 5.926570540749909e-13,
+      "compression_ratio": 1.6498194945848375,
+      "temperature": 0.0
+    },
+    {
+      "start": 912.14,
+      "duration": 3.32000000000005,
+      "text": "then Solomon is like, maybe my method's wrong.",
+      "avg_logprob": -0.13567000421984443,
+      "no_speech_prob": 5.926570540749909e-13,
+      "compression_ratio": 1.6498194945848375,
+      "temperature": 0.0
+    },
+    {
+      "start": 916.24,
+      "duration": 3.6399999999999864,
+      "text": "He actually takes wisdom, his method, and he puts it on trial.",
+      "avg_logprob": -0.13567000421984443,
+      "no_speech_prob": 5.926570540749909e-13,
+      "compression_ratio": 1.6498194945848375,
+      "temperature": 0.0
+    },
+    {
+      "start": 920.36,
+      "duration": 2.0,
+      "text": "He's going to question his own methodology.",
+      "avg_logprob": -0.21777783121381486,
+      "no_speech_prob": 5.501287359682694e-13,
+      "compression_ratio": 1.571969696969697,
+      "temperature": 0.0
+    },
+    {
+      "start": 922.84,
+      "duration": 1.2199999999999136,
+      "text": "So look at verse 16.",
+      "avg_logprob": -0.21777783121381486,
+      "no_speech_prob": 5.501287359682694e-13,
+      "compression_ratio": 1.571969696969697,
+      "temperature": 0.0
+    },
+    {
+      "start": 925.9,
+      "duration": 1.3999999999999773,
+      "text": "Again, he gives his credentials.",
+      "avg_logprob": -0.21777783121381486,
+      "no_speech_prob": 5.501287359682694e-13,
+      "compression_ratio": 1.571969696969697,
+      "temperature": 0.0
+    },
+    {
+      "start": 927.98,
+      "duration": 3.840000000000032,
+      "text": "I said in my heart, I have acquired great wisdom,",
+      "avg_logprob": -0.21777783121381486,
+      "no_speech_prob": 5.501287359682694e-13,
+      "compression_ratio": 1.571969696969697,
+      "temperature": 0.0
+    },
+    {
+      "start": 932.6800000000001,
+      "duration": 2.599999999999909,
+      "text": "surpassing all who were over Jerusalem before me.",
+      "avg_logprob": -0.21777783121381486,
+      "no_speech_prob": 5.501287359682694e-13,
+      "compression_ratio": 1.571969696969697,
+      "temperature": 0.0
+    },
+    {
+      "start": 935.44,
+      "duration": 3.939999999999941,
+      "text": "And my heart has had great experience of wisdom and knowledge.",
+      "avg_logprob": -0.21777783121381486,
+      "no_speech_prob": 5.501287359682694e-13,
+      "compression_ratio": 1.571969696969697,
+      "temperature": 0.0
+    },
+    {
+      "start": 940.14,
+      "duration": 1.919999999999959,
+      "text": "Now we know this about King Solomon.",
+      "avg_logprob": -0.21777783121381486,
+      "no_speech_prob": 5.501287359682694e-13,
+      "compression_ratio": 1.571969696969697,
+      "temperature": 0.0
+    },
+    {
+      "start": 942.9,
+      "duration": 2.340000000000032,
+      "text": "Okay, 1 Kings chapter 3 tells us all about King Solomon,",
+      "avg_logprob": -0.21777783121381486,
+      "no_speech_prob": 5.501287359682694e-13,
+      "compression_ratio": 1.571969696969697,
+      "temperature": 0.0
+    },
+    {
+      "start": 945.36,
+      "duration": 4.860000000000014,
+      "text": "how he asked God for wisdom, and God made him the wisest man",
+      "avg_logprob": -0.21777783121381486,
+      "no_speech_prob": 5.501287359682694e-13,
+      "compression_ratio": 1.571969696969697,
+      "temperature": 0.0
+    },
+    {
+      "start": 950.36,
+      "duration": 4.080000000000041,
+      "text": "that ever lived, and it actually says will ever live.",
+      "avg_logprob": -0.15393192251932988,
+      "no_speech_prob": 5.566983506122281e-13,
+      "compression_ratio": 1.560747663551402,
+      "temperature": 0.0
+    },
+    {
+      "start": 954.66,
+      "duration": 3.0,
+      "text": "The wisest man ever, all right?",
+      "avg_logprob": -0.15393192251932988,
+      "no_speech_prob": 5.566983506122281e-13,
+      "compression_ratio": 1.560747663551402,
+      "temperature": 0.0
+    },
+    {
+      "start": 957.86,
+      "duration": 4.139999999999986,
+      "text": "And so when it comes to wisdom, Solomon knows what he's talking about.",
+      "avg_logprob": -0.15393192251932988,
+      "no_speech_prob": 5.566983506122281e-13,
+      "compression_ratio": 1.560747663551402,
+      "temperature": 0.0
+    },
+    {
+      "start": 962.04,
+      "duration": 4.960000000000036,
+      "text": "And if he can't find the meaning of life through wisdom, then no one can, okay?",
+      "avg_logprob": -0.15393192251932988,
+      "no_speech_prob": 5.566983506122281e-13,
+      "compression_ratio": 1.560747663551402,
+      "temperature": 0.0
+    },
+    {
+      "start": 967.52,
+      "duration": 2.1399999999999864,
+      "text": "So now, look at verse 17.",
+      "avg_logprob": -0.15393192251932988,
+      "no_speech_prob": 5.566983506122281e-13,
+      "compression_ratio": 1.560747663551402,
+      "temperature": 0.0
+    },
+    {
+      "start": 971.38,
+      "duration": 6.740000000000009,
+      "text": "He says, I applied my heart, again, gave his whole life to know wisdom,",
+      "avg_logprob": -0.15393192251932988,
+      "no_speech_prob": 5.566983506122281e-13,
+      "compression_ratio": 1.560747663551402,
+      "temperature": 0.0
+    },
+    {
+      "start": 978.12,
+      "duration": 4.939999999999941,
+      "text": "to understand wisdom and to know madness and folly or foolishness.",
+      "avg_logprob": -0.11116422391405292,
+      "no_speech_prob": 6.162054915805071e-13,
+      "compression_ratio": 1.7061224489795919,
+      "temperature": 0.0
+    },
+    {
+      "start": 984.56,
+      "duration": 4.32000000000005,
+      "text": "Okay, so now he's questioning the whole idea of wisdom.",
+      "avg_logprob": -0.11116422391405292,
+      "no_speech_prob": 6.162054915805071e-13,
+      "compression_ratio": 1.7061224489795919,
+      "temperature": 0.0
+    },
+    {
+      "start": 989.04,
+      "duration": 3.2800000000000864,
+      "text": "Takes a step back from this investigation to put his method on trial.",
+      "avg_logprob": -0.11116422391405292,
+      "no_speech_prob": 6.162054915805071e-13,
+      "compression_ratio": 1.7061224489795919,
+      "temperature": 0.0
+    },
+    {
+      "start": 992.56,
+      "duration": 5.400000000000091,
+      "text": "He gave himself completely to understand wisdom as well as madness and foolishness.",
+      "avg_logprob": -0.11116422391405292,
+      "no_speech_prob": 6.162054915805071e-13,
+      "compression_ratio": 1.7061224489795919,
+      "temperature": 0.0
+    },
+    {
+      "start": 998.16,
+      "duration": 2.0400000000000773,
+      "text": "In other words, this is kind of neat what he's doing.",
+      "avg_logprob": -0.11116422391405292,
+      "no_speech_prob": 6.162054915805071e-13,
+      "compression_ratio": 1.7061224489795919,
+      "temperature": 0.0
+    },
+    {
+      "start": 1000.52,
+      "duration": 4.8799999999999955,
+      "text": "He's actually, instead of assuming that wisdom is the right way to find meaning in life",
+      "avg_logprob": -0.11116422391405292,
+      "no_speech_prob": 6.162054915805071e-13,
+      "compression_ratio": 1.7061224489795919,
+      "temperature": 0.0
+    },
+    {
+      "start": 1005.4,
+      "duration": 5.0,
+      "text": "and that madness and foolishness is the wrong way to find meaning in life,",
+      "avg_logprob": -0.10519811686347513,
+      "no_speech_prob": 6.162636590270609e-13,
+      "compression_ratio": 1.7910958904109588,
+      "temperature": 0.0
+    },
+    {
+      "start": 1010.66,
+      "duration": 2.580000000000041,
+      "text": "he basically takes all those and puts them on the same level.",
+      "avg_logprob": -0.10519811686347513,
+      "no_speech_prob": 6.162636590270609e-13,
+      "compression_ratio": 1.7910958904109588,
+      "temperature": 0.0
+    },
+    {
+      "start": 1013.36,
+      "duration": 4.17999999999995,
+      "text": "He's like, maybe there's a benefit to all of this in some way.",
+      "avg_logprob": -0.10519811686347513,
+      "no_speech_prob": 6.162636590270609e-13,
+      "compression_ratio": 1.7910958904109588,
+      "temperature": 0.0
+    },
+    {
+      "start": 1018.34,
+      "duration": 3.1399999999999864,
+      "text": "He's actually being very systematic in the way that he's approaching this.",
+      "avg_logprob": -0.10519811686347513,
+      "no_speech_prob": 6.162636590270609e-13,
+      "compression_ratio": 1.7910958904109588,
+      "temperature": 0.0
+    },
+    {
+      "start": 1021.62,
+      "duration": 3.5400000000000773,
+      "text": "He's asking questions like, does foolishness have any real benefit?",
+      "avg_logprob": -0.10519811686347513,
+      "no_speech_prob": 6.162636590270609e-13,
+      "compression_ratio": 1.7910958904109588,
+      "temperature": 0.0
+    },
+    {
+      "start": 1025.2,
+      "duration": 2.0399999999999636,
+      "text": "And what do I gain through wisdom?",
+      "avg_logprob": -0.10519811686347513,
+      "no_speech_prob": 6.162636590270609e-13,
+      "compression_ratio": 1.7910958904109588,
+      "temperature": 0.0
+    },
+    {
+      "start": 1028.04,
+      "duration": 1.3800000000001091,
+      "text": "He's asking those questions.",
+      "avg_logprob": -0.10519811686347513,
+      "no_speech_prob": 6.162636590270609e-13,
+      "compression_ratio": 1.7910958904109588,
+      "temperature": 0.0
+    },
+    {
+      "start": 1029.58,
+      "duration": 2.060000000000173,
+      "text": "And again, over the next two weeks, actually,",
+      "avg_logprob": -0.10519811686347513,
+      "no_speech_prob": 6.162636590270609e-13,
+      "compression_ratio": 1.7910958904109588,
+      "temperature": 0.0
+    },
+    {
+      "start": 1031.72,
+      "duration": 2.5799999999999272,
+      "text": "we're going to talk about those two things a little bit more in depth.",
+      "avg_logprob": -0.10519811686347513,
+      "no_speech_prob": 6.162636590270609e-13,
+      "compression_ratio": 1.7910958904109588,
+      "temperature": 0.0
+    },
+    {
+      "start": 1035.4,
+      "duration": 3.939999999999827,
+      "text": "Here today, he gives his final conclusion on this.",
+      "avg_logprob": -0.30012937846936677,
+      "no_speech_prob": 5.168776648009632e-13,
+      "compression_ratio": 1.5924170616113744,
+      "temperature": 0.0
+    },
+    {
+      "start": 1039.56,
+      "duration": 2.380000000000109,
+      "text": "Verse 17, right?",
+      "avg_logprob": -0.30012937846936677,
+      "no_speech_prob": 5.168776648009632e-13,
+      "compression_ratio": 1.5924170616113744,
+      "temperature": 0.0
+    },
+    {
+      "start": 1042.06,
+      "duration": 0.2799999999999727,
+      "text": "He said,",
+      "avg_logprob": -0.30012937846936677,
+      "no_speech_prob": 5.168776648009632e-13,
+      "compression_ratio": 1.5924170616113744,
+      "temperature": 0.0
+    },
+    {
+      "start": 1042.46,
+      "duration": 2.259999999999991,
+      "text": "I applied my heart to know wisdom, to know madness and folly,",
+      "avg_logprob": -0.30012937846936677,
+      "no_speech_prob": 5.168776648009632e-13,
+      "compression_ratio": 1.5924170616113744,
+      "temperature": 0.0
+    },
+    {
+      "start": 1045.4399999999998,
+      "duration": 5.120000000000118,
+      "text": "and I perceive that this also is but a striving after wind.",
+      "avg_logprob": -0.30012937846936677,
+      "no_speech_prob": 5.168776648009632e-13,
+      "compression_ratio": 1.5924170616113744,
+      "temperature": 0.0
+    },
+    {
+      "start": 1052.16,
+      "duration": 0.6799999999998363,
+      "text": "Right?",
+      "avg_logprob": -0.30012937846936677,
+      "no_speech_prob": 5.168776648009632e-13,
+      "compression_ratio": 1.5924170616113744,
+      "temperature": 0.0
+    },
+    {
+      "start": 1053.4,
+      "duration": 2.8599999999999,
+      "text": "In fact, later on,",
+      "avg_logprob": -0.30012937846936677,
+      "no_speech_prob": 5.168776648009632e-13,
+      "compression_ratio": 1.5924170616113744,
+      "temperature": 0.0
+    },
+    {
+      "start": 1057.24,
+      "duration": 3.5399999999999636,
+      "text": "he concludes that wisdom may have some temporary benefits,",
+      "avg_logprob": -0.30012937846936677,
+      "no_speech_prob": 5.168776648009632e-13,
+      "compression_ratio": 1.5924170616113744,
+      "temperature": 0.0
+    },
+    {
+      "start": 1061.18,
+      "duration": 3.099999999999909,
+      "text": "may have some benefits over madness and foolishness,",
+      "avg_logprob": -0.30012937846936677,
+      "no_speech_prob": 5.168776648009632e-13,
+      "compression_ratio": 1.5924170616113744,
+      "temperature": 0.0
+    },
+    {
+      "start": 1065.4,
+      "duration": 4.119999999999891,
+      "text": "none of them actually provide any real lasting difference.",
+      "avg_logprob": -0.20551761398967514,
+      "no_speech_prob": 4.4384190333451867e-13,
+      "compression_ratio": 1.6903765690376569,
+      "temperature": 0.0
+    },
+    {
+      "start": 1069.86,
+      "duration": 2.020000000000209,
+      "text": "None of them can ever save us.",
+      "avg_logprob": -0.20551761398967514,
+      "no_speech_prob": 4.4384190333451867e-13,
+      "compression_ratio": 1.6903765690376569,
+      "temperature": 0.0
+    },
+    {
+      "start": 1072.28,
+      "duration": 2.9600000000000364,
+      "text": "So if you jump forward, if you have your Bible open,",
+      "avg_logprob": -0.20551761398967514,
+      "no_speech_prob": 4.4384190333451867e-13,
+      "compression_ratio": 1.6903765690376569,
+      "temperature": 0.0
+    },
+    {
+      "start": 1075.6,
+      "duration": 2.4600000000000364,
+      "text": "and you jump forward to chapter 2, verse 13,",
+      "avg_logprob": -0.20551761398967514,
+      "no_speech_prob": 4.4384190333451867e-13,
+      "compression_ratio": 1.6903765690376569,
+      "temperature": 0.0
+    },
+    {
+      "start": 1078.08,
+      "duration": 1.259999999999991,
+      "text": "you can see what he says here.",
+      "avg_logprob": -0.20551761398967514,
+      "no_speech_prob": 4.4384190333451867e-13,
+      "compression_ratio": 1.6903765690376569,
+      "temperature": 0.0
+    },
+    {
+      "start": 1080.58,
+      "duration": 0.7599999999999909,
+      "text": "He says,",
+      "avg_logprob": -0.20551761398967514,
+      "no_speech_prob": 4.4384190333451867e-13,
+      "compression_ratio": 1.6903765690376569,
+      "temperature": 0.0
+    },
+    {
+      "start": 1081.72,
+      "duration": 4.759999999999991,
+      "text": "Then I saw that there is more gain in wisdom than in folly,",
+      "avg_logprob": -0.20551761398967514,
+      "no_speech_prob": 4.4384190333451867e-13,
+      "compression_ratio": 1.6903765690376569,
+      "temperature": 0.0
+    },
+    {
+      "start": 1087.02,
+      "duration": 2.5,
+      "text": "and there's more gain in light than in darkness.",
+      "avg_logprob": -0.20551761398967514,
+      "no_speech_prob": 4.4384190333451867e-13,
+      "compression_ratio": 1.6903765690376569,
+      "temperature": 0.0
+    },
+    {
+      "start": 1089.54,
+      "duration": 2.7799999999999727,
+      "text": "So wisdom has some benefit.",
+      "avg_logprob": -0.20551761398967514,
+      "no_speech_prob": 4.4384190333451867e-13,
+      "compression_ratio": 1.6903765690376569,
+      "temperature": 0.0
+    },
+    {
+      "start": 1092.78,
+      "duration": 1.740000000000009,
+      "text": "But then look what he says in verse 14.",
+      "avg_logprob": -0.20551761398967514,
+      "no_speech_prob": 4.4384190333451867e-13,
+      "compression_ratio": 1.6903765690376569,
+      "temperature": 0.0
+    },
+    {
+      "start": 1095.4199999999998,
+      "duration": 4.320000000000164,
+      "text": "person has his eyes in his head, but the fool walks in darkness, and yet I perceive that",
+      "avg_logprob": -0.1327298056219042,
+      "no_speech_prob": 5.481340208113306e-13,
+      "compression_ratio": 1.55,
+      "temperature": 0.0
+    },
+    {
+      "start": 1099.74,
+      "duration": 3.0599999999999454,
+      "text": "the same event happens to all of them.",
+      "avg_logprob": -0.1327298056219042,
+      "no_speech_prob": 5.481340208113306e-13,
+      "compression_ratio": 1.55,
+      "temperature": 0.0
+    },
+    {
+      "start": 1104.74,
+      "duration": 0.44000000000005457,
+      "text": "Death.",
+      "avg_logprob": -0.1327298056219042,
+      "no_speech_prob": 5.481340208113306e-13,
+      "compression_ratio": 1.55,
+      "temperature": 0.0
+    },
+    {
+      "start": 1107.26,
+      "duration": 2.5799999999999272,
+      "text": "Wisdom cannot add an hour to your life.",
+      "avg_logprob": -0.1327298056219042,
+      "no_speech_prob": 5.481340208113306e-13,
+      "compression_ratio": 1.55,
+      "temperature": 0.0
+    },
+    {
+      "start": 1113.78,
+      "duration": 4.980000000000018,
+      "text": "And so, this sounds kind of strange to us, I think, because normally we think, you know,",
+      "avg_logprob": -0.1327298056219042,
+      "no_speech_prob": 5.481340208113306e-13,
+      "compression_ratio": 1.55,
+      "temperature": 0.0
+    },
+    {
+      "start": 1118.82,
+      "duration": 1.5,
+      "text": "being wise would be a good thing, right?",
+      "avg_logprob": -0.1327298056219042,
+      "no_speech_prob": 5.481340208113306e-13,
+      "compression_ratio": 1.55,
+      "temperature": 0.0
+    },
+    {
+      "start": 1120.98,
+      "duration": 1.599999999999909,
+      "text": "That's normally what we would think.",
+      "avg_logprob": -0.1327298056219042,
+      "no_speech_prob": 5.481340208113306e-13,
+      "compression_ratio": 1.55,
+      "temperature": 0.0
+    },
+    {
+      "start": 1122.58,
+      "duration": 7.180000000000064,
+      "text": "But he's jumping back and basically saying, look, in the pursuit of wisdom, it only leads us to despair.",
+      "avg_logprob": -0.19333419284305056,
+      "no_speech_prob": 4.202592321454063e-13,
+      "compression_ratio": 1.4438502673796791,
+      "temperature": 0.0
+    },
+    {
+      "start": 1131.02,
+      "duration": 1.2200000000000273,
+      "text": "Look at verse 18.",
+      "avg_logprob": -0.19333419284305056,
+      "no_speech_prob": 4.202592321454063e-13,
+      "compression_ratio": 1.4438502673796791,
+      "temperature": 0.0
+    },
+    {
+      "start": 1133.0,
+      "duration": 2.3199999999999363,
+      "text": "He's going to end this section again with a proverb.",
+      "avg_logprob": -0.19333419284305056,
+      "no_speech_prob": 4.202592321454063e-13,
+      "compression_ratio": 1.4438502673796791,
+      "temperature": 0.0
+    },
+    {
+      "start": 1135.66,
+      "duration": 0.7799999999999727,
+      "text": "He says,",
+      "avg_logprob": -0.19333419284305056,
+      "no_speech_prob": 4.202592321454063e-13,
+      "compression_ratio": 1.4438502673796791,
+      "temperature": 0.0
+    },
+    {
+      "start": 1137.2,
+      "duration": 8.579999999999927,
+      "text": "For in much wisdom is much vexation, and he who increases knowledge increases sorrow.",
+      "avg_logprob": -0.19333419284305056,
+      "no_speech_prob": 4.202592321454063e-13,
+      "compression_ratio": 1.4438502673796791,
+      "temperature": 0.0
+    },
+    {
+      "start": 1146.8600000000001,
+      "duration": 1.4399999999998272,
+      "text": "it's like the more you know",
+      "avg_logprob": -0.09806653431483678,
+      "no_speech_prob": 6.16264363758473e-13,
+      "compression_ratio": 2.1092436974789917,
+      "temperature": 0.0
+    },
+    {
+      "start": 1149.38,
+      "duration": 1.8999999999998636,
+      "text": "the more that you know about life",
+      "avg_logprob": -0.09806653431483678,
+      "no_speech_prob": 6.16264363758473e-13,
+      "compression_ratio": 2.1092436974789917,
+      "temperature": 0.0
+    },
+    {
+      "start": 1151.28,
+      "duration": 1.7799999999999727,
+      "text": "and all the things that are happening",
+      "avg_logprob": -0.09806653431483678,
+      "no_speech_prob": 6.16264363758473e-13,
+      "compression_ratio": 2.1092436974789917,
+      "temperature": 0.0
+    },
+    {
+      "start": 1153.5,
+      "duration": 1.9800000000000182,
+      "text": "you just start to see the futility of it all",
+      "avg_logprob": -0.09806653431483678,
+      "no_speech_prob": 6.16264363758473e-13,
+      "compression_ratio": 2.1092436974789917,
+      "temperature": 0.0
+    },
+    {
+      "start": 1155.48,
+      "duration": 1.1800000000000637,
+      "text": "and the meaningless of it all",
+      "avg_logprob": -0.09806653431483678,
+      "no_speech_prob": 6.16264363758473e-13,
+      "compression_ratio": 2.1092436974789917,
+      "temperature": 0.0
+    },
+    {
+      "start": 1156.66,
+      "duration": 1.7799999999999727,
+      "text": "and so you only know the questions",
+      "avg_logprob": -0.09806653431483678,
+      "no_speech_prob": 6.16264363758473e-13,
+      "compression_ratio": 2.1092436974789917,
+      "temperature": 0.0
+    },
+    {
+      "start": 1158.44,
+      "duration": 1.2200000000000273,
+      "text": "and you'll never get the answers",
+      "avg_logprob": -0.09806653431483678,
+      "no_speech_prob": 6.16264363758473e-13,
+      "compression_ratio": 2.1092436974789917,
+      "temperature": 0.0
+    },
+    {
+      "start": 1159.66,
+      "duration": 1.259999999999991,
+      "text": "you'll know these things",
+      "avg_logprob": -0.09806653431483678,
+      "no_speech_prob": 6.16264363758473e-13,
+      "compression_ratio": 2.1092436974789917,
+      "temperature": 0.0
+    },
+    {
+      "start": 1161.54,
+      "duration": 2.5799999999999272,
+      "text": "and you know that these things are never going to add a day to your life",
+      "avg_logprob": -0.09806653431483678,
+      "no_speech_prob": 6.16264363758473e-13,
+      "compression_ratio": 2.1092436974789917,
+      "temperature": 0.0
+    },
+    {
+      "start": 1164.12,
+      "duration": 1.7800000000002,
+      "text": "and you're just going to end up dying like everybody else",
+      "avg_logprob": -0.09806653431483678,
+      "no_speech_prob": 6.16264363758473e-13,
+      "compression_ratio": 2.1092436974789917,
+      "temperature": 0.0
+    },
+    {
+      "start": 1166.6000000000001,
+      "duration": 0.7999999999999545,
+      "text": "so what's the point",
+      "avg_logprob": -0.09806653431483678,
+      "no_speech_prob": 6.16264363758473e-13,
+      "compression_ratio": 2.1092436974789917,
+      "temperature": 0.0
+    },
+    {
+      "start": 1169.02,
+      "duration": 1.0399999999999636,
+      "text": "so that's where he lands",
+      "avg_logprob": -0.09806653431483678,
+      "no_speech_prob": 6.16264363758473e-13,
+      "compression_ratio": 2.1092436974789917,
+      "temperature": 0.0
+    },
+    {
+      "start": 1171.18,
+      "duration": 1.2000000000000455,
+      "text": "and that's the end of our passage",
+      "avg_logprob": -0.09806653431483678,
+      "no_speech_prob": 6.16264363758473e-13,
+      "compression_ratio": 2.1092436974789917,
+      "temperature": 0.0
+    },
+    {
+      "start": 1174.3200000000002,
+      "duration": 0.9999999999997726,
+      "text": "where do we go from here",
+      "avg_logprob": -0.09806653431483678,
+      "no_speech_prob": 6.16264363758473e-13,
+      "compression_ratio": 2.1092436974789917,
+      "temperature": 0.0
+    },
+    {
+      "start": 1175.78,
+      "duration": 1.7000000000000455,
+      "text": "What are we supposed to do with this?",
+      "avg_logprob": -0.13415525609796697,
+      "no_speech_prob": 5.291988093396316e-13,
+      "compression_ratio": 1.6557377049180328,
+      "temperature": 0.0
+    },
+    {
+      "start": 1178.44,
+      "duration": 3.480000000000018,
+      "text": "See, I think Solomon, he leaves us in this very kind of bleak perspective.",
+      "avg_logprob": -0.13415525609796697,
+      "no_speech_prob": 5.291988093396316e-13,
+      "compression_ratio": 1.6557377049180328,
+      "temperature": 0.0
+    },
+    {
+      "start": 1183.78,
+      "duration": 5.079999999999927,
+      "text": "We look at this because we want our life to count for something.",
+      "avg_logprob": -0.13415525609796697,
+      "no_speech_prob": 5.291988093396316e-13,
+      "compression_ratio": 1.6557377049180328,
+      "temperature": 0.0
+    },
+    {
+      "start": 1189.84,
+      "duration": 3.0800000000001546,
+      "text": "We want the things that we do to mean something, right?",
+      "avg_logprob": -0.13415525609796697,
+      "no_speech_prob": 5.291988093396316e-13,
+      "compression_ratio": 1.6557377049180328,
+      "temperature": 0.0
+    },
+    {
+      "start": 1194.04,
+      "duration": 2.740000000000009,
+      "text": "We don't just want to be spinning our wheels day after day,",
+      "avg_logprob": -0.13415525609796697,
+      "no_speech_prob": 5.291988093396316e-13,
+      "compression_ratio": 1.6557377049180328,
+      "temperature": 0.0
+    },
+    {
+      "start": 1196.8,
+      "duration": 2.3199999999999363,
+      "text": "but Solomon concludes that there's nothing to be gained.",
+      "avg_logprob": -0.13415525609796697,
+      "no_speech_prob": 5.291988093396316e-13,
+      "compression_ratio": 1.6557377049180328,
+      "temperature": 0.0
+    },
+    {
+      "start": 1200.56,
+      "duration": 3.1000000000001364,
+      "text": "I want us to remember, if we look at what he's doing,",
+      "avg_logprob": -0.13415525609796697,
+      "no_speech_prob": 5.291988093396316e-13,
+      "compression_ratio": 1.6557377049180328,
+      "temperature": 0.0
+    },
+    {
+      "start": 1205.0,
+      "duration": 7.519999999999982,
+      "text": "remember he's looking for meaning in life in the things under the sun apart from God right he's",
+      "avg_logprob": -0.09584665298461914,
+      "no_speech_prob": 5.029809576652389e-13,
+      "compression_ratio": 1.7763975155279503,
+      "temperature": 0.0
+    },
+    {
+      "start": 1212.52,
+      "duration": 6.420000000000073,
+      "text": "looking at the meaning of life at the things around him at the work that people do the things",
+      "avg_logprob": -0.09584665298461914,
+      "no_speech_prob": 5.029809576652389e-13,
+      "compression_ratio": 1.7763975155279503,
+      "temperature": 0.0
+    },
+    {
+      "start": 1218.94,
+      "duration": 6.259999999999991,
+      "text": "that we busy ourselves with but all of that is are those are earthly endeavors apart from God so",
+      "avg_logprob": -0.09584665298461914,
+      "no_speech_prob": 5.029809576652389e-13,
+      "compression_ratio": 1.7763975155279503,
+      "temperature": 0.0
+    },
+    {
+      "start": 1225.2,
+      "duration": 1.7999999999999545,
+      "text": "it raises a question for us.",
+      "avg_logprob": -0.22928820835070662,
+      "no_speech_prob": 3.99462472648604e-13,
+      "compression_ratio": 1.7083333333333333,
+      "temperature": 0.0
+    },
+    {
+      "start": 1230.02,
+      "duration": 1.5199999999999818,
+      "text": "How do we actually",
+      "avg_logprob": -0.22928820835070662,
+      "no_speech_prob": 3.99462472648604e-13,
+      "compression_ratio": 1.7083333333333333,
+      "temperature": 0.0
+    },
+    {
+      "start": 1231.54,
+      "duration": 1.2999999999999545,
+      "text": "answer this question?",
+      "avg_logprob": -0.22928820835070662,
+      "no_speech_prob": 3.99462472648604e-13,
+      "compression_ratio": 1.7083333333333333,
+      "temperature": 0.0
+    },
+    {
+      "start": 1234.3000000000002,
+      "duration": 1.099999999999909,
+      "text": "It really is",
+      "avg_logprob": -0.22928820835070662,
+      "no_speech_prob": 3.99462472648604e-13,
+      "compression_ratio": 1.7083333333333333,
+      "temperature": 0.0
+    },
+    {
+      "start": 1235.4,
+      "duration": 2.1399999999998727,
+      "text": "based on what we think",
+      "avg_logprob": -0.22928820835070662,
+      "no_speech_prob": 3.99462472648604e-13,
+      "compression_ratio": 1.7083333333333333,
+      "temperature": 0.0
+    },
+    {
+      "start": 1237.54,
+      "duration": 1.4400000000000546,
+      "text": "about God.",
+      "avg_logprob": -0.22928820835070662,
+      "no_speech_prob": 3.99462472648604e-13,
+      "compression_ratio": 1.7083333333333333,
+      "temperature": 0.0
+    },
+    {
+      "start": 1239.72,
+      "duration": 1.7000000000000455,
+      "text": "How we answer this question is",
+      "avg_logprob": -0.22928820835070662,
+      "no_speech_prob": 3.99462472648604e-13,
+      "compression_ratio": 1.7083333333333333,
+      "temperature": 0.0
+    },
+    {
+      "start": 1241.42,
+      "duration": 0.33999999999991815,
+      "text": "actually",
+      "avg_logprob": -0.22928820835070662,
+      "no_speech_prob": 3.99462472648604e-13,
+      "compression_ratio": 1.7083333333333333,
+      "temperature": 0.0
+    },
+    {
+      "start": 1243.3600000000001,
+      "duration": 1.959999999999809,
+      "text": "foundationally tied to what we think about",
+      "avg_logprob": -0.22928820835070662,
+      "no_speech_prob": 3.99462472648604e-13,
+      "compression_ratio": 1.7083333333333333,
+      "temperature": 0.0
+    },
+    {
+      "start": 1245.32,
+      "duration": 0.7799999999999727,
+      "text": "eternal things.",
+      "avg_logprob": -0.22928820835070662,
+      "no_speech_prob": 3.99462472648604e-13,
+      "compression_ratio": 1.7083333333333333,
+      "temperature": 0.0
+    },
+    {
+      "start": 1246.94,
+      "duration": 0.599999999999909,
+      "text": "Alright?",
+      "avg_logprob": -0.22928820835070662,
+      "no_speech_prob": 3.99462472648604e-13,
+      "compression_ratio": 1.7083333333333333,
+      "temperature": 0.0
+    },
+    {
+      "start": 1248.5600000000002,
+      "duration": 2.599999999999909,
+      "text": "What do I mean by this? I want to give you",
+      "avg_logprob": -0.22928820835070662,
+      "no_speech_prob": 3.99462472648604e-13,
+      "compression_ratio": 1.7083333333333333,
+      "temperature": 0.0
+    },
+    {
+      "start": 1251.16,
+      "duration": 1.7999999999999545,
+      "text": "three options today",
+      "avg_logprob": -0.22928820835070662,
+      "no_speech_prob": 3.99462472648604e-13,
+      "compression_ratio": 1.7083333333333333,
+      "temperature": 0.0
+    },
+    {
+      "start": 1253.8,
+      "duration": 3.019999999999982,
+      "text": "of what we can think about God, okay?",
+      "avg_logprob": -0.13507333890659604,
+      "no_speech_prob": 6.663372653127608e-13,
+      "compression_ratio": 1.8770491803278688,
+      "temperature": 0.0
+    },
+    {
+      "start": 1257.06,
+      "duration": 2.8200000000001637,
+      "text": "Just general categories of what we can think about God.",
+      "avg_logprob": -0.13507333890659604,
+      "no_speech_prob": 6.663372653127608e-13,
+      "compression_ratio": 1.8770491803278688,
+      "temperature": 0.0
+    },
+    {
+      "start": 1260.28,
+      "duration": 4.400000000000091,
+      "text": "And as we look at these, I think that we get to see very specifically",
+      "avg_logprob": -0.13507333890659604,
+      "no_speech_prob": 6.663372653127608e-13,
+      "compression_ratio": 1.8770491803278688,
+      "temperature": 0.0
+    },
+    {
+      "start": 1265.1399999999999,
+      "duration": 3.4200000000000728,
+      "text": "as we ask that question of the meaning of life in those categories,",
+      "avg_logprob": -0.13507333890659604,
+      "no_speech_prob": 6.663372653127608e-13,
+      "compression_ratio": 1.8770491803278688,
+      "temperature": 0.0
+    },
+    {
+      "start": 1268.56,
+      "duration": 1.9200000000000728,
+      "text": "we're going to see how those things play out.",
+      "avg_logprob": -0.13507333890659604,
+      "no_speech_prob": 6.663372653127608e-13,
+      "compression_ratio": 1.8770491803278688,
+      "temperature": 0.0
+    },
+    {
+      "start": 1271.36,
+      "duration": 1.2800000000002,
+      "text": "So let's look at the first one.",
+      "avg_logprob": -0.13507333890659604,
+      "no_speech_prob": 6.663372653127608e-13,
+      "compression_ratio": 1.8770491803278688,
+      "temperature": 0.0
+    },
+    {
+      "start": 1273.34,
+      "duration": 3.3600000000001273,
+      "text": "The first option here is that there's no God at all, all right?",
+      "avg_logprob": -0.13507333890659604,
+      "no_speech_prob": 6.663372653127608e-13,
+      "compression_ratio": 1.8770491803278688,
+      "temperature": 0.0
+    },
+    {
+      "start": 1277.2,
+      "duration": 2.3799999999998818,
+      "text": "If we believe that there is no God at all,",
+      "avg_logprob": -0.13507333890659604,
+      "no_speech_prob": 6.663372653127608e-13,
+      "compression_ratio": 1.8770491803278688,
+      "temperature": 0.0
+    },
+    {
+      "start": 1279.72,
+      "duration": 2.240000000000009,
+      "text": "we look at all the injustice in the world",
+      "avg_logprob": -0.13507333890659604,
+      "no_speech_prob": 6.663372653127608e-13,
+      "compression_ratio": 1.8770491803278688,
+      "temperature": 0.0
+    },
+    {
+      "start": 1282.96,
+      "duration": 5.0,
+      "text": "Well, obviously things are spitting out of control, so then there must not be a God to help us.",
+      "avg_logprob": -0.16772594659224802,
+      "no_speech_prob": 5.744377412977841e-13,
+      "compression_ratio": 1.5727699530516432,
+      "temperature": 0.0
+    },
+    {
+      "start": 1290.46,
+      "duration": 6.920000000000073,
+      "text": "Well, if that's the case, the only logical conclusion truly is despair.",
+      "avg_logprob": -0.16772594659224802,
+      "no_speech_prob": 5.744377412977841e-13,
+      "compression_ratio": 1.5727699530516432,
+      "temperature": 0.0
+    },
+    {
+      "start": 1298.28,
+      "duration": 4.160000000000082,
+      "text": "Life at that point is pointless, and this is why.",
+      "avg_logprob": -0.16772594659224802,
+      "no_speech_prob": 5.744377412977841e-13,
+      "compression_ratio": 1.5727699530516432,
+      "temperature": 0.0
+    },
+    {
+      "start": 1303.0,
+      "duration": 0.6199999999998909,
+      "text": "I mean, think about this.",
+      "avg_logprob": -0.16772594659224802,
+      "no_speech_prob": 5.744377412977841e-13,
+      "compression_ratio": 1.5727699530516432,
+      "temperature": 0.0
+    },
+    {
+      "start": 1304.74,
+      "duration": 5.519999999999982,
+      "text": "We are, you know, we can make our life about our family, our experiences, things like that.",
+      "avg_logprob": -0.16772594659224802,
+      "no_speech_prob": 5.744377412977841e-13,
+      "compression_ratio": 1.5727699530516432,
+      "temperature": 0.0
+    },
+    {
+      "start": 1311.6599999999999,
+      "duration": 6.900000000000091,
+      "text": "but what will happen one day when we get struck by an asteroid or the sun explodes or whatever,",
+      "avg_logprob": -0.21959969936273036,
+      "no_speech_prob": 5.109028976789387e-13,
+      "compression_ratio": 1.4923857868020305,
+      "temperature": 0.0
+    },
+    {
+      "start": 1318.68,
+      "duration": 1.6399999999998727,
+      "text": "then who cares?",
+      "avg_logprob": -0.21959969936273036,
+      "no_speech_prob": 5.109028976789387e-13,
+      "compression_ratio": 1.4923857868020305,
+      "temperature": 0.0
+    },
+    {
+      "start": 1320.8,
+      "duration": 4.240000000000009,
+      "text": "Like we had some, you know, whatever, great experiences in life and things like that,",
+      "avg_logprob": -0.21959969936273036,
+      "no_speech_prob": 5.109028976789387e-13,
+      "compression_ratio": 1.4923857868020305,
+      "temperature": 0.0
+    },
+    {
+      "start": 1325.16,
+      "duration": 4.619999999999891,
+      "text": "but there's no ultimate purpose to any of it, okay?",
+      "avg_logprob": -0.21959969936273036,
+      "no_speech_prob": 5.109028976789387e-13,
+      "compression_ratio": 1.4923857868020305,
+      "temperature": 0.0
+    },
+    {
+      "start": 1332.12,
+      "duration": 3.7200000000000273,
+      "text": "So logically, how should you live your life?",
+      "avg_logprob": -0.21959969936273036,
+      "no_speech_prob": 5.109028976789387e-13,
+      "compression_ratio": 1.4923857868020305,
+      "temperature": 0.0
+    },
+    {
+      "start": 1335.84,
+      "duration": 2.540000000000191,
+      "text": "If someone doesn't believe in God at all,",
+      "avg_logprob": -0.21022470488803077,
+      "no_speech_prob": 4.971369995353248e-13,
+      "compression_ratio": 1.6785714285714286,
+      "temperature": 0.0
+    },
+    {
+      "start": 1338.82,
+      "duration": 2.4400000000000546,
+      "text": "the way that you should live your life is either",
+      "avg_logprob": -0.21022470488803077,
+      "no_speech_prob": 4.971369995353248e-13,
+      "compression_ratio": 1.6785714285714286,
+      "temperature": 0.0
+    },
+    {
+      "start": 1341.26,
+      "duration": 3.0799999999999272,
+      "text": "snatch up as much pleasure in life as you possibly can,",
+      "avg_logprob": -0.21022470488803077,
+      "no_speech_prob": 4.971369995353248e-13,
+      "compression_ratio": 1.6785714285714286,
+      "temperature": 0.0
+    },
+    {
+      "start": 1344.5,
+      "duration": 1.3800000000001091,
+      "text": "basically just be a selfish jerk,",
+      "avg_logprob": -0.21022470488803077,
+      "no_speech_prob": 4.971369995353248e-13,
+      "compression_ratio": 1.6785714285714286,
+      "temperature": 0.0
+    },
+    {
+      "start": 1346.06,
+      "duration": 2.0,
+      "text": "and take everything that you possibly can.",
+      "avg_logprob": -0.21022470488803077,
+      "no_speech_prob": 4.971369995353248e-13,
+      "compression_ratio": 1.6785714285714286,
+      "temperature": 0.0
+    },
+    {
+      "start": 1348.18,
+      "duration": 2.8599999999999,
+      "text": "You might as well, because if you can get away with it, then why not?",
+      "avg_logprob": -0.21022470488803077,
+      "no_speech_prob": 4.971369995353248e-13,
+      "compression_ratio": 1.6785714285714286,
+      "temperature": 0.0
+    },
+    {
+      "start": 1351.56,
+      "duration": 0.40000000000009095,
+      "text": "Okay?",
+      "avg_logprob": -0.21022470488803077,
+      "no_speech_prob": 4.971369995353248e-13,
+      "compression_ratio": 1.6785714285714286,
+      "temperature": 0.0
+    },
+    {
+      "start": 1352.7999999999997,
+      "duration": 2.4600000000002638,
+      "text": "Or just end it all, because there's no purpose.",
+      "avg_logprob": -0.21022470488803077,
+      "no_speech_prob": 4.971369995353248e-13,
+      "compression_ratio": 1.6785714285714286,
+      "temperature": 0.0
+    },
+    {
+      "start": 1358.4399999999998,
+      "duration": 2.7600000000002183,
+      "text": "People, though, don't—people who don't believe in God",
+      "avg_logprob": -0.21022470488803077,
+      "no_speech_prob": 4.971369995353248e-13,
+      "compression_ratio": 1.6785714285714286,
+      "temperature": 0.0
+    },
+    {
+      "start": 1361.2,
+      "duration": 1.0399999999999636,
+      "text": "don't actually live this way, though.",
+      "avg_logprob": -0.21022470488803077,
+      "no_speech_prob": 4.971369995353248e-13,
+      "compression_ratio": 1.6785714285714286,
+      "temperature": 0.0
+    },
+    {
+      "start": 1363.12,
+      "duration": 1.3600000000001273,
+      "text": "I think this is fascinating.",
+      "avg_logprob": -0.21022470488803077,
+      "no_speech_prob": 4.971369995353248e-13,
+      "compression_ratio": 1.6785714285714286,
+      "temperature": 0.0
+    },
+    {
+      "start": 1365.84,
+      "duration": 3.519999999999982,
+      "text": "They still live as if life has a meaningful purpose,",
+      "avg_logprob": -0.15705196969461122,
+      "no_speech_prob": 4.875231620314613e-13,
+      "compression_ratio": 1.694078947368421,
+      "temperature": 0.0
+    },
+    {
+      "start": 1369.36,
+      "duration": 2.259999999999991,
+      "text": "and they search for meaning in other things, right?",
+      "avg_logprob": -0.15705196969461122,
+      "no_speech_prob": 4.875231620314613e-13,
+      "compression_ratio": 1.694078947368421,
+      "temperature": 0.0
+    },
+    {
+      "start": 1371.66,
+      "duration": 2.480000000000018,
+      "text": "In those family, those relationships and experiences,",
+      "avg_logprob": -0.15705196969461122,
+      "no_speech_prob": 4.875231620314613e-13,
+      "compression_ratio": 1.694078947368421,
+      "temperature": 0.0
+    },
+    {
+      "start": 1374.36,
+      "duration": 2.2200000000000273,
+      "text": "acts of kindness and love and all those things.",
+      "avg_logprob": -0.15705196969461122,
+      "no_speech_prob": 4.875231620314613e-13,
+      "compression_ratio": 1.694078947368421,
+      "temperature": 0.0
+    },
+    {
+      "start": 1379.0399999999997,
+      "duration": 1.9600000000002638,
+      "text": "Now, I'm going to quote a book here.",
+      "avg_logprob": -0.15705196969461122,
+      "no_speech_prob": 4.875231620314613e-13,
+      "compression_ratio": 1.694078947368421,
+      "temperature": 0.0
+    },
+    {
+      "start": 1381.16,
+      "duration": 2.759999999999991,
+      "text": "I have to fully admit I have not read this book, okay?",
+      "avg_logprob": -0.15705196969461122,
+      "no_speech_prob": 4.875231620314613e-13,
+      "compression_ratio": 1.694078947368421,
+      "temperature": 0.0
+    },
+    {
+      "start": 1383.92,
+      "duration": 2.119999999999891,
+      "text": "So you can judge me for that, but I'm going to quote it anyway.",
+      "avg_logprob": -0.15705196969461122,
+      "no_speech_prob": 4.875231620314613e-13,
+      "compression_ratio": 1.694078947368421,
+      "temperature": 0.0
+    },
+    {
+      "start": 1386.28,
+      "duration": 1.2000000000000455,
+      "text": "It's just such a good illustration.",
+      "avg_logprob": -0.15705196969461122,
+      "no_speech_prob": 4.875231620314613e-13,
+      "compression_ratio": 1.694078947368421,
+      "temperature": 0.0
+    },
+    {
+      "start": 1387.96,
+      "duration": 1.6199999999998909,
+      "text": "The Brothers Karamazov, okay?",
+      "avg_logprob": -0.15705196969461122,
+      "no_speech_prob": 4.875231620314613e-13,
+      "compression_ratio": 1.694078947368421,
+      "temperature": 0.0
+    },
+    {
+      "start": 1389.74,
+      "duration": 2.5799999999999272,
+      "text": "So you've probably heard this, yeah, and I know you've read it.",
+      "avg_logprob": -0.15705196969461122,
+      "no_speech_prob": 4.875231620314613e-13,
+      "compression_ratio": 1.694078947368421,
+      "temperature": 0.0
+    },
+    {
+      "start": 1394.1799999999998,
+      "duration": 1.040000000000191,
+      "text": "So Dostoyevsky, right?",
+      "avg_logprob": -0.15705196969461122,
+      "no_speech_prob": 4.875231620314613e-13,
+      "compression_ratio": 1.694078947368421,
+      "temperature": 0.0
+    },
+    {
+      "start": 1395.84,
+      "duration": 4.300000000000182,
+      "text": "In the book, there's a character named Ivan, one of the brothers, and he denounces God.",
+      "avg_logprob": -0.12559314455304826,
+      "no_speech_prob": 7.669716099202584e-13,
+      "compression_ratio": 1.7010309278350515,
+      "temperature": 0.0
+    },
+    {
+      "start": 1401.12,
+      "duration": 7.100000000000136,
+      "text": "And he can't help, though, but find himself within himself a deep desire to live as if life had meaning.",
+      "avg_logprob": -0.12559314455304826,
+      "no_speech_prob": 7.669716099202584e-13,
+      "compression_ratio": 1.7010309278350515,
+      "temperature": 0.0
+    },
+    {
+      "start": 1408.86,
+      "duration": 0.8400000000001455,
+      "text": "This is what he says.",
+      "avg_logprob": -0.12559314455304826,
+      "no_speech_prob": 7.669716099202584e-13,
+      "compression_ratio": 1.7010309278350515,
+      "temperature": 0.0
+    },
+    {
+      "start": 1409.78,
+      "duration": 3.480000000000018,
+      "text": "It's kind of a long quote, but I just want to give you the whole picture of what he says here.",
+      "avg_logprob": -0.12559314455304826,
+      "no_speech_prob": 7.669716099202584e-13,
+      "compression_ratio": 1.7010309278350515,
+      "temperature": 0.0
+    },
+    {
+      "start": 1413.38,
+      "duration": 0.4799999999997908,
+      "text": "Listen to this.",
+      "avg_logprob": -0.12559314455304826,
+      "no_speech_prob": 7.669716099202584e-13,
+      "compression_ratio": 1.7010309278350515,
+      "temperature": 0.0
+    },
+    {
+      "start": 1415.44,
+      "duration": 0.5799999999999272,
+      "text": "He says,",
+      "avg_logprob": -0.12559314455304826,
+      "no_speech_prob": 7.669716099202584e-13,
+      "compression_ratio": 1.7010309278350515,
+      "temperature": 0.0
+    },
+    {
+      "start": 1416.16,
+      "duration": 4.599999999999909,
+      "text": "Do you know, I've been sitting here thinking to myself that if I didn't believe in life,",
+      "avg_logprob": -0.12559314455304826,
+      "no_speech_prob": 7.669716099202584e-13,
+      "compression_ratio": 1.7010309278350515,
+      "temperature": 0.0
+    },
+    {
+      "start": 1420.78,
+      "duration": 4.100000000000136,
+      "text": "if I lost faith in the woman I love, lost faith in the order of things,",
+      "avg_logprob": -0.12559314455304826,
+      "no_speech_prob": 7.669716099202584e-13,
+      "compression_ratio": 1.7010309278350515,
+      "temperature": 0.0
+    },
+    {
+      "start": 1425.84,
+      "duration": 4.2000000000000455,
+      "text": "In fact, that everything is a disorderly and perhaps devil-ridden chaos,",
+      "avg_logprob": -0.23261708479661208,
+      "no_speech_prob": 9.695270844836679e-13,
+      "compression_ratio": 1.5732758620689655,
+      "temperature": 0.0
+    },
+    {
+      "start": 1430.48,
+      "duration": 3.4600000000000364,
+      "text": "if I were struck by every horror of man's disillusionment,",
+      "avg_logprob": -0.23261708479661208,
+      "no_speech_prob": 9.695270844836679e-13,
+      "compression_ratio": 1.5732758620689655,
+      "temperature": 0.0
+    },
+    {
+      "start": 1435.4999999999998,
+      "duration": 2.1600000000003092,
+      "text": "still I should want to live.",
+      "avg_logprob": -0.23261708479661208,
+      "no_speech_prob": 9.695270844836679e-13,
+      "compression_ratio": 1.5732758620689655,
+      "temperature": 0.0
+    },
+    {
+      "start": 1438.3,
+      "duration": 5.279999999999973,
+      "text": "I have a longing for life, and I go on living in spite of logic.",
+      "avg_logprob": -0.23261708479661208,
+      "no_speech_prob": 9.695270844836679e-13,
+      "compression_ratio": 1.5732758620689655,
+      "temperature": 0.0
+    },
+    {
+      "start": 1444.18,
+      "duration": 2.4600000000000364,
+      "text": "Though I may not believe in the order of the universe,",
+      "avg_logprob": -0.23261708479661208,
+      "no_speech_prob": 9.695270844836679e-13,
+      "compression_ratio": 1.5732758620689655,
+      "temperature": 0.0
+    },
+    {
+      "start": 1447.4599999999998,
+      "duration": 3.700000000000273,
+      "text": "yet I love the sticky little leaves as they open in the spring.",
+      "avg_logprob": -0.23261708479661208,
+      "no_speech_prob": 9.695270844836679e-13,
+      "compression_ratio": 1.5732758620689655,
+      "temperature": 0.0
+    },
+    {
+      "start": 1451.8,
+      "duration": 1.8199999999999363,
+      "text": "I love the blue sky.",
+      "avg_logprob": -0.23261708479661208,
+      "no_speech_prob": 9.695270844836679e-13,
+      "compression_ratio": 1.5732758620689655,
+      "temperature": 0.0
+    },
+    {
+      "start": 1454.32,
+      "duration": 5.0,
+      "text": "I love some people whom one loves sometimes without knowing why.",
+      "avg_logprob": -0.2025823700294066,
+      "no_speech_prob": 5.068791523663019e-13,
+      "compression_ratio": 1.618811881188119,
+      "temperature": 0.0
+    },
+    {
+      "start": 1459.94,
+      "duration": 6.279999999999973,
+      "text": "I love some great deeds done by men, though I've long ceased perhaps to have faith in them.",
+      "avg_logprob": -0.2025823700294066,
+      "no_speech_prob": 5.068791523663019e-13,
+      "compression_ratio": 1.618811881188119,
+      "temperature": 0.0
+    },
+    {
+      "start": 1466.98,
+      "duration": 2.8599999999999,
+      "text": "It's not a matter of intellect or logic.",
+      "avg_logprob": -0.2025823700294066,
+      "no_speech_prob": 5.068791523663019e-13,
+      "compression_ratio": 1.618811881188119,
+      "temperature": 0.0
+    },
+    {
+      "start": 1470.14,
+      "duration": 4.419999999999845,
+      "text": "It's loving with one's inside, with one's stomach.",
+      "avg_logprob": -0.2025823700294066,
+      "no_speech_prob": 5.068791523663019e-13,
+      "compression_ratio": 1.618811881188119,
+      "temperature": 0.0
+    },
+    {
+      "start": 1476.36,
+      "duration": 3.6200000000001182,
+      "text": "See, people who don't believe in God, they still work.",
+      "avg_logprob": -0.2025823700294066,
+      "no_speech_prob": 5.068791523663019e-13,
+      "compression_ratio": 1.618811881188119,
+      "temperature": 0.0
+    },
+    {
+      "start": 1480.5,
+      "duration": 1.4800000000000182,
+      "text": "They still get married.",
+      "avg_logprob": -0.2025823700294066,
+      "no_speech_prob": 5.068791523663019e-13,
+      "compression_ratio": 1.618811881188119,
+      "temperature": 0.0
+    },
+    {
+      "start": 1483.3200000000002,
+      "duration": 10.319999999999936,
+      "text": "families. They still obey the law. They still think and build and plan and play and love as if",
+      "avg_logprob": -0.11565097173055013,
+      "no_speech_prob": 4.670018712016333e-13,
+      "compression_ratio": 1.4886363636363635,
+      "temperature": 0.0
+    },
+    {
+      "start": 1493.64,
+      "duration": 7.019999999999982,
+      "text": "there was a point to it all. But why? Because logically, that shouldn't be the case.",
+      "avg_logprob": -0.11565097173055013,
+      "no_speech_prob": 4.670018712016333e-13,
+      "compression_ratio": 1.4886363636363635,
+      "temperature": 0.0
+    },
+    {
+      "start": 1502.14,
+      "duration": 7.6599999999998545,
+      "text": "The answer is that we have been hardwired by God to live with purpose and meaning.",
+      "avg_logprob": -0.11565097173055013,
+      "no_speech_prob": 4.670018712016333e-13,
+      "compression_ratio": 1.4886363636363635,
+      "temperature": 0.0
+    },
+    {
+      "start": 1510.96,
+      "duration": 4.8599999999999,
+      "text": "We've been hardwired by God to look for meaning in all of those things.",
+      "avg_logprob": -0.16294432199129494,
+      "no_speech_prob": 4.1700009330986054e-13,
+      "compression_ratio": 1.4794520547945205,
+      "temperature": 0.0
+    },
+    {
+      "start": 1517.3600000000001,
+      "duration": 5.3599999999999,
+      "text": "But this option, really, when it's played out, it only leads to despair.",
+      "avg_logprob": -0.16294432199129494,
+      "no_speech_prob": 4.1700009330986054e-13,
+      "compression_ratio": 1.4794520547945205,
+      "temperature": 0.0
+    },
+    {
+      "start": 1523.1,
+      "duration": 2.019999999999982,
+      "text": "And honestly, it's also inconsistent.",
+      "avg_logprob": -0.16294432199129494,
+      "no_speech_prob": 4.1700009330986054e-13,
+      "compression_ratio": 1.4794520547945205,
+      "temperature": 0.0
+    },
+    {
+      "start": 1525.12,
+      "duration": 1.300000000000182,
+      "text": "It's kind of a paradox.",
+      "avg_logprob": -0.16294432199129494,
+      "no_speech_prob": 4.1700009330986054e-13,
+      "compression_ratio": 1.4794520547945205,
+      "temperature": 0.0
+    },
+    {
+      "start": 1527.44,
+      "duration": 4.5,
+      "text": "They're denying that God exists while living like God does.",
+      "avg_logprob": -0.16294432199129494,
+      "no_speech_prob": 4.1700009330986054e-13,
+      "compression_ratio": 1.4794520547945205,
+      "temperature": 0.0
+    },
+    {
+      "start": 1534.92,
+      "duration": 3.3799999999998818,
+      "text": "So option one, I don't know that it makes a lot of sense.",
+      "avg_logprob": -0.16294432199129494,
+      "no_speech_prob": 4.1700009330986054e-13,
+      "compression_ratio": 1.4794520547945205,
+      "temperature": 0.0
+    },
+    {
+      "start": 1539.5,
+      "duration": 5.279999999999973,
+      "text": "Two, that God exists, but he's evil.",
+      "avg_logprob": -0.10239010651906331,
+      "no_speech_prob": 5.250651259267047e-13,
+      "compression_ratio": 1.5977859778597785,
+      "temperature": 0.0
+    },
+    {
+      "start": 1546.22,
+      "duration": 3.5799999999999272,
+      "text": "Okay, so in other words, these people look at all the injustices of the world",
+      "avg_logprob": -0.10239010651906331,
+      "no_speech_prob": 5.250651259267047e-13,
+      "compression_ratio": 1.5977859778597785,
+      "temperature": 0.0
+    },
+    {
+      "start": 1549.8,
+      "duration": 4.940000000000055,
+      "text": "and conclude that if there's a God, that he's the source of all the pain and misery",
+      "avg_logprob": -0.10239010651906331,
+      "no_speech_prob": 5.250651259267047e-13,
+      "compression_ratio": 1.5977859778597785,
+      "temperature": 0.0
+    },
+    {
+      "start": 1554.74,
+      "duration": 2.839999999999918,
+      "text": "that we go through in life, and therefore he must not be very good.",
+      "avg_logprob": -0.10239010651906331,
+      "no_speech_prob": 5.250651259267047e-13,
+      "compression_ratio": 1.5977859778597785,
+      "temperature": 0.0
+    },
+    {
+      "start": 1560.82,
+      "duration": 3.1800000000000637,
+      "text": "Rene Descartes, right, French philosopher in the 17th century,",
+      "avg_logprob": -0.10239010651906331,
+      "no_speech_prob": 5.250651259267047e-13,
+      "compression_ratio": 1.5977859778597785,
+      "temperature": 0.0
+    },
+    {
+      "start": 1564.14,
+      "duration": 3.5599999999999454,
+      "text": "you probably recognize his most famous thing is he's the one that said,",
+      "avg_logprob": -0.10239010651906331,
+      "no_speech_prob": 5.250651259267047e-13,
+      "compression_ratio": 1.5977859778597785,
+      "temperature": 0.0
+    },
+    {
+      "start": 1567.82,
+      "duration": 1.6000000000001364,
+      "text": "I think, therefore I am, right?",
+      "avg_logprob": -0.10239010651906331,
+      "no_speech_prob": 5.250651259267047e-13,
+      "compression_ratio": 1.5977859778597785,
+      "temperature": 0.0
+    },
+    {
+      "start": 1569.8,
+      "duration": 5.059999999999945,
+      "text": "Okay, so Rene Descartes, in his book, Meditations on First Philosophy, he said this.",
+      "avg_logprob": -0.1843542233862058,
+      "no_speech_prob": 4.856074852128967e-13,
+      "compression_ratio": 1.4830508474576272,
+      "temperature": 0.0
+    },
+    {
+      "start": 1575.16,
+      "duration": 3.1399999999998727,
+      "text": "Now, he's not a Christian, and he landed in this category.",
+      "avg_logprob": -0.1843542233862058,
+      "no_speech_prob": 4.856074852128967e-13,
+      "compression_ratio": 1.4830508474576272,
+      "temperature": 0.0
+    },
+    {
+      "start": 1578.48,
+      "duration": 0.5599999999999454,
+      "text": "This is what he said.",
+      "avg_logprob": -0.1843542233862058,
+      "no_speech_prob": 4.856074852128967e-13,
+      "compression_ratio": 1.4830508474576272,
+      "temperature": 0.0
+    },
+    {
+      "start": 1580.06,
+      "duration": 5.860000000000127,
+      "text": "Accordingly, I will suppose not a supremely good God, the source of truth,",
+      "avg_logprob": -0.1843542233862058,
+      "no_speech_prob": 4.856074852128967e-13,
+      "compression_ratio": 1.4830508474576272,
+      "temperature": 0.0
+    },
+    {
+      "start": 1586.34,
+      "duration": 4.7000000000000455,
+      "text": "but rather an evil genius, supremely powerful and clever,",
+      "avg_logprob": -0.1843542233862058,
+      "no_speech_prob": 4.856074852128967e-13,
+      "compression_ratio": 1.4830508474576272,
+      "temperature": 0.0
+    },
+    {
+      "start": 1591.28,
+      "duration": 3.339999999999918,
+      "text": "who has directed his entire effort at deceiving me.",
+      "avg_logprob": -0.1843542233862058,
+      "no_speech_prob": 4.856074852128967e-13,
+      "compression_ratio": 1.4830508474576272,
+      "temperature": 0.0
+    },
+    {
+      "start": 1598.04,
+      "duration": 1.0599999999999454,
+      "text": "if I'm honest",
+      "avg_logprob": -0.14794361149823224,
+      "no_speech_prob": 4.579851580442662e-13,
+      "compression_ratio": 1.7149321266968325,
+      "temperature": 0.0
+    },
+    {
+      "start": 1599.1,
+      "duration": 1.5,
+      "text": "this conclusion",
+      "avg_logprob": -0.14794361149823224,
+      "no_speech_prob": 4.579851580442662e-13,
+      "compression_ratio": 1.7149321266968325,
+      "temperature": 0.0
+    },
+    {
+      "start": 1601.28,
+      "duration": 1.2799999999999727,
+      "text": "kind of sounds like",
+      "avg_logprob": -0.14794361149823224,
+      "no_speech_prob": 4.579851580442662e-13,
+      "compression_ratio": 1.7149321266968325,
+      "temperature": 0.0
+    },
+    {
+      "start": 1604.04,
+      "duration": 0.6800000000000637,
+      "text": "I mean",
+      "avg_logprob": -0.14794361149823224,
+      "no_speech_prob": 4.579851580442662e-13,
+      "compression_ratio": 1.7149321266968325,
+      "temperature": 0.0
+    },
+    {
+      "start": 1605.46,
+      "duration": 2.0599999999999454,
+      "text": "who might have critiqued Descartes",
+      "avg_logprob": -0.14794361149823224,
+      "no_speech_prob": 4.579851580442662e-13,
+      "compression_ratio": 1.7149321266968325,
+      "temperature": 0.0
+    },
+    {
+      "start": 1607.52,
+      "duration": 1.759999999999991,
+      "text": "but here's what it sounds like",
+      "avg_logprob": -0.14794361149823224,
+      "no_speech_prob": 4.579851580442662e-13,
+      "compression_ratio": 1.7149321266968325,
+      "temperature": 0.0
+    },
+    {
+      "start": 1609.28,
+      "duration": 2.1200000000001182,
+      "text": "to me it sounds like kind of a spoiled",
+      "avg_logprob": -0.14794361149823224,
+      "no_speech_prob": 4.579851580442662e-13,
+      "compression_ratio": 1.7149321266968325,
+      "temperature": 0.0
+    },
+    {
+      "start": 1611.4,
+      "duration": 0.37999999999988177,
+      "text": "child",
+      "avg_logprob": -0.14794361149823224,
+      "no_speech_prob": 4.579851580442662e-13,
+      "compression_ratio": 1.7149321266968325,
+      "temperature": 0.0
+    },
+    {
+      "start": 1612.84,
+      "duration": 1.540000000000191,
+      "text": "who wants to be in charge",
+      "avg_logprob": -0.14794361149823224,
+      "no_speech_prob": 4.579851580442662e-13,
+      "compression_ratio": 1.7149321266968325,
+      "temperature": 0.0
+    },
+    {
+      "start": 1614.38,
+      "duration": 2.479999999999791,
+      "text": "of the household instead of his parents",
+      "avg_logprob": -0.14794361149823224,
+      "no_speech_prob": 4.579851580442662e-13,
+      "compression_ratio": 1.7149321266968325,
+      "temperature": 0.0
+    },
+    {
+      "start": 1617.46,
+      "duration": 1.8599999999999,
+      "text": "like he looks at the decisions that mom",
+      "avg_logprob": -0.14794361149823224,
+      "no_speech_prob": 4.579851580442662e-13,
+      "compression_ratio": 1.7149321266968325,
+      "temperature": 0.0
+    },
+    {
+      "start": 1619.32,
+      "duration": 2.060000000000173,
+      "text": "and dad made and not really knowing all of the",
+      "avg_logprob": -0.14794361149823224,
+      "no_speech_prob": 4.579851580442662e-13,
+      "compression_ratio": 1.7149321266968325,
+      "temperature": 0.0
+    },
+    {
+      "start": 1621.38,
+      "duration": 1.7399999999997817,
+      "text": "information judges their intentions",
+      "avg_logprob": -0.14794361149823224,
+      "no_speech_prob": 4.579851580442662e-13,
+      "compression_ratio": 1.7149321266968325,
+      "temperature": 0.0
+    },
+    {
+      "start": 1623.12,
+      "duration": 1.3600000000001273,
+      "text": "and then condemns them",
+      "avg_logprob": -0.14794361149823224,
+      "no_speech_prob": 4.579851580442662e-13,
+      "compression_ratio": 1.7149321266968325,
+      "temperature": 0.0
+    },
+    {
+      "start": 1626.3,
+      "duration": 3.5800000000001546,
+      "text": "I think this conclusion is also really terrible for the individual",
+      "avg_logprob": -0.11322971056866389,
+      "no_speech_prob": 4.4043943297177035e-13,
+      "compression_ratio": 1.6359649122807018,
+      "temperature": 0.0
+    },
+    {
+      "start": 1630.64,
+      "duration": 4.839999999999918,
+      "text": "because it doesn't lead to any ability to enjoy life or find meaning in life.",
+      "avg_logprob": -0.11322971056866389,
+      "no_speech_prob": 4.4043943297177035e-13,
+      "compression_ratio": 1.6359649122807018,
+      "temperature": 0.0
+    },
+    {
+      "start": 1635.54,
+      "duration": 2.3600000000001273,
+      "text": "But actually, if they believe that God is evil,",
+      "avg_logprob": -0.11322971056866389,
+      "no_speech_prob": 4.4043943297177035e-13,
+      "compression_ratio": 1.6359649122807018,
+      "temperature": 0.0
+    },
+    {
+      "start": 1638.22,
+      "duration": 7.379999999999882,
+      "text": "then that means that they're doomed to live a life of anxiety and distrust and fear.",
+      "avg_logprob": -0.11322971056866389,
+      "no_speech_prob": 4.4043943297177035e-13,
+      "compression_ratio": 1.6359649122807018,
+      "temperature": 0.0
+    },
+    {
+      "start": 1647.0,
+      "duration": 3.660000000000082,
+      "text": "And that's the logical conclusion of that option.",
+      "avg_logprob": -0.11322971056866389,
+      "no_speech_prob": 4.4043943297177035e-13,
+      "compression_ratio": 1.6359649122807018,
+      "temperature": 0.0
+    },
+    {
+      "start": 1651.8200000000002,
+      "duration": 1.5599999999999454,
+      "text": "So I don't think that's a good option either.",
+      "avg_logprob": -0.11322971056866389,
+      "no_speech_prob": 4.4043943297177035e-13,
+      "compression_ratio": 1.6359649122807018,
+      "temperature": 0.0
+    },
+    {
+      "start": 1654.74,
+      "duration": 0.9600000000000364,
+      "text": "Here's the third.",
+      "avg_logprob": -0.24748875697453818,
+      "no_speech_prob": 4.041589111991595e-13,
+      "compression_ratio": 1.7164179104477613,
+      "temperature": 0.0
+    },
+    {
+      "start": 1656.98,
+      "duration": 4.039999999999964,
+      "text": "The third option in this is that, and I think the better solution,",
+      "avg_logprob": -0.24748875697453818,
+      "no_speech_prob": 4.041589111991595e-13,
+      "compression_ratio": 1.7164179104477613,
+      "temperature": 0.0
+    },
+    {
+      "start": 1661.34,
+      "duration": 3.1400000000001,
+      "text": "is that God exists and we're called to trust him.",
+      "avg_logprob": -0.24748875697453818,
+      "no_speech_prob": 4.041589111991595e-13,
+      "compression_ratio": 1.7164179104477613,
+      "temperature": 0.0
+    },
+    {
+      "start": 1666.28,
+      "duration": 7.940000000000055,
+      "text": "I think that this is the only solution that helps us find true and satisfying meaning in life.",
+      "avg_logprob": -0.24748875697453818,
+      "no_speech_prob": 4.041589111991595e-13,
+      "compression_ratio": 1.7164179104477613,
+      "temperature": 0.0
+    },
+    {
+      "start": 1674.8,
+      "duration": 3.9400000000000546,
+      "text": "We're called to believe two things about God.",
+      "avg_logprob": -0.24748875697453818,
+      "no_speech_prob": 4.041589111991595e-13,
+      "compression_ratio": 1.7164179104477613,
+      "temperature": 0.0
+    },
+    {
+      "start": 1679.12,
+      "duration": 0.5800000000001546,
+      "text": "Okay.",
+      "avg_logprob": -0.24748875697453818,
+      "no_speech_prob": 4.041589111991595e-13,
+      "compression_ratio": 1.7164179104477613,
+      "temperature": 0.0
+    },
+    {
+      "start": 1680.22,
+      "duration": 2.9400000000000546,
+      "text": "Number one, we're called to believe that he's in control.",
+      "avg_logprob": -0.24748875697453818,
+      "no_speech_prob": 4.041589111991595e-13,
+      "compression_ratio": 1.7164179104477613,
+      "temperature": 0.0
+    },
+    {
+      "start": 1683.76,
+      "duration": 0.5199999999999818,
+      "text": "Okay.",
+      "avg_logprob": -0.24748875697453818,
+      "no_speech_prob": 4.041589111991595e-13,
+      "compression_ratio": 1.7164179104477613,
+      "temperature": 0.0
+    },
+    {
+      "start": 1684.72,
+      "duration": 0.9200000000000728,
+      "text": "A fancy word.",
+      "avg_logprob": -0.16307699112665086,
+      "no_speech_prob": 9.886528444871812e-13,
+      "compression_ratio": 1.8916666666666666,
+      "temperature": 0.0
+    },
+    {
+      "start": 1685.76,
+      "duration": 1.2799999999999727,
+      "text": "We're called to believe that he's sovereign.",
+      "avg_logprob": -0.16307699112665086,
+      "no_speech_prob": 9.886528444871812e-13,
+      "compression_ratio": 1.8916666666666666,
+      "temperature": 0.0
+    },
+    {
+      "start": 1687.82,
+      "duration": 0.44000000000005457,
+      "text": "Sovereign.",
+      "avg_logprob": -0.16307699112665086,
+      "no_speech_prob": 9.886528444871812e-13,
+      "compression_ratio": 1.8916666666666666,
+      "temperature": 0.0
+    },
+    {
+      "start": 1688.4,
+      "duration": 5.7999999999999545,
+      "text": "That he has perfect authority and perfect ability to carry out anything that he wants to do.",
+      "avg_logprob": -0.16307699112665086,
+      "no_speech_prob": 9.886528444871812e-13,
+      "compression_ratio": 1.8916666666666666,
+      "temperature": 0.0
+    },
+    {
+      "start": 1695.08,
+      "duration": 2.660000000000082,
+      "text": "Honestly, at the end of the day, it's just saying that he's actually God.",
+      "avg_logprob": -0.16307699112665086,
+      "no_speech_prob": 9.886528444871812e-13,
+      "compression_ratio": 1.8916666666666666,
+      "temperature": 0.0
+    },
+    {
+      "start": 1698.4399999999998,
+      "duration": 1.3200000000001637,
+      "text": "That's what we're saying.",
+      "avg_logprob": -0.16307699112665086,
+      "no_speech_prob": 9.886528444871812e-13,
+      "compression_ratio": 1.8916666666666666,
+      "temperature": 0.0
+    },
+    {
+      "start": 1700.02,
+      "duration": 1.400000000000091,
+      "text": "That he's actually in control.",
+      "avg_logprob": -0.16307699112665086,
+      "no_speech_prob": 9.886528444871812e-13,
+      "compression_ratio": 1.8916666666666666,
+      "temperature": 0.0
+    },
+    {
+      "start": 1701.74,
+      "duration": 4.220000000000027,
+      "text": "But then the second thing is that we're called to believe that he's also good.",
+      "avg_logprob": -0.16307699112665086,
+      "no_speech_prob": 9.886528444871812e-13,
+      "compression_ratio": 1.8916666666666666,
+      "temperature": 0.0
+    },
+    {
+      "start": 1707.24,
+      "duration": 1.9800000000000182,
+      "text": "That he's genuinely good.",
+      "avg_logprob": -0.16307699112665086,
+      "no_speech_prob": 9.886528444871812e-13,
+      "compression_ratio": 1.8916666666666666,
+      "temperature": 0.0
+    },
+    {
+      "start": 1709.22,
+      "duration": 3.619999999999891,
+      "text": "That he does all things according to his good purposes,",
+      "avg_logprob": -0.16307699112665086,
+      "no_speech_prob": 9.886528444871812e-13,
+      "compression_ratio": 1.8916666666666666,
+      "temperature": 0.0
+    },
+    {
+      "start": 1714.4,
+      "duration": 9.059999999999945,
+      "text": "us. We're called to trust that he's still good. You guys, even Christians still wrestle with this,",
+      "avg_logprob": -0.054456818488336375,
+      "no_speech_prob": 5.291988093396316e-13,
+      "compression_ratio": 1.721461187214612,
+      "temperature": 0.0
+    },
+    {
+      "start": 1723.52,
+      "duration": 4.680000000000064,
+      "text": "and I get that. I mean, you're probably sitting there even wrestling with one or the other of",
+      "avg_logprob": -0.054456818488336375,
+      "no_speech_prob": 5.291988093396316e-13,
+      "compression_ratio": 1.721461187214612,
+      "temperature": 0.0
+    },
+    {
+      "start": 1728.2,
+      "duration": 6.2999999999999545,
+      "text": "those two things in some way or another. We don't always believe that God is in control.",
+      "avg_logprob": -0.054456818488336375,
+      "no_speech_prob": 5.291988093396316e-13,
+      "compression_ratio": 1.721461187214612,
+      "temperature": 0.0
+    },
+    {
+      "start": 1735.1200000000001,
+      "duration": 7.079999999999927,
+      "text": "We don't always believe that God is truly good. When we go through difficult and painful things",
+      "avg_logprob": -0.054456818488336375,
+      "no_speech_prob": 5.291988093396316e-13,
+      "compression_ratio": 1.721461187214612,
+      "temperature": 0.0
+    },
+    {
+      "start": 1742.2,
+      "duration": 5.6599999999998545,
+      "text": "in our life, our heart turns to wonder why, maybe you thought this, why is God out to get me?",
+      "avg_logprob": -0.1039698715209961,
+      "no_speech_prob": 7.009850057186628e-13,
+      "compression_ratio": 1.6953405017921146,
+      "temperature": 0.0
+    },
+    {
+      "start": 1748.1,
+      "duration": 4.860000000000127,
+      "text": "Right? We start to think that. Or we start to think, maybe God just can't do anything about this.",
+      "avg_logprob": -0.1039698715209961,
+      "no_speech_prob": 7.009850057186628e-13,
+      "compression_ratio": 1.6953405017921146,
+      "temperature": 0.0
+    },
+    {
+      "start": 1754.08,
+      "duration": 4.759999999999991,
+      "text": "We start to wonder and ask those questions. And when we accept the truth of this view,",
+      "avg_logprob": -0.1039698715209961,
+      "no_speech_prob": 7.009850057186628e-13,
+      "compression_ratio": 1.6953405017921146,
+      "temperature": 0.0
+    },
+    {
+      "start": 1758.84,
+      "duration": 5.220000000000027,
+      "text": "that God is in control, but he's also good, then here's what's amazing. Our life begins to change,",
+      "avg_logprob": -0.1039698715209961,
+      "no_speech_prob": 7.009850057186628e-13,
+      "compression_ratio": 1.6953405017921146,
+      "temperature": 0.0
+    },
+    {
+      "start": 1764.2,
+      "duration": 7.680000000000064,
+      "text": "you guys. I can't tell you, I went through this personally myself when I began to believe these",
+      "avg_logprob": -0.1039698715209961,
+      "no_speech_prob": 7.009850057186628e-13,
+      "compression_ratio": 1.6953405017921146,
+      "temperature": 0.0
+    },
+    {
+      "start": 1772.2,
+      "duration": 2.7000000000000455,
+      "text": "that actually I felt like my life began,",
+      "avg_logprob": -0.21060871124267577,
+      "no_speech_prob": 4.932686746041137e-13,
+      "compression_ratio": 1.6066350710900474,
+      "temperature": 0.0
+    },
+    {
+      "start": 1775.04,
+      "duration": 2.660000000000082,
+      "text": "I felt like I was brand new again",
+      "avg_logprob": -0.21060871124267577,
+      "no_speech_prob": 4.932686746041137e-13,
+      "compression_ratio": 1.6066350710900474,
+      "temperature": 0.0
+    },
+    {
+      "start": 1778.44,
+      "duration": 1.5399999999999636,
+      "text": "when I finally accepted this.",
+      "avg_logprob": -0.21060871124267577,
+      "no_speech_prob": 4.932686746041137e-13,
+      "compression_ratio": 1.6066350710900474,
+      "temperature": 0.0
+    },
+    {
+      "start": 1780.06,
+      "duration": 1.240000000000009,
+      "text": "So here's what changes.",
+      "avg_logprob": -0.21060871124267577,
+      "no_speech_prob": 4.932686746041137e-13,
+      "compression_ratio": 1.6066350710900474,
+      "temperature": 0.0
+    },
+    {
+      "start": 1781.9,
+      "duration": 1.5599999999999454,
+      "text": "Two quick things and then we're done.",
+      "avg_logprob": -0.21060871124267577,
+      "no_speech_prob": 4.932686746041137e-13,
+      "compression_ratio": 1.6066350710900474,
+      "temperature": 0.0
+    },
+    {
+      "start": 1784.56,
+      "duration": 1.5,
+      "text": "When we believe this,",
+      "avg_logprob": -0.21060871124267577,
+      "no_speech_prob": 4.932686746041137e-13,
+      "compression_ratio": 1.6066350710900474,
+      "temperature": 0.0
+    },
+    {
+      "start": 1786.32,
+      "duration": 2.1400000000001,
+      "text": "when we believe that God exists",
+      "avg_logprob": -0.21060871124267577,
+      "no_speech_prob": 4.932686746041137e-13,
+      "compression_ratio": 1.6066350710900474,
+      "temperature": 0.0
+    },
+    {
+      "start": 1788.46,
+      "duration": 1.099999999999909,
+      "text": "and that we can trust him,",
+      "avg_logprob": -0.21060871124267577,
+      "no_speech_prob": 4.932686746041137e-13,
+      "compression_ratio": 1.6066350710900474,
+      "temperature": 0.0
+    },
+    {
+      "start": 1789.84,
+      "duration": 2.5,
+      "text": "number one, our life begins to have meaning.",
+      "avg_logprob": -0.21060871124267577,
+      "no_speech_prob": 4.932686746041137e-13,
+      "compression_ratio": 1.6066350710900474,
+      "temperature": 0.0
+    },
+    {
+      "start": 1793.56,
+      "duration": 3.519999999999982,
+      "text": "Our life actually has real purpose again.",
+      "avg_logprob": -0.21060871124267577,
+      "no_speech_prob": 4.932686746041137e-13,
+      "compression_ratio": 1.6066350710900474,
+      "temperature": 0.0
+    },
+    {
+      "start": 1798.16,
+      "duration": 0.5399999999999636,
+      "text": "Why?",
+      "avg_logprob": -0.21060871124267577,
+      "no_speech_prob": 4.932686746041137e-13,
+      "compression_ratio": 1.6066350710900474,
+      "temperature": 0.0
+    },
+    {
+      "start": 1798.7,
+      "duration": 7.440000000000055,
+      "text": "Because all of the things that we do under the sun, every earthly endeavor, now has a purpose behind it.",
+      "avg_logprob": -0.15506175546085132,
+      "no_speech_prob": 4.105238826830615e-13,
+      "compression_ratio": 1.6180904522613064,
+      "temperature": 0.0
+    },
+    {
+      "start": 1806.32,
+      "duration": 6.1400000000001,
+      "text": "All of the futility that we've been subject to because of Adam's sin is undone,",
+      "avg_logprob": -0.15506175546085132,
+      "no_speech_prob": 4.105238826830615e-13,
+      "compression_ratio": 1.6180904522613064,
+      "temperature": 0.0
+    },
+    {
+      "start": 1812.46,
+      "duration": 9.539999999999964,
+      "text": "and it's undone through the redemption of Christ, who restored us, and he's restoring all of creation.",
+      "avg_logprob": -0.15506175546085132,
+      "no_speech_prob": 4.105238826830615e-13,
+      "compression_ratio": 1.6180904522613064,
+      "temperature": 0.0
+    },
+    {
+      "start": 1823.48,
+      "duration": 2.9600000000000364,
+      "text": "So all of that futility is broken.",
+      "avg_logprob": -0.15506175546085132,
+      "no_speech_prob": 4.105238826830615e-13,
+      "compression_ratio": 1.6180904522613064,
+      "temperature": 0.0
+    },
+    {
+      "start": 1827.84,
+      "duration": 2.8400000000001455,
+      "text": "Mike quoted this passage last week, but I got to say it again.",
+      "avg_logprob": -0.18190332412719726,
+      "no_speech_prob": 5.766707098821267e-13,
+      "compression_ratio": 1.5319148936170213,
+      "temperature": 0.0
+    },
+    {
+      "start": 1831.02,
+      "duration": 1.2999999999999545,
+      "text": "Romans 8, verse 20.",
+      "avg_logprob": -0.18190332412719726,
+      "no_speech_prob": 5.766707098821267e-13,
+      "compression_ratio": 1.5319148936170213,
+      "temperature": 0.0
+    },
+    {
+      "start": 1832.4,
+      "duration": 0.8999999999998636,
+      "text": "We'll put it up here.",
+      "avg_logprob": -0.18190332412719726,
+      "no_speech_prob": 5.766707098821267e-13,
+      "compression_ratio": 1.5319148936170213,
+      "temperature": 0.0
+    },
+    {
+      "start": 1833.48,
+      "duration": 0.2999999999999545,
+      "text": "It says,",
+      "avg_logprob": -0.18190332412719726,
+      "no_speech_prob": 5.766707098821267e-13,
+      "compression_ratio": 1.5319148936170213,
+      "temperature": 0.0
+    },
+    {
+      "start": 1833.94,
+      "duration": 7.579999999999927,
+      "text": "For the creation was subjected to futility, not willingly, but because of him, of Adam, who subjected it,",
+      "avg_logprob": -0.18190332412719726,
+      "no_speech_prob": 5.766707098821267e-13,
+      "compression_ratio": 1.5319148936170213,
+      "temperature": 0.0
+    },
+    {
+      "start": 1842.34,
+      "duration": 7.5,
+      "text": "in hope that the creation itself will be set free from its bondage to corruption",
+      "avg_logprob": -0.18190332412719726,
+      "no_speech_prob": 5.766707098821267e-13,
+      "compression_ratio": 1.5319148936170213,
+      "temperature": 0.0
+    },
+    {
+      "start": 1849.84,
+      "duration": 4.440000000000055,
+      "text": "and obtain the freedom of the glory of the children of God.",
+      "avg_logprob": -0.18190332412719726,
+      "no_speech_prob": 5.766707098821267e-13,
+      "compression_ratio": 1.5319148936170213,
+      "temperature": 0.0
+    },
+    {
+      "start": 1854.28,
+      "duration": 9.160000000000082,
+      "text": "There is redemption, you guys, through the blood of Christ, not just for ourself, but all of creation is redeemed.",
+      "avg_logprob": -0.0752547866419742,
+      "no_speech_prob": 5.97300746189855e-13,
+      "compression_ratio": 1.7366071428571428,
+      "temperature": 0.0
+    },
+    {
+      "start": 1863.54,
+      "duration": 9.6400000000001,
+      "text": "Which means that Jesus died on the cross to redeem you and all of creation giving ultimate meaning and purpose to your life.",
+      "avg_logprob": -0.0752547866419742,
+      "no_speech_prob": 5.97300746189855e-13,
+      "compression_ratio": 1.7366071428571428,
+      "temperature": 0.0
+    },
+    {
+      "start": 1874.94,
+      "duration": 8.759999999999991,
+      "text": "So when you work, when you get up for work in the morning and you put on the tie and you go down to the office and you're doing the work that you do,",
+      "avg_logprob": -0.0752547866419742,
+      "no_speech_prob": 5.97300746189855e-13,
+      "compression_ratio": 1.7366071428571428,
+      "temperature": 0.0
+    },
+    {
+      "start": 1884.28,
+      "duration": 4.2999999999999545,
+      "text": "Well, you can give yourself to that work for the glory of God.",
+      "avg_logprob": -0.11532004875472829,
+      "no_speech_prob": 3.8264939719416524e-13,
+      "compression_ratio": 1.5424528301886793,
+      "temperature": 0.0
+    },
+    {
+      "start": 1889.68,
+      "duration": 5.639999999999873,
+      "text": "And you can set an example in your workplace of honesty and integrity and faith",
+      "avg_logprob": -0.11532004875472829,
+      "no_speech_prob": 3.8264939719416524e-13,
+      "compression_ratio": 1.5424528301886793,
+      "temperature": 0.0
+    },
+    {
+      "start": 1895.32,
+      "duration": 2.160000000000082,
+      "text": "that points to our Redeemer.",
+      "avg_logprob": -0.11532004875472829,
+      "no_speech_prob": 3.8264939719416524e-13,
+      "compression_ratio": 1.5424528301886793,
+      "temperature": 0.0
+    },
+    {
+      "start": 1899.62,
+      "duration": 7.300000000000182,
+      "text": "When you get married, your marriage puts the gospel on display.",
+      "avg_logprob": -0.11532004875472829,
+      "no_speech_prob": 3.8264939719416524e-13,
+      "compression_ratio": 1.5424528301886793,
+      "temperature": 0.0
+    },
+    {
+      "start": 1908.0,
+      "duration": 0.7200000000000273,
+      "text": "Right?",
+      "avg_logprob": -0.11532004875472829,
+      "no_speech_prob": 3.8264939719416524e-13,
+      "compression_ratio": 1.5424528301886793,
+      "temperature": 0.0
+    },
+    {
+      "start": 1908.98,
+      "duration": 4.839999999999918,
+      "text": "It becomes a beautiful reflection of the relationship between Christ and the church.",
+      "avg_logprob": -0.11532004875472829,
+      "no_speech_prob": 3.8264939719416524e-13,
+      "compression_ratio": 1.5424528301886793,
+      "temperature": 0.0
+    },
+    {
+      "start": 1914.28,
+      "duration": 1.4200000000000728,
+      "text": "It has a purpose.",
+      "avg_logprob": -0.16271326957492654,
+      "no_speech_prob": 4.403857107541237e-13,
+      "compression_ratio": 1.5833333333333333,
+      "temperature": 0.0
+    },
+    {
+      "start": 1916.14,
+      "duration": 2.7799999999999727,
+      "text": "Other than just your own happiness, it's bigger than that.",
+      "avg_logprob": -0.16271326957492654,
+      "no_speech_prob": 4.403857107541237e-13,
+      "compression_ratio": 1.5833333333333333,
+      "temperature": 0.0
+    },
+    {
+      "start": 1920.64,
+      "duration": 3.119999999999891,
+      "text": "Even when you enjoy the little things of life,",
+      "avg_logprob": -0.16271326957492654,
+      "no_speech_prob": 4.403857107541237e-13,
+      "compression_ratio": 1.5833333333333333,
+      "temperature": 0.0
+    },
+    {
+      "start": 1924.56,
+      "duration": 4.080000000000155,
+      "text": "every little thing is a beautiful gift from God.",
+      "avg_logprob": -0.16271326957492654,
+      "no_speech_prob": 4.403857107541237e-13,
+      "compression_ratio": 1.5833333333333333,
+      "temperature": 0.0
+    },
+    {
+      "start": 1928.84,
+      "duration": 3.3600000000001273,
+      "text": "James chapter 1 says this, that it's a gift from our Father, right?",
+      "avg_logprob": -0.16271326957492654,
+      "no_speech_prob": 4.403857107541237e-13,
+      "compression_ratio": 1.5833333333333333,
+      "temperature": 0.0
+    },
+    {
+      "start": 1933.1200000000001,
+      "duration": 4.1599999999998545,
+      "text": "So we can gratefully accept those gifts as a good gift from our Creator",
+      "avg_logprob": -0.16271326957492654,
+      "no_speech_prob": 4.403857107541237e-13,
+      "compression_ratio": 1.5833333333333333,
+      "temperature": 0.0
+    },
+    {
+      "start": 1937.28,
+      "duration": 2.1200000000001182,
+      "text": "who loves us and wants to give us good things.",
+      "avg_logprob": -0.16271326957492654,
+      "no_speech_prob": 4.403857107541237e-13,
+      "compression_ratio": 1.5833333333333333,
+      "temperature": 0.0
+    },
+    {
+      "start": 1940.88,
+      "duration": 2.599999999999909,
+      "text": "See, because of what Christ did for us,",
+      "avg_logprob": -0.16271326957492654,
+      "no_speech_prob": 4.403857107541237e-13,
+      "compression_ratio": 1.5833333333333333,
+      "temperature": 0.0
+    },
+    {
+      "start": 1944.28,
+      "duration": 3.0599999999999454,
+      "text": "Everything in life now has meaning, has purpose.",
+      "avg_logprob": -0.17455058262265963,
+      "no_speech_prob": 4.651399708108239e-13,
+      "compression_ratio": 1.6057692307692308,
+      "temperature": 0.0
+    },
+    {
+      "start": 1948.2,
+      "duration": 1.3999999999998636,
+      "text": "It's actually fulfilling.",
+      "avg_logprob": -0.17455058262265963,
+      "no_speech_prob": 4.651399708108239e-13,
+      "compression_ratio": 1.6057692307692308,
+      "temperature": 0.0
+    },
+    {
+      "start": 1952.4,
+      "duration": 2.0599999999999454,
+      "text": "But not only that, here's the second thing.",
+      "avg_logprob": -0.17455058262265963,
+      "no_speech_prob": 4.651399708108239e-13,
+      "compression_ratio": 1.6057692307692308,
+      "temperature": 0.0
+    },
+    {
+      "start": 1955.44,
+      "duration": 4.559999999999945,
+      "text": "Not only does our life have meaning, but death cannot destroy that meaning.",
+      "avg_logprob": -0.17455058262265963,
+      "no_speech_prob": 4.651399708108239e-13,
+      "compression_ratio": 1.6057692307692308,
+      "temperature": 0.0
+    },
+    {
+      "start": 1960.96,
+      "duration": 1.7799999999999727,
+      "text": "Death cannot destroy it.",
+      "avg_logprob": -0.17455058262265963,
+      "no_speech_prob": 4.651399708108239e-13,
+      "compression_ratio": 1.6057692307692308,
+      "temperature": 0.0
+    },
+    {
+      "start": 1963.8600000000001,
+      "duration": 2.8599999999999,
+      "text": "See, when people try to create their own meaning in life,",
+      "avg_logprob": -0.17455058262265963,
+      "no_speech_prob": 4.651399708108239e-13,
+      "compression_ratio": 1.6057692307692308,
+      "temperature": 0.0
+    },
+    {
+      "start": 1967.44,
+      "duration": 4.379999999999882,
+      "text": "death basically serves as God's dismantling tool, right?",
+      "avg_logprob": -0.17455058262265963,
+      "no_speech_prob": 4.651399708108239e-13,
+      "compression_ratio": 1.6057692307692308,
+      "temperature": 0.0
+    },
+    {
+      "start": 1971.82,
+      "duration": 3.980000000000018,
+      "text": "Because at that point, God uses death to teach us that all the things in life,",
+      "avg_logprob": -0.1349289587565831,
+      "no_speech_prob": 5.857512283373445e-13,
+      "compression_ratio": 1.7925311203319503,
+      "temperature": 0.0
+    },
+    {
+      "start": 1975.94,
+      "duration": 2.6799999999998363,
+      "text": "like Solomon, all the things in life, everything that we see under the sun",
+      "avg_logprob": -0.1349289587565831,
+      "no_speech_prob": 5.857512283373445e-13,
+      "compression_ratio": 1.7925311203319503,
+      "temperature": 0.0
+    },
+    {
+      "start": 1978.62,
+      "duration": 1.3800000000001091,
+      "text": "can't give our life ultimate meaning.",
+      "avg_logprob": -0.1349289587565831,
+      "no_speech_prob": 5.857512283373445e-13,
+      "compression_ratio": 1.7925311203319503,
+      "temperature": 0.0
+    },
+    {
+      "start": 1980.9,
+      "duration": 5.619999999999891,
+      "text": "But if our ultimate meaning is in Christ, if our ultimate purpose is in Christ,",
+      "avg_logprob": -0.1349289587565831,
+      "no_speech_prob": 5.857512283373445e-13,
+      "compression_ratio": 1.7925311203319503,
+      "temperature": 0.0
+    },
+    {
+      "start": 1987.1399999999999,
+      "duration": 3.6000000000001364,
+      "text": "then Jesus, he died on the cross to redeem you in all of creation,",
+      "avg_logprob": -0.1349289587565831,
+      "no_speech_prob": 5.857512283373445e-13,
+      "compression_ratio": 1.7925311203319503,
+      "temperature": 0.0
+    },
+    {
+      "start": 1990.74,
+      "duration": 4.379999999999882,
+      "text": "and he defeated death, rising again from the dead.",
+      "avg_logprob": -0.1349289587565831,
+      "no_speech_prob": 5.857512283373445e-13,
+      "compression_ratio": 1.7925311203319503,
+      "temperature": 0.0
+    },
+    {
+      "start": 1997.42,
+      "duration": 4.220000000000027,
+      "text": "And by faith, you have been united to him.",
+      "avg_logprob": -0.1349289587565831,
+      "no_speech_prob": 5.857512283373445e-13,
+      "compression_ratio": 1.7925311203319503,
+      "temperature": 0.0
+    },
+    {
+      "start": 2002.64,
+      "duration": 7.179999999999836,
+      "text": "meaning that you are no longer under the power of sin and death.",
+      "avg_logprob": -0.22884269127478965,
+      "no_speech_prob": 3.5527838808911694e-13,
+      "compression_ratio": 1.8085106382978724,
+      "temperature": 0.0
+    },
+    {
+      "start": 2010.54,
+      "duration": 4.5,
+      "text": "Jesus has defeated the power that death has over you.",
+      "avg_logprob": -0.22884269127478965,
+      "no_speech_prob": 3.5527838808911694e-13,
+      "compression_ratio": 1.8085106382978724,
+      "temperature": 0.0
+    },
+    {
+      "start": 2016.3400000000001,
+      "duration": 4.239999999999782,
+      "text": "So death no longer means the end of life.",
+      "avg_logprob": -0.22884269127478965,
+      "no_speech_prob": 3.5527838808911694e-13,
+      "compression_ratio": 1.8085106382978724,
+      "temperature": 0.0
+    },
+    {
+      "start": 2021.9,
+      "duration": 3.3599999999999,
+      "text": "Death no longer means the loss of loved ones.",
+      "avg_logprob": -0.22884269127478965,
+      "no_speech_prob": 3.5527838808911694e-13,
+      "compression_ratio": 1.8085106382978724,
+      "temperature": 0.0
+    },
+    {
+      "start": 2026.4,
+      "duration": 3.980000000000018,
+      "text": "Death no longer means the breaking of community.",
+      "avg_logprob": -0.22884269127478965,
+      "no_speech_prob": 3.5527838808911694e-13,
+      "compression_ratio": 1.8085106382978724,
+      "temperature": 0.0
+    },
+    {
+      "start": 2031.82,
+      "duration": 3.9200000000000728,
+      "text": "Death no longer means that we're doomed to a life of meaninglessness.",
+      "avg_logprob": -0.1603812098503113,
+      "no_speech_prob": 4.1863235968053747e-13,
+      "compression_ratio": 1.5586854460093897,
+      "temperature": 0.0
+    },
+    {
+      "start": 2037.58,
+      "duration": 6.720000000000027,
+      "text": "Through Christ, we get to experience all of these things to its fullest capacity.",
+      "avg_logprob": -0.1603812098503113,
+      "no_speech_prob": 4.1863235968053747e-13,
+      "compression_ratio": 1.5586854460093897,
+      "temperature": 0.0
+    },
+    {
+      "start": 2045.5,
+      "duration": 2.5799999999999272,
+      "text": "A life of rich purpose and meaning.",
+      "avg_logprob": -0.1603812098503113,
+      "no_speech_prob": 4.1863235968053747e-13,
+      "compression_ratio": 1.5586854460093897,
+      "temperature": 0.0
+    },
+    {
+      "start": 2048.32,
+      "duration": 2.5799999999999272,
+      "text": "Because everything in life now has eternal value.",
+      "avg_logprob": -0.1603812098503113,
+      "no_speech_prob": 4.1863235968053747e-13,
+      "compression_ratio": 1.5586854460093897,
+      "temperature": 0.0
+    },
+    {
+      "start": 2051.4,
+      "duration": 2.8600000000001273,
+      "text": "And you have relationships that...",
+      "avg_logprob": -0.1603812098503113,
+      "no_speech_prob": 4.1863235968053747e-13,
+      "compression_ratio": 1.5586854460093897,
+      "temperature": 0.0
+    },
+    {
+      "start": 2054.26,
+      "duration": 5.639999999999873,
+      "text": "You guys, your relationships are not broken by sin anymore.",
+      "avg_logprob": -0.1603812098503113,
+      "no_speech_prob": 4.1863235968053747e-13,
+      "compression_ratio": 1.5586854460093897,
+      "temperature": 0.0
+    },
+    {
+      "start": 2061.82,
+      "duration": 3.7599999999997635,
+      "text": "They can be healed and fixed because of the work that Christ has done.",
+      "avg_logprob": -0.1773809734143709,
+      "no_speech_prob": 4.526488504765641e-13,
+      "compression_ratio": 1.579591836734694,
+      "temperature": 0.0
+    },
+    {
+      "start": 2066.08,
+      "duration": 2.5599999999999454,
+      "text": "And those relationships don't end at death,",
+      "avg_logprob": -0.1773809734143709,
+      "no_speech_prob": 4.526488504765641e-13,
+      "compression_ratio": 1.579591836734694,
+      "temperature": 0.0
+    },
+    {
+      "start": 2068.74,
+      "duration": 2.7200000000002547,
+      "text": "but we believe that it carries on into the new heavens and new earth.",
+      "avg_logprob": -0.1773809734143709,
+      "no_speech_prob": 4.526488504765641e-13,
+      "compression_ratio": 1.579591836734694,
+      "temperature": 0.0
+    },
+    {
+      "start": 2071.98,
+      "duration": 5.380000000000109,
+      "text": "You receive life everlasting, and all of these things are yours by faith in Christ.",
+      "avg_logprob": -0.1773809734143709,
+      "no_speech_prob": 4.526488504765641e-13,
+      "compression_ratio": 1.579591836734694,
+      "temperature": 0.0
+    },
+    {
+      "start": 2080.48,
+      "duration": 4.039999999999964,
+      "text": "Church, you can leave here today with joy.",
+      "avg_logprob": -0.1773809734143709,
+      "no_speech_prob": 4.526488504765641e-13,
+      "compression_ratio": 1.579591836734694,
+      "temperature": 0.0
+    },
+    {
+      "start": 2086.14,
+      "duration": 3.980000000000018,
+      "text": "Not the despair that Solomon is talking about when he's doing this pursuit,",
+      "avg_logprob": -0.1773809734143709,
+      "no_speech_prob": 4.526488504765641e-13,
+      "compression_ratio": 1.579591836734694,
+      "temperature": 0.0
+    },
+    {
+      "start": 2091.82,
+      "duration": 1.5,
+      "text": "knowing that all of these things,",
+      "avg_logprob": -0.20318114757537842,
+      "no_speech_prob": 6.820751645778e-13,
+      "compression_ratio": 1.6542056074766356,
+      "temperature": 0.0
+    },
+    {
+      "start": 2093.88,
+      "duration": 2.299999999999727,
+      "text": "all of the things that you do in life have eternal meaning",
+      "avg_logprob": -0.20318114757537842,
+      "no_speech_prob": 6.820751645778e-13,
+      "compression_ratio": 1.6542056074766356,
+      "temperature": 0.0
+    },
+    {
+      "start": 2096.18,
+      "duration": 2.6200000000003456,
+      "text": "because death no longer has hold on you.",
+      "avg_logprob": -0.20318114757537842,
+      "no_speech_prob": 6.820751645778e-13,
+      "compression_ratio": 1.6542056074766356,
+      "temperature": 0.0
+    },
+    {
+      "start": 2101.08,
+      "duration": 1.599999999999909,
+      "text": "So I want to leave you with this today.",
+      "avg_logprob": -0.20318114757537842,
+      "no_speech_prob": 6.820751645778e-13,
+      "compression_ratio": 1.6542056074766356,
+      "temperature": 0.0
+    },
+    {
+      "start": 2102.86,
+      "duration": 4.279999999999745,
+      "text": "May you live in the knowledge of Jesus Christ,",
+      "avg_logprob": -0.20318114757537842,
+      "no_speech_prob": 6.820751645778e-13,
+      "compression_ratio": 1.6542056074766356,
+      "temperature": 0.0
+    },
+    {
+      "start": 2107.92,
+      "duration": 4.679999999999836,
+      "text": "trusting him and his good purposes in your life",
+      "avg_logprob": -0.20318114757537842,
+      "no_speech_prob": 6.820751645778e-13,
+      "compression_ratio": 1.6542056074766356,
+      "temperature": 0.0
+    },
+    {
+      "start": 2112.6,
+      "duration": 2.200000000000273,
+      "text": "so that you can live every day,",
+      "avg_logprob": -0.20318114757537842,
+      "no_speech_prob": 6.820751645778e-13,
+      "compression_ratio": 1.6542056074766356,
+      "temperature": 0.0
+    },
+    {
+      "start": 2115.58,
+      "duration": 3.019999999999982,
+      "text": "every day knowing that your life matters.",
+      "avg_logprob": -0.20318114757537842,
+      "no_speech_prob": 6.820751645778e-13,
+      "compression_ratio": 1.6542056074766356,
+      "temperature": 0.0
+    },
+    {
+      "start": 2119.72,
+      "duration": 0.6600000000003092,
+      "text": "Let's pray.",
+      "avg_logprob": -0.20318114757537842,
+      "no_speech_prob": 6.820751645778e-13,
+      "compression_ratio": 1.6542056074766356,
+      "temperature": 0.0
+    },
+    {
+      "start": 2125.34,
+      "duration": 3.019999999999982,
+      "text": "Heavenly Father, we praise you this morning",
+      "avg_logprob": -0.2873744283403669,
+      "no_speech_prob": 4.893681488683799e-13,
+      "compression_ratio": 1.4428571428571428,
+      "temperature": 0.0
+    },
+    {
+      "start": 2130.1,
+      "duration": 4.2400000000002365,
+      "text": "because you gave your life to defeat death,",
+      "avg_logprob": -0.2873744283403669,
+      "no_speech_prob": 4.893681488683799e-13,
+      "compression_ratio": 1.4428571428571428,
+      "temperature": 0.0
+    },
+    {
+      "start": 2135.32,
+      "duration": 2.0399999999999636,
+      "text": "to free us from its power,",
+      "avg_logprob": -0.2873744283403669,
+      "no_speech_prob": 4.893681488683799e-13,
+      "compression_ratio": 1.4428571428571428,
+      "temperature": 0.0
+    },
+    {
+      "start": 2140.1,
+      "duration": 4.920000000000073,
+      "text": "and to give us a meaning, a purpose,",
+      "avg_logprob": -0.2873744283403669,
+      "no_speech_prob": 4.893681488683799e-13,
+      "compression_ratio": 1.4428571428571428,
+      "temperature": 0.0
+    },
+    {
+      "start": 2147.28,
+      "duration": 2.419999999999618,
+      "text": "something more than just the things of this world.",
+      "avg_logprob": -0.2873744283403669,
+      "no_speech_prob": 4.893681488683799e-13,
+      "compression_ratio": 1.4428571428571428,
+      "temperature": 0.0
+    },
+    {
+      "start": 2150.7200000000003,
+      "duration": 4.699999999999818,
+      "text": "you have restored all of those things in us",
+      "avg_logprob": -0.11922541118803479,
+      "no_speech_prob": 4.615753851182347e-13,
+      "compression_ratio": 1.9142857142857144,
+      "temperature": 0.0
+    },
+    {
+      "start": 2157.3,
+      "duration": 6.1599999999998545,
+      "text": "and so heavenly father help us as we prepare to take the lord's supper as we prepare then to go",
+      "avg_logprob": -0.11922541118803479,
+      "no_speech_prob": 4.615753851182347e-13,
+      "compression_ratio": 1.9142857142857144,
+      "temperature": 0.0
+    },
+    {
+      "start": 2163.46,
+      "duration": 8.779999999999745,
+      "text": "out back to our week lord help us to live a life of joy and purpose and meaning help us to live",
+      "avg_logprob": -0.11922541118803479,
+      "no_speech_prob": 4.615753851182347e-13,
+      "compression_ratio": 1.9142857142857144,
+      "temperature": 0.0
+    },
+    {
+      "start": 2173.28,
+      "duration": 5.299999999999727,
+      "text": "in such a way where all of those things truly all the things that we do all the things that we busy",
+      "avg_logprob": -0.11922541118803479,
+      "no_speech_prob": 4.615753851182347e-13,
+      "compression_ratio": 1.9142857142857144,
+      "temperature": 0.0
+    },
+    {
+      "start": 2179.7,
+      "duration": 0.6400000000003274,
+      "text": "do matter.",
+      "avg_logprob": -0.2336576779683431,
+      "no_speech_prob": 4.2850597202492846e-13,
+      "compression_ratio": 1.2894736842105263,
+      "temperature": 0.0
+    },
+    {
+      "start": 2183.14,
+      "duration": 2.6400000000003274,
+      "text": "It's all because of you and what you've done for us.",
+      "avg_logprob": -0.2336576779683431,
+      "no_speech_prob": 4.2850597202492846e-13,
+      "compression_ratio": 1.2894736842105263,
+      "temperature": 0.0
+    },
+    {
+      "start": 2187.96,
+      "duration": 2.199999999999818,
+      "text": "We praise you this morning and we thank you.",
+      "avg_logprob": -0.2336576779683431,
+      "no_speech_prob": 4.2850597202492846e-13,
+      "compression_ratio": 1.2894736842105263,
+      "temperature": 0.0
+    },
+    {
+      "start": 2191.02,
+      "duration": 2.0399999999999636,
+      "text": "It's all in Jesus' name we pray. Amen.",
+      "avg_logprob": -0.2336576779683431,
+      "no_speech_prob": 4.2850597202492846e-13,
+      "compression_ratio": 1.2894736842105263,
+      "temperature": 0.0
+    }
+  ]
+}

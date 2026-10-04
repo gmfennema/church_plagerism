@@ -1,0 +1,4644 @@
+{
+  "title": "The Lost Art Of Companionship",
+  "date": "2024-02-18T00:00:00Z",
+  "scripture": "Ecclesiastes 4:1-16",
+  "speaker": "Chris McLaughlin",
+  "site_url": "https://fieldspres.org/media/rq4ct8j/the-lost-art-of-companionship",
+  "short_code": "rq4ct8j",
+  "subsplash_url": "https://subspla.sh/rq4ct8j",
+  "audio_url": "https://cdn.subsplash.com/audios/83RBNZ/8ef54cab-6e2f-46cb-bf21-7b73e6602bf5/audio.mp3",
+  "video_url": "https://cdn.subsplash.com/videos/83RBNZ/_source/64d4364e-eb88-43a1-b355-f4fa9a7e0432/video.mp4",
+  "duration_ms": 2325890,
+  "transcript_source": "Local Whisper large-v3-turbo (MLX)",
+  "transcript_source_url": "https://cdn.subsplash.com/audios/83RBNZ/8ef54cab-6e2f-46cb-bf21-7b73e6602bf5/audio.mp3",
+  "language_code": "en",
+  "transcribed_at": "2026-10-04T21:41:18.854087+00:00",
+  "transcription": {
+    "engine": "mlx-whisper",
+    "engine_version": "0.4.3",
+    "mlx_version": "0.32.3",
+    "model_repo": "mlx-community/whisper-large-v3-turbo",
+    "model_revision": "a4aaeec0636e6fef84abdcbe3544cb2bf7e9f6fb",
+    "language": "en",
+    "word_timestamps": true,
+    "condition_on_previous_text": false,
+    "hallucination_silence_threshold": 2.0,
+    "audio_duration_seconds": 2325.844014,
+    "processing_seconds": 169.75196629200036,
+    "speed_multiple": 13.701426055938454,
+    "audio_retained": false,
+    "cloud_audio_processing": false,
+    "manually_corrected": false
+  },
+  "quality_flags": [],
+  "snippets": [
+    {
+      "start": 18.54,
+      "duration": 4.760000000000002,
+      "text": "We'll open up your Bible this morning to Ecclesiastes chapter 4.",
+      "avg_logprob": -0.26545781180972144,
+      "no_speech_prob": 2.755462416396959e-13,
+      "compression_ratio": 0.9014084507042254,
+      "temperature": 0.0
+    },
+    {
+      "start": 23.3,
+      "duration": 7.34,
+      "text": "Or, we've been in a series we're calling Meaningful, up here on the screen.",
+      "avg_logprob": -0.19057508615347055,
+      "no_speech_prob": 6.740255055481814e-13,
+      "compression_ratio": 1.6340425531914893,
+      "temperature": 0.0
+    },
+    {
+      "start": 30.9,
+      "duration": 2.740000000000002,
+      "text": "And this series in the book of Ecclesiastes.",
+      "avg_logprob": -0.19057508615347055,
+      "no_speech_prob": 6.740255055481814e-13,
+      "compression_ratio": 1.6340425531914893,
+      "temperature": 0.0
+    },
+    {
+      "start": 33.78,
+      "duration": 1.8999999999999986,
+      "text": "So we're going to do all of chapter 4 today.",
+      "avg_logprob": -0.19057508615347055,
+      "no_speech_prob": 6.740255055481814e-13,
+      "compression_ratio": 1.6340425531914893,
+      "temperature": 0.0
+    },
+    {
+      "start": 35.78,
+      "duration": 3.1400000000000006,
+      "text": "We're going to knock it out and get moving on this.",
+      "avg_logprob": -0.19057508615347055,
+      "no_speech_prob": 6.740255055481814e-13,
+      "compression_ratio": 1.6340425531914893,
+      "temperature": 0.0
+    },
+    {
+      "start": 39.04,
+      "duration": 1.8000000000000043,
+      "text": "So, let's read the chapter.",
+      "avg_logprob": -0.19057508615347055,
+      "no_speech_prob": 6.740255055481814e-13,
+      "compression_ratio": 1.6340425531914893,
+      "temperature": 0.0
+    },
+    {
+      "start": 42.940000000000005,
+      "duration": 3.0799999999999983,
+      "text": "Again, I saw all the oppressions that are done under the sun.",
+      "avg_logprob": -0.19057508615347055,
+      "no_speech_prob": 6.740255055481814e-13,
+      "compression_ratio": 1.6340425531914893,
+      "temperature": 0.0
+    },
+    {
+      "start": 46.72,
+      "duration": 2.1400000000000006,
+      "text": "And behold, the tears of the oppressed.",
+      "avg_logprob": -0.19057508615347055,
+      "no_speech_prob": 6.740255055481814e-13,
+      "compression_ratio": 1.6340425531914893,
+      "temperature": 0.0
+    },
+    {
+      "start": 49.36,
+      "duration": 2.1600000000000037,
+      "text": "And they had no one to comfort them.",
+      "avg_logprob": -0.19057508615347055,
+      "no_speech_prob": 6.740255055481814e-13,
+      "compression_ratio": 1.6340425531914893,
+      "temperature": 0.0
+    },
+    {
+      "start": 53.3,
+      "duration": 7.140000000000001,
+      "text": "of their oppressors, there was power, and there was no one to comfort them. And I thought the dead",
+      "avg_logprob": -0.03803239205870965,
+      "no_speech_prob": 9.250225368670484e-13,
+      "compression_ratio": 1.7219730941704037,
+      "temperature": 0.0
+    },
+    {
+      "start": 60.44,
+      "duration": 5.219999999999999,
+      "text": "who are already dead more fortunate than the living who are still alive. But better than both",
+      "avg_logprob": -0.03803239205870965,
+      "no_speech_prob": 9.250225368670484e-13,
+      "compression_ratio": 1.7219730941704037,
+      "temperature": 0.0
+    },
+    {
+      "start": 65.66,
+      "duration": 7.260000000000005,
+      "text": "is he who has not yet been born, or has not yet been, and has not seen the evil deeds that are",
+      "avg_logprob": -0.03803239205870965,
+      "no_speech_prob": 9.250225368670484e-13,
+      "compression_ratio": 1.7219730941704037,
+      "temperature": 0.0
+    },
+    {
+      "start": 72.92,
+      "duration": 7.179999999999993,
+      "text": "done under the sun. Then I saw that all toil and all skill in work come from a man's envy of his",
+      "avg_logprob": -0.03803239205870965,
+      "no_speech_prob": 9.250225368670484e-13,
+      "compression_ratio": 1.7219730941704037,
+      "temperature": 0.0
+    },
+    {
+      "start": 80.1,
+      "duration": 7.940000000000012,
+      "text": "neighbor. This also is vanity and striving after wind. The fool folds his hands and eats his own",
+      "avg_logprob": -0.07300496101379395,
+      "no_speech_prob": 7.973016778045627e-13,
+      "compression_ratio": 1.7034883720930232,
+      "temperature": 0.0
+    },
+    {
+      "start": 88.04,
+      "duration": 7.859999999999999,
+      "text": "flesh. Better is a hand full of quietness than two hands full of toil and a striving after wind.",
+      "avg_logprob": -0.07300496101379395,
+      "no_speech_prob": 7.973016778045627e-13,
+      "compression_ratio": 1.7034883720930232,
+      "temperature": 0.0
+    },
+    {
+      "start": 96.92,
+      "duration": 7.8999999999999915,
+      "text": "Again, I saw vanity under the sun, one person who has no other, either son or brother, yet there is",
+      "avg_logprob": -0.07300496101379395,
+      "no_speech_prob": 7.973016778045627e-13,
+      "compression_ratio": 1.7034883720930232,
+      "temperature": 0.0
+    },
+    {
+      "start": 104.82,
+      "duration": 6.1000000000000085,
+      "text": "no end to all his toil, and his eyes are never satisfied with riches, so that he never asks,",
+      "avg_logprob": -0.06248039128829022,
+      "no_speech_prob": 8.861153998063198e-13,
+      "compression_ratio": 1.597457627118644,
+      "temperature": 0.0
+    },
+    {
+      "start": 111.08,
+      "duration": 5.859999999999999,
+      "text": "for whom am I toiling and depriving myself of pleasure? This also is vanity and an unhappy",
+      "avg_logprob": -0.06248039128829022,
+      "no_speech_prob": 8.861153998063198e-13,
+      "compression_ratio": 1.597457627118644,
+      "temperature": 0.0
+    },
+    {
+      "start": 116.94,
+      "duration": 7.1000000000000085,
+      "text": "business. Two are better than one, because they have good reward for their toil. For if they fall,",
+      "avg_logprob": -0.06248039128829022,
+      "no_speech_prob": 8.861153998063198e-13,
+      "compression_ratio": 1.597457627118644,
+      "temperature": 0.0
+    },
+    {
+      "start": 124.2,
+      "duration": 6.519999999999996,
+      "text": "one will lift up his fellow. But woe to him who is alone when he falls, and has not another to",
+      "avg_logprob": -0.06248039128829022,
+      "no_speech_prob": 8.861153998063198e-13,
+      "compression_ratio": 1.597457627118644,
+      "temperature": 0.0
+    },
+    {
+      "start": 130.72,
+      "duration": 5.939999999999998,
+      "text": "Again, if two lie together, they keep warm, but how can one keep warm alone?",
+      "avg_logprob": -0.13431260020462507,
+      "no_speech_prob": 1.3777972903208924e-12,
+      "compression_ratio": 1.6008403361344539,
+      "temperature": 0.0
+    },
+    {
+      "start": 137.8,
+      "duration": 4.9599999999999795,
+      "text": "And though a man might prevail against one who is alone, two will withstand him.",
+      "avg_logprob": -0.13431260020462507,
+      "no_speech_prob": 1.3777972903208924e-12,
+      "compression_ratio": 1.6008403361344539,
+      "temperature": 0.0
+    },
+    {
+      "start": 142.96,
+      "duration": 4.639999999999986,
+      "text": "A threefold cord is not quickly broken.",
+      "avg_logprob": -0.13431260020462507,
+      "no_speech_prob": 1.3777972903208924e-12,
+      "compression_ratio": 1.6008403361344539,
+      "temperature": 0.0
+    },
+    {
+      "start": 149.18,
+      "duration": 5.939999999999998,
+      "text": "Better was a poor and wise youth than an old and foolish king who no longer knew how to take advice.",
+      "avg_logprob": -0.13431260020462507,
+      "no_speech_prob": 1.3777972903208924e-12,
+      "compression_ratio": 1.6008403361344539,
+      "temperature": 0.0
+    },
+    {
+      "start": 155.34,
+      "duration": 5.299999999999983,
+      "text": "For he went from prison to the throne, though in his own kingdom he had been poor.",
+      "avg_logprob": -0.13431260020462507,
+      "no_speech_prob": 1.3777972903208924e-12,
+      "compression_ratio": 1.6008403361344539,
+      "temperature": 0.0
+    },
+    {
+      "start": 161.38,
+      "duration": 4.02000000000001,
+      "text": "I saw all the living who move about under the sun,",
+      "avg_logprob": -0.20225160772150214,
+      "no_speech_prob": 5.902893733707171e-13,
+      "compression_ratio": 1.5544554455445545,
+      "temperature": 0.0
+    },
+    {
+      "start": 165.56,
+      "duration": 3.319999999999993,
+      "text": "along with that youth who was to stand in the king's place.",
+      "avg_logprob": -0.20225160772150214,
+      "no_speech_prob": 5.902893733707171e-13,
+      "compression_ratio": 1.5544554455445545,
+      "temperature": 0.0
+    },
+    {
+      "start": 169.64,
+      "duration": 4.180000000000007,
+      "text": "There was no end of all the people, all of whom he led.",
+      "avg_logprob": -0.20225160772150214,
+      "no_speech_prob": 5.902893733707171e-13,
+      "compression_ratio": 1.5544554455445545,
+      "temperature": 0.0
+    },
+    {
+      "start": 174.22,
+      "duration": 3.4399999999999977,
+      "text": "Yet those who come later will not rejoice in him.",
+      "avg_logprob": -0.20225160772150214,
+      "no_speech_prob": 5.902893733707171e-13,
+      "compression_ratio": 1.5544554455445545,
+      "temperature": 0.0
+    },
+    {
+      "start": 178.38,
+      "duration": 4.539999999999992,
+      "text": "Surely this also is vanity and striving after wind.",
+      "avg_logprob": -0.20225160772150214,
+      "no_speech_prob": 5.902893733707171e-13,
+      "compression_ratio": 1.5544554455445545,
+      "temperature": 0.0
+    },
+    {
+      "start": 183.72,
+      "duration": 2.5600000000000023,
+      "text": "The grass withers and the flower fades.",
+      "avg_logprob": -0.20225160772150214,
+      "no_speech_prob": 5.902893733707171e-13,
+      "compression_ratio": 1.5544554455445545,
+      "temperature": 0.0
+    },
+    {
+      "start": 189.82,
+      "duration": 0.6800000000000068,
+      "text": "Amen.",
+      "avg_logprob": -0.20225160772150214,
+      "no_speech_prob": 5.902893733707171e-13,
+      "compression_ratio": 1.5544554455445545,
+      "temperature": 0.0
+    },
+    {
+      "start": 190.72,
+      "duration": 0.47999999999998977,
+      "text": "Let's pray.",
+      "avg_logprob": -0.19688310623168945,
+      "no_speech_prob": 6.87507071672061e-13,
+      "compression_ratio": 1.7760416666666667,
+      "temperature": 0.0
+    },
+    {
+      "start": 193.68,
+      "duration": 1.1399999999999864,
+      "text": "Lord, we thank you.",
+      "avg_logprob": -0.19688310623168945,
+      "no_speech_prob": 6.87507071672061e-13,
+      "compression_ratio": 1.7760416666666667,
+      "temperature": 0.0
+    },
+    {
+      "start": 194.96,
+      "duration": 6.8799999999999955,
+      "text": "We praise you this morning for your word, that in your word you give us wisdom,",
+      "avg_logprob": -0.19688310623168945,
+      "no_speech_prob": 6.87507071672061e-13,
+      "compression_ratio": 1.7760416666666667,
+      "temperature": 0.0
+    },
+    {
+      "start": 202.4,
+      "duration": 6.180000000000007,
+      "text": "you give us understanding, but you also bring us life.",
+      "avg_logprob": -0.19688310623168945,
+      "no_speech_prob": 6.87507071672061e-13,
+      "compression_ratio": 1.7760416666666667,
+      "temperature": 0.0
+    },
+    {
+      "start": 209.88,
+      "duration": 3.960000000000008,
+      "text": "So, Lord, this morning we ask that you would illuminate your word to us,",
+      "avg_logprob": -0.19688310623168945,
+      "no_speech_prob": 6.87507071672061e-13,
+      "compression_ratio": 1.7760416666666667,
+      "temperature": 0.0
+    },
+    {
+      "start": 213.92,
+      "duration": 4.5800000000000125,
+      "text": "that we would understand it, and that you would speak life to us today.",
+      "avg_logprob": -0.19688310623168945,
+      "no_speech_prob": 6.87507071672061e-13,
+      "compression_ratio": 1.7760416666666667,
+      "temperature": 0.0
+    },
+    {
+      "start": 218.72,
+      "duration": 1.3000000000000114,
+      "text": "In Jesus' name we pray.",
+      "avg_logprob": -0.19688310623168945,
+      "no_speech_prob": 6.87507071672061e-13,
+      "compression_ratio": 1.7760416666666667,
+      "temperature": 0.0
+    },
+    {
+      "start": 220.18,
+      "duration": 0.45999999999997954,
+      "text": "Amen.",
+      "avg_logprob": -0.19688310623168945,
+      "no_speech_prob": 6.87507071672061e-13,
+      "compression_ratio": 1.7760416666666667,
+      "temperature": 0.0
+    },
+    {
+      "start": 223.48,
+      "duration": 4.52000000000001,
+      "text": "I was talking with my friend Steve over here not too long ago about movies.",
+      "avg_logprob": -0.13905370646509632,
+      "no_speech_prob": 8.132292582396783e-13,
+      "compression_ratio": 1.9367088607594938,
+      "temperature": 0.0
+    },
+    {
+      "start": 228.36,
+      "duration": 1.4399999999999977,
+      "text": "We're big movie fans.",
+      "avg_logprob": -0.13905370646509632,
+      "no_speech_prob": 8.132292582396783e-13,
+      "compression_ratio": 1.9367088607594938,
+      "temperature": 0.0
+    },
+    {
+      "start": 229.96,
+      "duration": 3.539999999999992,
+      "text": "And as we were talking about movies, one of the things he said to me I thought was really interesting.",
+      "avg_logprob": -0.13905370646509632,
+      "no_speech_prob": 8.132292582396783e-13,
+      "compression_ratio": 1.9367088607594938,
+      "temperature": 0.0
+    },
+    {
+      "start": 233.5,
+      "duration": 5.300000000000011,
+      "text": "He said, you know, some of the best movies, the one that really resonates with our hearts,",
+      "avg_logprob": -0.13905370646509632,
+      "no_speech_prob": 8.132292582396783e-13,
+      "compression_ratio": 1.9367088607594938,
+      "temperature": 0.0
+    },
+    {
+      "start": 238.8,
+      "duration": 4.019999999999982,
+      "text": "are movies that have this theme of friendship in them.",
+      "avg_logprob": -0.13905370646509632,
+      "no_speech_prob": 8.132292582396783e-13,
+      "compression_ratio": 1.9367088607594938,
+      "temperature": 0.0
+    },
+    {
+      "start": 242.9,
+      "duration": 1.1999999999999886,
+      "text": "And I started thinking about that.",
+      "avg_logprob": -0.13905370646509632,
+      "no_speech_prob": 8.132292582396783e-13,
+      "compression_ratio": 1.9367088607594938,
+      "temperature": 0.0
+    },
+    {
+      "start": 244.14,
+      "duration": 0.8400000000000034,
+      "text": "I think that's really true.",
+      "avg_logprob": -0.13905370646509632,
+      "no_speech_prob": 8.132292582396783e-13,
+      "compression_ratio": 1.9367088607594938,
+      "temperature": 0.0
+    },
+    {
+      "start": 245.68,
+      "duration": 2.2399999999999807,
+      "text": "I started thinking about movies about friendship.",
+      "avg_logprob": -0.13905370646509632,
+      "no_speech_prob": 8.132292582396783e-13,
+      "compression_ratio": 1.9367088607594938,
+      "temperature": 0.0
+    },
+    {
+      "start": 247.92,
+      "duration": 5.1200000000000045,
+      "text": "And one of the first ones that really came to mind for me was the story of the Lord of the Rings.",
+      "avg_logprob": -0.09503055320066564,
+      "no_speech_prob": 9.92497100130163e-13,
+      "compression_ratio": 1.8716981132075472,
+      "temperature": 0.0
+    },
+    {
+      "start": 253.3,
+      "duration": 1.539999999999992,
+      "text": "Okay, you're familiar with Lord of the Rings, right?",
+      "avg_logprob": -0.09503055320066564,
+      "no_speech_prob": 9.92497100130163e-13,
+      "compression_ratio": 1.8716981132075472,
+      "temperature": 0.0
+    },
+    {
+      "start": 255.34,
+      "duration": 5.739999999999981,
+      "text": "Okay, so I was completely unfamiliar with Lord of the Rings until the movie came out in 2001.",
+      "avg_logprob": -0.09503055320066564,
+      "no_speech_prob": 9.92497100130163e-13,
+      "compression_ratio": 1.8716981132075472,
+      "temperature": 0.0
+    },
+    {
+      "start": 261.62,
+      "duration": 4.779999999999973,
+      "text": "And then I watched the first movie, and I'll tell you what, I was hooked.",
+      "avg_logprob": -0.09503055320066564,
+      "no_speech_prob": 9.92497100130163e-13,
+      "compression_ratio": 1.8716981132075472,
+      "temperature": 0.0
+    },
+    {
+      "start": 266.54,
+      "duration": 1.8799999999999955,
+      "text": "I was like, I have to find out what happened.",
+      "avg_logprob": -0.09503055320066564,
+      "no_speech_prob": 9.92497100130163e-13,
+      "compression_ratio": 1.8716981132075472,
+      "temperature": 0.0
+    },
+    {
+      "start": 268.42,
+      "duration": 2.019999999999982,
+      "text": "I bought all three books, and I read the whole thing.",
+      "avg_logprob": -0.09503055320066564,
+      "no_speech_prob": 9.92497100130163e-13,
+      "compression_ratio": 1.8716981132075472,
+      "temperature": 0.0
+    },
+    {
+      "start": 270.5,
+      "duration": 1.5,
+      "text": "I needed to know exactly what happened.",
+      "avg_logprob": -0.09503055320066564,
+      "no_speech_prob": 9.92497100130163e-13,
+      "compression_ratio": 1.8716981132075472,
+      "temperature": 0.0
+    },
+    {
+      "start": 272.08,
+      "duration": 1.5400000000000205,
+      "text": "I was like, what happened to Gandalf?",
+      "avg_logprob": -0.09503055320066564,
+      "no_speech_prob": 9.92497100130163e-13,
+      "compression_ratio": 1.8716981132075472,
+      "temperature": 0.0
+    },
+    {
+      "start": 274.48,
+      "duration": 4.019999999999982,
+      "text": "So anyway, so we started with this movie, The Lord of the Rings.",
+      "avg_logprob": -0.10491746768616793,
+      "no_speech_prob": 8.325108723054864e-13,
+      "compression_ratio": 1.7075098814229248,
+      "temperature": 0.0
+    },
+    {
+      "start": 278.62,
+      "duration": 3.079999999999984,
+      "text": "The movie or the book itself is an epic, right?",
+      "avg_logprob": -0.10491746768616793,
+      "no_speech_prob": 8.325108723054864e-13,
+      "compression_ratio": 1.7075098814229248,
+      "temperature": 0.0
+    },
+    {
+      "start": 281.76,
+      "duration": 4.199999999999989,
+      "text": "It's got battles, these different types of people, these different races of people,",
+      "avg_logprob": -0.10491746768616793,
+      "no_speech_prob": 8.325108723054864e-13,
+      "compression_ratio": 1.7075098814229248,
+      "temperature": 0.0
+    },
+    {
+      "start": 286.12,
+      "duration": 4.939999999999998,
+      "text": "and they all kind of – the story transports you to this other world.",
+      "avg_logprob": -0.10491746768616793,
+      "no_speech_prob": 8.325108723054864e-13,
+      "compression_ratio": 1.7075098814229248,
+      "temperature": 0.0
+    },
+    {
+      "start": 291.72,
+      "duration": 4.619999999999948,
+      "text": "But at its core, The Lord of the Rings is really a story about friendship.",
+      "avg_logprob": -0.10491746768616793,
+      "no_speech_prob": 8.325108723054864e-13,
+      "compression_ratio": 1.7075098814229248,
+      "temperature": 0.0
+    },
+    {
+      "start": 297.2,
+      "duration": 0.6800000000000068,
+      "text": "Think about this.",
+      "avg_logprob": -0.10491746768616793,
+      "no_speech_prob": 8.325108723054864e-13,
+      "compression_ratio": 1.7075098814229248,
+      "temperature": 0.0
+    },
+    {
+      "start": 297.96,
+      "duration": 3.5200000000000387,
+      "text": "I mean, in the very beginning, they gather together, these nine people,",
+      "avg_logprob": -0.10491746768616793,
+      "no_speech_prob": 8.325108723054864e-13,
+      "compression_ratio": 1.7075098814229248,
+      "temperature": 0.0
+    },
+    {
+      "start": 301.48,
+      "duration": 2.5,
+      "text": "people that never really should have ever met each other,",
+      "avg_logprob": -0.12728518493904556,
+      "no_speech_prob": 5.06926748841674e-13,
+      "compression_ratio": 1.7442748091603053,
+      "temperature": 0.0
+    },
+    {
+      "start": 304.04,
+      "duration": 5.1200000000000045,
+      "text": "and they're gathered together in a fellowship in order to accomplish this task, right?",
+      "avg_logprob": -0.12728518493904556,
+      "no_speech_prob": 5.06926748841674e-13,
+      "compression_ratio": 1.7442748091603053,
+      "temperature": 0.0
+    },
+    {
+      "start": 310.88,
+      "duration": 2.3999999999999773,
+      "text": "Within the fellowship, you have these two people.",
+      "avg_logprob": -0.12728518493904556,
+      "no_speech_prob": 5.06926748841674e-13,
+      "compression_ratio": 1.7442748091603053,
+      "temperature": 0.0
+    },
+    {
+      "start": 314.3,
+      "duration": 2.740000000000009,
+      "text": "There's Legolas, who's an elf, and Gimli, who's a dwarf.",
+      "avg_logprob": -0.12728518493904556,
+      "no_speech_prob": 5.06926748841674e-13,
+      "compression_ratio": 1.7442748091603053,
+      "temperature": 0.0
+    },
+    {
+      "start": 317.68,
+      "duration": 5.21999999999997,
+      "text": "And the two races have been in a centuries-long feud with each other",
+      "avg_logprob": -0.12728518493904556,
+      "no_speech_prob": 5.06926748841674e-13,
+      "compression_ratio": 1.7442748091603053,
+      "temperature": 0.0
+    },
+    {
+      "start": 322.9,
+      "duration": 4.520000000000039,
+      "text": "to where when Legolas and Gimli first meet each other, they absolutely hate each other,",
+      "avg_logprob": -0.12728518493904556,
+      "no_speech_prob": 5.06926748841674e-13,
+      "compression_ratio": 1.7442748091603053,
+      "temperature": 0.0
+    },
+    {
+      "start": 327.5,
+      "duration": 1.920000000000016,
+      "text": "but by the end, they become the best of friends.",
+      "avg_logprob": -0.12728518493904556,
+      "no_speech_prob": 5.06926748841674e-13,
+      "compression_ratio": 1.7442748091603053,
+      "temperature": 0.0
+    },
+    {
+      "start": 330.26,
+      "duration": 3.160000000000025,
+      "text": "In fact, it's a better love story than anything you ever find in Twilight.",
+      "avg_logprob": -0.155442400412126,
+      "no_speech_prob": 4.473218670475454e-13,
+      "compression_ratio": 1.5952380952380953,
+      "temperature": 0.0
+    },
+    {
+      "start": 337.5,
+      "duration": 6.100000000000023,
+      "text": "But then, really, the friendship story is really the story of Frodo and Sam.",
+      "avg_logprob": -0.155442400412126,
+      "no_speech_prob": 4.473218670475454e-13,
+      "compression_ratio": 1.5952380952380953,
+      "temperature": 0.0
+    },
+    {
+      "start": 344.34,
+      "duration": 7.140000000000043,
+      "text": "Frodo and Sam, their friendship throughout the book becomes this running theme",
+      "avg_logprob": -0.155442400412126,
+      "no_speech_prob": 4.473218670475454e-13,
+      "compression_ratio": 1.5952380952380953,
+      "temperature": 0.0
+    },
+    {
+      "start": 351.48,
+      "duration": 3.5,
+      "text": "as you follow their journey going all the way to Mordor.",
+      "avg_logprob": -0.155442400412126,
+      "no_speech_prob": 4.473218670475454e-13,
+      "compression_ratio": 1.5952380952380953,
+      "temperature": 0.0
+    },
+    {
+      "start": 355.7,
+      "duration": 2.340000000000032,
+      "text": "Now, in the movie, it's a little bit different.",
+      "avg_logprob": -0.155442400412126,
+      "no_speech_prob": 4.473218670475454e-13,
+      "compression_ratio": 1.5952380952380953,
+      "temperature": 0.0
+    },
+    {
+      "start": 359.42,
+      "duration": 6.71999999999997,
+      "text": "theme is threatened more. There's a point at which Gollum is able to drive a wedge between Frodo and",
+      "avg_logprob": -0.05887793145089779,
+      "no_speech_prob": 9.58211808510523e-13,
+      "compression_ratio": 1.6141078838174274,
+      "temperature": 0.0
+    },
+    {
+      "start": 366.14,
+      "duration": 6.759999999999991,
+      "text": "Sam, and Frodo tells Sam to go home. But then Sam, in his faithfulness, figures out what's going on,",
+      "avg_logprob": -0.05887793145089779,
+      "no_speech_prob": 9.58211808510523e-13,
+      "compression_ratio": 1.6141078838174274,
+      "temperature": 0.0
+    },
+    {
+      "start": 372.94,
+      "duration": 4.78000000000003,
+      "text": "and he returns to all the way to the point where that at the very end of the story, you might",
+      "avg_logprob": -0.05887793145089779,
+      "no_speech_prob": 9.58211808510523e-13,
+      "compression_ratio": 1.6141078838174274,
+      "temperature": 0.0
+    },
+    {
+      "start": 377.72,
+      "duration": 7.139999999999986,
+      "text": "remember the scene, you know, Frodo is lying on the mountain of Mount Doom, and he can't move",
+      "avg_logprob": -0.05887793145089779,
+      "no_speech_prob": 9.58211808510523e-13,
+      "compression_ratio": 1.6141078838174274,
+      "temperature": 0.0
+    },
+    {
+      "start": 384.86,
+      "duration": 7.800000000000011,
+      "text": "anymore. The weight of the ring is so heavy. And he says that he just can't go any further. And Sam,",
+      "avg_logprob": -0.0878350669090901,
+      "no_speech_prob": 7.521146791304723e-13,
+      "compression_ratio": 1.6443514644351465,
+      "temperature": 0.0
+    },
+    {
+      "start": 393.6,
+      "duration": 6.6200000000000045,
+      "text": "it's kind of a cheesy line, right? He goes, I can't carry it for you, but I can carry you. And what",
+      "avg_logprob": -0.0878350669090901,
+      "no_speech_prob": 7.521146791304723e-13,
+      "compression_ratio": 1.6443514644351465,
+      "temperature": 0.0
+    },
+    {
+      "start": 400.22,
+      "duration": 5.839999999999975,
+      "text": "does he do? He picks him up. He puts him over his shoulders. And foot by foot, step by step,",
+      "avg_logprob": -0.0878350669090901,
+      "no_speech_prob": 7.521146791304723e-13,
+      "compression_ratio": 1.6443514644351465,
+      "temperature": 0.0
+    },
+    {
+      "start": 406.16,
+      "duration": 8.039999999999964,
+      "text": "he starts marching up the mountain to finish the quest. And there's something about that scene that",
+      "avg_logprob": -0.0878350669090901,
+      "no_speech_prob": 7.521146791304723e-13,
+      "compression_ratio": 1.6443514644351465,
+      "temperature": 0.0
+    },
+    {
+      "start": 414.86,
+      "duration": 8.0,
+      "text": "every time. I think what it does is it reveals in me this longing, this longing for that kind of a",
+      "avg_logprob": -0.06548969369185598,
+      "no_speech_prob": 4.579284542706452e-13,
+      "compression_ratio": 1.6686046511627908,
+      "temperature": 0.0
+    },
+    {
+      "start": 422.86,
+      "duration": 10.45999999999998,
+      "text": "loyal, true friendship that really I think we all want. We all want that kind of a friend,",
+      "avg_logprob": -0.06548969369185598,
+      "no_speech_prob": 4.579284542706452e-13,
+      "compression_ratio": 1.6686046511627908,
+      "temperature": 0.0
+    },
+    {
+      "start": 433.46,
+      "duration": 6.3799999999999955,
+      "text": "another human being who's always loyal to us, who forgives us, who can carry us when we're at our",
+      "avg_logprob": -0.06548969369185598,
+      "no_speech_prob": 4.579284542706452e-13,
+      "compression_ratio": 1.6686046511627908,
+      "temperature": 0.0
+    },
+    {
+      "start": 439.84,
+      "duration": 10.060000000000002,
+      "text": "lowest. I think we call this true companionship, true companionship. Now, I'm not just talking",
+      "avg_logprob": -0.06627449828587222,
+      "no_speech_prob": 6.637411432107443e-13,
+      "compression_ratio": 1.9234693877551021,
+      "temperature": 0.0
+    },
+    {
+      "start": 449.9,
+      "duration": 3.82000000000005,
+      "text": "about the specific relationship that we find in a marriage, although I think we can find",
+      "avg_logprob": -0.06627449828587222,
+      "no_speech_prob": 6.637411432107443e-13,
+      "compression_ratio": 1.9234693877551021,
+      "temperature": 0.0
+    },
+    {
+      "start": 453.72,
+      "duration": 3.859999999999957,
+      "text": "companionship in a marriage, but it's something broader than that. It's something bigger than",
+      "avg_logprob": -0.06627449828587222,
+      "no_speech_prob": 6.637411432107443e-13,
+      "compression_ratio": 1.9234693877551021,
+      "temperature": 0.0
+    },
+    {
+      "start": 458.2,
+      "duration": 6.819999999999993,
+      "text": "marriage. We're talking about companionship, this broader category. This is someone in life who's a",
+      "avg_logprob": -0.06627449828587222,
+      "no_speech_prob": 6.637411432107443e-13,
+      "compression_ratio": 1.9234693877551021,
+      "temperature": 0.0
+    },
+    {
+      "start": 465.02,
+      "duration": 6.0,
+      "text": "trusted friend who you share your life with and they share their life with you. Someone who you",
+      "avg_logprob": -0.05040377870612188,
+      "no_speech_prob": 6.383121028269434e-13,
+      "compression_ratio": 1.9453781512605042,
+      "temperature": 0.0
+    },
+    {
+      "start": 471.02,
+      "duration": 6.140000000000043,
+      "text": "can just be yourself around and they can be themselves. Someone who you can always count on",
+      "avg_logprob": -0.05040377870612188,
+      "no_speech_prob": 6.383121028269434e-13,
+      "compression_ratio": 1.9453781512605042,
+      "temperature": 0.0
+    },
+    {
+      "start": 477.16,
+      "duration": 6.139999999999986,
+      "text": "and someone who counts on you. I feel like it seemed easier to have friends like this",
+      "avg_logprob": -0.05040377870612188,
+      "no_speech_prob": 6.383121028269434e-13,
+      "compression_ratio": 1.9453781512605042,
+      "temperature": 0.0
+    },
+    {
+      "start": 483.3,
+      "duration": 4.240000000000009,
+      "text": "when I was younger. Maybe you relate to this, but like when you're in school and you're around",
+      "avg_logprob": -0.05040377870612188,
+      "no_speech_prob": 6.383121028269434e-13,
+      "compression_ratio": 1.9453781512605042,
+      "temperature": 0.0
+    },
+    {
+      "start": 487.54,
+      "duration": 4.899999999999977,
+      "text": "people, it seems like you're exposed to more people and it's easier to find those friendships.",
+      "avg_logprob": -0.05040377870612188,
+      "no_speech_prob": 6.383121028269434e-13,
+      "compression_ratio": 1.9453781512605042,
+      "temperature": 0.0
+    },
+    {
+      "start": 492.44,
+      "duration": 4.899999999999977,
+      "text": "And as we get older, those friends seem to drift away in some ways,",
+      "avg_logprob": -0.11614544886463093,
+      "no_speech_prob": 6.043412298373241e-13,
+      "compression_ratio": 1.728395061728395,
+      "temperature": 0.0
+    },
+    {
+      "start": 497.36,
+      "duration": 4.9599999999999795,
+      "text": "and it's harder to find new friends that meet that same level of companionship.",
+      "avg_logprob": -0.11614544886463093,
+      "no_speech_prob": 6.043412298373241e-13,
+      "compression_ratio": 1.728395061728395,
+      "temperature": 0.0
+    },
+    {
+      "start": 504.04,
+      "duration": 7.0,
+      "text": "In fact, statistics show that we have fewer friendships now than we ever have as a people.",
+      "avg_logprob": -0.11614544886463093,
+      "no_speech_prob": 6.043412298373241e-13,
+      "compression_ratio": 1.728395061728395,
+      "temperature": 0.0
+    },
+    {
+      "start": 511.82000000000005,
+      "duration": 4.4799999999999045,
+      "text": "And it's not really the number of friendships that really matters the most.",
+      "avg_logprob": -0.11614544886463093,
+      "no_speech_prob": 6.043412298373241e-13,
+      "compression_ratio": 1.728395061728395,
+      "temperature": 0.0
+    },
+    {
+      "start": 516.3,
+      "duration": 2.8600000000000136,
+      "text": "It's more about the quality of the friendships in some ways.",
+      "avg_logprob": -0.11614544886463093,
+      "no_speech_prob": 6.043412298373241e-13,
+      "compression_ratio": 1.728395061728395,
+      "temperature": 0.0
+    },
+    {
+      "start": 519.74,
+      "duration": 2.3999999999999773,
+      "text": "Again, I've got to quote Steve for this one.",
+      "avg_logprob": -0.11614544886463093,
+      "no_speech_prob": 6.043412298373241e-13,
+      "compression_ratio": 1.728395061728395,
+      "temperature": 0.0
+    },
+    {
+      "start": 522.44,
+      "duration": 3.5399999999999636,
+      "text": "credit him for this, but we were talking about this the other day. He's like, you know, people",
+      "avg_logprob": -0.07803360788445723,
+      "no_speech_prob": 6.794815361407802e-13,
+      "compression_ratio": 1.6946902654867257,
+      "temperature": 0.0
+    },
+    {
+      "start": 525.98,
+      "duration": 7.360000000000014,
+      "text": "really feel lonely, but this loneliness, it's not the absence of friendship. It's not the absence",
+      "avg_logprob": -0.07803360788445723,
+      "no_speech_prob": 6.794815361407802e-13,
+      "compression_ratio": 1.6946902654867257,
+      "temperature": 0.0
+    },
+    {
+      "start": 533.34,
+      "duration": 6.079999999999927,
+      "text": "of relationship. It's wishing that you had the relationships that you really wanted, right?",
+      "avg_logprob": -0.07803360788445723,
+      "no_speech_prob": 6.794815361407802e-13,
+      "compression_ratio": 1.6946902654867257,
+      "temperature": 0.0
+    },
+    {
+      "start": 540.4,
+      "duration": 8.100000000000023,
+      "text": "That's so good. I think that's exactly where we are. And so scripture tells us that we're designed",
+      "avg_logprob": -0.07803360788445723,
+      "no_speech_prob": 6.794815361407802e-13,
+      "compression_ratio": 1.6946902654867257,
+      "temperature": 0.0
+    },
+    {
+      "start": 548.5,
+      "duration": 2.17999999999995,
+      "text": "for this kind of companionship.",
+      "avg_logprob": -0.17209565012078537,
+      "no_speech_prob": 5.812105896389752e-13,
+      "compression_ratio": 1.6903765690376569,
+      "temperature": 0.0
+    },
+    {
+      "start": 551.02,
+      "duration": 0.8400000000000318,
+      "text": "Think about this.",
+      "avg_logprob": -0.17209565012078537,
+      "no_speech_prob": 5.812105896389752e-13,
+      "compression_ratio": 1.6903765690376569,
+      "temperature": 0.0
+    },
+    {
+      "start": 551.94,
+      "duration": 2.8199999999999363,
+      "text": "Back in Genesis, when God creates humankind,",
+      "avg_logprob": -0.17209565012078537,
+      "no_speech_prob": 5.812105896389752e-13,
+      "compression_ratio": 1.6903765690376569,
+      "temperature": 0.0
+    },
+    {
+      "start": 554.98,
+      "duration": 1.7799999999999727,
+      "text": "he creates the man in Genesis 2,",
+      "avg_logprob": -0.17209565012078537,
+      "no_speech_prob": 5.812105896389752e-13,
+      "compression_ratio": 1.6903765690376569,
+      "temperature": 0.0
+    },
+    {
+      "start": 556.9,
+      "duration": 4.300000000000068,
+      "text": "and verse 18 says it's not good that the man should be alone.",
+      "avg_logprob": -0.17209565012078537,
+      "no_speech_prob": 5.812105896389752e-13,
+      "compression_ratio": 1.6903765690376569,
+      "temperature": 0.0
+    },
+    {
+      "start": 562.28,
+      "duration": 2.800000000000068,
+      "text": "We're designed for companionship.",
+      "avg_logprob": -0.17209565012078537,
+      "no_speech_prob": 5.812105896389752e-13,
+      "compression_ratio": 1.6903765690376569,
+      "temperature": 0.0
+    },
+    {
+      "start": 565.16,
+      "duration": 2.3600000000000136,
+      "text": "And so this morning, as we look at Ecclesiastes 4,",
+      "avg_logprob": -0.17209565012078537,
+      "no_speech_prob": 5.812105896389752e-13,
+      "compression_ratio": 1.6903765690376569,
+      "temperature": 0.0
+    },
+    {
+      "start": 567.84,
+      "duration": 5.17999999999995,
+      "text": "we're going to see this idea of true companionship,",
+      "avg_logprob": -0.17209565012078537,
+      "no_speech_prob": 5.812105896389752e-13,
+      "compression_ratio": 1.6903765690376569,
+      "temperature": 0.0
+    },
+    {
+      "start": 573.14,
+      "duration": 4.860000000000014,
+      "text": "this thread of companionship that's weaving all the way through this chapter.",
+      "avg_logprob": -0.17209565012078537,
+      "no_speech_prob": 5.812105896389752e-13,
+      "compression_ratio": 1.6903765690376569,
+      "temperature": 0.0
+    },
+    {
+      "start": 578.5,
+      "duration": 6.279999999999973,
+      "text": "answer these questions for us today. What is true companionship? Who should we give it to?",
+      "avg_logprob": -0.11434584505417768,
+      "no_speech_prob": 4.799516361599088e-13,
+      "compression_ratio": 1.598802395209581,
+      "temperature": 0.0
+    },
+    {
+      "start": 585.56,
+      "duration": 6.660000000000082,
+      "text": "And how can we give it? So let's look at the first one. What is true companionship?",
+      "avg_logprob": -0.11434584505417768,
+      "no_speech_prob": 4.799516361599088e-13,
+      "compression_ratio": 1.598802395209581,
+      "temperature": 0.0
+    },
+    {
+      "start": 592.84,
+      "duration": 8.93999999999994,
+      "text": "Now in our chapter here, Solomon gives several illustrations of companionship. But what he's",
+      "avg_logprob": -0.11434584505417768,
+      "no_speech_prob": 4.799516361599088e-13,
+      "compression_ratio": 1.598802395209581,
+      "temperature": 0.0
+    },
+    {
+      "start": 601.78,
+      "duration": 7.1200000000000045,
+      "text": "doing is he's showing us where companionship should be, but isn't. Okay, look at the first one.",
+      "avg_logprob": -0.07564787004814773,
+      "no_speech_prob": 7.610052453650706e-13,
+      "compression_ratio": 1.7785977859778597,
+      "temperature": 0.0
+    },
+    {
+      "start": 609.06,
+      "duration": 4.860000000000014,
+      "text": "Look at just verse one. He says, again, I saw all the oppressions that are done under the sun,",
+      "avg_logprob": -0.07564787004814773,
+      "no_speech_prob": 7.610052453650706e-13,
+      "compression_ratio": 1.7785977859778597,
+      "temperature": 0.0
+    },
+    {
+      "start": 614.4,
+      "duration": 4.0,
+      "text": "right? So what he's doing here, he's going back to something that he was talking about in chapter",
+      "avg_logprob": -0.07564787004814773,
+      "no_speech_prob": 7.610052453650706e-13,
+      "compression_ratio": 1.7785977859778597,
+      "temperature": 0.0
+    },
+    {
+      "start": 618.4,
+      "duration": 6.759999999999991,
+      "text": "three, when he's talking about injustice. And instead of just talking about injustice as itself",
+      "avg_logprob": -0.07564787004814773,
+      "no_speech_prob": 7.610052453650706e-13,
+      "compression_ratio": 1.7785977859778597,
+      "temperature": 0.0
+    },
+    {
+      "start": 625.16,
+      "duration": 5.6200000000000045,
+      "text": "and pointing to how God is going to then later on bring that justice one day, he wants to look at",
+      "avg_logprob": -0.07564787004814773,
+      "no_speech_prob": 7.610052453650706e-13,
+      "compression_ratio": 1.7785977859778597,
+      "temperature": 0.0
+    },
+    {
+      "start": 631.78,
+      "duration": 3.4600000000000364,
+      "text": "from the angle of what's actually happening with the people who are oppressed.",
+      "avg_logprob": -0.18441503524780273,
+      "no_speech_prob": 6.162608943115211e-13,
+      "compression_ratio": 1.8969072164948453,
+      "temperature": 0.0
+    },
+    {
+      "start": 636.28,
+      "duration": 4.5,
+      "text": "So he says, I saw all the oppressions that are under the sun,",
+      "avg_logprob": -0.18441503524780273,
+      "no_speech_prob": 6.162608943115211e-13,
+      "compression_ratio": 1.8969072164948453,
+      "temperature": 0.0
+    },
+    {
+      "start": 640.86,
+      "duration": 2.759999999999991,
+      "text": "and behold, the tears of the oppressed.",
+      "avg_logprob": -0.18441503524780273,
+      "no_speech_prob": 6.162608943115211e-13,
+      "compression_ratio": 1.8969072164948453,
+      "temperature": 0.0
+    },
+    {
+      "start": 644.68,
+      "duration": 3.0400000000000773,
+      "text": "And they had no one to comfort them.",
+      "avg_logprob": -0.18441503524780273,
+      "no_speech_prob": 6.162608943115211e-13,
+      "compression_ratio": 1.8969072164948453,
+      "temperature": 0.0
+    },
+    {
+      "start": 648.7,
+      "duration": 2.6200000000000045,
+      "text": "On the side of their oppressors, there was power,",
+      "avg_logprob": -0.18441503524780273,
+      "no_speech_prob": 6.162608943115211e-13,
+      "compression_ratio": 1.8969072164948453,
+      "temperature": 0.0
+    },
+    {
+      "start": 651.36,
+      "duration": 2.480000000000018,
+      "text": "and there was no one to comfort them.",
+      "avg_logprob": -0.18441503524780273,
+      "no_speech_prob": 6.162608943115211e-13,
+      "compression_ratio": 1.8969072164948453,
+      "temperature": 0.0
+    },
+    {
+      "start": 654.92,
+      "duration": 5.300000000000068,
+      "text": "Twice, he says that there's no one to comfort these oppressed.",
+      "avg_logprob": -0.18441503524780273,
+      "no_speech_prob": 6.162608943115211e-13,
+      "compression_ratio": 1.8969072164948453,
+      "temperature": 0.0
+    },
+    {
+      "start": 661.78,
+      "duration": 1.9200000000000728,
+      "text": "And it's clear that this breaks his heart.",
+      "avg_logprob": -0.13756720516659798,
+      "no_speech_prob": 4.780766169228123e-13,
+      "compression_ratio": 1.8275862068965518,
+      "temperature": 0.0
+    },
+    {
+      "start": 665.2999999999998,
+      "duration": 4.240000000000123,
+      "text": "He concludes in verses 2 and 3 that it would be better if they were dead",
+      "avg_logprob": -0.13756720516659798,
+      "no_speech_prob": 4.780766169228123e-13,
+      "compression_ratio": 1.8275862068965518,
+      "temperature": 0.0
+    },
+    {
+      "start": 670.9,
+      "duration": 3.580000000000041,
+      "text": "than to have to experience the injustice that they are going through",
+      "avg_logprob": -0.13756720516659798,
+      "no_speech_prob": 4.780766169228123e-13,
+      "compression_ratio": 1.8275862068965518,
+      "temperature": 0.0
+    },
+    {
+      "start": 674.48,
+      "duration": 3.240000000000009,
+      "text": "and have no one to comfort them in life.",
+      "avg_logprob": -0.13756720516659798,
+      "no_speech_prob": 4.780766169228123e-13,
+      "compression_ratio": 1.8275862068965518,
+      "temperature": 0.0
+    },
+    {
+      "start": 678.12,
+      "duration": 2.8999999999999773,
+      "text": "In fact, he even says it would be better for them to not even be born.",
+      "avg_logprob": -0.13756720516659798,
+      "no_speech_prob": 4.780766169228123e-13,
+      "compression_ratio": 1.8275862068965518,
+      "temperature": 0.0
+    },
+    {
+      "start": 681.7,
+      "duration": 2.519999999999982,
+      "text": "So they would never have to experience that injustice",
+      "avg_logprob": -0.13756720516659798,
+      "no_speech_prob": 4.780766169228123e-13,
+      "compression_ratio": 1.8275862068965518,
+      "temperature": 0.0
+    },
+    {
+      "start": 684.22,
+      "duration": 1.9399999999999409,
+      "text": "and not have anyone to comfort them.",
+      "avg_logprob": -0.13756720516659798,
+      "no_speech_prob": 4.780766169228123e-13,
+      "compression_ratio": 1.8275862068965518,
+      "temperature": 0.0
+    },
+    {
+      "start": 687.24,
+      "duration": 2.7999999999999545,
+      "text": "So when we think about this section,",
+      "avg_logprob": -0.13756720516659798,
+      "no_speech_prob": 4.780766169228123e-13,
+      "compression_ratio": 1.8275862068965518,
+      "temperature": 0.0
+    },
+    {
+      "start": 691.9000000000001,
+      "duration": 3.119999999999891,
+      "text": "True companionship should bring comfort to the oppressed.",
+      "avg_logprob": -0.17149926981794725,
+      "no_speech_prob": 4.952002891946139e-13,
+      "compression_ratio": 1.7831858407079646,
+      "temperature": 0.0
+    },
+    {
+      "start": 695.72,
+      "duration": 1.5799999999999272,
+      "text": "Should comfort the oppressed.",
+      "avg_logprob": -0.17149926981794725,
+      "no_speech_prob": 4.952002891946139e-13,
+      "compression_ratio": 1.7831858407079646,
+      "temperature": 0.0
+    },
+    {
+      "start": 698.4,
+      "duration": 0.9600000000000364,
+      "text": "That's the first one.",
+      "avg_logprob": -0.17149926981794725,
+      "no_speech_prob": 4.952002891946139e-13,
+      "compression_ratio": 1.7831858407079646,
+      "temperature": 0.0
+    },
+    {
+      "start": 699.7,
+      "duration": 1.259999999999991,
+      "text": "Here's the second one, verse 4.",
+      "avg_logprob": -0.17149926981794725,
+      "no_speech_prob": 4.952002891946139e-13,
+      "compression_ratio": 1.7831858407079646,
+      "temperature": 0.0
+    },
+    {
+      "start": 701.74,
+      "duration": 3.740000000000009,
+      "text": "True companionship is never motivated by envy.",
+      "avg_logprob": -0.17149926981794725,
+      "no_speech_prob": 4.952002891946139e-13,
+      "compression_ratio": 1.7831858407079646,
+      "temperature": 0.0
+    },
+    {
+      "start": 706.1800000000001,
+      "duration": 1.419999999999959,
+      "text": "Never motivated by envy.",
+      "avg_logprob": -0.17149926981794725,
+      "no_speech_prob": 4.952002891946139e-13,
+      "compression_ratio": 1.7831858407079646,
+      "temperature": 0.0
+    },
+    {
+      "start": 708.58,
+      "duration": 2.199999999999932,
+      "text": "Solomon comes back to this topic of work,",
+      "avg_logprob": -0.17149926981794725,
+      "no_speech_prob": 4.952002891946139e-13,
+      "compression_ratio": 1.7831858407079646,
+      "temperature": 0.0
+    },
+    {
+      "start": 710.8,
+      "duration": 3.259999999999991,
+      "text": "a topic that he's come back to over and over again in Ecclesiastes,",
+      "avg_logprob": -0.17149926981794725,
+      "no_speech_prob": 4.952002891946139e-13,
+      "compression_ratio": 1.7831858407079646,
+      "temperature": 0.0
+    },
+    {
+      "start": 714.1,
+      "duration": 5.199999999999932,
+      "text": "and he considers what people's motivation is when they work as hard as they do.",
+      "avg_logprob": -0.17149926981794725,
+      "no_speech_prob": 4.952002891946139e-13,
+      "compression_ratio": 1.7831858407079646,
+      "temperature": 0.0
+    },
+    {
+      "start": 719.98,
+      "duration": 3.7200000000000273,
+      "text": "And the motivation for work that he points out is primarily envy.",
+      "avg_logprob": -0.15565729141235352,
+      "no_speech_prob": 6.162829578257312e-13,
+      "compression_ratio": 1.7568627450980392,
+      "temperature": 0.0
+    },
+    {
+      "start": 724.86,
+      "duration": 3.2999999999999545,
+      "text": "It's this idea of, I mean, you want to put a point on it,",
+      "avg_logprob": -0.15565729141235352,
+      "no_speech_prob": 6.162829578257312e-13,
+      "compression_ratio": 1.7568627450980392,
+      "temperature": 0.0
+    },
+    {
+      "start": 728.28,
+      "duration": 2.1399999999999864,
+      "text": "it's kind of a keeping up with the Joneses idea.",
+      "avg_logprob": -0.15565729141235352,
+      "no_speech_prob": 6.162829578257312e-13,
+      "compression_ratio": 1.7568627450980392,
+      "temperature": 0.0
+    },
+    {
+      "start": 730.84,
+      "duration": 2.6000000000000227,
+      "text": "This idea that you might look at your friends, your neighbors,",
+      "avg_logprob": -0.15565729141235352,
+      "no_speech_prob": 6.162829578257312e-13,
+      "compression_ratio": 1.7568627450980392,
+      "temperature": 0.0
+    },
+    {
+      "start": 733.52,
+      "duration": 1.8600000000000136,
+      "text": "and be like, man, I want what they have.",
+      "avg_logprob": -0.15565729141235352,
+      "no_speech_prob": 6.162829578257312e-13,
+      "compression_ratio": 1.7568627450980392,
+      "temperature": 0.0
+    },
+    {
+      "start": 736.1,
+      "duration": 1.2200000000000273,
+      "text": "And so you work for it.",
+      "avg_logprob": -0.15565729141235352,
+      "no_speech_prob": 6.162829578257312e-13,
+      "compression_ratio": 1.7568627450980392,
+      "temperature": 0.0
+    },
+    {
+      "start": 738.0600000000001,
+      "duration": 2.619999999999891,
+      "text": "And ultimately what this is, you guys, this is coveting.",
+      "avg_logprob": -0.15565729141235352,
+      "no_speech_prob": 6.162829578257312e-13,
+      "compression_ratio": 1.7568627450980392,
+      "temperature": 0.0
+    },
+    {
+      "start": 741.38,
+      "duration": 0.8999999999999773,
+      "text": "This is coveting.",
+      "avg_logprob": -0.15565729141235352,
+      "no_speech_prob": 6.162829578257312e-13,
+      "compression_ratio": 1.7568627450980392,
+      "temperature": 0.0
+    },
+    {
+      "start": 742.36,
+      "duration": 4.8799999999999955,
+      "text": "This is the 10th commandment where we're coveting what our neighbor has.",
+      "avg_logprob": -0.15565729141235352,
+      "no_speech_prob": 6.162829578257312e-13,
+      "compression_ratio": 1.7568627450980392,
+      "temperature": 0.0
+    },
+    {
+      "start": 748.68,
+      "duration": 6.900000000000091,
+      "text": "and this is a key, I mean, all of God's commandments are important, but this is key",
+      "avg_logprob": -0.14899935987260607,
+      "no_speech_prob": 5.566973748302728e-13,
+      "compression_ratio": 1.540983606557377,
+      "temperature": 0.0
+    },
+    {
+      "start": 755.58,
+      "duration": 5.6200000000000045,
+      "text": "because here's the thing, you guys, when we talk about coveting, coveting destroys companionship.",
+      "avg_logprob": -0.14899935987260607,
+      "no_speech_prob": 5.566973748302728e-13,
+      "compression_ratio": 1.540983606557377,
+      "temperature": 0.0
+    },
+    {
+      "start": 762.56,
+      "duration": 7.480000000000018,
+      "text": "It absolutely destroys companionship. It drives a wedge between people. How does it do that? Listen,",
+      "avg_logprob": -0.14899935987260607,
+      "no_speech_prob": 5.566973748302728e-13,
+      "compression_ratio": 1.540983606557377,
+      "temperature": 0.0
+    },
+    {
+      "start": 770.04,
+      "duration": 7.580000000000041,
+      "text": "Listen, if we want what other people have, we will never truly be free to be ourselves with them.",
+      "avg_logprob": -0.1387328540577608,
+      "no_speech_prob": 5.83482914762179e-13,
+      "compression_ratio": 1.7181818181818183,
+      "temperature": 0.0
+    },
+    {
+      "start": 778.74,
+      "duration": 1.419999999999959,
+      "text": "We'll never let our guard down.",
+      "avg_logprob": -0.1387328540577608,
+      "no_speech_prob": 5.83482914762179e-13,
+      "compression_ratio": 1.7181818181818183,
+      "temperature": 0.0
+    },
+    {
+      "start": 780.34,
+      "duration": 5.059999999999945,
+      "text": "We'll always try to prove ourself to be worthy to them, to be better than them,",
+      "avg_logprob": -0.1387328540577608,
+      "no_speech_prob": 5.83482914762179e-13,
+      "compression_ratio": 1.7181818181818183,
+      "temperature": 0.0
+    },
+    {
+      "start": 785.42,
+      "duration": 3.1800000000000637,
+      "text": "so much so that it will lead us to actually hate the other person.",
+      "avg_logprob": -0.1387328540577608,
+      "no_speech_prob": 5.83482914762179e-13,
+      "compression_ratio": 1.7181818181818183,
+      "temperature": 0.0
+    },
+    {
+      "start": 789.1,
+      "duration": 5.159999999999968,
+      "text": "We'll start to ask the question, why do they have everything that I want in life and I don't have it?",
+      "avg_logprob": -0.1387328540577608,
+      "no_speech_prob": 5.83482914762179e-13,
+      "compression_ratio": 1.7181818181818183,
+      "temperature": 0.0
+    },
+    {
+      "start": 797.8000000000001,
+      "duration": 2.259999999999877,
+      "text": "covetousness destroys companionship.",
+      "avg_logprob": -0.25102643763765375,
+      "no_speech_prob": 5.109173175678328e-13,
+      "compression_ratio": 1.4906542056074767,
+      "temperature": 0.0
+    },
+    {
+      "start": 800.74,
+      "duration": 2.019999999999982,
+      "text": "So Solomon concludes two things.",
+      "avg_logprob": -0.25102643763765375,
+      "no_speech_prob": 5.109173175678328e-13,
+      "compression_ratio": 1.4906542056074767,
+      "temperature": 0.0
+    },
+    {
+      "start": 802.94,
+      "duration": 2.5,
+      "text": "In verse 5, he's like, well, you still have to work, okay?",
+      "avg_logprob": -0.25102643763765375,
+      "no_speech_prob": 5.109173175678328e-13,
+      "compression_ratio": 1.4906542056074767,
+      "temperature": 0.0
+    },
+    {
+      "start": 805.82,
+      "duration": 2.0599999999999454,
+      "text": "He gives this proverb that says,",
+      "avg_logprob": -0.25102643763765375,
+      "no_speech_prob": 5.109173175678328e-13,
+      "compression_ratio": 1.4906542056074767,
+      "temperature": 0.0
+    },
+    {
+      "start": 808.24,
+      "duration": 2.2000000000000455,
+      "text": "that's basically it's foolish not to work.",
+      "avg_logprob": -0.25102643763765375,
+      "no_speech_prob": 5.109173175678328e-13,
+      "compression_ratio": 1.4906542056074767,
+      "temperature": 0.0
+    },
+    {
+      "start": 811.36,
+      "duration": 3.3799999999999955,
+      "text": "And then in verse 6, he says it's so much better",
+      "avg_logprob": -0.25102643763765375,
+      "no_speech_prob": 5.109173175678328e-13,
+      "compression_ratio": 1.4906542056074767,
+      "temperature": 0.0
+    },
+    {
+      "start": 814.74,
+      "duration": 2.480000000000018,
+      "text": "to have this handful of quietness,",
+      "avg_logprob": -0.25102643763765375,
+      "no_speech_prob": 5.109173175678328e-13,
+      "compression_ratio": 1.4906542056074767,
+      "temperature": 0.0
+    },
+    {
+      "start": 817.98,
+      "duration": 2.7999999999999545,
+      "text": "another word for that is rest,",
+      "avg_logprob": -0.25102643763765375,
+      "no_speech_prob": 5.109173175678328e-13,
+      "compression_ratio": 1.4906542056074767,
+      "temperature": 0.0
+    },
+    {
+      "start": 823.08,
+      "duration": 2.2199999999999136,
+      "text": "than to work with two handfuls of toil.",
+      "avg_logprob": -0.13518156903855344,
+      "no_speech_prob": 3.947971235953446e-13,
+      "compression_ratio": 1.6564102564102565,
+      "temperature": 0.0
+    },
+    {
+      "start": 826.72,
+      "duration": 3.480000000000018,
+      "text": "He finds that it's actually, it's better to work, to still work,",
+      "avg_logprob": -0.13518156903855344,
+      "no_speech_prob": 3.947971235953446e-13,
+      "compression_ratio": 1.6564102564102565,
+      "temperature": 0.0
+    },
+    {
+      "start": 830.26,
+      "duration": 4.440000000000055,
+      "text": "to do the work that you're called to do, but to do so from a place of rest.",
+      "avg_logprob": -0.13518156903855344,
+      "no_speech_prob": 3.947971235953446e-13,
+      "compression_ratio": 1.6564102564102565,
+      "temperature": 0.0
+    },
+    {
+      "start": 836.12,
+      "duration": 2.8799999999999955,
+      "text": "And only then can we be satisfied in what God has given us",
+      "avg_logprob": -0.13518156903855344,
+      "no_speech_prob": 3.947971235953446e-13,
+      "compression_ratio": 1.6564102564102565,
+      "temperature": 0.0
+    },
+    {
+      "start": 839.0,
+      "duration": 2.82000000000005,
+      "text": "and even thankful for what God has given to other people.",
+      "avg_logprob": -0.13518156903855344,
+      "no_speech_prob": 3.947971235953446e-13,
+      "compression_ratio": 1.6564102564102565,
+      "temperature": 0.0
+    },
+    {
+      "start": 843.62,
+      "duration": 1.1599999999999682,
+      "text": "So that's the second one.",
+      "avg_logprob": -0.13518156903855344,
+      "no_speech_prob": 3.947971235953446e-13,
+      "compression_ratio": 1.6564102564102565,
+      "temperature": 0.0
+    },
+    {
+      "start": 845.96,
+      "duration": 2.839999999999918,
+      "text": "verse 7 and 8 you see a third thing about",
+      "avg_logprob": -0.14580788723258084,
+      "no_speech_prob": 4.743141643337445e-13,
+      "compression_ratio": 1.7700534759358288,
+      "temperature": 0.0
+    },
+    {
+      "start": 848.8,
+      "duration": 3.1400000000001,
+      "text": "about we talk about companionship",
+      "avg_logprob": -0.14580788723258084,
+      "no_speech_prob": 4.743141643337445e-13,
+      "compression_ratio": 1.7700534759358288,
+      "temperature": 0.0
+    },
+    {
+      "start": 852.82,
+      "duration": 2.5399999999999636,
+      "text": "this third thing says that companionship",
+      "avg_logprob": -0.14580788723258084,
+      "no_speech_prob": 4.743141643337445e-13,
+      "compression_ratio": 1.7700534759358288,
+      "temperature": 0.0
+    },
+    {
+      "start": 855.9200000000001,
+      "duration": 4.059999999999945,
+      "text": "is when we can give ourselves to others he's getting a little bit more to the",
+      "avg_logprob": -0.14580788723258084,
+      "no_speech_prob": 4.743141643337445e-13,
+      "compression_ratio": 1.7700534759358288,
+      "temperature": 0.0
+    },
+    {
+      "start": 859.98,
+      "duration": 4.259999999999991,
+      "text": "point here in verse 7 in this observation",
+      "avg_logprob": -0.14580788723258084,
+      "no_speech_prob": 4.743141643337445e-13,
+      "compression_ratio": 1.7700534759358288,
+      "temperature": 0.0
+    },
+    {
+      "start": 864.24,
+      "duration": 3.740000000000009,
+      "text": "look at what he says in verse 7 he says I saw vanity",
+      "avg_logprob": -0.14580788723258084,
+      "no_speech_prob": 4.743141643337445e-13,
+      "compression_ratio": 1.7700534759358288,
+      "temperature": 0.0
+    },
+    {
+      "start": 867.98,
+      "duration": 3.67999999999995,
+      "text": "under the sun one person who has no other",
+      "avg_logprob": -0.14580788723258084,
+      "no_speech_prob": 4.743141643337445e-13,
+      "compression_ratio": 1.7700534759358288,
+      "temperature": 0.0
+    },
+    {
+      "start": 873.26,
+      "duration": 6.3799999999999955,
+      "text": "either son or brother, yet there's no end to all his toil, and he's never satisfied with riches.",
+      "avg_logprob": -0.06962395502516061,
+      "no_speech_prob": 8.260578093950699e-13,
+      "compression_ratio": 1.9957627118644068,
+      "temperature": 0.0
+    },
+    {
+      "start": 879.7,
+      "duration": 3.659999999999968,
+      "text": "What is he getting at? He's like, look, there's people that are out there, they're working,",
+      "avg_logprob": -0.06962395502516061,
+      "no_speech_prob": 8.260578093950699e-13,
+      "compression_ratio": 1.9957627118644068,
+      "temperature": 0.0
+    },
+    {
+      "start": 883.44,
+      "duration": 3.919999999999959,
+      "text": "they're working, they're working, and they have no one. They don't even have a son or a brother.",
+      "avg_logprob": -0.06962395502516061,
+      "no_speech_prob": 8.260578093950699e-13,
+      "compression_ratio": 1.9957627118644068,
+      "temperature": 0.0
+    },
+    {
+      "start": 887.5,
+      "duration": 4.740000000000009,
+      "text": "These would have been the closest relationships that you would have had, the people that you",
+      "avg_logprob": -0.06962395502516061,
+      "no_speech_prob": 8.260578093950699e-13,
+      "compression_ratio": 1.9957627118644068,
+      "temperature": 0.0
+    },
+    {
+      "start": 892.24,
+      "duration": 5.3799999999999955,
+      "text": "would expect to be your companion, the son or the brother. These are the people that you can",
+      "avg_logprob": -0.06962395502516061,
+      "no_speech_prob": 8.260578093950699e-13,
+      "compression_ratio": 1.9957627118644068,
+      "temperature": 0.0
+    },
+    {
+      "start": 897.62,
+      "duration": 4.340000000000032,
+      "text": "share the fruit of your labor with, the people who would take the inheritance one day.",
+      "avg_logprob": -0.15217942097147957,
+      "no_speech_prob": 5.926546146201028e-13,
+      "compression_ratio": 1.6934865900383143,
+      "temperature": 0.0
+    },
+    {
+      "start": 902.68,
+      "duration": 0.4600000000000364,
+      "text": "Okay?",
+      "avg_logprob": -0.15217942097147957,
+      "no_speech_prob": 5.926546146201028e-13,
+      "compression_ratio": 1.6934865900383143,
+      "temperature": 0.0
+    },
+    {
+      "start": 904.04,
+      "duration": 4.400000000000091,
+      "text": "And so when he's looking out on the world, he's seeing these people that are so alone.",
+      "avg_logprob": -0.15217942097147957,
+      "no_speech_prob": 5.926546146201028e-13,
+      "compression_ratio": 1.6934865900383143,
+      "temperature": 0.0
+    },
+    {
+      "start": 908.66,
+      "duration": 3.480000000000018,
+      "text": "They have no one to share the fruit of their labor with.",
+      "avg_logprob": -0.15217942097147957,
+      "no_speech_prob": 5.926546146201028e-13,
+      "compression_ratio": 1.6934865900383143,
+      "temperature": 0.0
+    },
+    {
+      "start": 912.9,
+      "duration": 3.7200000000000273,
+      "text": "They've isolated themselves, and they live to work.",
+      "avg_logprob": -0.15217942097147957,
+      "no_speech_prob": 5.926546146201028e-13,
+      "compression_ratio": 1.6934865900383143,
+      "temperature": 0.0
+    },
+    {
+      "start": 918.28,
+      "duration": 4.100000000000023,
+      "text": "It might bring to mind a character like an Ebenezer Scrooge, right?",
+      "avg_logprob": -0.15217942097147957,
+      "no_speech_prob": 5.926546146201028e-13,
+      "compression_ratio": 1.6934865900383143,
+      "temperature": 0.0
+    },
+    {
+      "start": 922.54,
+      "duration": 4.840000000000032,
+      "text": "A person who no one likes, and he doesn't like anybody else, and all they do is work,",
+      "avg_logprob": -0.15217942097147957,
+      "no_speech_prob": 5.926546146201028e-13,
+      "compression_ratio": 1.6934865900383143,
+      "temperature": 0.0
+    },
+    {
+      "start": 928.8000000000001,
+      "duration": 7.619999999999891,
+      "text": "work. But this type of behavior, he calls this, the Hebrew hevel, right? Again, vanity, meaningless,",
+      "avg_logprob": -0.09007677739980269,
+      "no_speech_prob": 5.010211538182541e-13,
+      "compression_ratio": 1.5802469135802468,
+      "temperature": 0.0
+    },
+    {
+      "start": 936.72,
+      "duration": 7.899999999999977,
+      "text": "vapor. He calls it even an evil business. Why is this so evil? It's because when someone isolates",
+      "avg_logprob": -0.09007677739980269,
+      "no_speech_prob": 5.010211538182541e-13,
+      "compression_ratio": 1.5802469135802468,
+      "temperature": 0.0
+    },
+    {
+      "start": 944.62,
+      "duration": 6.899999999999977,
+      "text": "themselves in this way, they are, they're first, they're robbing the community around them of",
+      "avg_logprob": -0.09007677739980269,
+      "no_speech_prob": 5.010211538182541e-13,
+      "compression_ratio": 1.5802469135802468,
+      "temperature": 0.0
+    },
+    {
+      "start": 951.52,
+      "duration": 5.759999999999991,
+      "text": "everything that they have to offer. And I'm not just talking about like money, possessions,",
+      "avg_logprob": -0.09007677739980269,
+      "no_speech_prob": 5.010211538182541e-13,
+      "compression_ratio": 1.5802469135802468,
+      "temperature": 0.0
+    },
+    {
+      "start": 957.62,
+      "duration": 1.259999999999991,
+      "text": "I'm talking about themselves.",
+      "avg_logprob": -0.1865000564060854,
+      "no_speech_prob": 5.169390306439259e-13,
+      "compression_ratio": 1.5348837209302326,
+      "temperature": 0.0
+    },
+    {
+      "start": 960.6800000000001,
+      "duration": 5.539999999999964,
+      "text": "That we are all uniquely made with gifts and just a joy to be around.",
+      "avg_logprob": -0.1865000564060854,
+      "no_speech_prob": 5.169390306439259e-13,
+      "compression_ratio": 1.5348837209302326,
+      "temperature": 0.0
+    },
+    {
+      "start": 966.48,
+      "duration": 3.740000000000009,
+      "text": "And when we isolate ourselves and pull back,",
+      "avg_logprob": -0.1865000564060854,
+      "no_speech_prob": 5.169390306439259e-13,
+      "compression_ratio": 1.5348837209302326,
+      "temperature": 0.0
+    },
+    {
+      "start": 970.62,
+      "duration": 5.639999999999986,
+      "text": "we actually rob the people around us of the joy of just our friendship,",
+      "avg_logprob": -0.1865000564060854,
+      "no_speech_prob": 5.169390306439259e-13,
+      "compression_ratio": 1.5348837209302326,
+      "temperature": 0.0
+    },
+    {
+      "start": 977.0,
+      "duration": 1.7200000000000273,
+      "text": "of our companionship.",
+      "avg_logprob": -0.1865000564060854,
+      "no_speech_prob": 5.169390306439259e-13,
+      "compression_ratio": 1.5348837209302326,
+      "temperature": 0.0
+    },
+    {
+      "start": 980.66,
+      "duration": 1.3000000000000682,
+      "text": "So that's the third thing.",
+      "avg_logprob": -0.1865000564060854,
+      "no_speech_prob": 5.169390306439259e-13,
+      "compression_ratio": 1.5348837209302326,
+      "temperature": 0.0
+    },
+    {
+      "start": 982.3,
+      "duration": 4.240000000000009,
+      "text": "When you get to verse 9 in the passage, it's really interesting.",
+      "avg_logprob": -0.1865000564060854,
+      "no_speech_prob": 5.169390306439259e-13,
+      "compression_ratio": 1.5348837209302326,
+      "temperature": 0.0
+    },
+    {
+      "start": 987.62,
+      "duration": 4.840000000000032,
+      "text": "shining lights in all of Ecclesiastes where there's finally some positive teaching that's",
+      "avg_logprob": -0.09125401952245214,
+      "no_speech_prob": 8.005440928215979e-13,
+      "compression_ratio": 1.7174721189591078,
+      "temperature": 0.0
+    },
+    {
+      "start": 992.46,
+      "duration": 5.2999999999999545,
+      "text": "going on here, all right? Other than everything is terrible. What does he do? In verse 9 through 12,",
+      "avg_logprob": -0.09125401952245214,
+      "no_speech_prob": 8.005440928215979e-13,
+      "compression_ratio": 1.7174721189591078,
+      "temperature": 0.0
+    },
+    {
+      "start": 998.08,
+      "duration": 6.219999999999914,
+      "text": "he actually shows us how companionship is practically helpful in the journey of life.",
+      "avg_logprob": -0.09125401952245214,
+      "no_speech_prob": 8.005440928215979e-13,
+      "compression_ratio": 1.7174721189591078,
+      "temperature": 0.0
+    },
+    {
+      "start": 1004.8,
+      "duration": 6.480000000000018,
+      "text": "It's helpful in the journey of life. Solomon makes the point that two are better than one,",
+      "avg_logprob": -0.09125401952245214,
+      "no_speech_prob": 8.005440928215979e-13,
+      "compression_ratio": 1.7174721189591078,
+      "temperature": 0.0
+    },
+    {
+      "start": 1011.4,
+      "duration": 4.6200000000000045,
+      "text": "that having a companion is a better thing, and he gives four practical reasons for it. He says",
+      "avg_logprob": -0.09125401952245214,
+      "no_speech_prob": 8.005440928215979e-13,
+      "compression_ratio": 1.7174721189591078,
+      "temperature": 0.0
+    },
+    {
+      "start": 1017.62,
+      "duration": 1.740000000000009,
+      "text": "we get a good return for our work.",
+      "avg_logprob": -0.16712803956938954,
+      "no_speech_prob": 4.543653864610975e-13,
+      "compression_ratio": 1.733695652173913,
+      "temperature": 0.0
+    },
+    {
+      "start": 1019.7,
+      "duration": 4.539999999999964,
+      "text": "With a companion, we have someone to help us up when we fall, right?",
+      "avg_logprob": -0.16712803956938954,
+      "no_speech_prob": 4.543653864610975e-13,
+      "compression_ratio": 1.733695652173913,
+      "temperature": 0.0
+    },
+    {
+      "start": 1024.7,
+      "duration": 4.440000000000055,
+      "text": "With a companion, we have someone that can help keep us warm at night.",
+      "avg_logprob": -0.16712803956938954,
+      "no_speech_prob": 4.543653864610975e-13,
+      "compression_ratio": 1.733695652173913,
+      "temperature": 0.0
+    },
+    {
+      "start": 1029.38,
+      "duration": 5.139999999999873,
+      "text": "And with a companion, we can better defend ourselves against enemies.",
+      "avg_logprob": -0.16712803956938954,
+      "no_speech_prob": 4.543653864610975e-13,
+      "compression_ratio": 1.733695652173913,
+      "temperature": 0.0
+    },
+    {
+      "start": 1036.24,
+      "duration": 5.579999999999927,
+      "text": "These are all situations that we find ourselves in in the journey of life.",
+      "avg_logprob": -0.16712803956938954,
+      "no_speech_prob": 4.543653864610975e-13,
+      "compression_ratio": 1.733695652173913,
+      "temperature": 0.0
+    },
+    {
+      "start": 1041.82,
+      "duration": 5.920000000000073,
+      "text": "and companionship is a practical and beneficial thing for everyone",
+      "avg_logprob": -0.17805131659450302,
+      "no_speech_prob": 5.271363315469124e-13,
+      "compression_ratio": 1.5246636771300448,
+      "temperature": 0.0
+    },
+    {
+      "start": 1047.74,
+      "duration": 2.0,
+      "text": "as we're on this journey together.",
+      "avg_logprob": -0.17805131659450302,
+      "no_speech_prob": 5.271363315469124e-13,
+      "compression_ratio": 1.5246636771300448,
+      "temperature": 0.0
+    },
+    {
+      "start": 1051.32,
+      "duration": 3.1800000000000637,
+      "text": "Now the last section, verses 13 through 16,",
+      "avg_logprob": -0.17805131659450302,
+      "no_speech_prob": 5.271363315469124e-13,
+      "compression_ratio": 1.5246636771300448,
+      "temperature": 0.0
+    },
+    {
+      "start": 1055.24,
+      "duration": 2.1400000000001,
+      "text": "is probably the most difficult to interpret",
+      "avg_logprob": -0.17805131659450302,
+      "no_speech_prob": 5.271363315469124e-13,
+      "compression_ratio": 1.5246636771300448,
+      "temperature": 0.0
+    },
+    {
+      "start": 1057.38,
+      "duration": 2.7399999999997817,
+      "text": "because what Solomon does here is he tells a little story",
+      "avg_logprob": -0.17805131659450302,
+      "no_speech_prob": 5.271363315469124e-13,
+      "compression_ratio": 1.5246636771300448,
+      "temperature": 0.0
+    },
+    {
+      "start": 1060.12,
+      "duration": 2.6000000000001364,
+      "text": "and it's probably a fictional story",
+      "avg_logprob": -0.17805131659450302,
+      "no_speech_prob": 5.271363315469124e-13,
+      "compression_ratio": 1.5246636771300448,
+      "temperature": 0.0
+    },
+    {
+      "start": 1063.54,
+      "duration": 5.460000000000036,
+      "text": "about a poor and wise youth and an old and foolish king.",
+      "avg_logprob": -0.17805131659450302,
+      "no_speech_prob": 5.271363315469124e-13,
+      "compression_ratio": 1.5246636771300448,
+      "temperature": 0.0
+    },
+    {
+      "start": 1070.22,
+      "duration": 9.220000000000027,
+      "text": "And the king is in power, but what happens is the poor and wise youth ends up rising to power, taking the place of the king.",
+      "avg_logprob": -0.14999320128253688,
+      "no_speech_prob": 5.230338731565531e-13,
+      "compression_ratio": 1.6289592760180995,
+      "temperature": 0.0
+    },
+    {
+      "start": 1080.4,
+      "duration": 0.5599999999999454,
+      "text": "Okay?",
+      "avg_logprob": -0.14999320128253688,
+      "no_speech_prob": 5.230338731565531e-13,
+      "compression_ratio": 1.6289592760180995,
+      "temperature": 0.0
+    },
+    {
+      "start": 1082.18,
+      "duration": 1.599999999999909,
+      "text": "But here's the point.",
+      "avg_logprob": -0.14999320128253688,
+      "no_speech_prob": 5.230338731565531e-13,
+      "compression_ratio": 1.6289592760180995,
+      "temperature": 0.0
+    },
+    {
+      "start": 1083.86,
+      "duration": 0.8200000000001637,
+      "text": "It's in verse 16.",
+      "avg_logprob": -0.14999320128253688,
+      "no_speech_prob": 5.230338731565531e-13,
+      "compression_ratio": 1.6289592760180995,
+      "temperature": 0.0
+    },
+    {
+      "start": 1085.14,
+      "duration": 0.9799999999997908,
+      "text": "Look what he says.",
+      "avg_logprob": -0.14999320128253688,
+      "no_speech_prob": 5.230338731565531e-13,
+      "compression_ratio": 1.6289592760180995,
+      "temperature": 0.0
+    },
+    {
+      "start": 1086.56,
+      "duration": 5.920000000000073,
+      "text": "He says, there's no end to all the people, all of whom he led.",
+      "avg_logprob": -0.14999320128253688,
+      "no_speech_prob": 5.230338731565531e-13,
+      "compression_ratio": 1.6289592760180995,
+      "temperature": 0.0
+    },
+    {
+      "start": 1092.56,
+      "duration": 2.7000000000000455,
+      "text": "And so he's all these people that are following him.",
+      "avg_logprob": -0.14999320128253688,
+      "no_speech_prob": 5.230338731565531e-13,
+      "compression_ratio": 1.6289592760180995,
+      "temperature": 0.0
+    },
+    {
+      "start": 1095.6,
+      "duration": 2.880000000000109,
+      "text": "They're celebrating this youth that has come to power.",
+      "avg_logprob": -0.14999320128253688,
+      "no_speech_prob": 5.230338731565531e-13,
+      "compression_ratio": 1.6289592760180995,
+      "temperature": 0.0
+    },
+    {
+      "start": 1099.0,
+      "duration": 6.079999999999927,
+      "text": "He says, yet those who come later will not rejoice in him.",
+      "avg_logprob": -0.22944731182522243,
+      "no_speech_prob": 6.283603195059162e-13,
+      "compression_ratio": 1.5465116279069768,
+      "temperature": 0.0
+    },
+    {
+      "start": 1106.0800000000002,
+      "duration": 6.439999999999827,
+      "text": "In other words, people's allegiance is fickle.",
+      "avg_logprob": -0.22944731182522243,
+      "no_speech_prob": 6.283603195059162e-13,
+      "compression_ratio": 1.5465116279069768,
+      "temperature": 0.0
+    },
+    {
+      "start": 1114.0,
+      "duration": 2.740000000000009,
+      "text": "They will stop celebrating you.",
+      "avg_logprob": -0.22944731182522243,
+      "no_speech_prob": 6.283603195059162e-13,
+      "compression_ratio": 1.5465116279069768,
+      "temperature": 0.0
+    },
+    {
+      "start": 1116.84,
+      "duration": 3.2799999999999727,
+      "text": "They will stop being on your side.",
+      "avg_logprob": -0.22944731182522243,
+      "no_speech_prob": 6.283603195059162e-13,
+      "compression_ratio": 1.5465116279069768,
+      "temperature": 0.0
+    },
+    {
+      "start": 1120.26,
+      "duration": 3.019999999999982,
+      "text": "And these people are not true companions.",
+      "avg_logprob": -0.22944731182522243,
+      "no_speech_prob": 6.283603195059162e-13,
+      "compression_ratio": 1.5465116279069768,
+      "temperature": 0.0
+    },
+    {
+      "start": 1123.86,
+      "duration": 3.1000000000001364,
+      "text": "They will shift their loyalty at a moment's notice.",
+      "avg_logprob": -0.22944731182522243,
+      "no_speech_prob": 6.283603195059162e-13,
+      "compression_ratio": 1.5465116279069768,
+      "temperature": 0.0
+    },
+    {
+      "start": 1127.68,
+      "duration": 3.3599999999999,
+      "text": "And so what's interesting about this, when we think about companionship,",
+      "avg_logprob": -0.13365021873922908,
+      "no_speech_prob": 5.744198519619381e-13,
+      "compression_ratio": 1.6666666666666667,
+      "temperature": 0.0
+    },
+    {
+      "start": 1132.32,
+      "duration": 4.8400000000001455,
+      "text": "he actually sees this as a type of false companionship,",
+      "avg_logprob": -0.13365021873922908,
+      "no_speech_prob": 5.744198519619381e-13,
+      "compression_ratio": 1.6666666666666667,
+      "temperature": 0.0
+    },
+    {
+      "start": 1137.28,
+      "duration": 3.400000000000091,
+      "text": "a cheap substitute that people can actually run after.",
+      "avg_logprob": -0.13365021873922908,
+      "no_speech_prob": 5.744198519619381e-13,
+      "compression_ratio": 1.6666666666666667,
+      "temperature": 0.0
+    },
+    {
+      "start": 1140.86,
+      "duration": 2.7200000000000273,
+      "text": "This is something that we would go to, we could say like,",
+      "avg_logprob": -0.13365021873922908,
+      "no_speech_prob": 5.744198519619381e-13,
+      "compression_ratio": 1.6666666666666667,
+      "temperature": 0.0
+    },
+    {
+      "start": 1143.66,
+      "duration": 4.879999999999882,
+      "text": "oh, look at all this fame, all these friends that seem to just love me",
+      "avg_logprob": -0.13365021873922908,
+      "no_speech_prob": 5.744198519619381e-13,
+      "compression_ratio": 1.6666666666666667,
+      "temperature": 0.0
+    },
+    {
+      "start": 1148.54,
+      "duration": 2.5,
+      "text": "and all this sort of stuff, but it's not real.",
+      "avg_logprob": -0.13365021873922908,
+      "no_speech_prob": 5.744198519619381e-13,
+      "compression_ratio": 1.6666666666666667,
+      "temperature": 0.0
+    },
+    {
+      "start": 1151.42,
+      "duration": 0.9600000000000364,
+      "text": "It's all vapor.",
+      "avg_logprob": -0.13365021873922908,
+      "no_speech_prob": 5.744198519619381e-13,
+      "compression_ratio": 1.6666666666666667,
+      "temperature": 0.0
+    },
+    {
+      "start": 1153.24,
+      "duration": 4.079999999999927,
+      "text": "There's nothing tangible to it because these people are fickle",
+      "avg_logprob": -0.19855367872450086,
+      "no_speech_prob": 4.54421439713415e-13,
+      "compression_ratio": 1.6153846153846154,
+      "temperature": 0.0
+    },
+    {
+      "start": 1157.32,
+      "duration": 4.6400000000001,
+      "text": "and they will absolutely shift their loyalty at a moment's notice.",
+      "avg_logprob": -0.19855367872450086,
+      "no_speech_prob": 4.54421439713415e-13,
+      "compression_ratio": 1.6153846153846154,
+      "temperature": 0.0
+    },
+    {
+      "start": 1163.78,
+      "duration": 5.059999999999945,
+      "text": "And so I think what we find is this is what we do at times.",
+      "avg_logprob": -0.19855367872450086,
+      "no_speech_prob": 4.54421439713415e-13,
+      "compression_ratio": 1.6153846153846154,
+      "temperature": 0.0
+    },
+    {
+      "start": 1169.76,
+      "duration": 4.039999999999964,
+      "text": "This is what we do sometimes when we can't find true companionship,",
+      "avg_logprob": -0.19855367872450086,
+      "no_speech_prob": 4.54421439713415e-13,
+      "compression_ratio": 1.6153846153846154,
+      "temperature": 0.0
+    },
+    {
+      "start": 1173.96,
+      "duration": 2.8799999999998818,
+      "text": "that we run to cheap substitutes.",
+      "avg_logprob": -0.19855367872450086,
+      "no_speech_prob": 4.54421439713415e-13,
+      "compression_ratio": 1.6153846153846154,
+      "temperature": 0.0
+    },
+    {
+      "start": 1178.18,
+      "duration": 2.599999999999909,
+      "text": "We'll run to those who don't really love us.",
+      "avg_logprob": -0.19855367872450086,
+      "no_speech_prob": 4.54421439713415e-13,
+      "compression_ratio": 1.6153846153846154,
+      "temperature": 0.0
+    },
+    {
+      "start": 1182.38,
+      "duration": 3.0599999999999454,
+      "text": "We'll find people who can't really support us.",
+      "avg_logprob": -0.13583862234693056,
+      "no_speech_prob": 5.02996515966414e-13,
+      "compression_ratio": 1.6653225806451613,
+      "temperature": 0.0
+    },
+    {
+      "start": 1186.72,
+      "duration": 5.420000000000073,
+      "text": "We'll even self-medicate our loneliness to make ourself feel better.",
+      "avg_logprob": -0.13583862234693056,
+      "no_speech_prob": 5.02996515966414e-13,
+      "compression_ratio": 1.6653225806451613,
+      "temperature": 0.0
+    },
+    {
+      "start": 1194.04,
+      "duration": 4.400000000000091,
+      "text": "So in the end, I think we find these five things about true companionship.",
+      "avg_logprob": -0.13583862234693056,
+      "no_speech_prob": 5.02996515966414e-13,
+      "compression_ratio": 1.6653225806451613,
+      "temperature": 0.0
+    },
+    {
+      "start": 1198.66,
+      "duration": 1.8599999999999,
+      "text": "True companionship comforts the oppressed.",
+      "avg_logprob": -0.13583862234693056,
+      "no_speech_prob": 5.02996515966414e-13,
+      "compression_ratio": 1.6653225806451613,
+      "temperature": 0.0
+    },
+    {
+      "start": 1200.7,
+      "duration": 1.5199999999999818,
+      "text": "It's never motivated by envy.",
+      "avg_logprob": -0.13583862234693056,
+      "no_speech_prob": 5.02996515966414e-13,
+      "compression_ratio": 1.6653225806451613,
+      "temperature": 0.0
+    },
+    {
+      "start": 1202.46,
+      "duration": 3.839999999999918,
+      "text": "It gives ourselves to others, helps along the journey of life,",
+      "avg_logprob": -0.13583862234693056,
+      "no_speech_prob": 5.02996515966414e-13,
+      "compression_ratio": 1.6653225806451613,
+      "temperature": 0.0
+    },
+    {
+      "start": 1206.42,
+      "duration": 1.8599999999999,
+      "text": "and is faithful even in the ups and downs.",
+      "avg_logprob": -0.13583862234693056,
+      "no_speech_prob": 5.02996515966414e-13,
+      "compression_ratio": 1.6653225806451613,
+      "temperature": 0.0
+    },
+    {
+      "start": 1208.94,
+      "duration": 2.4600000000000364,
+      "text": "This is what true companionship looks like.",
+      "avg_logprob": -0.13583862234693056,
+      "no_speech_prob": 5.02996515966414e-13,
+      "compression_ratio": 1.6653225806451613,
+      "temperature": 0.0
+    },
+    {
+      "start": 1212.38,
+      "duration": 6.639999999999873,
+      "text": "second question is, who should we give this to? Who should we give this true companionship to? I",
+      "avg_logprob": -0.040042023504934,
+      "no_speech_prob": 7.492053310208246e-13,
+      "compression_ratio": 1.8715953307392996,
+      "temperature": 0.0
+    },
+    {
+      "start": 1219.02,
+      "duration": 4.900000000000091,
+      "text": "think the first thing that I want to say about this is that we have to recognize, because when",
+      "avg_logprob": -0.040042023504934,
+      "no_speech_prob": 7.492053310208246e-13,
+      "compression_ratio": 1.8715953307392996,
+      "temperature": 0.0
+    },
+    {
+      "start": 1223.92,
+      "duration": 3.0799999999999272,
+      "text": "we ask this question, first of all, we might want to say, well, everybody, we need to give this to",
+      "avg_logprob": -0.040042023504934,
+      "no_speech_prob": 7.492053310208246e-13,
+      "compression_ratio": 1.8715953307392996,
+      "temperature": 0.0
+    },
+    {
+      "start": 1227.0,
+      "duration": 5.980000000000018,
+      "text": "everybody. But the thing is that we are limited. We can't possibly give this type of companionship",
+      "avg_logprob": -0.040042023504934,
+      "no_speech_prob": 7.492053310208246e-13,
+      "compression_ratio": 1.8715953307392996,
+      "temperature": 0.0
+    },
+    {
+      "start": 1232.98,
+      "duration": 7.639999999999873,
+      "text": "to everybody that we meet. It's kind of like Legos. Does anybody still play with Legos? I'm",
+      "avg_logprob": -0.040042023504934,
+      "no_speech_prob": 7.492053310208246e-13,
+      "compression_ratio": 1.8715953307392996,
+      "temperature": 0.0
+    },
+    {
+      "start": 1242.4799999999998,
+      "duration": 0.8800000000001091,
+      "text": "It's fantastic.",
+      "avg_logprob": -0.1186839002903884,
+      "no_speech_prob": 6.357655287642094e-13,
+      "compression_ratio": 1.8228346456692914,
+      "temperature": 0.0
+    },
+    {
+      "start": 1246.1799999999998,
+      "duration": 2.700000000000273,
+      "text": "Legos, they're really interesting the way that they're built,",
+      "avg_logprob": -0.1186839002903884,
+      "no_speech_prob": 6.357655287642094e-13,
+      "compression_ratio": 1.8228346456692914,
+      "temperature": 0.0
+    },
+    {
+      "start": 1248.88,
+      "duration": 2.3999999999998636,
+      "text": "perfectly constructed to just all work together.",
+      "avg_logprob": -0.1186839002903884,
+      "no_speech_prob": 6.357655287642094e-13,
+      "compression_ratio": 1.8228346456692914,
+      "temperature": 0.0
+    },
+    {
+      "start": 1252.02,
+      "duration": 3.5,
+      "text": "Now, there's some that are like this where there's like a huge plate like this",
+      "avg_logprob": -0.1186839002903884,
+      "no_speech_prob": 6.357655287642094e-13,
+      "compression_ratio": 1.8228346456692914,
+      "temperature": 0.0
+    },
+    {
+      "start": 1255.52,
+      "duration": 3.9200000000000728,
+      "text": "with just, you know, 100 or 200 of those studs on them.",
+      "avg_logprob": -0.1186839002903884,
+      "no_speech_prob": 6.357655287642094e-13,
+      "compression_ratio": 1.8228346456692914,
+      "temperature": 0.0
+    },
+    {
+      "start": 1259.52,
+      "duration": 4.059999999999945,
+      "text": "And some people are designed like one of these plates",
+      "avg_logprob": -0.1186839002903884,
+      "no_speech_prob": 6.357655287642094e-13,
+      "compression_ratio": 1.8228346456692914,
+      "temperature": 0.0
+    },
+    {
+      "start": 1264.1,
+      "duration": 2.2000000000000455,
+      "text": "where they've got 100 of those studs on there,",
+      "avg_logprob": -0.1186839002903884,
+      "no_speech_prob": 6.357655287642094e-13,
+      "compression_ratio": 1.8228346456692914,
+      "temperature": 0.0
+    },
+    {
+      "start": 1266.36,
+      "duration": 1.6800000000000637,
+      "text": "and what they can do is they can take people",
+      "avg_logprob": -0.1186839002903884,
+      "no_speech_prob": 6.357655287642094e-13,
+      "compression_ratio": 1.8228346456692914,
+      "temperature": 0.0
+    },
+    {
+      "start": 1268.04,
+      "duration": 2.2799999999999727,
+      "text": "and they can plug them into all those different places.",
+      "avg_logprob": -0.1186839002903884,
+      "no_speech_prob": 6.357655287642094e-13,
+      "compression_ratio": 1.8228346456692914,
+      "temperature": 0.0
+    },
+    {
+      "start": 1270.32,
+      "duration": 6.660000000000082,
+      "text": "They have the capacity to offer and extend that true companionship to a lot of people.",
+      "avg_logprob": -0.08956363201141357,
+      "no_speech_prob": 6.560087217367949e-13,
+      "compression_ratio": 1.9364406779661016,
+      "temperature": 0.0
+    },
+    {
+      "start": 1278.68,
+      "duration": 5.460000000000036,
+      "text": "Now, others of us, more like me, it's like the purple one here with just three studs on it,",
+      "avg_logprob": -0.08956363201141357,
+      "no_speech_prob": 6.560087217367949e-13,
+      "compression_ratio": 1.9364406779661016,
+      "temperature": 0.0
+    },
+    {
+      "start": 1285.3799999999999,
+      "duration": 6.160000000000082,
+      "text": "where I can put people on there, but what I have to do at times is I've got to take someone else off of there",
+      "avg_logprob": -0.08956363201141357,
+      "no_speech_prob": 6.560087217367949e-13,
+      "compression_ratio": 1.9364406779661016,
+      "temperature": 0.0
+    },
+    {
+      "start": 1291.54,
+      "duration": 3.3199999999999363,
+      "text": "and put someone else on, and I've got to take someone else off and then put someone else.",
+      "avg_logprob": -0.08956363201141357,
+      "no_speech_prob": 6.560087217367949e-13,
+      "compression_ratio": 1.9364406779661016,
+      "temperature": 0.0
+    },
+    {
+      "start": 1294.94,
+      "duration": 4.7000000000000455,
+      "text": "I've got to do that in order to really offer my companionship to other people.",
+      "avg_logprob": -0.08956363201141357,
+      "no_speech_prob": 6.560087217367949e-13,
+      "compression_ratio": 1.9364406779661016,
+      "temperature": 0.0
+    },
+    {
+      "start": 1300.32,
+      "duration": 1.4800000000000182,
+      "text": "And we all learn how to do this.",
+      "avg_logprob": -0.12893025929691226,
+      "no_speech_prob": 6.53450600920924e-13,
+      "compression_ratio": 1.7112676056338028,
+      "temperature": 0.0
+    },
+    {
+      "start": 1301.9,
+      "duration": 3.1799999999998363,
+      "text": "Now, we're all designed differently, but here's what I want to just show with this is just",
+      "avg_logprob": -0.12893025929691226,
+      "no_speech_prob": 6.53450600920924e-13,
+      "compression_ratio": 1.7112676056338028,
+      "temperature": 0.0
+    },
+    {
+      "start": 1305.08,
+      "duration": 4.680000000000064,
+      "text": "to understand that we can't offer our companionship to everybody.",
+      "avg_logprob": -0.12893025929691226,
+      "no_speech_prob": 6.53450600920924e-13,
+      "compression_ratio": 1.7112676056338028,
+      "temperature": 0.0
+    },
+    {
+      "start": 1310.26,
+      "duration": 1.0799999999999272,
+      "text": "We can't do it.",
+      "avg_logprob": -0.12893025929691226,
+      "no_speech_prob": 6.53450600920924e-13,
+      "compression_ratio": 1.7112676056338028,
+      "temperature": 0.0
+    },
+    {
+      "start": 1311.74,
+      "duration": 1.4200000000000728,
+      "text": "We have to know our limitations.",
+      "avg_logprob": -0.12893025929691226,
+      "no_speech_prob": 6.53450600920924e-13,
+      "compression_ratio": 1.7112676056338028,
+      "temperature": 0.0
+    },
+    {
+      "start": 1313.38,
+      "duration": 0.7399999999997817,
+      "text": "So that's the first thing.",
+      "avg_logprob": -0.12893025929691226,
+      "no_speech_prob": 6.53450600920924e-13,
+      "compression_ratio": 1.7112676056338028,
+      "temperature": 0.0
+    },
+    {
+      "start": 1316.0,
+      "duration": 5.319999999999936,
+      "text": "But also when we think about who we should give our companionship to, as Christian people,",
+      "avg_logprob": -0.12893025929691226,
+      "no_speech_prob": 6.53450600920924e-13,
+      "compression_ratio": 1.7112676056338028,
+      "temperature": 0.0
+    },
+    {
+      "start": 1321.5,
+      "duration": 4.2000000000000455,
+      "text": "we might be used to thinking about this in maybe two spheres, right?",
+      "avg_logprob": -0.12893025929691226,
+      "no_speech_prob": 6.53450600920924e-13,
+      "compression_ratio": 1.7112676056338028,
+      "temperature": 0.0
+    },
+    {
+      "start": 1326.2,
+      "duration": 3.839999999999918,
+      "text": "Maybe there's this sphere over here of in the church, right?",
+      "avg_logprob": -0.12893025929691226,
+      "no_speech_prob": 6.53450600920924e-13,
+      "compression_ratio": 1.7112676056338028,
+      "temperature": 0.0
+    },
+    {
+      "start": 1330.32,
+      "duration": 4.600000000000136,
+      "text": "companionship within the church and then our companionship over here that's outside the church.",
+      "avg_logprob": -0.14158684657170223,
+      "no_speech_prob": 4.1052507530545124e-13,
+      "compression_ratio": 1.5962732919254659,
+      "temperature": 0.0
+    },
+    {
+      "start": 1335.92,
+      "duration": 3.6399999999998727,
+      "text": "So let's just look at this one at a time. With inside the church,",
+      "avg_logprob": -0.14158684657170223,
+      "no_speech_prob": 4.1052507530545124e-13,
+      "compression_ratio": 1.5962732919254659,
+      "temperature": 0.0
+    },
+    {
+      "start": 1341.6599999999999,
+      "duration": 13.1400000000001,
+      "text": "it is amazing to look at the way that you guys do this. I've been so encouraged by really every",
+      "avg_logprob": -0.14158684657170223,
+      "no_speech_prob": 4.1052507530545124e-13,
+      "compression_ratio": 1.5962732919254659,
+      "temperature": 0.0
+    },
+    {
+      "start": 1354.8,
+      "duration": 6.1400000000001,
+      "text": "one of you who have extended your companionship in one way or another to other people in this room.",
+      "avg_logprob": -0.06123344600200653,
+      "no_speech_prob": 1.0041930394860676e-12,
+      "compression_ratio": 1.6680851063829787,
+      "temperature": 0.0
+    },
+    {
+      "start": 1361.08,
+      "duration": 7.1400000000001,
+      "text": "And we've only been together for 18 months. It's been awesome. I feel like Paul, like when he",
+      "avg_logprob": -0.06123344600200653,
+      "no_speech_prob": 1.0041930394860676e-12,
+      "compression_ratio": 1.6680851063829787,
+      "temperature": 0.0
+    },
+    {
+      "start": 1368.22,
+      "duration": 4.139999999999873,
+      "text": "writes one of his letters at the beginning and he always says something like, I always praise God",
+      "avg_logprob": -0.06123344600200653,
+      "no_speech_prob": 1.0041930394860676e-12,
+      "compression_ratio": 1.6680851063829787,
+      "temperature": 0.0
+    },
+    {
+      "start": 1372.36,
+      "duration": 5.740000000000009,
+      "text": "for you for this. Like I could praise God for you guys, for the companionship that you extend to the",
+      "avg_logprob": -0.06123344600200653,
+      "no_speech_prob": 1.0041930394860676e-12,
+      "compression_ratio": 1.6680851063829787,
+      "temperature": 0.0
+    },
+    {
+      "start": 1378.1,
+      "duration": 7.660000000000082,
+      "text": "people within the church. It's fantastic. But this is not true of every church. It's not true",
+      "avg_logprob": -0.10351662481984784,
+      "no_speech_prob": 4.561853824379403e-13,
+      "compression_ratio": 1.535031847133758,
+      "temperature": 0.0
+    },
+    {
+      "start": 1385.76,
+      "duration": 6.839999999999918,
+      "text": "of every church. Over the last 25 years, the church in America has been declining.",
+      "avg_logprob": -0.10351662481984784,
+      "no_speech_prob": 4.561853824379403e-13,
+      "compression_ratio": 1.535031847133758,
+      "temperature": 0.0
+    },
+    {
+      "start": 1394.54,
+      "duration": 6.559999999999945,
+      "text": "According to some statistics that were done recently, since Y2K,",
+      "avg_logprob": -0.10351662481984784,
+      "no_speech_prob": 4.561853824379403e-13,
+      "compression_ratio": 1.535031847133758,
+      "temperature": 0.0
+    },
+    {
+      "start": 1402.3999999999999,
+      "duration": 8.060000000000173,
+      "text": "there are over 40 million people who once attended church regularly that have now stopped.",
+      "avg_logprob": -0.1941083934572008,
+      "no_speech_prob": 4.370130288460644e-13,
+      "compression_ratio": 1.592039800995025,
+      "temperature": 0.0
+    },
+    {
+      "start": 1411.9399999999998,
+      "duration": 1.2800000000002,
+      "text": "40 million.",
+      "avg_logprob": -0.1941083934572008,
+      "no_speech_prob": 4.370130288460644e-13,
+      "compression_ratio": 1.592039800995025,
+      "temperature": 0.0
+    },
+    {
+      "start": 1414.92,
+      "duration": 8.079999999999927,
+      "text": "This is actually, you guys, this is the largest shift in church attendance in the history of the United States.",
+      "avg_logprob": -0.1941083934572008,
+      "no_speech_prob": 4.370130288460644e-13,
+      "compression_ratio": 1.592039800995025,
+      "temperature": 0.0
+    },
+    {
+      "start": 1423.78,
+      "duration": 6.2000000000000455,
+      "text": "The second largest being the second great awakening in the late 1800s where people were coming to church.",
+      "avg_logprob": -0.1941083934572008,
+      "no_speech_prob": 4.370130288460644e-13,
+      "compression_ratio": 1.592039800995025,
+      "temperature": 0.0
+    },
+    {
+      "start": 1431.1,
+      "duration": 7.0,
+      "text": "is this massive shift away. So why? Why is this happening? There's a lot of reasons for this,",
+      "avg_logprob": -0.17134090264638266,
+      "no_speech_prob": 5.88061825797237e-13,
+      "compression_ratio": 1.5588235294117647,
+      "temperature": 0.0
+    },
+    {
+      "start": 1439.32,
+      "duration": 8.580000000000155,
+      "text": "but check this out. The top reason is social. The top reason is social.",
+      "avg_logprob": -0.17134090264638266,
+      "no_speech_prob": 5.88061825797237e-13,
+      "compression_ratio": 1.5588235294117647,
+      "temperature": 0.0
+    },
+    {
+      "start": 1449.82,
+      "duration": 5.900000000000091,
+      "text": "I've been reading a book recently called The Great Dechurching, and in this book, the authors note,",
+      "avg_logprob": -0.17134090264638266,
+      "no_speech_prob": 5.88061825797237e-13,
+      "compression_ratio": 1.5588235294117647,
+      "temperature": 0.0
+    },
+    {
+      "start": 1456.6200000000001,
+      "duration": 0.4399999999998272,
+      "text": "They say this.",
+      "avg_logprob": -0.20477487954748683,
+      "no_speech_prob": 5.902912707245189e-13,
+      "compression_ratio": 1.674757281553398,
+      "temperature": 0.0
+    },
+    {
+      "start": 1457.16,
+      "duration": 7.819999999999936,
+      "text": "They say belonging or lack thereof is the primary pain point that many de-churched feel.",
+      "avg_logprob": -0.20477487954748683,
+      "no_speech_prob": 5.902912707245189e-13,
+      "compression_ratio": 1.674757281553398,
+      "temperature": 0.0
+    },
+    {
+      "start": 1466.04,
+      "duration": 8.700000000000045,
+      "text": "They say millions of people have left church simply because they desired to worship with people they knew and felt loved by,",
+      "avg_logprob": -0.20477487954748683,
+      "no_speech_prob": 5.902912707245189e-13,
+      "compression_ratio": 1.674757281553398,
+      "temperature": 0.0
+    },
+    {
+      "start": 1474.76,
+      "duration": 3.0399999999999636,
+      "text": "but didn't experience that in their context.",
+      "avg_logprob": -0.20477487954748683,
+      "no_speech_prob": 5.902912707245189e-13,
+      "compression_ratio": 1.674757281553398,
+      "temperature": 0.0
+    },
+    {
+      "start": 1478.42,
+      "duration": 3.7799999999999727,
+      "text": "They desire to worship in a community where they feel like they belong.",
+      "avg_logprob": -0.20477487954748683,
+      "no_speech_prob": 5.902912707245189e-13,
+      "compression_ratio": 1.674757281553398,
+      "temperature": 0.0
+    },
+    {
+      "start": 1483.8200000000002,
+      "duration": 4.119999999999891,
+      "text": "These are men and women, many of whom still identify as Christian.",
+      "avg_logprob": -0.19704156280845725,
+      "no_speech_prob": 5.677468044307243e-13,
+      "compression_ratio": 1.55,
+      "temperature": 0.0
+    },
+    {
+      "start": 1489.66,
+      "duration": 6.679999999999836,
+      "text": "But they've chosen not to go to church anymore because they were missing true companionship.",
+      "avg_logprob": -0.19704156280845725,
+      "no_speech_prob": 5.677468044307243e-13,
+      "compression_ratio": 1.55,
+      "temperature": 0.0
+    },
+    {
+      "start": 1497.3400000000001,
+      "duration": 1.6799999999998363,
+      "text": "They give these reasons for leaving.",
+      "avg_logprob": -0.19704156280845725,
+      "no_speech_prob": 5.677468044307243e-13,
+      "compression_ratio": 1.55,
+      "temperature": 0.0
+    },
+    {
+      "start": 1499.04,
+      "duration": 2.4600000000000364,
+      "text": "They said, I found community in other places.",
+      "avg_logprob": -0.19704156280845725,
+      "no_speech_prob": 5.677468044307243e-13,
+      "compression_ratio": 1.55,
+      "temperature": 0.0
+    },
+    {
+      "start": 1503.98,
+      "duration": 4.220000000000027,
+      "text": "You know one of the top places that people are finding community other than church now?",
+      "avg_logprob": -0.19704156280845725,
+      "no_speech_prob": 5.677468044307243e-13,
+      "compression_ratio": 1.55,
+      "temperature": 0.0
+    },
+    {
+      "start": 1508.36,
+      "duration": 1.1200000000001182,
+      "text": "It's at the gym.",
+      "avg_logprob": -0.19704156280845725,
+      "no_speech_prob": 5.677468044307243e-13,
+      "compression_ratio": 1.55,
+      "temperature": 0.0
+    },
+    {
+      "start": 1510.66,
+      "duration": 1.5199999999999818,
+      "text": "It's primarily CrossFit.",
+      "avg_logprob": -0.19704156280845725,
+      "no_speech_prob": 5.677468044307243e-13,
+      "compression_ratio": 1.55,
+      "temperature": 0.0
+    },
+    {
+      "start": 1512.2,
+      "duration": 3.9600000000000364,
+      "text": "honestly. I know, I just...",
+      "avg_logprob": -0.19957690563016725,
+      "no_speech_prob": 6.559489279869823e-13,
+      "compression_ratio": 1.6024096385542168,
+      "temperature": 0.0
+    },
+    {
+      "start": 1518.1799999999998,
+      "duration": 4.040000000000191,
+      "text": "But it's true. People are finding community in those places, and that's replacing",
+      "avg_logprob": -0.19957690563016725,
+      "no_speech_prob": 6.559489279869823e-13,
+      "compression_ratio": 1.6024096385542168,
+      "temperature": 0.0
+    },
+    {
+      "start": 1522.8,
+      "duration": 7.539999999999964,
+      "text": "church for them. They say that they went through a season of suffering, and it changed my view of",
+      "avg_logprob": -0.19957690563016725,
+      "no_speech_prob": 6.559489279869823e-13,
+      "compression_ratio": 1.6024096385542168,
+      "temperature": 0.0
+    },
+    {
+      "start": 1530.34,
+      "duration": 4.1400000000001,
+      "text": "God. Now, here's the thing with this. This is a theological issue, but it's also a social issue,",
+      "avg_logprob": -0.19957690563016725,
+      "no_speech_prob": 6.559489279869823e-13,
+      "compression_ratio": 1.6024096385542168,
+      "temperature": 0.0
+    },
+    {
+      "start": 1534.98,
+      "duration": 6.240000000000009,
+      "text": "because what Solomon says in here, like, one of the things about true companionship is that it",
+      "avg_logprob": -0.19957690563016725,
+      "no_speech_prob": 6.559489279869823e-13,
+      "compression_ratio": 1.6024096385542168,
+      "temperature": 0.0
+    },
+    {
+      "start": 1542.3999999999999,
+      "duration": 3.520000000000209,
+      "text": "It offers help and comfort for the oppressed.",
+      "avg_logprob": -0.1419314770471482,
+      "no_speech_prob": 5.010363868587775e-13,
+      "compression_ratio": 1.6589861751152073,
+      "temperature": 0.0
+    },
+    {
+      "start": 1547.22,
+      "duration": 3.759999999999991,
+      "text": "And so when people are going through difficult seasons in their life,",
+      "avg_logprob": -0.1419314770471482,
+      "no_speech_prob": 5.010363868587775e-13,
+      "compression_ratio": 1.6589861751152073,
+      "temperature": 0.0
+    },
+    {
+      "start": 1551.12,
+      "duration": 2.160000000000082,
+      "text": "where was the community around them?",
+      "avg_logprob": -0.1419314770471482,
+      "no_speech_prob": 5.010363868587775e-13,
+      "compression_ratio": 1.6589861751152073,
+      "temperature": 0.0
+    },
+    {
+      "start": 1554.78,
+      "duration": 3.6400000000001,
+      "text": "Where were the people that prayed with them and helped them through it",
+      "avg_logprob": -0.1419314770471482,
+      "no_speech_prob": 5.010363868587775e-13,
+      "compression_ratio": 1.6589861751152073,
+      "temperature": 0.0
+    },
+    {
+      "start": 1558.42,
+      "duration": 3.240000000000009,
+      "text": "and gave them good answers to the struggle that they were going through?",
+      "avg_logprob": -0.1419314770471482,
+      "no_speech_prob": 5.010363868587775e-13,
+      "compression_ratio": 1.6589861751152073,
+      "temperature": 0.0
+    },
+    {
+      "start": 1563.62,
+      "duration": 4.800000000000182,
+      "text": "7% left because they said that my friends didn't attend church.",
+      "avg_logprob": -0.1419314770471482,
+      "no_speech_prob": 5.010363868587775e-13,
+      "compression_ratio": 1.6589861751152073,
+      "temperature": 0.0
+    },
+    {
+      "start": 1569.52,
+      "duration": 3.5599999999999454,
+      "text": "14% said, I don't fit in with my congregation.",
+      "avg_logprob": -0.17970871063600102,
+      "no_speech_prob": 4.0575220050173555e-13,
+      "compression_ratio": 1.6719576719576719,
+      "temperature": 0.0
+    },
+    {
+      "start": 1574.02,
+      "duration": 3.480000000000018,
+      "text": "12% said, I didn't feel loved.",
+      "avg_logprob": -0.17970871063600102,
+      "no_speech_prob": 4.0575220050173555e-13,
+      "compression_ratio": 1.6719576719576719,
+      "temperature": 0.0
+    },
+    {
+      "start": 1581.04,
+      "duration": 5.680000000000064,
+      "text": "But true companionship is one of the defining characteristics of the church.",
+      "avg_logprob": -0.17970871063600102,
+      "no_speech_prob": 4.0575220050173555e-13,
+      "compression_ratio": 1.6719576719576719,
+      "temperature": 0.0
+    },
+    {
+      "start": 1587.88,
+      "duration": 6.2199999999998,
+      "text": "We are called, as Christians, we are called to this kind of companionship with one another.",
+      "avg_logprob": -0.17970871063600102,
+      "no_speech_prob": 4.0575220050173555e-13,
+      "compression_ratio": 1.6719576719576719,
+      "temperature": 0.0
+    },
+    {
+      "start": 1594.14,
+      "duration": 4.199999999999818,
+      "text": "We're called to welcome one another as Christ has welcomed us, right?",
+      "avg_logprob": -0.17970871063600102,
+      "no_speech_prob": 4.0575220050173555e-13,
+      "compression_ratio": 1.6719576719576719,
+      "temperature": 0.0
+    },
+    {
+      "start": 1598.42,
+      "duration": 8.019999999999982,
+      "text": "in Romans 15. We're called to have equal concern for one another in 1 Corinthians 12. Ephesians 4",
+      "avg_logprob": -0.09220927248718919,
+      "no_speech_prob": 5.354374712704391e-13,
+      "compression_ratio": 1.6473214285714286,
+      "temperature": 0.0
+    },
+    {
+      "start": 1606.44,
+      "duration": 5.480000000000018,
+      "text": "tells us to be patient, to bear with one another in love. It also tells us to forgive one another.",
+      "avg_logprob": -0.09220927248718919,
+      "no_speech_prob": 5.354374712704391e-13,
+      "compression_ratio": 1.6473214285714286,
+      "temperature": 0.0
+    },
+    {
+      "start": 1612.12,
+      "duration": 5.180000000000064,
+      "text": "And then 16 times in the New Testament, we're told to love one another.",
+      "avg_logprob": -0.09220927248718919,
+      "no_speech_prob": 5.354374712704391e-13,
+      "compression_ratio": 1.6473214285714286,
+      "temperature": 0.0
+    },
+    {
+      "start": 1618.9,
+      "duration": 9.019999999999982,
+      "text": "In fact, the early church is described as having this kind of devotion for one another. Acts chapter",
+      "avg_logprob": -0.09220927248718919,
+      "no_speech_prob": 5.354374712704391e-13,
+      "compression_ratio": 1.6473214285714286,
+      "temperature": 0.0
+    },
+    {
+      "start": 1628.42,
+      "duration": 7.379999999999882,
+      "text": "Verse 42 says, they, the early church, devoted themselves to the apostles' teaching and to the fellowship.",
+      "avg_logprob": -0.10781838816981162,
+      "no_speech_prob": 6.821382651442387e-13,
+      "compression_ratio": 1.6966824644549763,
+      "temperature": 0.0
+    },
+    {
+      "start": 1636.08,
+      "duration": 6.759999999999991,
+      "text": "There was a devotion to one another, so much so that later on what it says is that the people outside the church",
+      "avg_logprob": -0.10781838816981162,
+      "no_speech_prob": 6.821382651442387e-13,
+      "compression_ratio": 1.6966824644549763,
+      "temperature": 0.0
+    },
+    {
+      "start": 1642.84,
+      "duration": 5.960000000000036,
+      "text": "looked at what was happening inside the church, and they're like, man, I want that.",
+      "avg_logprob": -0.10781838816981162,
+      "no_speech_prob": 6.821382651442387e-13,
+      "compression_ratio": 1.6966824644549763,
+      "temperature": 0.0
+    },
+    {
+      "start": 1650.2,
+      "duration": 1.3599999999999,
+      "text": "I want that.",
+      "avg_logprob": -0.10781838816981162,
+      "no_speech_prob": 6.821382651442387e-13,
+      "compression_ratio": 1.6966824644549763,
+      "temperature": 0.0
+    },
+    {
+      "start": 1655.64,
+      "duration": 1.9399999999998272,
+      "text": "This is what we're called to as a church.",
+      "avg_logprob": -0.10781838816981162,
+      "no_speech_prob": 6.821382651442387e-13,
+      "compression_ratio": 1.6966824644549763,
+      "temperature": 0.0
+    },
+    {
+      "start": 1658.42,
+      "duration": 1.599999999999909,
+      "text": "I think that you guys do this so well.",
+      "avg_logprob": -0.13175186060242733,
+      "no_speech_prob": 6.741918221614407e-13,
+      "compression_ratio": 1.868312757201646,
+      "temperature": 0.0
+    },
+    {
+      "start": 1660.88,
+      "duration": 1.3399999999999181,
+      "text": "I've been so encouraged.",
+      "avg_logprob": -0.13175186060242733,
+      "no_speech_prob": 6.741918221614407e-13,
+      "compression_ratio": 1.868312757201646,
+      "temperature": 0.0
+    },
+    {
+      "start": 1662.9,
+      "duration": 1.0399999999999636,
+      "text": "I've been so encouraged.",
+      "avg_logprob": -0.13175186060242733,
+      "no_speech_prob": 6.741918221614407e-13,
+      "compression_ratio": 1.868312757201646,
+      "temperature": 0.0
+    },
+    {
+      "start": 1664.08,
+      "duration": 1.6600000000000819,
+      "text": "So we need to keep doing those things.",
+      "avg_logprob": -0.13175186060242733,
+      "no_speech_prob": 6.741918221614407e-13,
+      "compression_ratio": 1.868312757201646,
+      "temperature": 0.0
+    },
+    {
+      "start": 1665.88,
+      "duration": 4.199999999999818,
+      "text": "We need to keep offering our companionship to one another.",
+      "avg_logprob": -0.13175186060242733,
+      "no_speech_prob": 6.741918221614407e-13,
+      "compression_ratio": 1.868312757201646,
+      "temperature": 0.0
+    },
+    {
+      "start": 1671.66,
+      "duration": 4.119999999999891,
+      "text": "But then there's a question of this other sphere outside the church.",
+      "avg_logprob": -0.13175186060242733,
+      "no_speech_prob": 6.741918221614407e-13,
+      "compression_ratio": 1.868312757201646,
+      "temperature": 0.0
+    },
+    {
+      "start": 1676.28,
+      "duration": 3.380000000000109,
+      "text": "How are we supposed to offer this to people who are outside the church?",
+      "avg_logprob": -0.13175186060242733,
+      "no_speech_prob": 6.741918221614407e-13,
+      "compression_ratio": 1.868312757201646,
+      "temperature": 0.0
+    },
+    {
+      "start": 1680.3,
+      "duration": 2.5,
+      "text": "What about the 40 million people who have left the church?",
+      "avg_logprob": -0.13175186060242733,
+      "no_speech_prob": 6.741918221614407e-13,
+      "compression_ratio": 1.868312757201646,
+      "temperature": 0.0
+    },
+    {
+      "start": 1682.9,
+      "duration": 4.579999999999927,
+      "text": "What about all of those who have never set foot in a church before?",
+      "avg_logprob": -0.13175186060242733,
+      "no_speech_prob": 6.741918221614407e-13,
+      "compression_ratio": 1.868312757201646,
+      "temperature": 0.0
+    },
+    {
+      "start": 1688.8600000000001,
+      "duration": 4.499999999999773,
+      "text": "I think it's easy for us as Christians to compartmentalize one from the other.",
+      "avg_logprob": -0.1349571891452955,
+      "no_speech_prob": 6.162824699347536e-13,
+      "compression_ratio": 1.9831223628691983,
+      "temperature": 0.0
+    },
+    {
+      "start": 1693.68,
+      "duration": 2.9199999999998454,
+      "text": "I think it's easy for us to say, this is inside the church,",
+      "avg_logprob": -0.1349571891452955,
+      "no_speech_prob": 6.162824699347536e-13,
+      "compression_ratio": 1.9831223628691983,
+      "temperature": 0.0
+    },
+    {
+      "start": 1696.66,
+      "duration": 2.6599999999998545,
+      "text": "and that's how we treat people, and this is outside the church,",
+      "avg_logprob": -0.1349571891452955,
+      "no_speech_prob": 6.162824699347536e-13,
+      "compression_ratio": 1.9831223628691983,
+      "temperature": 0.0
+    },
+    {
+      "start": 1699.46,
+      "duration": 1.4400000000000546,
+      "text": "and I'll get to that eventually.",
+      "avg_logprob": -0.1349571891452955,
+      "no_speech_prob": 6.162824699347536e-13,
+      "compression_ratio": 1.9831223628691983,
+      "temperature": 0.0
+    },
+    {
+      "start": 1702.68,
+      "duration": 3.6599999999998545,
+      "text": "The people outside the church, well, maybe I just don't have time for that.",
+      "avg_logprob": -0.1349571891452955,
+      "no_speech_prob": 6.162824699347536e-13,
+      "compression_ratio": 1.9831223628691983,
+      "temperature": 0.0
+    },
+    {
+      "start": 1706.38,
+      "duration": 1.0599999999999454,
+      "text": "I'm going to ignore that for now.",
+      "avg_logprob": -0.1349571891452955,
+      "no_speech_prob": 6.162824699347536e-13,
+      "compression_ratio": 1.9831223628691983,
+      "temperature": 0.0
+    },
+    {
+      "start": 1708.8200000000002,
+      "duration": 2.7799999999997453,
+      "text": "And so it's easy for us, it's easy for me, too,",
+      "avg_logprob": -0.1349571891452955,
+      "no_speech_prob": 6.162824699347536e-13,
+      "compression_ratio": 1.9831223628691983,
+      "temperature": 0.0
+    },
+    {
+      "start": 1712.24,
+      "duration": 3.400000000000091,
+      "text": "to just write them off and just say, like, oh, we'll get to that eventually.",
+      "avg_logprob": -0.1349571891452955,
+      "no_speech_prob": 6.162824699347536e-13,
+      "compression_ratio": 1.9831223628691983,
+      "temperature": 0.0
+    },
+    {
+      "start": 1716.46,
+      "duration": 9.279999999999973,
+      "text": "But I think that this approach communicates to the world that they are not worth our companionship,",
+      "avg_logprob": -0.20889126764584895,
+      "no_speech_prob": 4.421092940527782e-13,
+      "compression_ratio": 1.654054054054054,
+      "temperature": 0.0
+    },
+    {
+      "start": 1727.0,
+      "duration": 1.6600000000000819,
+      "text": "that they're not worth our time.",
+      "avg_logprob": -0.20889126764584895,
+      "no_speech_prob": 4.421092940527782e-13,
+      "compression_ratio": 1.654054054054054,
+      "temperature": 0.0
+    },
+    {
+      "start": 1730.38,
+      "duration": 5.899999999999864,
+      "text": "And so I think what actually has to happen here is we need to merge these two spheres together.",
+      "avg_logprob": -0.20889126764584895,
+      "no_speech_prob": 4.421092940527782e-13,
+      "compression_ratio": 1.654054054054054,
+      "temperature": 0.0
+    },
+    {
+      "start": 1737.68,
+      "duration": 3.9600000000000364,
+      "text": "We need to start thinking about people as just being people and not projects.",
+      "avg_logprob": -0.20889126764584895,
+      "no_speech_prob": 4.421092940527782e-13,
+      "compression_ratio": 1.654054054054054,
+      "temperature": 0.0
+    },
+    {
+      "start": 1744.5,
+      "duration": 1.4600000000000364,
+      "text": "Think about evangelism.",
+      "avg_logprob": -0.18182730423776727,
+      "no_speech_prob": 4.1374195736132435e-13,
+      "compression_ratio": 1.8366336633663367,
+      "temperature": 0.0
+    },
+    {
+      "start": 1746.4,
+      "duration": 2.759999999999991,
+      "text": "Evangelism really needs to change.",
+      "avg_logprob": -0.18182730423776727,
+      "no_speech_prob": 4.1374195736132435e-13,
+      "compression_ratio": 1.8366336633663367,
+      "temperature": 0.0
+    },
+    {
+      "start": 1749.16,
+      "duration": 3.6399999999998727,
+      "text": "It's not just about communicating to people about the truth,",
+      "avg_logprob": -0.18182730423776727,
+      "no_speech_prob": 4.1374195736132435e-13,
+      "compression_ratio": 1.8366336633663367,
+      "temperature": 0.0
+    },
+    {
+      "start": 1753.26,
+      "duration": 3.5599999999999454,
+      "text": "trying to convince them that their worldview is wrong",
+      "avg_logprob": -0.18182730423776727,
+      "no_speech_prob": 4.1374195736132435e-13,
+      "compression_ratio": 1.8366336633663367,
+      "temperature": 0.0
+    },
+    {
+      "start": 1756.82,
+      "duration": 0.9600000000000364,
+      "text": "and our worldview is right.",
+      "avg_logprob": -0.18182730423776727,
+      "no_speech_prob": 4.1374195736132435e-13,
+      "compression_ratio": 1.8366336633663367,
+      "temperature": 0.0
+    },
+    {
+      "start": 1757.82,
+      "duration": 0.9800000000000182,
+      "text": "That's not evangelism.",
+      "avg_logprob": -0.18182730423776727,
+      "no_speech_prob": 4.1374195736132435e-13,
+      "compression_ratio": 1.8366336633663367,
+      "temperature": 0.0
+    },
+    {
+      "start": 1760.6200000000001,
+      "duration": 3.0799999999999272,
+      "text": "Evangelism is about inviting people into our lives.",
+      "avg_logprob": -0.18182730423776727,
+      "no_speech_prob": 4.1374195736132435e-13,
+      "compression_ratio": 1.8366336633663367,
+      "temperature": 0.0
+    },
+    {
+      "start": 1764.3600000000001,
+      "duration": 2.8799999999998818,
+      "text": "It's about being willing to love them for who they are,",
+      "avg_logprob": -0.18182730423776727,
+      "no_speech_prob": 4.1374195736132435e-13,
+      "compression_ratio": 1.8366336633663367,
+      "temperature": 0.0
+    },
+    {
+      "start": 1767.44,
+      "duration": 2.2999999999999545,
+      "text": "that they are people and not projects.",
+      "avg_logprob": -0.18182730423776727,
+      "no_speech_prob": 4.1374195736132435e-13,
+      "compression_ratio": 1.8366336633663367,
+      "temperature": 0.0
+    },
+    {
+      "start": 1771.64,
+      "duration": 1.6199999999998909,
+      "text": "It reminds me of a story.",
+      "avg_logprob": -0.2171630605061849,
+      "no_speech_prob": 4.651404587018015e-13,
+      "compression_ratio": 1.5027322404371584,
+      "temperature": 0.0
+    },
+    {
+      "start": 1773.48,
+      "duration": 0.7400000000000091,
+      "text": "You may have heard this.",
+      "avg_logprob": -0.2171630605061849,
+      "no_speech_prob": 4.651404587018015e-13,
+      "compression_ratio": 1.5027322404371584,
+      "temperature": 0.0
+    },
+    {
+      "start": 1774.28,
+      "duration": 2.2799999999999727,
+      "text": "There's a woman named Rosaria Butterfield.",
+      "avg_logprob": -0.2171630605061849,
+      "no_speech_prob": 4.651404587018015e-13,
+      "compression_ratio": 1.5027322404371584,
+      "temperature": 0.0
+    },
+    {
+      "start": 1777.16,
+      "duration": 4.079999999999927,
+      "text": "And Rosaria Butterfield, she was an atheist, English professor,",
+      "avg_logprob": -0.2171630605061849,
+      "no_speech_prob": 4.651404587018015e-13,
+      "compression_ratio": 1.5027322404371584,
+      "temperature": 0.0
+    },
+    {
+      "start": 1781.78,
+      "duration": 2.2799999999999727,
+      "text": "living in a homosexual relationship.",
+      "avg_logprob": -0.2171630605061849,
+      "no_speech_prob": 4.651404587018015e-13,
+      "compression_ratio": 1.5027322404371584,
+      "temperature": 0.0
+    },
+    {
+      "start": 1784.98,
+      "duration": 9.240000000000009,
+      "text": "And it was through the companionship of a pastor and his wife over years, years,",
+      "avg_logprob": -0.2171630605061849,
+      "no_speech_prob": 4.651404587018015e-13,
+      "compression_ratio": 1.5027322404371584,
+      "temperature": 0.0
+    },
+    {
+      "start": 1795.38,
+      "duration": 5.539999999999964,
+      "text": "just extending companionship, friendship, hospitality,",
+      "avg_logprob": -0.15570071435743763,
+      "no_speech_prob": 4.780938557373549e-13,
+      "compression_ratio": 1.6293103448275863,
+      "temperature": 0.0
+    },
+    {
+      "start": 1802.46,
+      "duration": 4.180000000000064,
+      "text": "that she came to faith in Christ and her life was dramatically changed.",
+      "avg_logprob": -0.15570071435743763,
+      "no_speech_prob": 4.780938557373549e-13,
+      "compression_ratio": 1.6293103448275863,
+      "temperature": 0.0
+    },
+    {
+      "start": 1808.42,
+      "duration": 3.599999999999909,
+      "text": "In her book, it's called The Secret Thoughts of an Unlikely Convert.",
+      "avg_logprob": -0.15570071435743763,
+      "no_speech_prob": 4.780938557373549e-13,
+      "compression_ratio": 1.6293103448275863,
+      "temperature": 0.0
+    },
+    {
+      "start": 1812.1,
+      "duration": 2.660000000000082,
+      "text": "She talks about this story of how this pastor and his wife,",
+      "avg_logprob": -0.15570071435743763,
+      "no_speech_prob": 4.780938557373549e-13,
+      "compression_ratio": 1.6293103448275863,
+      "temperature": 0.0
+    },
+    {
+      "start": 1814.76,
+      "duration": 2.6200000000001182,
+      "text": "they didn't demand that she change her lifestyle.",
+      "avg_logprob": -0.15570071435743763,
+      "no_speech_prob": 4.780938557373549e-13,
+      "compression_ratio": 1.6293103448275863,
+      "temperature": 0.0
+    },
+    {
+      "start": 1817.62,
+      "duration": 5.2000000000000455,
+      "text": "They didn't demand that she would be someone different than who she was.",
+      "avg_logprob": -0.15570071435743763,
+      "no_speech_prob": 4.780938557373549e-13,
+      "compression_ratio": 1.6293103448275863,
+      "temperature": 0.0
+    },
+    {
+      "start": 1824.22,
+      "duration": 6.279999999999973,
+      "text": "her friend. And they would have dinner together. They'd spend time with each other, and they just",
+      "avg_logprob": -0.0700040200177361,
+      "no_speech_prob": 5.271207732457373e-13,
+      "compression_ratio": 1.7123893805309736,
+      "temperature": 0.0
+    },
+    {
+      "start": 1830.5,
+      "duration": 6.680000000000064,
+      "text": "extended that companionship to her. And then through that loving companionship, what she began",
+      "avg_logprob": -0.0700040200177361,
+      "no_speech_prob": 5.271207732457373e-13,
+      "compression_ratio": 1.7123893805309736,
+      "temperature": 0.0
+    },
+    {
+      "start": 1837.18,
+      "duration": 6.7000000000000455,
+      "text": "to see is that Christianity actually answers, gave better answers to her questions about life.",
+      "avg_logprob": -0.0700040200177361,
+      "no_speech_prob": 5.271207732457373e-13,
+      "compression_ratio": 1.7123893805309736,
+      "temperature": 0.0
+    },
+    {
+      "start": 1844.12,
+      "duration": 7.020000000000209,
+      "text": "Christianity made more sense of her world than anything else. She calls this type of companionship,",
+      "avg_logprob": -0.0700040200177361,
+      "no_speech_prob": 5.271207732457373e-13,
+      "compression_ratio": 1.7123893805309736,
+      "temperature": 0.0
+    },
+    {
+      "start": 1851.14,
+      "duration": 2.7199999999998,
+      "text": "she calls it radically ordinary hospitality.",
+      "avg_logprob": -0.2676853576263824,
+      "no_speech_prob": 4.285603447638786e-13,
+      "compression_ratio": 1.6089385474860336,
+      "temperature": 0.0
+    },
+    {
+      "start": 1854.36,
+      "duration": 1.240000000000009,
+      "text": "She says that, she says,",
+      "avg_logprob": -0.2676853576263824,
+      "no_speech_prob": 4.285603447638786e-13,
+      "compression_ratio": 1.6089385474860336,
+      "temperature": 0.0
+    },
+    {
+      "start": 1855.8,
+      "duration": 1.9800000000000182,
+      "text": "radically ordinary hospitality is this.",
+      "avg_logprob": -0.2676853576263824,
+      "no_speech_prob": 4.285603447638786e-13,
+      "compression_ratio": 1.6089385474860336,
+      "temperature": 0.0
+    },
+    {
+      "start": 1857.88,
+      "duration": 2.8799999999998818,
+      "text": "It's using your Christian home in a daily way",
+      "avg_logprob": -0.2676853576263824,
+      "no_speech_prob": 4.285603447638786e-13,
+      "compression_ratio": 1.6089385474860336,
+      "temperature": 0.0
+    },
+    {
+      "start": 1860.76,
+      "duration": 2.3199999999999363,
+      "text": "that seeks to make strangers' neighbors",
+      "avg_logprob": -0.2676853576263824,
+      "no_speech_prob": 4.285603447638786e-13,
+      "compression_ratio": 1.6089385474860336,
+      "temperature": 0.0
+    },
+    {
+      "start": 1863.08,
+      "duration": 2.2200000000000273,
+      "text": "and neighbors' family of God.",
+      "avg_logprob": -0.2676853576263824,
+      "no_speech_prob": 4.285603447638786e-13,
+      "compression_ratio": 1.6089385474860336,
+      "temperature": 0.0
+    },
+    {
+      "start": 1866.72,
+      "duration": 1.3799999999998818,
+      "text": "It's just loving people.",
+      "avg_logprob": -0.2676853576263824,
+      "no_speech_prob": 4.285603447638786e-13,
+      "compression_ratio": 1.6089385474860336,
+      "temperature": 0.0
+    },
+    {
+      "start": 1871.6,
+      "duration": 4.759999999999991,
+      "text": "The Lord has put people in your life.",
+      "avg_logprob": -0.2676853576263824,
+      "no_speech_prob": 4.285603447638786e-13,
+      "compression_ratio": 1.6089385474860336,
+      "temperature": 0.0
+    },
+    {
+      "start": 1878.6999999999998,
+      "duration": 3.7800000000002,
+      "text": "people who have stopped going to church recently.",
+      "avg_logprob": -0.1477860089006095,
+      "no_speech_prob": 4.837278039064585e-13,
+      "compression_ratio": 1.6019417475728155,
+      "temperature": 0.0
+    },
+    {
+      "start": 1883.42,
+      "duration": 1.4600000000000364,
+      "text": "Maybe it was around the pandemic.",
+      "avg_logprob": -0.1477860089006095,
+      "no_speech_prob": 4.837278039064585e-13,
+      "compression_ratio": 1.6019417475728155,
+      "temperature": 0.0
+    },
+    {
+      "start": 1886.56,
+      "duration": 1.9600000000000364,
+      "text": "The Lord has put people in your life",
+      "avg_logprob": -0.1477860089006095,
+      "no_speech_prob": 4.837278039064585e-13,
+      "compression_ratio": 1.6019417475728155,
+      "temperature": 0.0
+    },
+    {
+      "start": 1888.52,
+      "duration": 3.519999999999982,
+      "text": "who maybe have never considered Christianity",
+      "avg_logprob": -0.1477860089006095,
+      "no_speech_prob": 4.837278039064585e-13,
+      "compression_ratio": 1.6019417475728155,
+      "temperature": 0.0
+    },
+    {
+      "start": 1892.04,
+      "duration": 2.0399999999999636,
+      "text": "to be a thing that they could be a part of.",
+      "avg_logprob": -0.1477860089006095,
+      "no_speech_prob": 4.837278039064585e-13,
+      "compression_ratio": 1.6019417475728155,
+      "temperature": 0.0
+    },
+    {
+      "start": 1896.04,
+      "duration": 2.2999999999999545,
+      "text": "You might even be thinking about that person right now.",
+      "avg_logprob": -0.1477860089006095,
+      "no_speech_prob": 4.837278039064585e-13,
+      "compression_ratio": 1.6019417475728155,
+      "temperature": 0.0
+    },
+    {
+      "start": 1901.08,
+      "duration": 2.1000000000001364,
+      "text": "One of the best things that we can do",
+      "avg_logprob": -0.1477860089006095,
+      "no_speech_prob": 4.837278039064585e-13,
+      "compression_ratio": 1.6019417475728155,
+      "temperature": 0.0
+    },
+    {
+      "start": 1903.18,
+      "duration": 2.0,
+      "text": "to be a light to the world",
+      "avg_logprob": -0.1477860089006095,
+      "no_speech_prob": 4.837278039064585e-13,
+      "compression_ratio": 1.6019417475728155,
+      "temperature": 0.0
+    },
+    {
+      "start": 1906.36,
+      "duration": 5.360000000000127,
+      "text": "is just by extending true companionship to them.",
+      "avg_logprob": -0.18834118903437747,
+      "no_speech_prob": 3.5946690502691725e-13,
+      "compression_ratio": 1.5976331360946745,
+      "temperature": 0.0
+    },
+    {
+      "start": 1913.88,
+      "duration": 3.459999999999809,
+      "text": "The Lord put them in your life for a reason.",
+      "avg_logprob": -0.18834118903437747,
+      "no_speech_prob": 3.5946690502691725e-13,
+      "compression_ratio": 1.5976331360946745,
+      "temperature": 0.0
+    },
+    {
+      "start": 1918.04,
+      "duration": 3.8600000000001273,
+      "text": "So you might be called to invest in them in that way,",
+      "avg_logprob": -0.18834118903437747,
+      "no_speech_prob": 3.5946690502691725e-13,
+      "compression_ratio": 1.5976331360946745,
+      "temperature": 0.0
+    },
+    {
+      "start": 1922.0,
+      "duration": 3.119999999999891,
+      "text": "to be their friend, to learn to love them,",
+      "avg_logprob": -0.18834118903437747,
+      "no_speech_prob": 3.5946690502691725e-13,
+      "compression_ratio": 1.5976331360946745,
+      "temperature": 0.0
+    },
+    {
+      "start": 1925.8600000000001,
+      "duration": 3.3799999999998818,
+      "text": "not as a project, but as a person.",
+      "avg_logprob": -0.18834118903437747,
+      "no_speech_prob": 3.5946690502691725e-13,
+      "compression_ratio": 1.5976331360946745,
+      "temperature": 0.0
+    },
+    {
+      "start": 1932.8200000000002,
+      "duration": 3.2199999999998,
+      "text": "So, we looked at what is true companionship,",
+      "avg_logprob": -0.18834118903437747,
+      "no_speech_prob": 3.5946690502691725e-13,
+      "compression_ratio": 1.5976331360946745,
+      "temperature": 0.0
+    },
+    {
+      "start": 1936.36,
+      "duration": 0.7599999999999909,
+      "text": "Who should we give it to?",
+      "avg_logprob": -0.1387489258296906,
+      "no_speech_prob": 6.358262982959773e-13,
+      "compression_ratio": 1.7520325203252032,
+      "temperature": 0.0
+    },
+    {
+      "start": 1937.28,
+      "duration": 1.9400000000000546,
+      "text": "Third question, how can we give it?",
+      "avg_logprob": -0.1387489258296906,
+      "no_speech_prob": 6.358262982959773e-13,
+      "compression_ratio": 1.7520325203252032,
+      "temperature": 0.0
+    },
+    {
+      "start": 1939.92,
+      "duration": 2.3599999999999,
+      "text": "How can we possibly give this kind of companionship?",
+      "avg_logprob": -0.1387489258296906,
+      "no_speech_prob": 6.358262982959773e-13,
+      "compression_ratio": 1.7520325203252032,
+      "temperature": 0.0
+    },
+    {
+      "start": 1942.42,
+      "duration": 2.480000000000018,
+      "text": "Because Solomon's point, when you look at this passage,",
+      "avg_logprob": -0.1387489258296906,
+      "no_speech_prob": 6.358262982959773e-13,
+      "compression_ratio": 1.7520325203252032,
+      "temperature": 0.0
+    },
+    {
+      "start": 1945.04,
+      "duration": 1.1400000000001,
+      "text": "is that it's nowhere to be found.",
+      "avg_logprob": -0.1387489258296906,
+      "no_speech_prob": 6.358262982959773e-13,
+      "compression_ratio": 1.7520325203252032,
+      "temperature": 0.0
+    },
+    {
+      "start": 1948.74,
+      "duration": 2.9400000000000546,
+      "text": "Solomon's point is that he's looking all over the place",
+      "avg_logprob": -0.1387489258296906,
+      "no_speech_prob": 6.358262982959773e-13,
+      "compression_ratio": 1.7520325203252032,
+      "temperature": 0.0
+    },
+    {
+      "start": 1951.68,
+      "duration": 1.2200000000000273,
+      "text": "and he cannot find it.",
+      "avg_logprob": -0.1387489258296906,
+      "no_speech_prob": 6.358262982959773e-13,
+      "compression_ratio": 1.7520325203252032,
+      "temperature": 0.0
+    },
+    {
+      "start": 1953.16,
+      "duration": 2.519999999999982,
+      "text": "The truth of it is, is that people will fail.",
+      "avg_logprob": -0.1387489258296906,
+      "no_speech_prob": 6.358262982959773e-13,
+      "compression_ratio": 1.7520325203252032,
+      "temperature": 0.0
+    },
+    {
+      "start": 1956.8200000000002,
+      "duration": 1.2599999999997635,
+      "text": "We will fail at this.",
+      "avg_logprob": -0.1387489258296906,
+      "no_speech_prob": 6.358262982959773e-13,
+      "compression_ratio": 1.7520325203252032,
+      "temperature": 0.0
+    },
+    {
+      "start": 1959.6200000000001,
+      "duration": 1.7799999999999727,
+      "text": "People will fail to give us comfort",
+      "avg_logprob": -0.1387489258296906,
+      "no_speech_prob": 6.358262982959773e-13,
+      "compression_ratio": 1.7520325203252032,
+      "temperature": 0.0
+    },
+    {
+      "start": 1961.4,
+      "duration": 1.9800000000000182,
+      "text": "just as we will fail to do that for others.",
+      "avg_logprob": -0.1387489258296906,
+      "no_speech_prob": 6.358262982959773e-13,
+      "compression_ratio": 1.7520325203252032,
+      "temperature": 0.0
+    },
+    {
+      "start": 1964.6399999999999,
+      "duration": 2.380000000000109,
+      "text": "will find that people will be motivated by envy.",
+      "avg_logprob": -0.14995731353759767,
+      "no_speech_prob": 4.4912722629505963e-13,
+      "compression_ratio": 1.7169811320754718,
+      "temperature": 0.0
+    },
+    {
+      "start": 1967.82,
+      "duration": 1.3200000000001637,
+      "text": "They'll shift their loyalty.",
+      "avg_logprob": -0.14995731353759767,
+      "no_speech_prob": 4.4912722629505963e-13,
+      "compression_ratio": 1.7169811320754718,
+      "temperature": 0.0
+    },
+    {
+      "start": 1970.94,
+      "duration": 3.4199999999998454,
+      "text": "So how can we ever hope to give this kind of companionship to someone else?",
+      "avg_logprob": -0.14995731353759767,
+      "no_speech_prob": 4.4912722629505963e-13,
+      "compression_ratio": 1.7169811320754718,
+      "temperature": 0.0
+    },
+    {
+      "start": 1974.46,
+      "duration": 1.6199999999998909,
+      "text": "Well, the only way that we can do this,",
+      "avg_logprob": -0.14995731353759767,
+      "no_speech_prob": 4.4912722629505963e-13,
+      "compression_ratio": 1.7169811320754718,
+      "temperature": 0.0
+    },
+    {
+      "start": 1976.22,
+      "duration": 2.619999999999891,
+      "text": "the only way that we can offer true companionship",
+      "avg_logprob": -0.14995731353759767,
+      "no_speech_prob": 4.4912722629505963e-13,
+      "compression_ratio": 1.7169811320754718,
+      "temperature": 0.0
+    },
+    {
+      "start": 1980.26,
+      "duration": 5.059999999999945,
+      "text": "is if we do so from the strength that we receive from the companionship of Jesus.",
+      "avg_logprob": -0.14995731353759767,
+      "no_speech_prob": 4.4912722629505963e-13,
+      "compression_ratio": 1.7169811320754718,
+      "temperature": 0.0
+    },
+    {
+      "start": 1988.36,
+      "duration": 2.2200000000000273,
+      "text": "See, Jesus, this is so cool, you guys.",
+      "avg_logprob": -0.14995731353759767,
+      "no_speech_prob": 4.4912722629505963e-13,
+      "compression_ratio": 1.7169811320754718,
+      "temperature": 0.0
+    },
+    {
+      "start": 1990.58,
+      "duration": 8.320000000000164,
+      "text": "Jesus perfectly meets all of the deficiencies we see in human companionship.",
+      "avg_logprob": -0.2354799476829735,
+      "no_speech_prob": 4.1858161901886515e-13,
+      "compression_ratio": 1.4731182795698925,
+      "temperature": 0.0
+    },
+    {
+      "start": 2000.22,
+      "duration": 6.2000000000000455,
+      "text": "In fact, Jesus met all five of the things that we saw in Ecclesiastes chapter 4.",
+      "avg_logprob": -0.2354799476829735,
+      "no_speech_prob": 4.1858161901886515e-13,
+      "compression_ratio": 1.4731182795698925,
+      "temperature": 0.0
+    },
+    {
+      "start": 2006.9,
+      "duration": 6.1599999999998545,
+      "text": "Jesus offers, listen to this, real comfort to the oppressed.",
+      "avg_logprob": -0.2354799476829735,
+      "no_speech_prob": 4.1858161901886515e-13,
+      "compression_ratio": 1.4731182795698925,
+      "temperature": 0.0
+    },
+    {
+      "start": 2013.98,
+      "duration": 1.7200000000000273,
+      "text": "And he does it through people.",
+      "avg_logprob": -0.2354799476829735,
+      "no_speech_prob": 4.1858161901886515e-13,
+      "compression_ratio": 1.4731182795698925,
+      "temperature": 0.0
+    },
+    {
+      "start": 2016.42,
+      "duration": 1.6399999999998727,
+      "text": "2 Corinthians chapter 1.",
+      "avg_logprob": -0.2354799476829735,
+      "no_speech_prob": 4.1858161901886515e-13,
+      "compression_ratio": 1.4731182795698925,
+      "temperature": 0.0
+    },
+    {
+      "start": 2018.8600000000001,
+      "duration": 2.699999999999818,
+      "text": "Blessed be the God and Father of our Lord Jesus Christ,",
+      "avg_logprob": -0.19978514424076788,
+      "no_speech_prob": 5.009724189306008e-13,
+      "compression_ratio": 1.7892156862745099,
+      "temperature": 0.0
+    },
+    {
+      "start": 2021.8,
+      "duration": 3.4200000000000728,
+      "text": "the Father of mercies and God of all comfort,",
+      "avg_logprob": -0.19978514424076788,
+      "no_speech_prob": 5.009724189306008e-13,
+      "compression_ratio": 1.7892156862745099,
+      "temperature": 0.0
+    },
+    {
+      "start": 2025.54,
+      "duration": 3.3400000000001455,
+      "text": "who comforts us in all our afflictions",
+      "avg_logprob": -0.19978514424076788,
+      "no_speech_prob": 5.009724189306008e-13,
+      "compression_ratio": 1.7892156862745099,
+      "temperature": 0.0
+    },
+    {
+      "start": 2028.88,
+      "duration": 2.519999999999982,
+      "text": "so that we may be able to comfort those",
+      "avg_logprob": -0.19978514424076788,
+      "no_speech_prob": 5.009724189306008e-13,
+      "compression_ratio": 1.7892156862745099,
+      "temperature": 0.0
+    },
+    {
+      "start": 2031.4,
+      "duration": 2.0799999999999272,
+      "text": "who are in any affliction",
+      "avg_logprob": -0.19978514424076788,
+      "no_speech_prob": 5.009724189306008e-13,
+      "compression_ratio": 1.7892156862745099,
+      "temperature": 0.0
+    },
+    {
+      "start": 2033.48,
+      "duration": 3.0,
+      "text": "with the comfort with which we ourselves",
+      "avg_logprob": -0.19978514424076788,
+      "no_speech_prob": 5.009724189306008e-13,
+      "compression_ratio": 1.7892156862745099,
+      "temperature": 0.0
+    },
+    {
+      "start": 2036.48,
+      "duration": 1.900000000000091,
+      "text": "are comforted by God.",
+      "avg_logprob": -0.19978514424076788,
+      "no_speech_prob": 5.009724189306008e-13,
+      "compression_ratio": 1.7892156862745099,
+      "temperature": 0.0
+    },
+    {
+      "start": 2038.38,
+      "duration": 0.6199999999998909,
+      "text": "What does he do?",
+      "avg_logprob": -0.19978514424076788,
+      "no_speech_prob": 5.009724189306008e-13,
+      "compression_ratio": 1.7892156862745099,
+      "temperature": 0.0
+    },
+    {
+      "start": 2039.16,
+      "duration": 1.7999999999999545,
+      "text": "He offers real comfort.",
+      "avg_logprob": -0.19978514424076788,
+      "no_speech_prob": 5.009724189306008e-13,
+      "compression_ratio": 1.7892156862745099,
+      "temperature": 0.0
+    },
+    {
+      "start": 2041.34,
+      "duration": 1.3800000000001091,
+      "text": "He does it through his church.",
+      "avg_logprob": -0.19978514424076788,
+      "no_speech_prob": 5.009724189306008e-13,
+      "compression_ratio": 1.7892156862745099,
+      "temperature": 0.0
+    },
+    {
+      "start": 2043.74,
+      "duration": 1.0799999999999272,
+      "text": "He does it through you.",
+      "avg_logprob": -0.19978514424076788,
+      "no_speech_prob": 5.009724189306008e-13,
+      "compression_ratio": 1.7892156862745099,
+      "temperature": 0.0
+    },
+    {
+      "start": 2047.38,
+      "duration": 2.480000000000018,
+      "text": "Second, Jesus was never motivated by envy.",
+      "avg_logprob": -0.2153234038242074,
+      "no_speech_prob": 4.990804861396136e-13,
+      "compression_ratio": 1.4952380952380953,
+      "temperature": 0.0
+    },
+    {
+      "start": 2051.46,
+      "duration": 4.679999999999836,
+      "text": "He offers us his companionship, not motivated by envy.",
+      "avg_logprob": -0.2153234038242074,
+      "no_speech_prob": 4.990804861396136e-13,
+      "compression_ratio": 1.4952380952380953,
+      "temperature": 0.0
+    },
+    {
+      "start": 2056.76,
+      "duration": 2.0399999999999636,
+      "text": "In fact, he humbled himself.",
+      "avg_logprob": -0.2153234038242074,
+      "no_speech_prob": 4.990804861396136e-13,
+      "compression_ratio": 1.4952380952380953,
+      "temperature": 0.0
+    },
+    {
+      "start": 2060.12,
+      "duration": 3.119999999999891,
+      "text": "Philippians chapter 2 says,",
+      "avg_logprob": -0.2153234038242074,
+      "no_speech_prob": 4.990804861396136e-13,
+      "compression_ratio": 1.4952380952380953,
+      "temperature": 0.0
+    },
+    {
+      "start": 2063.5,
+      "duration": 3.880000000000109,
+      "text": "Have this mind amongst yourselves, which is yours in Christ Jesus,",
+      "avg_logprob": -0.2153234038242074,
+      "no_speech_prob": 4.990804861396136e-13,
+      "compression_ratio": 1.4952380952380953,
+      "temperature": 0.0
+    },
+    {
+      "start": 2067.54,
+      "duration": 2.5799999999999272,
+      "text": "who though he was in the form of God,",
+      "avg_logprob": -0.2153234038242074,
+      "no_speech_prob": 4.990804861396136e-13,
+      "compression_ratio": 1.4952380952380953,
+      "temperature": 0.0
+    },
+    {
+      "start": 2070.38,
+      "duration": 3.2599999999997635,
+      "text": "did not count equality with God a thing to be grasped,",
+      "avg_logprob": -0.2153234038242074,
+      "no_speech_prob": 4.990804861396136e-13,
+      "compression_ratio": 1.4952380952380953,
+      "temperature": 0.0
+    },
+    {
+      "start": 2074.82,
+      "duration": 0.5199999999999818,
+      "text": "He emptied himself.",
+      "avg_logprob": -0.32941731539639557,
+      "no_speech_prob": 6.928781550244456e-13,
+      "compression_ratio": 1.6145251396648044,
+      "temperature": 0.0
+    },
+    {
+      "start": 2076.96,
+      "duration": 1.4200000000000728,
+      "text": "He emptied himself.",
+      "avg_logprob": -0.32941731539639557,
+      "no_speech_prob": 6.928781550244456e-13,
+      "compression_ratio": 1.6145251396648044,
+      "temperature": 0.0
+    },
+    {
+      "start": 2079.5,
+      "duration": 1.8400000000001455,
+      "text": "Took on the form of a servant.",
+      "avg_logprob": -0.32941731539639557,
+      "no_speech_prob": 6.928781550244456e-13,
+      "compression_ratio": 1.6145251396648044,
+      "temperature": 0.0
+    },
+    {
+      "start": 2082.36,
+      "duration": 2.5,
+      "text": "Being born in the likeness of men.",
+      "avg_logprob": -0.32941731539639557,
+      "no_speech_prob": 6.928781550244456e-13,
+      "compression_ratio": 1.6145251396648044,
+      "temperature": 0.0
+    },
+    {
+      "start": 2085.92,
+      "duration": 5.319999999999709,
+      "text": "And being found in human form, he humbled himself by becoming obedient to the point of death.",
+      "avg_logprob": -0.32941731539639557,
+      "no_speech_prob": 6.928781550244456e-13,
+      "compression_ratio": 1.6145251396648044,
+      "temperature": 0.0
+    },
+    {
+      "start": 2091.58,
+      "duration": 2.1399999999998727,
+      "text": "Even death on a cross.",
+      "avg_logprob": -0.32941731539639557,
+      "no_speech_prob": 6.928781550244456e-13,
+      "compression_ratio": 1.6145251396648044,
+      "temperature": 0.0
+    },
+    {
+      "start": 2095.5,
+      "duration": 1.8400000000001455,
+      "text": "Jesus left glory.",
+      "avg_logprob": -0.32941731539639557,
+      "no_speech_prob": 6.928781550244456e-13,
+      "compression_ratio": 1.6145251396648044,
+      "temperature": 0.0
+    },
+    {
+      "start": 2099.1600000000003,
+      "duration": 1.7999999999997272,
+      "text": "He put on human flesh.",
+      "avg_logprob": -0.32941731539639557,
+      "no_speech_prob": 6.928781550244456e-13,
+      "compression_ratio": 1.6145251396648044,
+      "temperature": 0.0
+    },
+    {
+      "start": 2102.1600000000003,
+      "duration": 1.9999999999995453,
+      "text": "And he went to the cross.",
+      "avg_logprob": -0.32941731539639557,
+      "no_speech_prob": 6.928781550244456e-13,
+      "compression_ratio": 1.6145251396648044,
+      "temperature": 0.0
+    },
+    {
+      "start": 2106.2400000000002,
+      "duration": 3.7799999999997453,
+      "text": "to offer true companionship to us.",
+      "avg_logprob": -0.27486632851993337,
+      "no_speech_prob": 3.752138302750424e-13,
+      "compression_ratio": 1.4355828220858895,
+      "temperature": 0.0
+    },
+    {
+      "start": 2113.5600000000004,
+      "duration": 1.5399999999995089,
+      "text": "When we become a Christian,",
+      "avg_logprob": -0.27486632851993337,
+      "no_speech_prob": 3.752138302750424e-13,
+      "compression_ratio": 1.4355828220858895,
+      "temperature": 0.0
+    },
+    {
+      "start": 2116.44,
+      "duration": 3.5599999999999454,
+      "text": "we are adopted into God's family.",
+      "avg_logprob": -0.27486632851993337,
+      "no_speech_prob": 3.752138302750424e-13,
+      "compression_ratio": 1.4355828220858895,
+      "temperature": 0.0
+    },
+    {
+      "start": 2121.32,
+      "duration": 2.5,
+      "text": "And Jesus himself is our brother,",
+      "avg_logprob": -0.27486632851993337,
+      "no_speech_prob": 3.752138302750424e-13,
+      "compression_ratio": 1.4355828220858895,
+      "temperature": 0.0
+    },
+    {
+      "start": 2124.08,
+      "duration": 1.4200000000000728,
+      "text": "our closest companion,",
+      "avg_logprob": -0.27486632851993337,
+      "no_speech_prob": 3.752138302750424e-13,
+      "compression_ratio": 1.4355828220858895,
+      "temperature": 0.0
+    },
+    {
+      "start": 2125.88,
+      "duration": 1.7799999999997453,
+      "text": "so that we are not alone.",
+      "avg_logprob": -0.27486632851993337,
+      "no_speech_prob": 3.752138302750424e-13,
+      "compression_ratio": 1.4355828220858895,
+      "temperature": 0.0
+    },
+    {
+      "start": 2128.96,
+      "duration": 3.3400000000001455,
+      "text": "And he ends up sharing all of his inheritance with us.",
+      "avg_logprob": -0.27486632851993337,
+      "no_speech_prob": 3.752138302750424e-13,
+      "compression_ratio": 1.4355828220858895,
+      "temperature": 0.0
+    },
+    {
+      "start": 2133.82,
+      "duration": 3.8399999999996908,
+      "text": "Jesus is our help along life's path",
+      "avg_logprob": -0.1128644817753842,
+      "no_speech_prob": 4.219010666002554e-13,
+      "compression_ratio": 1.4943820224719102,
+      "temperature": 0.0
+    },
+    {
+      "start": 2138.6400000000003,
+      "duration": 1.919999999999618,
+      "text": "He supports us when we fall",
+      "avg_logprob": -0.1128644817753842,
+      "no_speech_prob": 4.219010666002554e-13,
+      "compression_ratio": 1.4943820224719102,
+      "temperature": 0.0
+    },
+    {
+      "start": 2140.56,
+      "duration": 1.9400000000000546,
+      "text": "He defends us against our enemies",
+      "avg_logprob": -0.1128644817753842,
+      "no_speech_prob": 4.219010666002554e-13,
+      "compression_ratio": 1.4943820224719102,
+      "temperature": 0.0
+    },
+    {
+      "start": 2142.5,
+      "duration": 3.7199999999998,
+      "text": "And He's not like the crowds that shift their loyalty",
+      "avg_logprob": -0.1128644817753842,
+      "no_speech_prob": 4.219010666002554e-13,
+      "compression_ratio": 1.4943820224719102,
+      "temperature": 0.0
+    },
+    {
+      "start": 2147.5800000000004,
+      "duration": 1.2599999999997635,
+      "text": "But He's faithful",
+      "avg_logprob": -0.1128644817753842,
+      "no_speech_prob": 4.219010666002554e-13,
+      "compression_ratio": 1.4943820224719102,
+      "temperature": 0.0
+    },
+    {
+      "start": 2148.84,
+      "duration": 3.7799999999997453,
+      "text": "He will never leave us or forsake us",
+      "avg_logprob": -0.1128644817753842,
+      "no_speech_prob": 4.219010666002554e-13,
+      "compression_ratio": 1.4943820224719102,
+      "temperature": 0.0
+    },
+    {
+      "start": 2152.62,
+      "duration": 4.460000000000036,
+      "text": "Because He's loyal, always loyal to His church",
+      "avg_logprob": -0.1128644817753842,
+      "no_speech_prob": 4.219010666002554e-13,
+      "compression_ratio": 1.4943820224719102,
+      "temperature": 0.0
+    },
+    {
+      "start": 2157.08,
+      "duration": 1.5399999999999636,
+      "text": "To His bride",
+      "avg_logprob": -0.1128644817753842,
+      "no_speech_prob": 4.219010666002554e-13,
+      "compression_ratio": 1.4943820224719102,
+      "temperature": 0.0
+    },
+    {
+      "start": 2160.6800000000003,
+      "duration": 5.839999999999691,
+      "text": "the only way that we can ever hope to offer true companionship to others",
+      "avg_logprob": -0.12198555775177784,
+      "no_speech_prob": 4.335587336194713e-13,
+      "compression_ratio": 1.7228260869565217,
+      "temperature": 0.0
+    },
+    {
+      "start": 2166.52,
+      "duration": 6.860000000000127,
+      "text": "is if we do so from the strength that we receive from Jesus' companionship to us.",
+      "avg_logprob": -0.12198555775177784,
+      "no_speech_prob": 4.335587336194713e-13,
+      "compression_ratio": 1.7228260869565217,
+      "temperature": 0.0
+    },
+    {
+      "start": 2174.54,
+      "duration": 4.539999999999964,
+      "text": "And it's from that strength then that we can invest in others",
+      "avg_logprob": -0.12198555775177784,
+      "no_speech_prob": 4.335587336194713e-13,
+      "compression_ratio": 1.7228260869565217,
+      "temperature": 0.0
+    },
+    {
+      "start": 2179.08,
+      "duration": 4.039999999999964,
+      "text": "and walk alongside them with patience and faithfulness and love",
+      "avg_logprob": -0.12198555775177784,
+      "no_speech_prob": 4.335587336194713e-13,
+      "compression_ratio": 1.7228260869565217,
+      "temperature": 0.0
+    },
+    {
+      "start": 2183.12,
+      "duration": 2.619999999999891,
+      "text": "because Jesus first did that for us.",
+      "avg_logprob": -0.12198555775177784,
+      "no_speech_prob": 4.335587336194713e-13,
+      "compression_ratio": 1.7228260869565217,
+      "temperature": 0.0
+    },
+    {
+      "start": 2186.86,
+      "duration": 5.199999999999818,
+      "text": "Jesus shows us what it looks like to give comfort and to love selflessly",
+      "avg_logprob": -0.14345753911029863,
+      "no_speech_prob": 4.725070703627543e-13,
+      "compression_ratio": 1.5539906103286385,
+      "temperature": 0.0
+    },
+    {
+      "start": 2192.06,
+      "duration": 4.679999999999836,
+      "text": "and to give rest and help along life's journey and stay faithful.",
+      "avg_logprob": -0.14345753911029863,
+      "no_speech_prob": 4.725070703627543e-13,
+      "compression_ratio": 1.5539906103286385,
+      "temperature": 0.0
+    },
+    {
+      "start": 2197.2,
+      "duration": 6.5600000000004,
+      "text": "Jesus gave himself completely to us so that then we can give ourselves to others.",
+      "avg_logprob": -0.14345753911029863,
+      "no_speech_prob": 4.725070703627543e-13,
+      "compression_ratio": 1.5539906103286385,
+      "temperature": 0.0
+    },
+    {
+      "start": 2203.9,
+      "duration": 4.179999999999836,
+      "text": "So church, this is my prayer for you today.",
+      "avg_logprob": -0.14345753911029863,
+      "no_speech_prob": 4.725070703627543e-13,
+      "compression_ratio": 1.5539906103286385,
+      "temperature": 0.0
+    },
+    {
+      "start": 2208.08,
+      "duration": 4.2400000000002365,
+      "text": "As we're really thinking about where we are as a church this year,",
+      "avg_logprob": -0.14345753911029863,
+      "no_speech_prob": 4.725070703627543e-13,
+      "compression_ratio": 1.5539906103286385,
+      "temperature": 0.0
+    },
+    {
+      "start": 2213.82,
+      "duration": 3.9600000000000364,
+      "text": "what God might be doing within us and stirring within us,",
+      "avg_logprob": -0.16135429299396017,
+      "no_speech_prob": 4.874603867256744e-13,
+      "compression_ratio": 1.6728971962616823,
+      "temperature": 0.0
+    },
+    {
+      "start": 2218.08,
+      "duration": 5.380000000000109,
+      "text": "may we be a people who look to Jesus first as our true companion.",
+      "avg_logprob": -0.16135429299396017,
+      "no_speech_prob": 4.874603867256744e-13,
+      "compression_ratio": 1.6728971962616823,
+      "temperature": 0.0
+    },
+    {
+      "start": 2224.4,
+      "duration": 4.059999999999945,
+      "text": "And then from the joy and strength that we find in his companionship,",
+      "avg_logprob": -0.16135429299396017,
+      "no_speech_prob": 4.874603867256744e-13,
+      "compression_ratio": 1.6728971962616823,
+      "temperature": 0.0
+    },
+    {
+      "start": 2228.62,
+      "duration": 2.5799999999999272,
+      "text": "then let's give that companionship to others.",
+      "avg_logprob": -0.16135429299396017,
+      "no_speech_prob": 4.874603867256744e-13,
+      "compression_ratio": 1.6728971962616823,
+      "temperature": 0.0
+    },
+    {
+      "start": 2232.54,
+      "duration": 2.4400000000000546,
+      "text": "Let's extend that to people here inside the church,",
+      "avg_logprob": -0.16135429299396017,
+      "no_speech_prob": 4.874603867256744e-13,
+      "compression_ratio": 1.6728971962616823,
+      "temperature": 0.0
+    },
+    {
+      "start": 2235.1,
+      "duration": 6.820000000000164,
+      "text": "but yes, even those outside, that they may be included in our joy.",
+      "avg_logprob": -0.16135429299396017,
+      "no_speech_prob": 4.874603867256744e-13,
+      "compression_ratio": 1.6728971962616823,
+      "temperature": 0.0
+    },
+    {
+      "start": 2243.4800000000005,
+      "duration": 1.7999999999997272,
+      "text": "included in this family.",
+      "avg_logprob": -0.22186993190220425,
+      "no_speech_prob": 4.491121558848621e-13,
+      "compression_ratio": 1.4864864864864864,
+      "temperature": 0.0
+    },
+    {
+      "start": 2246.0,
+      "duration": 0.8000000000001819,
+      "text": "Let's pray.",
+      "avg_logprob": -0.22186993190220425,
+      "no_speech_prob": 4.491121558848621e-13,
+      "compression_ratio": 1.4864864864864864,
+      "temperature": 0.0
+    },
+    {
+      "start": 2249.26,
+      "duration": 1.3999999999996362,
+      "text": "Our Father, thank you",
+      "avg_logprob": -0.22186993190220425,
+      "no_speech_prob": 4.491121558848621e-13,
+      "compression_ratio": 1.4864864864864864,
+      "temperature": 0.0
+    },
+    {
+      "start": 2251.54,
+      "duration": 2.3400000000001455,
+      "text": "that you did not leave us alone,",
+      "avg_logprob": -0.22186993190220425,
+      "no_speech_prob": 4.491121558848621e-13,
+      "compression_ratio": 1.4864864864864864,
+      "temperature": 0.0
+    },
+    {
+      "start": 2253.88,
+      "duration": 6.019999999999982,
+      "text": "but that you offer your companionship to us.",
+      "avg_logprob": -0.22186993190220425,
+      "no_speech_prob": 4.491121558848621e-13,
+      "compression_ratio": 1.4864864864864864,
+      "temperature": 0.0
+    },
+    {
+      "start": 2261.4,
+      "duration": 2.0399999999999636,
+      "text": "You extend that to us.",
+      "avg_logprob": -0.22186993190220425,
+      "no_speech_prob": 4.491121558848621e-13,
+      "compression_ratio": 1.4864864864864864,
+      "temperature": 0.0
+    },
+    {
+      "start": 2266.7400000000002,
+      "duration": 2.5799999999999272,
+      "text": "You are so faithful to us,",
+      "avg_logprob": -0.22186993190220425,
+      "no_speech_prob": 4.491121558848621e-13,
+      "compression_ratio": 1.4864864864864864,
+      "temperature": 0.0
+    },
+    {
+      "start": 2269.46,
+      "duration": 2.5399999999999636,
+      "text": "a true companion in so many ways.",
+      "avg_logprob": -0.22186993190220425,
+      "no_speech_prob": 4.491121558848621e-13,
+      "compression_ratio": 1.4864864864864864,
+      "temperature": 0.0
+    },
+    {
+      "start": 2274.4,
+      "duration": 1.6399999999998727,
+      "text": "and so Lord, this morning,",
+      "avg_logprob": -0.27212340743453417,
+      "no_speech_prob": 3.9944919117199107e-13,
+      "compression_ratio": 1.62,
+      "temperature": 0.0
+    },
+    {
+      "start": 2276.22,
+      "duration": 2.3600000000001273,
+      "text": "I ask that you would help us",
+      "avg_logprob": -0.27212340743453417,
+      "no_speech_prob": 3.9944919117199107e-13,
+      "compression_ratio": 1.62,
+      "temperature": 0.0
+    },
+    {
+      "start": 2280.16,
+      "duration": 1.0599999999999454,
+      "text": "more than anything,",
+      "avg_logprob": -0.27212340743453417,
+      "no_speech_prob": 3.9944919117199107e-13,
+      "compression_ratio": 1.62,
+      "temperature": 0.0
+    },
+    {
+      "start": 2281.46,
+      "duration": 2.900000000000091,
+      "text": "help us to see your true companionship,",
+      "avg_logprob": -0.27212340743453417,
+      "no_speech_prob": 3.9944919117199107e-13,
+      "compression_ratio": 1.62,
+      "temperature": 0.0
+    },
+    {
+      "start": 2284.48,
+      "duration": 3.1799999999998363,
+      "text": "help us to receive it,",
+      "avg_logprob": -0.27212340743453417,
+      "no_speech_prob": 3.9944919117199107e-13,
+      "compression_ratio": 1.62,
+      "temperature": 0.0
+    },
+    {
+      "start": 2289.26,
+      "duration": 1.2599999999997635,
+      "text": "to accept it,",
+      "avg_logprob": -0.27212340743453417,
+      "no_speech_prob": 3.9944919117199107e-13,
+      "compression_ratio": 1.62,
+      "temperature": 0.0
+    },
+    {
+      "start": 2292.36,
+      "duration": 3.1399999999998727,
+      "text": "help us to just be in awe of it,",
+      "avg_logprob": -0.27212340743453417,
+      "no_speech_prob": 3.9944919117199107e-13,
+      "compression_ratio": 1.62,
+      "temperature": 0.0
+    },
+    {
+      "start": 2296.28,
+      "duration": 3.419999999999618,
+      "text": "that you, the Lord of the universe,",
+      "avg_logprob": -0.27212340743453417,
+      "no_speech_prob": 3.9944919117199107e-13,
+      "compression_ratio": 1.62,
+      "temperature": 0.0
+    },
+    {
+      "start": 2299.9,
+      "duration": 1.2799999999997453,
+      "text": "would do this for us.",
+      "avg_logprob": -0.27212340743453417,
+      "no_speech_prob": 3.9944919117199107e-13,
+      "compression_ratio": 1.62,
+      "temperature": 0.0
+    },
+    {
+      "start": 2302.32,
+      "duration": 3.619999999999891,
+      "text": "would desire that kind of a relationship with us.",
+      "avg_logprob": -0.23496442574721116,
+      "no_speech_prob": 3.608709739453403e-13,
+      "compression_ratio": 1.2424242424242424,
+      "temperature": 0.0
+    },
+    {
+      "start": 2308.48,
+      "duration": 2.380000000000109,
+      "text": "And let us just be overwhelmed by it.",
+      "avg_logprob": -0.23496442574721116,
+      "no_speech_prob": 3.608709739453403e-13,
+      "compression_ratio": 1.2424242424242424,
+      "temperature": 0.0
+    },
+    {
+      "start": 2313.38,
+      "duration": 1.2599999999997635,
+      "text": "Oh Lord, we love you.",
+      "avg_logprob": -0.23496442574721116,
+      "no_speech_prob": 3.608709739453403e-13,
+      "compression_ratio": 1.2424242424242424,
+      "temperature": 0.0
+    },
+    {
+      "start": 2315.16,
+      "duration": 2.3200000000001637,
+      "text": "Thank you for loving us.",
+      "avg_logprob": -0.23496442574721116,
+      "no_speech_prob": 3.608709739453403e-13,
+      "compression_ratio": 1.2424242424242424,
+      "temperature": 0.0
+    },
+    {
+      "start": 2318.08,
+      "duration": 2.2400000000002365,
+      "text": "In Jesus' name we pray, amen.",
+      "avg_logprob": -0.23496442574721116,
+      "no_speech_prob": 3.608709739453403e-13,
+      "compression_ratio": 1.2424242424242424,
+      "temperature": 0.0
+    }
+  ]
+}

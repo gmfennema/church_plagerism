@@ -1,0 +1,5643 @@
+{
+  "title": "Son Of David",
+  "date": "2023-12-17T00:00:00Z",
+  "scripture": "2 Samuel 7:1-17",
+  "speaker": "Chris McLaughlin",
+  "site_url": "https://fieldspres.org/media/wnnjvw3/son-of-david",
+  "short_code": "wnnjvw3",
+  "subsplash_url": "https://subspla.sh/wnnjvw3",
+  "audio_url": "https://cdn.subsplash.com/audios/83RBNZ/78193683-b401-4fa5-b03e-f90b1ab958d4/audio.mp3",
+  "video_url": "https://cdn.subsplash.com/videos/83RBNZ/_source/c27407fd-c43c-4ee2-b62b-7fb7f6233faf/video.mp4",
+  "duration_ms": 2523611,
+  "transcript_source": "Local Whisper large-v3-turbo (MLX)",
+  "transcript_source_url": "https://cdn.subsplash.com/audios/83RBNZ/78193683-b401-4fa5-b03e-f90b1ab958d4/audio.mp3",
+  "language_code": "en",
+  "transcribed_at": "2026-10-04T21:50:22.164037+00:00",
+  "transcription": {
+    "engine": "mlx-whisper",
+    "engine_version": "0.4.3",
+    "mlx_version": "0.32.3",
+    "model_repo": "mlx-community/whisper-large-v3-turbo",
+    "model_revision": "a4aaeec0636e6fef84abdcbe3544cb2bf7e9f6fb",
+    "language": "en",
+    "word_timestamps": true,
+    "condition_on_previous_text": false,
+    "hallucination_silence_threshold": 2.0,
+    "audio_duration_seconds": 2523.561338,
+    "processing_seconds": 188.18843245800053,
+    "speed_multiple": 13.409758001800682,
+    "audio_retained": false,
+    "cloud_audio_processing": false,
+    "manually_corrected": false
+  },
+  "quality_flags": [],
+  "snippets": [
+    {
+      "start": 23.54,
+      "duration": 5.0,
+      "text": "So, the Covenants seem to be this way that God is relating to us throughout history.",
+      "avg_logprob": -0.20990073680877686,
+      "no_speech_prob": 2.2135951112476487e-13,
+      "compression_ratio": 1.05,
+      "temperature": 0.0
+    },
+    {
+      "start": 30.239999999999995,
+      "duration": 5.420000000000002,
+      "text": "establishes, through them he establishes his promises to us, but it's also helping us to know",
+      "avg_logprob": -0.10971270198315645,
+      "no_speech_prob": 6.284171859098631e-13,
+      "compression_ratio": 2.168269230769231,
+      "temperature": 0.0
+    },
+    {
+      "start": 35.66,
+      "duration": 5.740000000000002,
+      "text": "what God is like, that he's faithful, that he's consistent, that he keeps his promises.",
+      "avg_logprob": -0.10971270198315645,
+      "no_speech_prob": 6.284171859098631e-13,
+      "compression_ratio": 2.168269230769231,
+      "temperature": 0.0
+    },
+    {
+      "start": 42.86,
+      "duration": 5.259999999999998,
+      "text": "And so today we're going to look at the covenant with David. We've looked at the covenant with",
+      "avg_logprob": -0.10971270198315645,
+      "no_speech_prob": 6.284171859098631e-13,
+      "compression_ratio": 2.168269230769231,
+      "temperature": 0.0
+    },
+    {
+      "start": 48.12,
+      "duration": 4.760000000000005,
+      "text": "Adam. We looked at covenant with Abraham. We skipped over Noah. We looked at covenant with",
+      "avg_logprob": -0.10971270198315645,
+      "no_speech_prob": 6.284171859098631e-13,
+      "compression_ratio": 2.168269230769231,
+      "temperature": 0.0
+    },
+    {
+      "start": 52.88,
+      "duration": 4.339999999999996,
+      "text": "Abraham. We skipped over Moses. Now we're going to look at the covenant with David.",
+      "avg_logprob": -0.10971270198315645,
+      "no_speech_prob": 6.284171859098631e-13,
+      "compression_ratio": 2.168269230769231,
+      "temperature": 0.0
+    },
+    {
+      "start": 57.94,
+      "duration": 2.980000000000004,
+      "text": "and not because we didn't skip over them because they're not significant.",
+      "avg_logprob": -0.23761079424903506,
+      "no_speech_prob": 5.230346320980739e-13,
+      "compression_ratio": 1.7157894736842105,
+      "temperature": 0.0
+    },
+    {
+      "start": 61.620000000000005,
+      "duration": 1.259999999999998,
+      "text": "It's just a time thing.",
+      "avg_logprob": -0.23761079424903506,
+      "no_speech_prob": 5.230346320980739e-13,
+      "compression_ratio": 1.7157894736842105,
+      "temperature": 0.0
+    },
+    {
+      "start": 65.34,
+      "duration": 2.4799999999999898,
+      "text": "But we're going to look at the covenant with David today",
+      "avg_logprob": -0.23761079424903506,
+      "no_speech_prob": 5.230346320980739e-13,
+      "compression_ratio": 1.7157894736842105,
+      "temperature": 0.0
+    },
+    {
+      "start": 67.82,
+      "duration": 3.1400000000000006,
+      "text": "and this is why we need to look at the covenant with David",
+      "avg_logprob": -0.23761079424903506,
+      "no_speech_prob": 5.230346320980739e-13,
+      "compression_ratio": 1.7157894736842105,
+      "temperature": 0.0
+    },
+    {
+      "start": 70.96,
+      "duration": 2.3800000000000097,
+      "text": "is that in the covenant with David,",
+      "avg_logprob": -0.23761079424903506,
+      "no_speech_prob": 5.230346320980739e-13,
+      "compression_ratio": 1.7157894736842105,
+      "temperature": 0.0
+    },
+    {
+      "start": 73.34,
+      "duration": 7.61999999999999,
+      "text": "we actually have the climax of God's covenant promises in the Old Testament.",
+      "avg_logprob": -0.23761079424903506,
+      "no_speech_prob": 5.230346320980739e-13,
+      "compression_ratio": 1.7157894736842105,
+      "temperature": 0.0
+    },
+    {
+      "start": 82.38,
+      "duration": 6.420000000000002,
+      "text": "and there we are going to see some of the most full and incredible information about who the",
+      "avg_logprob": -0.06611348333812896,
+      "no_speech_prob": 4.89414877982014e-13,
+      "compression_ratio": 1.8038277511961722,
+      "temperature": 0.0
+    },
+    {
+      "start": 88.8,
+      "duration": 5.900000000000006,
+      "text": "Savior will be and this is the this is the thing with the covenant with David is that when you",
+      "avg_logprob": -0.06611348333812896,
+      "no_speech_prob": 4.89414877982014e-13,
+      "compression_ratio": 1.8038277511961722,
+      "temperature": 0.0
+    },
+    {
+      "start": 94.7,
+      "duration": 8.519999999999996,
+      "text": "think about when Jesus came all right everybody who interacted with Jesus they they had one",
+      "avg_logprob": -0.06611348333812896,
+      "no_speech_prob": 4.89414877982014e-13,
+      "compression_ratio": 1.8038277511961722,
+      "temperature": 0.0
+    },
+    {
+      "start": 103.22,
+      "duration": 7.439999999999998,
+      "text": "question on their mind they were faced with one main question it's the question of who do you say",
+      "avg_logprob": -0.06611348333812896,
+      "no_speech_prob": 4.89414877982014e-13,
+      "compression_ratio": 1.8038277511961722,
+      "temperature": 0.0
+    },
+    {
+      "start": 110.96,
+      "duration": 5.88000000000001,
+      "text": "Jesus is. Every single person that interacted with Jesus had to kind of figure that out.",
+      "avg_logprob": -0.0947799957715548,
+      "no_speech_prob": 7.40475823018949e-13,
+      "compression_ratio": 1.7923728813559323,
+      "temperature": 0.0
+    },
+    {
+      "start": 117.54,
+      "duration": 5.959999999999994,
+      "text": "Who is this guy? They had to take what they knew of Jesus, the things that they saw him do,",
+      "avg_logprob": -0.0947799957715548,
+      "no_speech_prob": 7.40475823018949e-13,
+      "compression_ratio": 1.7923728813559323,
+      "temperature": 0.0
+    },
+    {
+      "start": 123.6,
+      "duration": 5.02000000000001,
+      "text": "the things that they heard him say, and they connected it with all of these promises that",
+      "avg_logprob": -0.0947799957715548,
+      "no_speech_prob": 7.40475823018949e-13,
+      "compression_ratio": 1.7923728813559323,
+      "temperature": 0.0
+    },
+    {
+      "start": 128.62,
+      "duration": 4.819999999999993,
+      "text": "they knew about him, and in particular, the promises that were given to David.",
+      "avg_logprob": -0.0947799957715548,
+      "no_speech_prob": 7.40475823018949e-13,
+      "compression_ratio": 1.7923728813559323,
+      "temperature": 0.0
+    },
+    {
+      "start": 134.84,
+      "duration": 4.159999999999997,
+      "text": "And they had to see if they actually merged together, if they made sense.",
+      "avg_logprob": -0.0947799957715548,
+      "no_speech_prob": 7.40475823018949e-13,
+      "compression_ratio": 1.7923728813559323,
+      "temperature": 0.0
+    },
+    {
+      "start": 141.55999999999997,
+      "duration": 2.420000000000016,
+      "text": "So, you think about the Magi, right?",
+      "avg_logprob": -0.17135247644388452,
+      "no_speech_prob": 4.856215256310303e-13,
+      "compression_ratio": 1.6061946902654867,
+      "temperature": 0.0
+    },
+    {
+      "start": 144.0,
+      "duration": 2.4799999999999898,
+      "text": "We read that portion of the story at the beginning.",
+      "avg_logprob": -0.17135247644388452,
+      "no_speech_prob": 4.856215256310303e-13,
+      "compression_ratio": 1.6061946902654867,
+      "temperature": 0.0
+    },
+    {
+      "start": 147.52,
+      "duration": 1.6399999999999864,
+      "text": "The Magi came to visit Jesus.",
+      "avg_logprob": -0.17135247644388452,
+      "no_speech_prob": 4.856215256310303e-13,
+      "compression_ratio": 1.6061946902654867,
+      "temperature": 0.0
+    },
+    {
+      "start": 149.3,
+      "duration": 0.6599999999999966,
+      "text": "What did they do?",
+      "avg_logprob": -0.17135247644388452,
+      "no_speech_prob": 4.856215256310303e-13,
+      "compression_ratio": 1.6061946902654867,
+      "temperature": 0.0
+    },
+    {
+      "start": 150.02,
+      "duration": 1.259999999999991,
+      "text": "They searched the scriptures.",
+      "avg_logprob": -0.17135247644388452,
+      "no_speech_prob": 4.856215256310303e-13,
+      "compression_ratio": 1.6061946902654867,
+      "temperature": 0.0
+    },
+    {
+      "start": 151.84,
+      "duration": 3.9000000000000057,
+      "text": "They waited in anticipation for the coming of the king.",
+      "avg_logprob": -0.17135247644388452,
+      "no_speech_prob": 4.856215256310303e-13,
+      "compression_ratio": 1.6061946902654867,
+      "temperature": 0.0
+    },
+    {
+      "start": 156.28,
+      "duration": 1.6399999999999864,
+      "text": "And then they go and they sought him out.",
+      "avg_logprob": -0.17135247644388452,
+      "no_speech_prob": 4.856215256310303e-13,
+      "compression_ratio": 1.6061946902654867,
+      "temperature": 0.0
+    },
+    {
+      "start": 159.4,
+      "duration": 4.719999999999999,
+      "text": "We read in Luke chapter 2 where Simeon, right?",
+      "avg_logprob": -0.17135247644388452,
+      "no_speech_prob": 4.856215256310303e-13,
+      "compression_ratio": 1.6061946902654867,
+      "temperature": 0.0
+    },
+    {
+      "start": 164.66,
+      "duration": 4.319999999999993,
+      "text": "Simeon is this older gentleman who is in the temple",
+      "avg_logprob": -0.17135247644388452,
+      "no_speech_prob": 4.856215256310303e-13,
+      "compression_ratio": 1.6061946902654867,
+      "temperature": 0.0
+    },
+    {
+      "start": 170.96,
+      "duration": 5.560000000000002,
+      "text": "Jesus in the temple and he praises God because he knows that this child is going to be his salvation.",
+      "avg_logprob": -0.12167516318700647,
+      "no_speech_prob": 5.069415482013284e-13,
+      "compression_ratio": 1.5956521739130434,
+      "temperature": 0.0
+    },
+    {
+      "start": 177.04,
+      "duration": 7.719999999999999,
+      "text": "Right? So people had an idea of who this child was going to be. And so when they faced Jesus,",
+      "avg_logprob": -0.12167516318700647,
+      "no_speech_prob": 5.069415482013284e-13,
+      "compression_ratio": 1.5956521739130434,
+      "temperature": 0.0
+    },
+    {
+      "start": 185.88,
+      "duration": 6.3799999999999955,
+      "text": "they were posed that question, who do you say Jesus is? This is the most important question",
+      "avg_logprob": -0.12167516318700647,
+      "no_speech_prob": 5.069415482013284e-13,
+      "compression_ratio": 1.5956521739130434,
+      "temperature": 0.0
+    },
+    {
+      "start": 192.26,
+      "duration": 7.980000000000018,
+      "text": "that we will ever answer in our life. So let's back up in history a little bit.",
+      "avg_logprob": -0.12167516318700647,
+      "no_speech_prob": 5.069415482013284e-13,
+      "compression_ratio": 1.5956521739130434,
+      "temperature": 0.0
+    },
+    {
+      "start": 201.29999999999998,
+      "duration": 3.5400000000000205,
+      "text": "The year is 1000 BC, right around 1000 BC.",
+      "avg_logprob": -0.1734895422907159,
+      "no_speech_prob": 4.561997481167257e-13,
+      "compression_ratio": 1.5248868778280542,
+      "temperature": 0.0
+    },
+    {
+      "start": 205.84,
+      "duration": 2.4000000000000057,
+      "text": "And there's a little shepherd boy and his name is David.",
+      "avg_logprob": -0.1734895422907159,
+      "no_speech_prob": 4.561997481167257e-13,
+      "compression_ratio": 1.5248868778280542,
+      "temperature": 0.0
+    },
+    {
+      "start": 209.5,
+      "duration": 3.1200000000000045,
+      "text": "He's the youngest of seven sons of a guy named Jesse,",
+      "avg_logprob": -0.1734895422907159,
+      "no_speech_prob": 4.561997481167257e-13,
+      "compression_ratio": 1.5248868778280542,
+      "temperature": 0.0
+    },
+    {
+      "start": 213.55999999999997,
+      "duration": 1.2400000000000375,
+      "text": "tending to the sheep.",
+      "avg_logprob": -0.1734895422907159,
+      "no_speech_prob": 4.561997481167257e-13,
+      "compression_ratio": 1.5248868778280542,
+      "temperature": 0.0
+    },
+    {
+      "start": 215.8,
+      "duration": 2.079999999999984,
+      "text": "You might remember the story about how David,",
+      "avg_logprob": -0.1734895422907159,
+      "no_speech_prob": 4.561997481167257e-13,
+      "compression_ratio": 1.5248868778280542,
+      "temperature": 0.0
+    },
+    {
+      "start": 218.06,
+      "duration": 3.8799999999999955,
+      "text": "even as a child, slayed the giant Goliath, right?",
+      "avg_logprob": -0.1734895422907159,
+      "no_speech_prob": 4.561997481167257e-13,
+      "compression_ratio": 1.5248868778280542,
+      "temperature": 0.0
+    },
+    {
+      "start": 223.06,
+      "duration": 3.8000000000000114,
+      "text": "Later, David is anointed to be king over Israel.",
+      "avg_logprob": -0.1734895422907159,
+      "no_speech_prob": 4.561997481167257e-13,
+      "compression_ratio": 1.5248868778280542,
+      "temperature": 0.0
+    },
+    {
+      "start": 226.86,
+      "duration": 2.2799999999999727,
+      "text": "He becomes king.",
+      "avg_logprob": -0.1734895422907159,
+      "no_speech_prob": 4.561997481167257e-13,
+      "compression_ratio": 1.5248868778280542,
+      "temperature": 0.0
+    },
+    {
+      "start": 230.96,
+      "duration": 6.699999999999989,
+      "text": "One translation says, Israel's most popular musician, okay, writing most of the Psalms",
+      "avg_logprob": -0.11617668848189097,
+      "no_speech_prob": 6.043444282337329e-13,
+      "compression_ratio": 1.7107142857142856,
+      "temperature": 0.0
+    },
+    {
+      "start": 237.66,
+      "duration": 1.240000000000009,
+      "text": "that we have in our Bible.",
+      "avg_logprob": -0.11617668848189097,
+      "no_speech_prob": 6.043444282337329e-13,
+      "compression_ratio": 1.7107142857142856,
+      "temperature": 0.0
+    },
+    {
+      "start": 240.28,
+      "duration": 4.1200000000000045,
+      "text": "And at the time that David was king, it was a really pressing time for Israel.",
+      "avg_logprob": -0.11617668848189097,
+      "no_speech_prob": 6.043444282337329e-13,
+      "compression_ratio": 1.7107142857142856,
+      "temperature": 0.0
+    },
+    {
+      "start": 244.62,
+      "duration": 1.9399999999999977,
+      "text": "There were a lot of enemy nations around them.",
+      "avg_logprob": -0.11617668848189097,
+      "no_speech_prob": 6.043444282337329e-13,
+      "compression_ratio": 1.7107142857142856,
+      "temperature": 0.0
+    },
+    {
+      "start": 246.62,
+      "duration": 3.9799999999999898,
+      "text": "So if you think about Israel, where it's situated, there were these nations that were all around",
+      "avg_logprob": -0.11617668848189097,
+      "no_speech_prob": 6.043444282337329e-13,
+      "compression_ratio": 1.7107142857142856,
+      "temperature": 0.0
+    },
+    {
+      "start": 250.6,
+      "duration": 3.6200000000000045,
+      "text": "them, and they didn't like Israel being there, okay?",
+      "avg_logprob": -0.11617668848189097,
+      "no_speech_prob": 6.043444282337329e-13,
+      "compression_ratio": 1.7107142857142856,
+      "temperature": 0.0
+    },
+    {
+      "start": 254.28,
+      "duration": 1.5600000000000023,
+      "text": "So the Jebusites was one of them.",
+      "avg_logprob": -0.11617668848189097,
+      "no_speech_prob": 6.043444282337329e-13,
+      "compression_ratio": 1.7107142857142856,
+      "temperature": 0.0
+    },
+    {
+      "start": 255.92,
+      "duration": 3.0000000000000284,
+      "text": "The Jebusites had taken possession of Jerusalem, right?",
+      "avg_logprob": -0.11617668848189097,
+      "no_speech_prob": 6.043444282337329e-13,
+      "compression_ratio": 1.7107142857142856,
+      "temperature": 0.0
+    },
+    {
+      "start": 258.92,
+      "duration": 4.139999999999986,
+      "text": "The capital city of Israel at the time was not Jerusalem.",
+      "avg_logprob": -0.17695627790508847,
+      "no_speech_prob": 5.149265345713583e-13,
+      "compression_ratio": 1.683206106870229,
+      "temperature": 0.0
+    },
+    {
+      "start": 263.28,
+      "duration": 1.8600000000000136,
+      "text": "It was Hebron, which was in the north.",
+      "avg_logprob": -0.17695627790508847,
+      "no_speech_prob": 5.149265345713583e-13,
+      "compression_ratio": 1.683206106870229,
+      "temperature": 0.0
+    },
+    {
+      "start": 266.2,
+      "duration": 2.6200000000000045,
+      "text": "And so David, as king, he comes in.",
+      "avg_logprob": -0.17695627790508847,
+      "no_speech_prob": 5.149265345713583e-13,
+      "compression_ratio": 1.683206106870229,
+      "temperature": 0.0
+    },
+    {
+      "start": 268.9,
+      "duration": 1.2200000000000273,
+      "text": "He conquers the Jebusites.",
+      "avg_logprob": -0.17695627790508847,
+      "no_speech_prob": 5.149265345713583e-13,
+      "compression_ratio": 1.683206106870229,
+      "temperature": 0.0
+    },
+    {
+      "start": 270.12,
+      "duration": 6.8799999999999955,
+      "text": "He retakes Jerusalem, and he moves the capital to Jerusalem where it was supposed to be.",
+      "avg_logprob": -0.17695627790508847,
+      "no_speech_prob": 5.149265345713583e-13,
+      "compression_ratio": 1.683206106870229,
+      "temperature": 0.0
+    },
+    {
+      "start": 277.54,
+      "duration": 2.5600000000000023,
+      "text": "And then there's the Philistines.",
+      "avg_logprob": -0.17695627790508847,
+      "no_speech_prob": 5.149265345713583e-13,
+      "compression_ratio": 1.683206106870229,
+      "temperature": 0.0
+    },
+    {
+      "start": 280.2,
+      "duration": 1.8600000000000136,
+      "text": "The Philistines, they live on the coast.",
+      "avg_logprob": -0.17695627790508847,
+      "no_speech_prob": 5.149265345713583e-13,
+      "compression_ratio": 1.683206106870229,
+      "temperature": 0.0
+    },
+    {
+      "start": 282.56,
+      "duration": 2.3999999999999773,
+      "text": "They had stolen the Ark of the Covenant.",
+      "avg_logprob": -0.17695627790508847,
+      "no_speech_prob": 5.149265345713583e-13,
+      "compression_ratio": 1.683206106870229,
+      "temperature": 0.0
+    },
+    {
+      "start": 284.96,
+      "duration": 2.840000000000032,
+      "text": "If you guys remember the Ark, if you've seen Raiders of the Lost Ark, right?",
+      "avg_logprob": -0.17695627790508847,
+      "no_speech_prob": 5.149265345713583e-13,
+      "compression_ratio": 1.683206106870229,
+      "temperature": 0.0
+    },
+    {
+      "start": 288.92,
+      "duration": 1.839999999999975,
+      "text": "covered in gold, the two angels on top.",
+      "avg_logprob": -0.16539195636371234,
+      "no_speech_prob": 6.35766884016925e-13,
+      "compression_ratio": 1.5849802371541502,
+      "temperature": 0.0
+    },
+    {
+      "start": 290.92,
+      "duration": 3.240000000000009,
+      "text": "And this Ark of the Covenant is the mercy seat.",
+      "avg_logprob": -0.16539195636371234,
+      "no_speech_prob": 6.35766884016925e-13,
+      "compression_ratio": 1.5849802371541502,
+      "temperature": 0.0
+    },
+    {
+      "start": 294.24,
+      "duration": 4.060000000000002,
+      "text": "This is where the special place of God's presence would be.",
+      "avg_logprob": -0.16539195636371234,
+      "no_speech_prob": 6.35766884016925e-13,
+      "compression_ratio": 1.5849802371541502,
+      "temperature": 0.0
+    },
+    {
+      "start": 298.84,
+      "duration": 3.480000000000018,
+      "text": "A very important piece in Israel's history.",
+      "avg_logprob": -0.16539195636371234,
+      "no_speech_prob": 6.35766884016925e-13,
+      "compression_ratio": 1.5849802371541502,
+      "temperature": 0.0
+    },
+    {
+      "start": 302.86,
+      "duration": 3.4399999999999977,
+      "text": "Well, the Philistines had stolen it, and they took it to their country.",
+      "avg_logprob": -0.16539195636371234,
+      "no_speech_prob": 6.35766884016925e-13,
+      "compression_ratio": 1.5849802371541502,
+      "temperature": 0.0
+    },
+    {
+      "start": 306.5,
+      "duration": 5.300000000000011,
+      "text": "And so David defeats the Philistines, brings the Ark back to Jerusalem",
+      "avg_logprob": -0.16539195636371234,
+      "no_speech_prob": 6.35766884016925e-13,
+      "compression_ratio": 1.5849802371541502,
+      "temperature": 0.0
+    },
+    {
+      "start": 311.8,
+      "duration": 4.6200000000000045,
+      "text": "in this parade of victory, and sets it up again in the tabernacle,",
+      "avg_logprob": -0.16539195636371234,
+      "no_speech_prob": 6.35766884016925e-13,
+      "compression_ratio": 1.5849802371541502,
+      "temperature": 0.0
+    },
+    {
+      "start": 316.42,
+      "duration": 3.1999999999999886,
+      "text": "which is that tent that they've had for 430 years.",
+      "avg_logprob": -0.16053309741320912,
+      "no_speech_prob": 5.089111098678656e-13,
+      "compression_ratio": 1.7124463519313304,
+      "temperature": 0.0
+    },
+    {
+      "start": 319.64,
+      "duration": 3.0,
+      "text": "They've had this tent that they made during the Exodus.",
+      "avg_logprob": -0.16053309741320912,
+      "no_speech_prob": 5.089111098678656e-13,
+      "compression_ratio": 1.7124463519313304,
+      "temperature": 0.0
+    },
+    {
+      "start": 323.48,
+      "duration": 1.5600000000000023,
+      "text": "And so the ark goes in the tent.",
+      "avg_logprob": -0.16053309741320912,
+      "no_speech_prob": 5.089111098678656e-13,
+      "compression_ratio": 1.7124463519313304,
+      "temperature": 0.0
+    },
+    {
+      "start": 325.52,
+      "duration": 3.420000000000016,
+      "text": "And so now we're in a really interesting position",
+      "avg_logprob": -0.16053309741320912,
+      "no_speech_prob": 5.089111098678656e-13,
+      "compression_ratio": 1.7124463519313304,
+      "temperature": 0.0
+    },
+    {
+      "start": 328.94,
+      "duration": 4.680000000000007,
+      "text": "because the ark and the king were both in Jerusalem,",
+      "avg_logprob": -0.16053309741320912,
+      "no_speech_prob": 5.089111098678656e-13,
+      "compression_ratio": 1.7124463519313304,
+      "temperature": 0.0
+    },
+    {
+      "start": 333.62,
+      "duration": 2.920000000000016,
+      "text": "which means that the king of Israel",
+      "avg_logprob": -0.16053309741320912,
+      "no_speech_prob": 5.089111098678656e-13,
+      "compression_ratio": 1.7124463519313304,
+      "temperature": 0.0
+    },
+    {
+      "start": 337.34000000000003,
+      "duration": 3.259999999999991,
+      "text": "would now rule under the direct command of God.",
+      "avg_logprob": -0.16053309741320912,
+      "no_speech_prob": 5.089111098678656e-13,
+      "compression_ratio": 1.7124463519313304,
+      "temperature": 0.0
+    },
+    {
+      "start": 341.24,
+      "duration": 1.339999999999975,
+      "text": "And this was a big deal.",
+      "avg_logprob": -0.16053309741320912,
+      "no_speech_prob": 5.089111098678656e-13,
+      "compression_ratio": 1.7124463519313304,
+      "temperature": 0.0
+    },
+    {
+      "start": 343.36,
+      "duration": 2.259999999999991,
+      "text": "In fact, at this point in the nation of Israel,",
+      "avg_logprob": -0.16053309741320912,
+      "no_speech_prob": 5.089111098678656e-13,
+      "compression_ratio": 1.7124463519313304,
+      "temperature": 0.0
+    },
+    {
+      "start": 347.98,
+      "duration": 3.240000000000009,
+      "text": "the scriptures tell us that they had rest from their enemies,",
+      "avg_logprob": -0.16981351752030222,
+      "no_speech_prob": 4.932538752444593e-13,
+      "compression_ratio": 1.6839622641509433,
+      "temperature": 0.0
+    },
+    {
+      "start": 353.96000000000004,
+      "duration": 1.759999999999991,
+      "text": "that for King David,",
+      "avg_logprob": -0.16981351752030222,
+      "no_speech_prob": 4.932538752444593e-13,
+      "compression_ratio": 1.6839622641509433,
+      "temperature": 0.0
+    },
+    {
+      "start": 356.36,
+      "duration": 4.839999999999975,
+      "text": "it even seemed as if God's promises were all coming true,",
+      "avg_logprob": -0.16981351752030222,
+      "no_speech_prob": 4.932538752444593e-13,
+      "compression_ratio": 1.6839622641509433,
+      "temperature": 0.0
+    },
+    {
+      "start": 361.22,
+      "duration": 2.7199999999999704,
+      "text": "that the kingdom itself was arriving.",
+      "avg_logprob": -0.16981351752030222,
+      "no_speech_prob": 4.932538752444593e-13,
+      "compression_ratio": 1.6839622641509433,
+      "temperature": 0.0
+    },
+    {
+      "start": 365.96000000000004,
+      "duration": 2.4599999999999795,
+      "text": "See, if you look at all the promises that we looked at,",
+      "avg_logprob": -0.16981351752030222,
+      "no_speech_prob": 4.932538752444593e-13,
+      "compression_ratio": 1.6839622641509433,
+      "temperature": 0.0
+    },
+    {
+      "start": 368.48,
+      "duration": 4.0,
+      "text": "if you remember the promises that were given to Abraham,",
+      "avg_logprob": -0.16981351752030222,
+      "no_speech_prob": 4.932538752444593e-13,
+      "compression_ratio": 1.6839622641509433,
+      "temperature": 0.0
+    },
+    {
+      "start": 372.74,
+      "duration": 0.8799999999999955,
+      "text": "even think about that,",
+      "avg_logprob": -0.16981351752030222,
+      "no_speech_prob": 4.932538752444593e-13,
+      "compression_ratio": 1.6839622641509433,
+      "temperature": 0.0
+    },
+    {
+      "start": 373.86,
+      "duration": 2.0600000000000023,
+      "text": "that there was going to be a great nation.",
+      "avg_logprob": -0.16981351752030222,
+      "no_speech_prob": 4.932538752444593e-13,
+      "compression_ratio": 1.6839622641509433,
+      "temperature": 0.0
+    },
+    {
+      "start": 376.42,
+      "duration": 1.8000000000000114,
+      "text": "The great nation is there, right?",
+      "avg_logprob": -0.1520041280717992,
+      "no_speech_prob": 6.637627188339768e-13,
+      "compression_ratio": 1.7450980392156863,
+      "temperature": 0.0
+    },
+    {
+      "start": 378.48,
+      "duration": 3.159999999999968,
+      "text": "That they were going to be in the land, in the land of Canaan.",
+      "avg_logprob": -0.1520041280717992,
+      "no_speech_prob": 6.637627188339768e-13,
+      "compression_ratio": 1.7450980392156863,
+      "temperature": 0.0
+    },
+    {
+      "start": 381.82,
+      "duration": 1.0,
+      "text": "Well, they're there.",
+      "avg_logprob": -0.1520041280717992,
+      "no_speech_prob": 6.637627188339768e-13,
+      "compression_ratio": 1.7450980392156863,
+      "temperature": 0.0
+    },
+    {
+      "start": 383.06,
+      "duration": 2.9599999999999795,
+      "text": "That there was going to be rest from their enemies, and that's happened.",
+      "avg_logprob": -0.1520041280717992,
+      "no_speech_prob": 6.637627188339768e-13,
+      "compression_ratio": 1.7450980392156863,
+      "temperature": 0.0
+    },
+    {
+      "start": 386.22,
+      "duration": 1.4799999999999613,
+      "text": "That God was with them.",
+      "avg_logprob": -0.1520041280717992,
+      "no_speech_prob": 6.637627188339768e-13,
+      "compression_ratio": 1.7450980392156863,
+      "temperature": 0.0
+    },
+    {
+      "start": 387.82,
+      "duration": 0.8000000000000114,
+      "text": "That's happened.",
+      "avg_logprob": -0.1520041280717992,
+      "no_speech_prob": 6.637627188339768e-13,
+      "compression_ratio": 1.7450980392156863,
+      "temperature": 0.0
+    },
+    {
+      "start": 388.8,
+      "duration": 3.4799999999999613,
+      "text": "It seems as if the kingdom is arriving right now.",
+      "avg_logprob": -0.1520041280717992,
+      "no_speech_prob": 6.637627188339768e-13,
+      "compression_ratio": 1.7450980392156863,
+      "temperature": 0.0
+    },
+    {
+      "start": 392.46,
+      "duration": 6.760000000000048,
+      "text": "And so David, he's like, all right, it's time now to build a permanent place for the ark,",
+      "avg_logprob": -0.1520041280717992,
+      "no_speech_prob": 6.637627188339768e-13,
+      "compression_ratio": 1.7450980392156863,
+      "temperature": 0.0
+    },
+    {
+      "start": 399.22,
+      "duration": 1.8599999999999568,
+      "text": "to build a house.",
+      "avg_logprob": -0.1520041280717992,
+      "no_speech_prob": 6.637627188339768e-13,
+      "compression_ratio": 1.7450980392156863,
+      "temperature": 0.0
+    },
+    {
+      "start": 402.0,
+      "duration": 2.8999999999999773,
+      "text": "And so that's where we pick up the story in 2 Samuel 7.",
+      "avg_logprob": -0.1520041280717992,
+      "no_speech_prob": 6.637627188339768e-13,
+      "compression_ratio": 1.7450980392156863,
+      "temperature": 0.0
+    },
+    {
+      "start": 406.42,
+      "duration": 6.680000000000007,
+      "text": "Open up to 2 Samuel 7, and we're going to work through this passage this morning together.",
+      "avg_logprob": -0.19601021232185784,
+      "no_speech_prob": 4.893708051637025e-13,
+      "compression_ratio": 1.5450236966824644,
+      "temperature": 0.0
+    },
+    {
+      "start": 416.64,
+      "duration": 1.6399999999999864,
+      "text": "Chapter 7, verse 1.",
+      "avg_logprob": -0.19601021232185784,
+      "no_speech_prob": 4.893708051637025e-13,
+      "compression_ratio": 1.5450236966824644,
+      "temperature": 0.0
+    },
+    {
+      "start": 419.34,
+      "duration": 6.5,
+      "text": "Now when the king lived in his house, and the Lord had given him rest from all his surrounding enemies,",
+      "avg_logprob": -0.19601021232185784,
+      "no_speech_prob": 4.893708051637025e-13,
+      "compression_ratio": 1.5450236966824644,
+      "temperature": 0.0
+    },
+    {
+      "start": 426.5,
+      "duration": 2.2200000000000273,
+      "text": "the king said to Nathan the prophet,",
+      "avg_logprob": -0.19601021232185784,
+      "no_speech_prob": 4.893708051637025e-13,
+      "compression_ratio": 1.5450236966824644,
+      "temperature": 0.0
+    },
+    {
+      "start": 429.04,
+      "duration": 5.659999999999968,
+      "text": "See now, I dwell in a house of cedar, but the ark of God dwells in a tent.",
+      "avg_logprob": -0.19601021232185784,
+      "no_speech_prob": 4.893708051637025e-13,
+      "compression_ratio": 1.5450236966824644,
+      "temperature": 0.0
+    },
+    {
+      "start": 436.42,
+      "duration": 7.560000000000002,
+      "text": "said to the king, go do all that is in your heart for the Lord is with you. Let's pray.",
+      "avg_logprob": -0.09660232230408551,
+      "no_speech_prob": 7.205017290255744e-13,
+      "compression_ratio": 1.631578947368421,
+      "temperature": 0.0
+    },
+    {
+      "start": 445.84,
+      "duration": 10.860000000000014,
+      "text": "Our Lord, we thank you for your word. We thank you that you have revealed yourself to us through",
+      "avg_logprob": -0.09660232230408551,
+      "no_speech_prob": 7.205017290255744e-13,
+      "compression_ratio": 1.631578947368421,
+      "temperature": 0.0
+    },
+    {
+      "start": 456.7,
+      "duration": 5.5400000000000205,
+      "text": "your word throughout history, even in this passage that we're going to look at, how you reveal",
+      "avg_logprob": -0.09660232230408551,
+      "no_speech_prob": 7.205017290255744e-13,
+      "compression_ratio": 1.631578947368421,
+      "temperature": 0.0
+    },
+    {
+      "start": 462.24,
+      "duration": 4.800000000000011,
+      "text": "yourself to us through that word that you gave to Nathan the prophet to give to David.",
+      "avg_logprob": -0.1374647400595925,
+      "no_speech_prob": 4.932675361918326e-13,
+      "compression_ratio": 1.675531914893617,
+      "temperature": 0.0
+    },
+    {
+      "start": 469.04,
+      "duration": 4.899999999999977,
+      "text": "And Lord, through that this morning, would you reveal to us more about who you are",
+      "avg_logprob": -0.1374647400595925,
+      "no_speech_prob": 4.932675361918326e-13,
+      "compression_ratio": 1.675531914893617,
+      "temperature": 0.0
+    },
+    {
+      "start": 475.14,
+      "duration": 7.639999999999986,
+      "text": "to show us your glory, to show us your love for us, to show us your promises.",
+      "avg_logprob": -0.1374647400595925,
+      "no_speech_prob": 4.932675361918326e-13,
+      "compression_ratio": 1.675531914893617,
+      "temperature": 0.0
+    },
+    {
+      "start": 483.64,
+      "duration": 2.3000000000000114,
+      "text": "We pray this in Jesus' name. Amen.",
+      "avg_logprob": -0.1374647400595925,
+      "no_speech_prob": 4.932675361918326e-13,
+      "compression_ratio": 1.675531914893617,
+      "temperature": 0.0
+    },
+    {
+      "start": 488.32,
+      "duration": 2.240000000000009,
+      "text": "Okay, so here's what's going on.",
+      "avg_logprob": -0.1374647400595925,
+      "no_speech_prob": 4.932675361918326e-13,
+      "compression_ratio": 1.675531914893617,
+      "temperature": 0.0
+    },
+    {
+      "start": 492.34,
+      "duration": 5.2000000000000455,
+      "text": "palace. It's made of cedar. It's this incredible place, right? And he looks at the ark that's",
+      "avg_logprob": -0.0397831569208163,
+      "no_speech_prob": 9.544729373187066e-13,
+      "compression_ratio": 1.6541666666666666,
+      "temperature": 0.0
+    },
+    {
+      "start": 497.54,
+      "duration": 6.039999999999964,
+      "text": "sitting in this 400-year-old tent, and he's like, that's not fair. God needs to be in a better place",
+      "avg_logprob": -0.0397831569208163,
+      "no_speech_prob": 9.544729373187066e-13,
+      "compression_ratio": 1.6541666666666666,
+      "temperature": 0.0
+    },
+    {
+      "start": 503.58,
+      "duration": 5.460000000000036,
+      "text": "than that, right? So David loves the Lord. He sees this injustice, and he wants to do something about",
+      "avg_logprob": -0.0397831569208163,
+      "no_speech_prob": 9.544729373187066e-13,
+      "compression_ratio": 1.6541666666666666,
+      "temperature": 0.0
+    },
+    {
+      "start": 509.04,
+      "duration": 6.619999999999948,
+      "text": "it, but God has a different plan. God actually has a better plan than anything that David could ever",
+      "avg_logprob": -0.0397831569208163,
+      "no_speech_prob": 9.544729373187066e-13,
+      "compression_ratio": 1.6541666666666666,
+      "temperature": 0.0
+    },
+    {
+      "start": 515.66,
+      "duration": 8.300000000000068,
+      "text": "imagine. So in this chapter, God gives David several promises. And this morning, it's hard",
+      "avg_logprob": -0.09530715942382813,
+      "no_speech_prob": 6.53470224980246e-13,
+      "compression_ratio": 1.6134453781512605,
+      "temperature": 0.0
+    },
+    {
+      "start": 523.96,
+      "duration": 4.819999999999936,
+      "text": "to kind of boil it all down into like a 30-minute sermon, which, you know, ah, this is like one of",
+      "avg_logprob": -0.09530715942382813,
+      "no_speech_prob": 6.53470224980246e-13,
+      "compression_ratio": 1.6134453781512605,
+      "temperature": 0.0
+    },
+    {
+      "start": 528.78,
+      "duration": 4.920000000000073,
+      "text": "the biggest chapters in all of the Old Testament. But I want to just show you three things, three",
+      "avg_logprob": -0.09530715942382813,
+      "no_speech_prob": 6.53470224980246e-13,
+      "compression_ratio": 1.6134453781512605,
+      "temperature": 0.0
+    },
+    {
+      "start": 533.7,
+      "duration": 7.639999999999986,
+      "text": "promises that God gives to David. That God shows him a better love, he shows him a better place,",
+      "avg_logprob": -0.09530715942382813,
+      "no_speech_prob": 6.53470224980246e-13,
+      "compression_ratio": 1.6134453781512605,
+      "temperature": 0.0
+    },
+    {
+      "start": 541.8,
+      "duration": 1.0,
+      "text": "and a better son.",
+      "avg_logprob": -0.15419379302433558,
+      "no_speech_prob": 7.176682208578922e-13,
+      "compression_ratio": 1.75,
+      "temperature": 0.0
+    },
+    {
+      "start": 543.72,
+      "duration": 2.5399999999999636,
+      "text": "A better love, a better place, and a better son.",
+      "avg_logprob": -0.15419379302433558,
+      "no_speech_prob": 7.176682208578922e-13,
+      "compression_ratio": 1.75,
+      "temperature": 0.0
+    },
+    {
+      "start": 547.5,
+      "duration": 1.9400000000000546,
+      "text": "So let's look at the first one, a better love.",
+      "avg_logprob": -0.15419379302433558,
+      "no_speech_prob": 7.176682208578922e-13,
+      "compression_ratio": 1.75,
+      "temperature": 0.0
+    },
+    {
+      "start": 550.32,
+      "duration": 1.3399999999999181,
+      "text": "See, David loves the Lord.",
+      "avg_logprob": -0.15419379302433558,
+      "no_speech_prob": 7.176682208578922e-13,
+      "compression_ratio": 1.75,
+      "temperature": 0.0
+    },
+    {
+      "start": 553.48,
+      "duration": 1.419999999999959,
+      "text": "David loves God.",
+      "avg_logprob": -0.15419379302433558,
+      "no_speech_prob": 7.176682208578922e-13,
+      "compression_ratio": 1.75,
+      "temperature": 0.0
+    },
+    {
+      "start": 555.08,
+      "duration": 1.6200000000000045,
+      "text": "God has been so good to David,",
+      "avg_logprob": -0.15419379302433558,
+      "no_speech_prob": 7.176682208578922e-13,
+      "compression_ratio": 1.75,
+      "temperature": 0.0
+    },
+    {
+      "start": 556.96,
+      "duration": 2.019999999999982,
+      "text": "so faithful to him over and over again,",
+      "avg_logprob": -0.15419379302433558,
+      "no_speech_prob": 7.176682208578922e-13,
+      "compression_ratio": 1.75,
+      "temperature": 0.0
+    },
+    {
+      "start": 559.06,
+      "duration": 1.7800000000000864,
+      "text": "and he wants to show God his love.",
+      "avg_logprob": -0.15419379302433558,
+      "no_speech_prob": 7.176682208578922e-13,
+      "compression_ratio": 1.75,
+      "temperature": 0.0
+    },
+    {
+      "start": 561.3800000000001,
+      "duration": 3.0799999999999272,
+      "text": "He wants to exalt God in the nation of Israel",
+      "avg_logprob": -0.15419379302433558,
+      "no_speech_prob": 7.176682208578922e-13,
+      "compression_ratio": 1.75,
+      "temperature": 0.0
+    },
+    {
+      "start": 564.46,
+      "duration": 2.5599999999999454,
+      "text": "by building him this house, this temple, right?",
+      "avg_logprob": -0.15419379302433558,
+      "no_speech_prob": 7.176682208578922e-13,
+      "compression_ratio": 1.75,
+      "temperature": 0.0
+    },
+    {
+      "start": 567.9,
+      "duration": 3.6800000000000637,
+      "text": "But God explains that he doesn't want God to do that,",
+      "avg_logprob": -0.1990410271337477,
+      "no_speech_prob": 5.677295114060732e-13,
+      "compression_ratio": 1.7822222222222222,
+      "temperature": 0.0
+    },
+    {
+      "start": 571.66,
+      "duration": 1.3000000000000682,
+      "text": "or he doesn't want David to do that.",
+      "avg_logprob": -0.1990410271337477,
+      "no_speech_prob": 5.677295114060732e-13,
+      "compression_ratio": 1.7822222222222222,
+      "temperature": 0.0
+    },
+    {
+      "start": 573.04,
+      "duration": 2.1800000000000637,
+      "text": "He doesn't want David to build him a house.",
+      "avg_logprob": -0.1990410271337477,
+      "no_speech_prob": 5.677295114060732e-13,
+      "compression_ratio": 1.7822222222222222,
+      "temperature": 0.0
+    },
+    {
+      "start": 575.34,
+      "duration": 1.0,
+      "text": "So look at verse four.",
+      "avg_logprob": -0.1990410271337477,
+      "no_speech_prob": 5.677295114060732e-13,
+      "compression_ratio": 1.7822222222222222,
+      "temperature": 0.0
+    },
+    {
+      "start": 579.64,
+      "duration": 2.6800000000000637,
+      "text": "But that same night, the word of the Lord came to Nathan.",
+      "avg_logprob": -0.1990410271337477,
+      "no_speech_prob": 5.677295114060732e-13,
+      "compression_ratio": 1.7822222222222222,
+      "temperature": 0.0
+    },
+    {
+      "start": 583.72,
+      "duration": 2.3799999999999955,
+      "text": "So Nathan is the prophet, just some background.",
+      "avg_logprob": -0.1990410271337477,
+      "no_speech_prob": 5.677295114060732e-13,
+      "compression_ratio": 1.7822222222222222,
+      "temperature": 0.0
+    },
+    {
+      "start": 586.22,
+      "duration": 0.6999999999999318,
+      "text": "Nathan's the prophet.",
+      "avg_logprob": -0.1990410271337477,
+      "no_speech_prob": 5.677295114060732e-13,
+      "compression_ratio": 1.7822222222222222,
+      "temperature": 0.0
+    },
+    {
+      "start": 587.52,
+      "duration": 2.3799999999999955,
+      "text": "God is speaking the word to Nathan,",
+      "avg_logprob": -0.1990410271337477,
+      "no_speech_prob": 5.677295114060732e-13,
+      "compression_ratio": 1.7822222222222222,
+      "temperature": 0.0
+    },
+    {
+      "start": 589.9,
+      "duration": 3.1800000000000637,
+      "text": "who then is gonna communicate that to David, all right?",
+      "avg_logprob": -0.1990410271337477,
+      "no_speech_prob": 5.677295114060732e-13,
+      "compression_ratio": 1.7822222222222222,
+      "temperature": 0.0
+    },
+    {
+      "start": 594.12,
+      "duration": 1.2000000000000455,
+      "text": "So verse five, he says,",
+      "avg_logprob": -0.1990410271337477,
+      "no_speech_prob": 5.677295114060732e-13,
+      "compression_ratio": 1.7822222222222222,
+      "temperature": 0.0
+    },
+    {
+      "start": 597.02,
+      "duration": 1.3400000000000318,
+      "text": "thus says the Lord,",
+      "avg_logprob": -0.19587711152576265,
+      "no_speech_prob": 9.3958608254896e-13,
+      "compression_ratio": 1.7028301886792452,
+      "temperature": 0.0
+    },
+    {
+      "start": 600.18,
+      "duration": 3.660000000000082,
+      "text": "would you build me a house?",
+      "avg_logprob": -0.19587711152576265,
+      "no_speech_prob": 9.3958608254896e-13,
+      "compression_ratio": 1.7028301886792452,
+      "temperature": 0.0
+    },
+    {
+      "start": 605.76,
+      "duration": 2.159999999999968,
+      "text": "Would you build me a house to dwell in?",
+      "avg_logprob": -0.19587711152576265,
+      "no_speech_prob": 9.3958608254896e-13,
+      "compression_ratio": 1.7028301886792452,
+      "temperature": 0.0
+    },
+    {
+      "start": 608.9,
+      "duration": 2.1800000000000637,
+      "text": "I have not lived in a house since the day",
+      "avg_logprob": -0.19587711152576265,
+      "no_speech_prob": 9.3958608254896e-13,
+      "compression_ratio": 1.7028301886792452,
+      "temperature": 0.0
+    },
+    {
+      "start": 611.08,
+      "duration": 3.67999999999995,
+      "text": "I brought up the people of Israel from Egypt to this day,",
+      "avg_logprob": -0.19587711152576265,
+      "no_speech_prob": 9.3958608254896e-13,
+      "compression_ratio": 1.7028301886792452,
+      "temperature": 0.0
+    },
+    {
+      "start": 615.4,
+      "duration": 3.1800000000000637,
+      "text": "but I've been moving about in a tent for my dwelling.",
+      "avg_logprob": -0.19587711152576265,
+      "no_speech_prob": 9.3958608254896e-13,
+      "compression_ratio": 1.7028301886792452,
+      "temperature": 0.0
+    },
+    {
+      "start": 619.32,
+      "duration": 1.919999999999959,
+      "text": "In all the places where I have moved",
+      "avg_logprob": -0.19587711152576265,
+      "no_speech_prob": 9.3958608254896e-13,
+      "compression_ratio": 1.7028301886792452,
+      "temperature": 0.0
+    },
+    {
+      "start": 621.24,
+      "duration": 1.3600000000000136,
+      "text": "with all the people of Israel,",
+      "avg_logprob": -0.19587711152576265,
+      "no_speech_prob": 9.3958608254896e-13,
+      "compression_ratio": 1.7028301886792452,
+      "temperature": 0.0
+    },
+    {
+      "start": 622.78,
+      "duration": 3.060000000000059,
+      "text": "did I speak a word with any of the judges of Israel",
+      "avg_logprob": -0.19587711152576265,
+      "no_speech_prob": 9.3958608254896e-13,
+      "compression_ratio": 1.7028301886792452,
+      "temperature": 0.0
+    },
+    {
+      "start": 627.02,
+      "duration": 4.840000000000032,
+      "text": "commanded to shepherd my people Israel, saying, why have you not built me a house of cedar?",
+      "avg_logprob": -0.11140041158656881,
+      "no_speech_prob": 5.744214240550882e-13,
+      "compression_ratio": 1.65,
+      "temperature": 0.0
+    },
+    {
+      "start": 633.4,
+      "duration": 8.220000000000027,
+      "text": "See, God's pointing out, it's like, look, you don't build me a house, all right? He doesn't",
+      "avg_logprob": -0.11140041158656881,
+      "no_speech_prob": 5.744214240550882e-13,
+      "compression_ratio": 1.65,
+      "temperature": 0.0
+    },
+    {
+      "start": 641.62,
+      "duration": 5.899999999999977,
+      "text": "need one. He gives two reasons why. He says first, like, God's been providing and protecting and",
+      "avg_logprob": -0.11140041158656881,
+      "no_speech_prob": 5.744214240550882e-13,
+      "compression_ratio": 1.65,
+      "temperature": 0.0
+    },
+    {
+      "start": 647.52,
+      "duration": 6.6200000000000045,
+      "text": "fighting for Israel without a house for all of that time. He doesn't need a house.",
+      "avg_logprob": -0.11140041158656881,
+      "no_speech_prob": 5.744214240550882e-13,
+      "compression_ratio": 1.65,
+      "temperature": 0.0
+    },
+    {
+      "start": 655.0,
+      "duration": 4.539999999999964,
+      "text": "And then he also says, look, I've never asked any of the leaders of Israel to do this for me.",
+      "avg_logprob": -0.14644461870193481,
+      "no_speech_prob": 5.230338189464445e-13,
+      "compression_ratio": 1.5355450236966826,
+      "temperature": 0.0
+    },
+    {
+      "start": 659.68,
+      "duration": 0.32000000000005,
+      "text": "Never.",
+      "avg_logprob": -0.14644461870193481,
+      "no_speech_prob": 5.230338189464445e-13,
+      "compression_ratio": 1.5355450236966826,
+      "temperature": 0.0
+    },
+    {
+      "start": 662.28,
+      "duration": 2.0,
+      "text": "So God's telling him, I don't need a house.",
+      "avg_logprob": -0.14644461870193481,
+      "no_speech_prob": 5.230338189464445e-13,
+      "compression_ratio": 1.5355450236966826,
+      "temperature": 0.0
+    },
+    {
+      "start": 664.72,
+      "duration": 4.7999999999999545,
+      "text": "I don't live in a house, in a temple that people build.",
+      "avg_logprob": -0.14644461870193481,
+      "no_speech_prob": 5.230338189464445e-13,
+      "compression_ratio": 1.5355450236966826,
+      "temperature": 0.0
+    },
+    {
+      "start": 670.76,
+      "duration": 3.3600000000000136,
+      "text": "In Acts, actually, the Apostle Paul explains this so clearly.",
+      "avg_logprob": -0.14644461870193481,
+      "no_speech_prob": 5.230338189464445e-13,
+      "compression_ratio": 1.5355450236966826,
+      "temperature": 0.0
+    },
+    {
+      "start": 674.24,
+      "duration": 6.279999999999973,
+      "text": "We looked at this passage in our Acts study back in the fall.",
+      "avg_logprob": -0.14644461870193481,
+      "no_speech_prob": 5.230338189464445e-13,
+      "compression_ratio": 1.5355450236966826,
+      "temperature": 0.0
+    },
+    {
+      "start": 680.52,
+      "duration": 5.920000000000073,
+      "text": "and in Acts chapter 17, the Apostle Paul is preaching in Athens",
+      "avg_logprob": -0.16364601046540017,
+      "no_speech_prob": 6.307200855343309e-13,
+      "compression_ratio": 1.5450236966824644,
+      "temperature": 0.0
+    },
+    {
+      "start": 686.44,
+      "duration": 2.3799999999999955,
+      "text": "and this is what he says about God.",
+      "avg_logprob": -0.16364601046540017,
+      "no_speech_prob": 6.307200855343309e-13,
+      "compression_ratio": 1.5450236966824644,
+      "temperature": 0.0
+    },
+    {
+      "start": 689.64,
+      "duration": 0.9199999999999591,
+      "text": "He says,",
+      "avg_logprob": -0.16364601046540017,
+      "no_speech_prob": 6.307200855343309e-13,
+      "compression_ratio": 1.5450236966824644,
+      "temperature": 0.0
+    },
+    {
+      "start": 690.74,
+      "duration": 6.039999999999964,
+      "text": "The God who made the world and everything in it, being Lord of heaven and earth,",
+      "avg_logprob": -0.16364601046540017,
+      "no_speech_prob": 6.307200855343309e-13,
+      "compression_ratio": 1.5450236966824644,
+      "temperature": 0.0
+    },
+    {
+      "start": 696.96,
+      "duration": 5.959999999999923,
+      "text": "does not live in temples made by man, nor is he served by human hands",
+      "avg_logprob": -0.16364601046540017,
+      "no_speech_prob": 6.307200855343309e-13,
+      "compression_ratio": 1.5450236966824644,
+      "temperature": 0.0
+    },
+    {
+      "start": 702.92,
+      "duration": 5.480000000000018,
+      "text": "as though he needed anything since he himself gives to all mankind",
+      "avg_logprob": -0.16364601046540017,
+      "no_speech_prob": 6.307200855343309e-13,
+      "compression_ratio": 1.5450236966824644,
+      "temperature": 0.0
+    },
+    {
+      "start": 708.4,
+      "duration": 2.5400000000000773,
+      "text": "life and breath and everything.",
+      "avg_logprob": -0.4259400022202644,
+      "no_speech_prob": 5.209775753162171e-13,
+      "compression_ratio": 1.523489932885906,
+      "temperature": 0.0
+    },
+    {
+      "start": 712.56,
+      "duration": 0.3000000000000682,
+      "text": "Okay?",
+      "avg_logprob": -0.4259400022202644,
+      "no_speech_prob": 5.209775753162171e-13,
+      "compression_ratio": 1.523489932885906,
+      "temperature": 0.0
+    },
+    {
+      "start": 713.5,
+      "duration": 5.139999999999986,
+      "text": "So what he's saying here is God doesn't need anything from David.",
+      "avg_logprob": -0.4259400022202644,
+      "no_speech_prob": 5.209775753162171e-13,
+      "compression_ratio": 1.523489932885906,
+      "temperature": 0.0
+    },
+    {
+      "start": 719.3,
+      "duration": 2.1200000000000045,
+      "text": "God doesn't need anything from us.",
+      "avg_logprob": -0.4259400022202644,
+      "no_speech_prob": 5.209775753162171e-13,
+      "compression_ratio": 1.523489932885906,
+      "temperature": 0.0
+    },
+    {
+      "start": 721.86,
+      "duration": 0.7599999999999909,
+      "text": "Right?",
+      "avg_logprob": -0.4259400022202644,
+      "no_speech_prob": 5.209775753162171e-13,
+      "compression_ratio": 1.523489932885906,
+      "temperature": 0.0
+    },
+    {
+      "start": 723.4599999999999,
+      "duration": 1.8000000000000682,
+      "text": "He is completely self-sufficient.",
+      "avg_logprob": -0.4259400022202644,
+      "no_speech_prob": 5.209775753162171e-13,
+      "compression_ratio": 1.523489932885906,
+      "temperature": 0.0
+    },
+    {
+      "start": 725.74,
+      "duration": 1.5399999999999636,
+      "text": "He's independent.",
+      "avg_logprob": -0.4259400022202644,
+      "no_speech_prob": 5.209775753162171e-13,
+      "compression_ratio": 1.523489932885906,
+      "temperature": 0.0
+    },
+    {
+      "start": 727.72,
+      "duration": 3.0799999999999272,
+      "text": "He needs nothing from anyone.",
+      "avg_logprob": -0.4259400022202644,
+      "no_speech_prob": 5.209775753162171e-13,
+      "compression_ratio": 1.523489932885906,
+      "temperature": 0.0
+    },
+    {
+      "start": 731.6400000000001,
+      "duration": 6.839999999999918,
+      "text": "And this is actually completely the opposite of any false god in the world.",
+      "avg_logprob": -0.20282180399834354,
+      "no_speech_prob": 4.5264847100580374e-13,
+      "compression_ratio": 1.687116564417178,
+      "temperature": 0.0
+    },
+    {
+      "start": 738.8,
+      "duration": 1.1400000000001,
+      "text": "Think about this.",
+      "avg_logprob": -0.20282180399834354,
+      "no_speech_prob": 4.5264847100580374e-13,
+      "compression_ratio": 1.687116564417178,
+      "temperature": 0.0
+    },
+    {
+      "start": 740.02,
+      "duration": 3.8799999999999955,
+      "text": "A false god is a god that actually needs us.",
+      "avg_logprob": -0.20282180399834354,
+      "no_speech_prob": 4.5264847100580374e-13,
+      "compression_ratio": 1.687116564417178,
+      "temperature": 0.0
+    },
+    {
+      "start": 744.44,
+      "duration": 4.039999999999964,
+      "text": "A false god needs us to give it its power.",
+      "avg_logprob": -0.20282180399834354,
+      "no_speech_prob": 4.5264847100580374e-13,
+      "compression_ratio": 1.687116564417178,
+      "temperature": 0.0
+    },
+    {
+      "start": 749.5799999999999,
+      "duration": 2.0400000000000773,
+      "text": "It needs us to worship it.",
+      "avg_logprob": -0.20282180399834354,
+      "no_speech_prob": 4.5264847100580374e-13,
+      "compression_ratio": 1.687116564417178,
+      "temperature": 0.0
+    },
+    {
+      "start": 752.68,
+      "duration": 3.9200000000000728,
+      "text": "But the one true god does not need anything from us.",
+      "avg_logprob": -0.20282180399834354,
+      "no_speech_prob": 4.5264847100580374e-13,
+      "compression_ratio": 1.687116564417178,
+      "temperature": 0.0
+    },
+    {
+      "start": 757.62,
+      "duration": 0.7799999999999727,
+      "text": "Not anything.",
+      "avg_logprob": -0.20282180399834354,
+      "no_speech_prob": 4.5264847100580374e-13,
+      "compression_ratio": 1.687116564417178,
+      "temperature": 0.0
+    },
+    {
+      "start": 759.3199999999999,
+      "duration": 2.0200000000000955,
+      "text": "He doesn't live in a temple that we make.",
+      "avg_logprob": -0.17947165719394026,
+      "no_speech_prob": 4.971221459655617e-13,
+      "compression_ratio": 1.7788461538461537,
+      "temperature": 0.0
+    },
+    {
+      "start": 761.96,
+      "duration": 3.2799999999999727,
+      "text": "But when God chooses to reside in a temple,",
+      "avg_logprob": -0.17947165719394026,
+      "no_speech_prob": 4.971221459655617e-13,
+      "compression_ratio": 1.7788461538461537,
+      "temperature": 0.0
+    },
+    {
+      "start": 765.42,
+      "duration": 1.4400000000000546,
+      "text": "he lives in a temple that he makes.",
+      "avg_logprob": -0.17947165719394026,
+      "no_speech_prob": 4.971221459655617e-13,
+      "compression_ratio": 1.7788461538461537,
+      "temperature": 0.0
+    },
+    {
+      "start": 767.7,
+      "duration": 1.3399999999999181,
+      "text": "I mean, think about this for a second.",
+      "avg_logprob": -0.17947165719394026,
+      "no_speech_prob": 4.971221459655617e-13,
+      "compression_ratio": 1.7788461538461537,
+      "temperature": 0.0
+    },
+    {
+      "start": 769.28,
+      "duration": 2.1800000000000637,
+      "text": "Think about where God resides right now.",
+      "avg_logprob": -0.17947165719394026,
+      "no_speech_prob": 4.971221459655617e-13,
+      "compression_ratio": 1.7788461538461537,
+      "temperature": 0.0
+    },
+    {
+      "start": 771.86,
+      "duration": 7.080000000000041,
+      "text": "In this era of history, he lives within us, right?",
+      "avg_logprob": -0.17947165719394026,
+      "no_speech_prob": 4.971221459655617e-13,
+      "compression_ratio": 1.7788461538461537,
+      "temperature": 0.0
+    },
+    {
+      "start": 779.58,
+      "duration": 1.599999999999909,
+      "text": "He dwells in us.",
+      "avg_logprob": -0.17947165719394026,
+      "no_speech_prob": 4.971221459655617e-13,
+      "compression_ratio": 1.7788461538461537,
+      "temperature": 0.0
+    },
+    {
+      "start": 781.5,
+      "duration": 1.32000000000005,
+      "text": "Think about what he's done.",
+      "avg_logprob": -0.17947165719394026,
+      "no_speech_prob": 4.971221459655617e-13,
+      "compression_ratio": 1.7788461538461537,
+      "temperature": 0.0
+    },
+    {
+      "start": 783.44,
+      "duration": 2.8199999999999363,
+      "text": "I mean, we are not temples made by man.",
+      "avg_logprob": -0.17947165719394026,
+      "no_speech_prob": 4.971221459655617e-13,
+      "compression_ratio": 1.7788461538461537,
+      "temperature": 0.0
+    },
+    {
+      "start": 786.48,
+      "duration": 1.6599999999999682,
+      "text": "God is the one that's formed us.",
+      "avg_logprob": -0.17947165719394026,
+      "no_speech_prob": 4.971221459655617e-13,
+      "compression_ratio": 1.7788461538461537,
+      "temperature": 0.0
+    },
+    {
+      "start": 788.4,
+      "duration": 7.340000000000032,
+      "text": "tells us that he knit us together in our mother's womb and that so he's given us a body yes but he's",
+      "avg_logprob": -0.045968007068244776,
+      "no_speech_prob": 4.651840436291355e-13,
+      "compression_ratio": 1.8405797101449275,
+      "temperature": 0.0
+    },
+    {
+      "start": 795.74,
+      "duration": 6.17999999999995,
+      "text": "also given us a soul a soul that when we're born we're born corrupted by sin but what does he do",
+      "avg_logprob": -0.045968007068244776,
+      "no_speech_prob": 4.651840436291355e-13,
+      "compression_ratio": 1.8405797101449275,
+      "temperature": 0.0
+    },
+    {
+      "start": 801.92,
+      "duration": 5.340000000000032,
+      "text": "he he actually reaches in and he regenerates our dead hearts he brings us back to life",
+      "avg_logprob": -0.045968007068244776,
+      "no_speech_prob": 4.651840436291355e-13,
+      "compression_ratio": 1.8405797101449275,
+      "temperature": 0.0
+    },
+    {
+      "start": 808.56,
+      "duration": 7.160000000000082,
+      "text": "and not only that he purifies us he purifies our soul so that so that then he takes up residence",
+      "avg_logprob": -0.045968007068244776,
+      "no_speech_prob": 4.651840436291355e-13,
+      "compression_ratio": 1.8405797101449275,
+      "temperature": 0.0
+    },
+    {
+      "start": 815.72,
+      "duration": 10.17999999999995,
+      "text": "within us, right? He doesn't live in a temple made by man, and he doesn't need anything. As Paul said,",
+      "avg_logprob": -0.08205536036815458,
+      "no_speech_prob": 4.615767403709503e-13,
+      "compression_ratio": 1.6724890829694323,
+      "temperature": 0.0
+    },
+    {
+      "start": 827.42,
+      "duration": 5.0,
+      "text": "he gives us life and breath and everything. He's not the one that needs anything, but he's the one",
+      "avg_logprob": -0.08205536036815458,
+      "no_speech_prob": 4.615767403709503e-13,
+      "compression_ratio": 1.6724890829694323,
+      "temperature": 0.0
+    },
+    {
+      "start": 832.42,
+      "duration": 5.660000000000082,
+      "text": "that gives everything. And so here's what's amazing, is that God is going to now reiterate",
+      "avg_logprob": -0.08205536036815458,
+      "no_speech_prob": 4.615767403709503e-13,
+      "compression_ratio": 1.6724890829694323,
+      "temperature": 0.0
+    },
+    {
+      "start": 838.08,
+      "duration": 7.3799999999999955,
+      "text": "this to David. If you continue on back in 2 Samuel, as he's talking to David, he's showing",
+      "avg_logprob": -0.08205536036815458,
+      "no_speech_prob": 4.615767403709503e-13,
+      "compression_ratio": 1.6724890829694323,
+      "temperature": 0.0
+    },
+    {
+      "start": 845.72,
+      "duration": 6.159999999999968,
+      "text": "like, look, I'm not going to live in a temple like that, but look at all that I've done for you.",
+      "avg_logprob": -0.13996150929440734,
+      "no_speech_prob": 5.699520716495599e-13,
+      "compression_ratio": 1.572093023255814,
+      "temperature": 0.0
+    },
+    {
+      "start": 853.32,
+      "duration": 4.259999999999991,
+      "text": "Verse 8, he says, now therefore, thus you shall say to my servant David,",
+      "avg_logprob": -0.13996150929440734,
+      "no_speech_prob": 5.699520716495599e-13,
+      "compression_ratio": 1.572093023255814,
+      "temperature": 0.0
+    },
+    {
+      "start": 858.9200000000001,
+      "duration": 7.059999999999945,
+      "text": "thus says the Lord of hosts, I took you from the pasture, from following the sheep,",
+      "avg_logprob": -0.13996150929440734,
+      "no_speech_prob": 5.699520716495599e-13,
+      "compression_ratio": 1.572093023255814,
+      "temperature": 0.0
+    },
+    {
+      "start": 866.2,
+      "duration": 7.559999999999945,
+      "text": "that you should be prince, should be ruler over my people Israel. I've been with you",
+      "avg_logprob": -0.13996150929440734,
+      "no_speech_prob": 5.699520716495599e-13,
+      "compression_ratio": 1.572093023255814,
+      "temperature": 0.0
+    },
+    {
+      "start": 875.72,
+      "duration": 3.17999999999995,
+      "text": "and have cut off all your enemies from before you.",
+      "avg_logprob": -0.20842685918698364,
+      "no_speech_prob": 4.3361069400858765e-13,
+      "compression_ratio": 1.6071428571428572,
+      "temperature": 0.0
+    },
+    {
+      "start": 880.28,
+      "duration": 4.6200000000000045,
+      "text": "God's like, look, I'm the one that took you from the pasture.",
+      "avg_logprob": -0.20842685918698364,
+      "no_speech_prob": 4.3361069400858765e-13,
+      "compression_ratio": 1.6071428571428572,
+      "temperature": 0.0
+    },
+    {
+      "start": 885.8,
+      "duration": 1.8799999999999955,
+      "text": "I'm the one that made you king.",
+      "avg_logprob": -0.20842685918698364,
+      "no_speech_prob": 4.3361069400858765e-13,
+      "compression_ratio": 1.6071428571428572,
+      "temperature": 0.0
+    },
+    {
+      "start": 887.92,
+      "duration": 2.8600000000000136,
+      "text": "I've been protecting you and providing for you.",
+      "avg_logprob": -0.20842685918698364,
+      "no_speech_prob": 4.3361069400858765e-13,
+      "compression_ratio": 1.6071428571428572,
+      "temperature": 0.0
+    },
+    {
+      "start": 891.18,
+      "duration": 2.2200000000000273,
+      "text": "God's like, I build you.",
+      "avg_logprob": -0.20842685918698364,
+      "no_speech_prob": 4.3361069400858765e-13,
+      "compression_ratio": 1.6071428571428572,
+      "temperature": 0.0
+    },
+    {
+      "start": 894.22,
+      "duration": 1.4399999999999409,
+      "text": "You don't build for me.",
+      "avg_logprob": -0.20842685918698364,
+      "no_speech_prob": 4.3361069400858765e-13,
+      "compression_ratio": 1.6071428571428572,
+      "temperature": 0.0
+    },
+    {
+      "start": 896.72,
+      "duration": 1.1000000000000227,
+      "text": "Does that make sense?",
+      "avg_logprob": -0.20842685918698364,
+      "no_speech_prob": 4.3361069400858765e-13,
+      "compression_ratio": 1.6071428571428572,
+      "temperature": 0.0
+    },
+    {
+      "start": 898.48,
+      "duration": 0.5399999999999636,
+      "text": "Right?",
+      "avg_logprob": -0.20842685918698364,
+      "no_speech_prob": 4.3361069400858765e-13,
+      "compression_ratio": 1.6071428571428572,
+      "temperature": 0.0
+    },
+    {
+      "start": 900.36,
+      "duration": 8.399999999999977,
+      "text": "And so God does not need, need our love.",
+      "avg_logprob": -0.23383704353781307,
+      "no_speech_prob": 3.886405899791029e-13,
+      "compression_ratio": 1.5985401459854014,
+      "temperature": 0.0
+    },
+    {
+      "start": 909.9000000000001,
+      "duration": 1.8599999999999,
+      "text": "Let's dwell on this just for a moment.",
+      "avg_logprob": -0.23383704353781307,
+      "no_speech_prob": 3.886405899791029e-13,
+      "compression_ratio": 1.5985401459854014,
+      "temperature": 0.0
+    },
+    {
+      "start": 912.32,
+      "duration": 1.8799999999999955,
+      "text": "God doesn't need our love.",
+      "avg_logprob": -0.23383704353781307,
+      "no_speech_prob": 3.886405899791029e-13,
+      "compression_ratio": 1.5985401459854014,
+      "temperature": 0.0
+    },
+    {
+      "start": 915.22,
+      "duration": 1.759999999999991,
+      "text": "He wants us to love him.",
+      "avg_logprob": -0.23383704353781307,
+      "no_speech_prob": 3.886405899791029e-13,
+      "compression_ratio": 1.5985401459854014,
+      "temperature": 0.0
+    },
+    {
+      "start": 917.46,
+      "duration": 3.8600000000000136,
+      "text": "He loves us and he desires that relationship, absolutely.",
+      "avg_logprob": -0.23383704353781307,
+      "no_speech_prob": 3.886405899791029e-13,
+      "compression_ratio": 1.5985401459854014,
+      "temperature": 0.0
+    },
+    {
+      "start": 922.6400000000001,
+      "duration": 2.6599999999998545,
+      "text": "But he doesn't need our love.",
+      "avg_logprob": -0.23383704353781307,
+      "no_speech_prob": 3.886405899791029e-13,
+      "compression_ratio": 1.5985401459854014,
+      "temperature": 0.0
+    },
+    {
+      "start": 925.94,
+      "duration": 9.8599999999999,
+      "text": "And I think sometimes we get to a place where we start to fool ourself into thinking that we can give God something that he needs through our acts of service, through giving, through worship.",
+      "avg_logprob": -0.10495768443192585,
+      "no_speech_prob": 5.333328180132102e-13,
+      "compression_ratio": 1.8973214285714286,
+      "temperature": 0.0
+    },
+    {
+      "start": 936.7,
+      "duration": 10.93999999999994,
+      "text": "We start to think that, hey, if I can just give God something that he needs, then maybe then he'll give me his love.",
+      "avg_logprob": -0.10495768443192585,
+      "no_speech_prob": 5.333328180132102e-13,
+      "compression_ratio": 1.8973214285714286,
+      "temperature": 0.0
+    },
+    {
+      "start": 948.86,
+      "duration": 5.860000000000014,
+      "text": "And we start to think this way because we think that if we can do that for God, then God actually owes us something.",
+      "avg_logprob": -0.10495768443192585,
+      "no_speech_prob": 5.333328180132102e-13,
+      "compression_ratio": 1.8973214285714286,
+      "temperature": 0.0
+    },
+    {
+      "start": 956.72,
+      "duration": 2.259999999999991,
+      "text": "as we start to think that way,",
+      "avg_logprob": -0.1662212477789985,
+      "no_speech_prob": 5.169405485269674e-13,
+      "compression_ratio": 1.7168141592920354,
+      "temperature": 0.0
+    },
+    {
+      "start": 959.1,
+      "duration": 1.8400000000000318,
+      "text": "what happens is we come to this place",
+      "avg_logprob": -0.1662212477789985,
+      "no_speech_prob": 5.169405485269674e-13,
+      "compression_ratio": 1.7168141592920354,
+      "temperature": 0.0
+    },
+    {
+      "start": 960.94,
+      "duration": 0.6999999999999318,
+      "text": "where we're thinking,",
+      "avg_logprob": -0.1662212477789985,
+      "no_speech_prob": 5.169405485269674e-13,
+      "compression_ratio": 1.7168141592920354,
+      "temperature": 0.0
+    },
+    {
+      "start": 962.24,
+      "duration": 1.6399999999999864,
+      "text": "maybe we can actually control God.",
+      "avg_logprob": -0.1662212477789985,
+      "no_speech_prob": 5.169405485269674e-13,
+      "compression_ratio": 1.7168141592920354,
+      "temperature": 0.0
+    },
+    {
+      "start": 964.02,
+      "duration": 2.519999999999982,
+      "text": "We can manipulate him to giving us his blessing,",
+      "avg_logprob": -0.1662212477789985,
+      "no_speech_prob": 5.169405485269674e-13,
+      "compression_ratio": 1.7168141592920354,
+      "temperature": 0.0
+    },
+    {
+      "start": 966.54,
+      "duration": 1.240000000000009,
+      "text": "to giving us his love,",
+      "avg_logprob": -0.1662212477789985,
+      "no_speech_prob": 5.169405485269674e-13,
+      "compression_ratio": 1.7168141592920354,
+      "temperature": 0.0
+    },
+    {
+      "start": 967.98,
+      "duration": 1.8600000000000136,
+      "text": "to granting us salvation.",
+      "avg_logprob": -0.1662212477789985,
+      "no_speech_prob": 5.169405485269674e-13,
+      "compression_ratio": 1.7168141592920354,
+      "temperature": 0.0
+    },
+    {
+      "start": 972.72,
+      "duration": 2.1399999999999864,
+      "text": "But this is the thing that's so incredible about God",
+      "avg_logprob": -0.1662212477789985,
+      "no_speech_prob": 5.169405485269674e-13,
+      "compression_ratio": 1.7168141592920354,
+      "temperature": 0.0
+    },
+    {
+      "start": 974.86,
+      "duration": 4.519999999999982,
+      "text": "is that God has actually already given us everything.",
+      "avg_logprob": -0.1662212477789985,
+      "no_speech_prob": 5.169405485269674e-13,
+      "compression_ratio": 1.7168141592920354,
+      "temperature": 0.0
+    },
+    {
+      "start": 980.46,
+      "duration": 2.759999999999991,
+      "text": "He's already extended to us his love.",
+      "avg_logprob": -0.1662212477789985,
+      "no_speech_prob": 5.169405485269674e-13,
+      "compression_ratio": 1.7168141592920354,
+      "temperature": 0.0
+    },
+    {
+      "start": 984.04,
+      "duration": 1.0600000000000591,
+      "text": "What does John say?",
+      "avg_logprob": -0.1662212477789985,
+      "no_speech_prob": 5.169405485269674e-13,
+      "compression_ratio": 1.7168141592920354,
+      "temperature": 0.0
+    },
+    {
+      "start": 985.3,
+      "duration": 10.32000000000005,
+      "text": "says he's loved us first, right? And so there's no need to manipulate him. He offers it freely.",
+      "avg_logprob": -0.0873573559981126,
+      "no_speech_prob": 4.561842982357678e-13,
+      "compression_ratio": 1.3424657534246576,
+      "temperature": 0.0
+    },
+    {
+      "start": 996.06,
+      "duration": 9.200000000000045,
+      "text": "Think about what he's done for us before you were born, before creation itself. God has set his love",
+      "avg_logprob": -0.0873573559981126,
+      "no_speech_prob": 4.561842982357678e-13,
+      "compression_ratio": 1.3424657534246576,
+      "temperature": 0.0
+    },
+    {
+      "start": 1005.26,
+      "duration": 9.480000000000018,
+      "text": "on you. He knows you perfectly. He's loved you perfectly. Throughout your lifetime,",
+      "avg_logprob": -0.11250843518022177,
+      "no_speech_prob": 4.688301613250956e-13,
+      "compression_ratio": 1.5384615384615385,
+      "temperature": 0.0
+    },
+    {
+      "start": 1015.12,
+      "duration": 8.200000000000045,
+      "text": "he has set things up to seek you out. He's pursuing you, to draw you to himself.",
+      "avg_logprob": -0.11250843518022177,
+      "no_speech_prob": 4.688301613250956e-13,
+      "compression_ratio": 1.5384615384615385,
+      "temperature": 0.0
+    },
+    {
+      "start": 1024.66,
+      "duration": 8.659999999999854,
+      "text": "God continually says, I will never leave you or forsake you. He loves us with a way better love",
+      "avg_logprob": -0.11250843518022177,
+      "no_speech_prob": 4.688301613250956e-13,
+      "compression_ratio": 1.5384615384615385,
+      "temperature": 0.0
+    },
+    {
+      "start": 1035.72,
+      "duration": 0.9600000000000364,
+      "text": "Does that make sense?",
+      "avg_logprob": -0.1365678715256025,
+      "no_speech_prob": 6.067089647517065e-13,
+      "compression_ratio": 1.673913043478261,
+      "temperature": 0.0
+    },
+    {
+      "start": 1037.08,
+      "duration": 1.6000000000001364,
+      "text": "And this is what he's showing David.",
+      "avg_logprob": -0.1365678715256025,
+      "no_speech_prob": 6.067089647517065e-13,
+      "compression_ratio": 1.673913043478261,
+      "temperature": 0.0
+    },
+    {
+      "start": 1038.68,
+      "duration": 5.220000000000027,
+      "text": "He's like, look, I have loved you so much more than what you're talking about here.",
+      "avg_logprob": -0.1365678715256025,
+      "no_speech_prob": 6.067089647517065e-13,
+      "compression_ratio": 1.673913043478261,
+      "temperature": 0.0
+    },
+    {
+      "start": 1045.48,
+      "duration": 4.920000000000073,
+      "text": "When we worship God, when we serve him, when we give, when we come to worship like this,",
+      "avg_logprob": -0.1365678715256025,
+      "no_speech_prob": 6.067089647517065e-13,
+      "compression_ratio": 1.673913043478261,
+      "temperature": 0.0
+    },
+    {
+      "start": 1050.66,
+      "duration": 5.599999999999909,
+      "text": "all those things, they're great things, but they're a response to the love that God has given us.",
+      "avg_logprob": -0.1365678715256025,
+      "no_speech_prob": 6.067089647517065e-13,
+      "compression_ratio": 1.673913043478261,
+      "temperature": 0.0
+    },
+    {
+      "start": 1056.34,
+      "duration": 3.8200000000001637,
+      "text": "They're not us trying to manipulate him into loving us.",
+      "avg_logprob": -0.1365678715256025,
+      "no_speech_prob": 6.067089647517065e-13,
+      "compression_ratio": 1.673913043478261,
+      "temperature": 0.0
+    },
+    {
+      "start": 1061.44,
+      "duration": 5.480000000000018,
+      "text": "and so God here is reminding David I think of that same truth that he has a better love than",
+      "avg_logprob": -0.04587441682815552,
+      "no_speech_prob": 4.561855450682661e-13,
+      "compression_ratio": 1.7727272727272727,
+      "temperature": 0.0
+    },
+    {
+      "start": 1066.92,
+      "duration": 5.639999999999873,
+      "text": "anything that David could ever give him he has given David a faithful and everlasting love and",
+      "avg_logprob": -0.04587441682815552,
+      "no_speech_prob": 4.561855450682661e-13,
+      "compression_ratio": 1.7727272727272727,
+      "temperature": 0.0
+    },
+    {
+      "start": 1072.56,
+      "duration": 6.779999999999973,
+      "text": "he's reminding David of how he has loved him through his lifetime so this is the question",
+      "avg_logprob": -0.04587441682815552,
+      "no_speech_prob": 4.561855450682661e-13,
+      "compression_ratio": 1.7727272727272727,
+      "temperature": 0.0
+    },
+    {
+      "start": 1079.34,
+      "duration": 6.720000000000027,
+      "text": "really for you this first part is how has God loved you through your life",
+      "avg_logprob": -0.04587441682815552,
+      "no_speech_prob": 4.561855450682661e-13,
+      "compression_ratio": 1.7727272727272727,
+      "temperature": 0.0
+    },
+    {
+      "start": 1087.8999999999999,
+      "duration": 9.38000000000011,
+      "text": "this is a fantastic thing to think about this week even to write this down how has god loved you",
+      "avg_logprob": -0.06467313615102617,
+      "no_speech_prob": 5.109018676868748e-13,
+      "compression_ratio": 1.8104575163398693,
+      "temperature": 0.0
+    },
+    {
+      "start": 1097.28,
+      "duration": 8.360000000000127,
+      "text": "how has he been pursuing you throughout your life how has he provided for you how has he protected",
+      "avg_logprob": -0.06467313615102617,
+      "no_speech_prob": 5.109018676868748e-13,
+      "compression_ratio": 1.8104575163398693,
+      "temperature": 0.0
+    },
+    {
+      "start": 1105.64,
+      "duration": 6.319999999999936,
+      "text": "you let these things remind you of god's faithfulness to you throughout your life",
+      "avg_logprob": -0.06467313615102617,
+      "no_speech_prob": 5.109018676868748e-13,
+      "compression_ratio": 1.8104575163398693,
+      "temperature": 0.0
+    },
+    {
+      "start": 1111.96,
+      "duration": 3.240000000000009,
+      "text": "That it's a reminder that God is actually building you.",
+      "avg_logprob": -0.17945407998972926,
+      "no_speech_prob": 6.114653596824005e-13,
+      "compression_ratio": 1.7302904564315353,
+      "temperature": 0.0
+    },
+    {
+      "start": 1116.42,
+      "duration": 0.4800000000000182,
+      "text": "Right?",
+      "avg_logprob": -0.17945407998972926,
+      "no_speech_prob": 6.114653596824005e-13,
+      "compression_ratio": 1.7302904564315353,
+      "temperature": 0.0
+    },
+    {
+      "start": 1117.94,
+      "duration": 3.2000000000000455,
+      "text": "That God loves you with a better love than we could ever give him.",
+      "avg_logprob": -0.17945407998972926,
+      "no_speech_prob": 6.114653596824005e-13,
+      "compression_ratio": 1.7302904564315353,
+      "temperature": 0.0
+    },
+    {
+      "start": 1122.74,
+      "duration": 1.099999999999909,
+      "text": "So that's the first thing.",
+      "avg_logprob": -0.17945407998972926,
+      "no_speech_prob": 6.114653596824005e-13,
+      "compression_ratio": 1.7302904564315353,
+      "temperature": 0.0
+    },
+    {
+      "start": 1123.9,
+      "duration": 0.7799999999999727,
+      "text": "That's the better love.",
+      "avg_logprob": -0.17945407998972926,
+      "no_speech_prob": 6.114653596824005e-13,
+      "compression_ratio": 1.7302904564315353,
+      "temperature": 0.0
+    },
+    {
+      "start": 1125.78,
+      "duration": 2.4200000000000728,
+      "text": "There's a second thing that God is going to show David here,",
+      "avg_logprob": -0.17945407998972926,
+      "no_speech_prob": 6.114653596824005e-13,
+      "compression_ratio": 1.7302904564315353,
+      "temperature": 0.0
+    },
+    {
+      "start": 1128.3,
+      "duration": 2.7999999999999545,
+      "text": "that there's a better place that's coming.",
+      "avg_logprob": -0.17945407998972926,
+      "no_speech_prob": 6.114653596824005e-13,
+      "compression_ratio": 1.7302904564315353,
+      "temperature": 0.0
+    },
+    {
+      "start": 1132.34,
+      "duration": 2.6800000000000637,
+      "text": "Now at this point in history, like I explained before,",
+      "avg_logprob": -0.17945407998972926,
+      "no_speech_prob": 6.114653596824005e-13,
+      "compression_ratio": 1.7302904564315353,
+      "temperature": 0.0
+    },
+    {
+      "start": 1135.26,
+      "duration": 3.4400000000000546,
+      "text": "Israel is at a really high point in its history.",
+      "avg_logprob": -0.17945407998972926,
+      "no_speech_prob": 6.114653596824005e-13,
+      "compression_ratio": 1.7302904564315353,
+      "temperature": 0.0
+    },
+    {
+      "start": 1139.26,
+      "duration": 1.4200000000000728,
+      "text": "Probably one of the highest.",
+      "avg_logprob": -0.17945407998972926,
+      "no_speech_prob": 6.114653596824005e-13,
+      "compression_ratio": 1.7302904564315353,
+      "temperature": 0.0
+    },
+    {
+      "start": 1142.32,
+      "duration": 4.860000000000127,
+      "text": "And David is looking at all of the blessings that God has given him,",
+      "avg_logprob": -0.133295927590471,
+      "no_speech_prob": 5.010214790789058e-13,
+      "compression_ratio": 1.745019920318725,
+      "temperature": 0.0
+    },
+    {
+      "start": 1147.34,
+      "duration": 2.2200000000000273,
+      "text": "all of these things, the rest from the enemies,",
+      "avg_logprob": -0.133295927590471,
+      "no_speech_prob": 5.010214790789058e-13,
+      "compression_ratio": 1.745019920318725,
+      "temperature": 0.0
+    },
+    {
+      "start": 1149.84,
+      "duration": 3.4400000000000546,
+      "text": "the being in the land, God is with them, all this stuff.",
+      "avg_logprob": -0.133295927590471,
+      "no_speech_prob": 5.010214790789058e-13,
+      "compression_ratio": 1.745019920318725,
+      "temperature": 0.0
+    },
+    {
+      "start": 1153.28,
+      "duration": 2.7799999999999727,
+      "text": "And he's wondering, man, is this the kingdom?",
+      "avg_logprob": -0.133295927590471,
+      "no_speech_prob": 5.010214790789058e-13,
+      "compression_ratio": 1.745019920318725,
+      "temperature": 0.0
+    },
+    {
+      "start": 1156.7,
+      "duration": 1.2000000000000455,
+      "text": "Maybe we've arrived.",
+      "avg_logprob": -0.133295927590471,
+      "no_speech_prob": 5.010214790789058e-13,
+      "compression_ratio": 1.745019920318725,
+      "temperature": 0.0
+    },
+    {
+      "start": 1158.54,
+      "duration": 1.7799999999999727,
+      "text": "Maybe this is going to happen right now.",
+      "avg_logprob": -0.133295927590471,
+      "no_speech_prob": 5.010214790789058e-13,
+      "compression_ratio": 1.745019920318725,
+      "temperature": 0.0
+    },
+    {
+      "start": 1161.5,
+      "duration": 5.059999999999945,
+      "text": "But God is about to show him his error with this.",
+      "avg_logprob": -0.133295927590471,
+      "no_speech_prob": 5.010214790789058e-13,
+      "compression_ratio": 1.745019920318725,
+      "temperature": 0.0
+    },
+    {
+      "start": 1166.76,
+      "duration": 2.2000000000000455,
+      "text": "He's going to show him that this is not the kingdom,",
+      "avg_logprob": -0.133295927590471,
+      "no_speech_prob": 5.010214790789058e-13,
+      "compression_ratio": 1.745019920318725,
+      "temperature": 0.0
+    },
+    {
+      "start": 1169.0,
+      "duration": 2.5799999999999272,
+      "text": "but that there's actually so much more that's coming.",
+      "avg_logprob": -0.133295927590471,
+      "no_speech_prob": 5.010214790789058e-13,
+      "compression_ratio": 1.745019920318725,
+      "temperature": 0.0
+    },
+    {
+      "start": 1172.3,
+      "duration": 7.6400000000001,
+      "text": "And here's what I think is so cool, is that what you're about to see in this are all incredible echoes of previous promises.",
+      "avg_logprob": -0.14598465910052308,
+      "no_speech_prob": 6.560079627952742e-13,
+      "compression_ratio": 1.683982683982684,
+      "temperature": 0.0
+    },
+    {
+      "start": 1180.24,
+      "duration": 5.660000000000082,
+      "text": "Promises that were given to Abraham and to Moses and now to David, but we get more information about them.",
+      "avg_logprob": -0.14598465910052308,
+      "no_speech_prob": 6.560079627952742e-13,
+      "compression_ratio": 1.683982683982684,
+      "temperature": 0.0
+    },
+    {
+      "start": 1186.0,
+      "duration": 3.1400000000001,
+      "text": "God is taking those promises and building on them.",
+      "avg_logprob": -0.14598465910052308,
+      "no_speech_prob": 6.560079627952742e-13,
+      "compression_ratio": 1.683982683982684,
+      "temperature": 0.0
+    },
+    {
+      "start": 1189.8,
+      "duration": 2.5,
+      "text": "And now we get even more information with David.",
+      "avg_logprob": -0.14598465910052308,
+      "no_speech_prob": 6.560079627952742e-13,
+      "compression_ratio": 1.683982683982684,
+      "temperature": 0.0
+    },
+    {
+      "start": 1192.5,
+      "duration": 2.6800000000000637,
+      "text": "So look at here at the end of verse 9.",
+      "avg_logprob": -0.14598465910052308,
+      "no_speech_prob": 6.560079627952742e-13,
+      "compression_ratio": 1.683982683982684,
+      "temperature": 0.0
+    },
+    {
+      "start": 1197.58,
+      "duration": 1.240000000000009,
+      "text": "So verse 9 starts,",
+      "avg_logprob": -0.14598465910052308,
+      "no_speech_prob": 6.560079627952742e-13,
+      "compression_ratio": 1.683982683982684,
+      "temperature": 0.0
+    },
+    {
+      "start": 1198.82,
+      "duration": 3.740000000000009,
+      "text": "I have been with you wherever you went and have cut off your enemies from before you.",
+      "avg_logprob": -0.12233489382583483,
+      "no_speech_prob": 8.037770752797324e-13,
+      "compression_ratio": 1.6694915254237288,
+      "temperature": 0.0
+    },
+    {
+      "start": 1203.22,
+      "duration": 6.279999999999973,
+      "text": "He continues, he says, I will make for you a great name, like the name of the great ones",
+      "avg_logprob": -0.12233489382583483,
+      "no_speech_prob": 8.037770752797324e-13,
+      "compression_ratio": 1.6694915254237288,
+      "temperature": 0.0
+    },
+    {
+      "start": 1209.5,
+      "duration": 0.7400000000000091,
+      "text": "of the earth.",
+      "avg_logprob": -0.12233489382583483,
+      "no_speech_prob": 8.037770752797324e-13,
+      "compression_ratio": 1.6694915254237288,
+      "temperature": 0.0
+    },
+    {
+      "start": 1210.94,
+      "duration": 1.2000000000000455,
+      "text": "Okay, pause for a second.",
+      "avg_logprob": -0.12233489382583483,
+      "no_speech_prob": 8.037770752797324e-13,
+      "compression_ratio": 1.6694915254237288,
+      "temperature": 0.0
+    },
+    {
+      "start": 1212.76,
+      "duration": 1.2000000000000455,
+      "text": "Just think about this for a second.",
+      "avg_logprob": -0.12233489382583483,
+      "no_speech_prob": 8.037770752797324e-13,
+      "compression_ratio": 1.6694915254237288,
+      "temperature": 0.0
+    },
+    {
+      "start": 1214.02,
+      "duration": 0.6200000000001182,
+      "text": "What does he say?",
+      "avg_logprob": -0.12233489382583483,
+      "no_speech_prob": 8.037770752797324e-13,
+      "compression_ratio": 1.6694915254237288,
+      "temperature": 0.0
+    },
+    {
+      "start": 1214.88,
+      "duration": 1.5199999999999818,
+      "text": "David has a great name already.",
+      "avg_logprob": -0.12233489382583483,
+      "no_speech_prob": 8.037770752797324e-13,
+      "compression_ratio": 1.6694915254237288,
+      "temperature": 0.0
+    },
+    {
+      "start": 1216.56,
+      "duration": 2.519999999999982,
+      "text": "He's the king of Israel, right?",
+      "avg_logprob": -0.12233489382583483,
+      "no_speech_prob": 8.037770752797324e-13,
+      "compression_ratio": 1.6694915254237288,
+      "temperature": 0.0
+    },
+    {
+      "start": 1219.54,
+      "duration": 5.900000000000091,
+      "text": "David is an incredibly popular musician as well, like I said.",
+      "avg_logprob": -0.12233489382583483,
+      "no_speech_prob": 8.037770752797324e-13,
+      "compression_ratio": 1.6694915254237288,
+      "temperature": 0.0
+    },
+    {
+      "start": 1225.44,
+      "duration": 8.059999999999945,
+      "text": "And in the previous chapter, it says that the surrounding nations, those enemy nations,",
+      "avg_logprob": -0.15266566701454692,
+      "no_speech_prob": 4.913310426915563e-13,
+      "compression_ratio": 1.6071428571428572,
+      "temperature": 0.0
+    },
+    {
+      "start": 1233.8,
+      "duration": 2.6000000000001364,
+      "text": "know the name of David and fear him.",
+      "avg_logprob": -0.15266566701454692,
+      "no_speech_prob": 4.913310426915563e-13,
+      "compression_ratio": 1.6071428571428572,
+      "temperature": 0.0
+    },
+    {
+      "start": 1237.2,
+      "duration": 2.759999999999991,
+      "text": "Okay, so people already know his name.",
+      "avg_logprob": -0.15266566701454692,
+      "no_speech_prob": 4.913310426915563e-13,
+      "compression_ratio": 1.6071428571428572,
+      "temperature": 0.0
+    },
+    {
+      "start": 1240.4,
+      "duration": 1.2999999999999545,
+      "text": "But what does he say here?",
+      "avg_logprob": -0.15266566701454692,
+      "no_speech_prob": 4.913310426915563e-13,
+      "compression_ratio": 1.6071428571428572,
+      "temperature": 0.0
+    },
+    {
+      "start": 1241.78,
+      "duration": 4.539999999999964,
+      "text": "He says, I will make for you a great name like the name of the great ones on the earth.",
+      "avg_logprob": -0.15266566701454692,
+      "no_speech_prob": 4.913310426915563e-13,
+      "compression_ratio": 1.6071428571428572,
+      "temperature": 0.0
+    },
+    {
+      "start": 1247.6200000000001,
+      "duration": 3.759999999999991,
+      "text": "Wow, okay, even more than what David already has.",
+      "avg_logprob": -0.15266566701454692,
+      "no_speech_prob": 4.913310426915563e-13,
+      "compression_ratio": 1.6071428571428572,
+      "temperature": 0.0
+    },
+    {
+      "start": 1251.5,
+      "duration": 1.9600000000000364,
+      "text": "Verse 10, look at the next one.",
+      "avg_logprob": -0.15266566701454692,
+      "no_speech_prob": 4.913310426915563e-13,
+      "compression_ratio": 1.6071428571428572,
+      "temperature": 0.0
+    },
+    {
+      "start": 1255.44,
+      "duration": 5.339999999999918,
+      "text": "a place for my people Israel and I will plant them so they may dwell in their own place and",
+      "avg_logprob": -0.12787815798883853,
+      "no_speech_prob": 4.743588876733595e-13,
+      "compression_ratio": 1.6869158878504673,
+      "temperature": 0.0
+    },
+    {
+      "start": 1260.78,
+      "duration": 7.440000000000055,
+      "text": "be disturbed no more. Back up a second. They're already in the promised land.",
+      "avg_logprob": -0.12787815798883853,
+      "no_speech_prob": 4.743588876733595e-13,
+      "compression_ratio": 1.6869158878504673,
+      "temperature": 0.0
+    },
+    {
+      "start": 1269.56,
+      "duration": 5.160000000000082,
+      "text": "What is he talking about here? He says, I'm going to appoint a place for my people Israel and plant",
+      "avg_logprob": -0.12787815798883853,
+      "no_speech_prob": 4.743588876733595e-13,
+      "compression_ratio": 1.6869158878504673,
+      "temperature": 0.0
+    },
+    {
+      "start": 1274.72,
+      "duration": 5.259999999999991,
+      "text": "them. Aren't they already planted in the land that God promised them? Look at the next one.",
+      "avg_logprob": -0.12787815798883853,
+      "no_speech_prob": 4.743588876733595e-13,
+      "compression_ratio": 1.6869158878504673,
+      "temperature": 0.0
+    },
+    {
+      "start": 1281.48,
+      "duration": 0.599999999999909,
+      "text": "It says,",
+      "avg_logprob": -0.2634240503180517,
+      "no_speech_prob": 5.333330890637533e-13,
+      "compression_ratio": 1.4035087719298245,
+      "temperature": 0.0
+    },
+    {
+      "start": 1293.56,
+      "duration": 2.2999999999999545,
+      "text": "But this is another thing that's blowing my mind,",
+      "avg_logprob": -0.2634240503180517,
+      "no_speech_prob": 5.333330890637533e-13,
+      "compression_ratio": 1.4035087719298245,
+      "temperature": 0.0
+    },
+    {
+      "start": 1295.88,
+      "duration": 1.3999999999998636,
+      "text": "because in verse 1, he says,",
+      "avg_logprob": -0.2634240503180517,
+      "no_speech_prob": 5.333330890637533e-13,
+      "compression_ratio": 1.4035087719298245,
+      "temperature": 0.0
+    },
+    {
+      "start": 1297.64,
+      "duration": 1.759999999999991,
+      "text": "God's already given them rest from their enemies.",
+      "avg_logprob": -0.2634240503180517,
+      "no_speech_prob": 5.333330890637533e-13,
+      "compression_ratio": 1.4035087719298245,
+      "temperature": 0.0
+    },
+    {
+      "start": 1300.04,
+      "duration": 1.4600000000000364,
+      "text": "So what is this talking about?",
+      "avg_logprob": -0.2634240503180517,
+      "no_speech_prob": 5.333330890637533e-13,
+      "compression_ratio": 1.4035087719298245,
+      "temperature": 0.0
+    },
+    {
+      "start": 1302.78,
+      "duration": 2.5599999999999454,
+      "text": "A great name, a place, and rest.",
+      "avg_logprob": -0.2634240503180517,
+      "no_speech_prob": 5.333330890637533e-13,
+      "compression_ratio": 1.4035087719298245,
+      "temperature": 0.0
+    },
+    {
+      "start": 1306.66,
+      "duration": 2.619999999999891,
+      "text": "By God making these promises to David,",
+      "avg_logprob": -0.2634240503180517,
+      "no_speech_prob": 5.333330890637533e-13,
+      "compression_ratio": 1.4035087719298245,
+      "temperature": 0.0
+    },
+    {
+      "start": 1309.98,
+      "duration": 1.2200000000000273,
+      "text": "and he's like, look, all these things,",
+      "avg_logprob": -0.13145352149194525,
+      "no_speech_prob": 8.037769126494065e-13,
+      "compression_ratio": 1.9336283185840708,
+      "temperature": 0.0
+    },
+    {
+      "start": 1311.34,
+      "duration": 1.6000000000001364,
+      "text": "I've given you all these things and they're good,",
+      "avg_logprob": -0.13145352149194525,
+      "no_speech_prob": 8.037769126494065e-13,
+      "compression_ratio": 1.9336283185840708,
+      "temperature": 0.0
+    },
+    {
+      "start": 1312.98,
+      "duration": 1.4200000000000728,
+      "text": "but this is not it.",
+      "avg_logprob": -0.13145352149194525,
+      "no_speech_prob": 8.037769126494065e-13,
+      "compression_ratio": 1.9336283185840708,
+      "temperature": 0.0
+    },
+    {
+      "start": 1315.78,
+      "duration": 1.0399999999999636,
+      "text": "This is not it.",
+      "avg_logprob": -0.13145352149194525,
+      "no_speech_prob": 8.037769126494065e-13,
+      "compression_ratio": 1.9336283185840708,
+      "temperature": 0.0
+    },
+    {
+      "start": 1317.6,
+      "duration": 2.1200000000001182,
+      "text": "There's a bigger and better place",
+      "avg_logprob": -0.13145352149194525,
+      "no_speech_prob": 8.037769126494065e-13,
+      "compression_ratio": 1.9336283185840708,
+      "temperature": 0.0
+    },
+    {
+      "start": 1319.72,
+      "duration": 1.6199999999998909,
+      "text": "that I'm pointing you to,",
+      "avg_logprob": -0.13145352149194525,
+      "no_speech_prob": 8.037769126494065e-13,
+      "compression_ratio": 1.9336283185840708,
+      "temperature": 0.0
+    },
+    {
+      "start": 1321.44,
+      "duration": 2.2200000000000273,
+      "text": "that these things are pointing to.",
+      "avg_logprob": -0.13145352149194525,
+      "no_speech_prob": 8.037769126494065e-13,
+      "compression_ratio": 1.9336283185840708,
+      "temperature": 0.0
+    },
+    {
+      "start": 1325.22,
+      "duration": 1.2000000000000455,
+      "text": "This is not the kingdom.",
+      "avg_logprob": -0.13145352149194525,
+      "no_speech_prob": 8.037769126494065e-13,
+      "compression_ratio": 1.9336283185840708,
+      "temperature": 0.0
+    },
+    {
+      "start": 1326.6,
+      "duration": 2.740000000000009,
+      "text": "The land of Canaan is not the final place for God's people.",
+      "avg_logprob": -0.13145352149194525,
+      "no_speech_prob": 8.037769126494065e-13,
+      "compression_ratio": 1.9336283185840708,
+      "temperature": 0.0
+    },
+    {
+      "start": 1331.1399999999999,
+      "duration": 2.8600000000001273,
+      "text": "But what's happening here is God is making David a promise",
+      "avg_logprob": -0.13145352149194525,
+      "no_speech_prob": 8.037769126494065e-13,
+      "compression_ratio": 1.9336283185840708,
+      "temperature": 0.0
+    },
+    {
+      "start": 1334.0,
+      "duration": 1.2799999999999727,
+      "text": "that there is something better.",
+      "avg_logprob": -0.13145352149194525,
+      "no_speech_prob": 8.037769126494065e-13,
+      "compression_ratio": 1.9336283185840708,
+      "temperature": 0.0
+    },
+    {
+      "start": 1335.9,
+      "duration": 2.480000000000018,
+      "text": "There's something better, a better place.",
+      "avg_logprob": -0.13145352149194525,
+      "no_speech_prob": 8.037769126494065e-13,
+      "compression_ratio": 1.9336283185840708,
+      "temperature": 0.0
+    },
+    {
+      "start": 1340.3400000000001,
+      "duration": 1.7599999999997635,
+      "text": "is the new heavens and new earth.",
+      "avg_logprob": -0.16729155453768643,
+      "no_speech_prob": 7.120882659569783e-13,
+      "compression_ratio": 1.819905213270142,
+      "temperature": 0.0
+    },
+    {
+      "start": 1343.3200000000002,
+      "duration": 4.479999999999791,
+      "text": "This better place is where we're heading",
+      "avg_logprob": -0.16729155453768643,
+      "no_speech_prob": 7.120882659569783e-13,
+      "compression_ratio": 1.819905213270142,
+      "temperature": 0.0
+    },
+    {
+      "start": 1347.8,
+      "duration": 1.5399999999999636,
+      "text": "as believers in Christ,",
+      "avg_logprob": -0.16729155453768643,
+      "no_speech_prob": 7.120882659569783e-13,
+      "compression_ratio": 1.819905213270142,
+      "temperature": 0.0
+    },
+    {
+      "start": 1349.34,
+      "duration": 2.160000000000082,
+      "text": "where Jesus is gathering us to.",
+      "avg_logprob": -0.16729155453768643,
+      "no_speech_prob": 7.120882659569783e-13,
+      "compression_ratio": 1.819905213270142,
+      "temperature": 0.0
+    },
+    {
+      "start": 1351.74,
+      "duration": 1.8199999999999363,
+      "text": "That's where he's taking us,",
+      "avg_logprob": -0.16729155453768643,
+      "no_speech_prob": 7.120882659569783e-13,
+      "compression_ratio": 1.819905213270142,
+      "temperature": 0.0
+    },
+    {
+      "start": 1353.66,
+      "duration": 1.599999999999909,
+      "text": "to that new heavens and new earth.",
+      "avg_logprob": -0.16729155453768643,
+      "no_speech_prob": 7.120882659569783e-13,
+      "compression_ratio": 1.819905213270142,
+      "temperature": 0.0
+    },
+    {
+      "start": 1355.64,
+      "duration": 1.5199999999999818,
+      "text": "In the new heavens and new earth,",
+      "avg_logprob": -0.16729155453768643,
+      "no_speech_prob": 7.120882659569783e-13,
+      "compression_ratio": 1.819905213270142,
+      "temperature": 0.0
+    },
+    {
+      "start": 1357.34,
+      "duration": 3.6000000000001364,
+      "text": "all of God's people will be planted in this land.",
+      "avg_logprob": -0.16729155453768643,
+      "no_speech_prob": 7.120882659569783e-13,
+      "compression_ratio": 1.819905213270142,
+      "temperature": 0.0
+    },
+    {
+      "start": 1361.46,
+      "duration": 2.3799999999998818,
+      "text": "The new Jerusalem is what it's called,",
+      "avg_logprob": -0.16729155453768643,
+      "no_speech_prob": 7.120882659569783e-13,
+      "compression_ratio": 1.819905213270142,
+      "temperature": 0.0
+    },
+    {
+      "start": 1364.8400000000001,
+      "duration": 2.959999999999809,
+      "text": "where they will dwell in their own place",
+      "avg_logprob": -0.16729155453768643,
+      "no_speech_prob": 7.120882659569783e-13,
+      "compression_ratio": 1.819905213270142,
+      "temperature": 0.0
+    },
+    {
+      "start": 1367.8,
+      "duration": 1.6600000000000819,
+      "text": "and be disturbed no more.",
+      "avg_logprob": -0.16729155453768643,
+      "no_speech_prob": 7.120882659569783e-13,
+      "compression_ratio": 1.819905213270142,
+      "temperature": 0.0
+    },
+    {
+      "start": 1369.98,
+      "duration": 3.660000000000082,
+      "text": "It will be a permanent location with a permanent peace.",
+      "avg_logprob": -0.1728801208993663,
+      "no_speech_prob": 5.149071273524708e-13,
+      "compression_ratio": 1.6571428571428573,
+      "temperature": 0.0
+    },
+    {
+      "start": 1373.68,
+      "duration": 4.759999999999991,
+      "text": "It will be a place where there is no more death, no more suffering, no more pain.",
+      "avg_logprob": -0.1728801208993663,
+      "no_speech_prob": 5.149071273524708e-13,
+      "compression_ratio": 1.6571428571428573,
+      "temperature": 0.0
+    },
+    {
+      "start": 1379.0,
+      "duration": 3.7200000000000273,
+      "text": "In fact, if we jump to the very end of the story, Revelation chapter 21,",
+      "avg_logprob": -0.1728801208993663,
+      "no_speech_prob": 5.149071273524708e-13,
+      "compression_ratio": 1.6571428571428573,
+      "temperature": 0.0
+    },
+    {
+      "start": 1383.04,
+      "duration": 3.380000000000109,
+      "text": "which is a very popular passage in Revelation.",
+      "avg_logprob": -0.1728801208993663,
+      "no_speech_prob": 5.149071273524708e-13,
+      "compression_ratio": 1.6571428571428573,
+      "temperature": 0.0
+    },
+    {
+      "start": 1388.14,
+      "duration": 5.879999999999882,
+      "text": "Revelation 21, it explains, even gives us a glimpse of what this looks like.",
+      "avg_logprob": -0.1728801208993663,
+      "no_speech_prob": 5.149071273524708e-13,
+      "compression_ratio": 1.6571428571428573,
+      "temperature": 0.0
+    },
+    {
+      "start": 1394.94,
+      "duration": 1.5199999999999818,
+      "text": "Verse 1 says,",
+      "avg_logprob": -0.1728801208993663,
+      "no_speech_prob": 5.149071273524708e-13,
+      "compression_ratio": 1.6571428571428573,
+      "temperature": 0.0
+    },
+    {
+      "start": 1411.4999999999998,
+      "duration": 3.020000000000209,
+      "text": "Listen to this.",
+      "avg_logprob": -0.615233091207651,
+      "no_speech_prob": 7.120192564886996e-13,
+      "compression_ratio": 0.75,
+      "temperature": 0.0
+    },
+    {
+      "start": 1415.28,
+      "duration": 0.900000000000091,
+      "text": "It says,",
+      "avg_logprob": -0.615233091207651,
+      "no_speech_prob": 7.120192564886996e-13,
+      "compression_ratio": 0.75,
+      "temperature": 0.0
+    },
+    {
+      "start": 1416.18,
+      "duration": 2.0599999999999454,
+      "text": "I heard a loud voice from the throne saying,",
+      "avg_logprob": -0.19046997301506274,
+      "no_speech_prob": 9.92248058891143e-13,
+      "compression_ratio": 1.7355769230769231,
+      "temperature": 0.0
+    },
+    {
+      "start": 1418.68,
+      "duration": 3.8199999999999363,
+      "text": "Behold, the dwelling place of God is with man.",
+      "avg_logprob": -0.19046997301506274,
+      "no_speech_prob": 9.92248058891143e-13,
+      "compression_ratio": 1.7355769230769231,
+      "temperature": 0.0
+    },
+    {
+      "start": 1423.52,
+      "duration": 2.9200000000000728,
+      "text": "He will dwell with them and they will be his people",
+      "avg_logprob": -0.19046997301506274,
+      "no_speech_prob": 9.92248058891143e-13,
+      "compression_ratio": 1.7355769230769231,
+      "temperature": 0.0
+    },
+    {
+      "start": 1426.44,
+      "duration": 3.6599999999998545,
+      "text": "and God himself will be with them as their God.",
+      "avg_logprob": -0.19046997301506274,
+      "no_speech_prob": 9.92248058891143e-13,
+      "compression_ratio": 1.7355769230769231,
+      "temperature": 0.0
+    },
+    {
+      "start": 1430.94,
+      "duration": 3.3799999999998818,
+      "text": "He will wipe every tear from their eyes",
+      "avg_logprob": -0.19046997301506274,
+      "no_speech_prob": 9.92248058891143e-13,
+      "compression_ratio": 1.7355769230769231,
+      "temperature": 0.0
+    },
+    {
+      "start": 1434.32,
+      "duration": 2.400000000000091,
+      "text": "and death shall be no more.",
+      "avg_logprob": -0.19046997301506274,
+      "no_speech_prob": 9.92248058891143e-13,
+      "compression_ratio": 1.7355769230769231,
+      "temperature": 0.0
+    },
+    {
+      "start": 1437.3400000000001,
+      "duration": 1.8999999999998636,
+      "text": "Neither shall there be mourning,",
+      "avg_logprob": -0.19046997301506274,
+      "no_speech_prob": 9.92248058891143e-13,
+      "compression_ratio": 1.7355769230769231,
+      "temperature": 0.0
+    },
+    {
+      "start": 1439.52,
+      "duration": 1.9800000000000182,
+      "text": "nor crying, nor pain anymore",
+      "avg_logprob": -0.19046997301506274,
+      "no_speech_prob": 9.92248058891143e-13,
+      "compression_ratio": 1.7355769230769231,
+      "temperature": 0.0
+    },
+    {
+      "start": 1441.5,
+      "duration": 2.480000000000018,
+      "text": "for the former things have passed away.",
+      "avg_logprob": -0.19046997301506274,
+      "no_speech_prob": 9.92248058891143e-13,
+      "compression_ratio": 1.7355769230769231,
+      "temperature": 0.0
+    },
+    {
+      "start": 1445.74,
+      "duration": 2.259999999999991,
+      "text": "we may have heard this passage before",
+      "avg_logprob": -0.11016615144499056,
+      "no_speech_prob": 5.438515848603387e-13,
+      "compression_ratio": 1.634703196347032,
+      "temperature": 0.0
+    },
+    {
+      "start": 1448.6599999999999,
+      "duration": 3.380000000000109,
+      "text": "you know we read it at funerals often",
+      "avg_logprob": -0.11016615144499056,
+      "no_speech_prob": 5.438515848603387e-13,
+      "compression_ratio": 1.634703196347032,
+      "temperature": 0.0
+    },
+    {
+      "start": 1452.8999999999999,
+      "duration": 3.2200000000000273,
+      "text": "but here's the thing that I think is amazing about this passage is it gives us",
+      "avg_logprob": -0.11016615144499056,
+      "no_speech_prob": 5.438515848603387e-13,
+      "compression_ratio": 1.634703196347032,
+      "temperature": 0.0
+    },
+    {
+      "start": 1456.12,
+      "duration": 3.9200000000000728,
+      "text": "an incredible hope of what this new heavens and new earth looks like",
+      "avg_logprob": -0.11016615144499056,
+      "no_speech_prob": 5.438515848603387e-13,
+      "compression_ratio": 1.634703196347032,
+      "temperature": 0.0
+    },
+    {
+      "start": 1461.44,
+      "duration": 2.8999999999998636,
+      "text": "and not only that but that this is going to be the place",
+      "avg_logprob": -0.11016615144499056,
+      "no_speech_prob": 5.438515848603387e-13,
+      "compression_ratio": 1.634703196347032,
+      "temperature": 0.0
+    },
+    {
+      "start": 1465.08,
+      "duration": 3.300000000000182,
+      "text": "where God himself will dwell with us",
+      "avg_logprob": -0.11016615144499056,
+      "no_speech_prob": 5.438515848603387e-13,
+      "compression_ratio": 1.634703196347032,
+      "temperature": 0.0
+    },
+    {
+      "start": 1468.38,
+      "duration": 3.959999999999809,
+      "text": "once again just like in Eden even better",
+      "avg_logprob": -0.11016615144499056,
+      "no_speech_prob": 5.438515848603387e-13,
+      "compression_ratio": 1.634703196347032,
+      "temperature": 0.0
+    },
+    {
+      "start": 1475.04,
+      "duration": 5.519999999999982,
+      "text": "once again, he will be our God and we will be his people.",
+      "avg_logprob": -0.1483417774768586,
+      "no_speech_prob": 4.0415910093453966e-13,
+      "compression_ratio": 1.6532663316582914,
+      "temperature": 0.0
+    },
+    {
+      "start": 1481.58,
+      "duration": 5.080000000000155,
+      "text": "And sin, having been conquered, will never separate us from God again.",
+      "avg_logprob": -0.1483417774768586,
+      "no_speech_prob": 4.0415910093453966e-13,
+      "compression_ratio": 1.6532663316582914,
+      "temperature": 0.0
+    },
+    {
+      "start": 1489.74,
+      "duration": 6.279999999999973,
+      "text": "You know, one of the things I love about Christmas, and I'm sure you do too, is the gifts.",
+      "avg_logprob": -0.1483417774768586,
+      "no_speech_prob": 4.0415910093453966e-13,
+      "compression_ratio": 1.6532663316582914,
+      "temperature": 0.0
+    },
+    {
+      "start": 1496.5,
+      "duration": 4.559999999999945,
+      "text": "You guys love, I'm sure we love getting good gifts, I'm sure, right?",
+      "avg_logprob": -0.1483417774768586,
+      "no_speech_prob": 4.0415910093453966e-13,
+      "compression_ratio": 1.6532663316582914,
+      "temperature": 0.0
+    },
+    {
+      "start": 1501.22,
+      "duration": 2.240000000000009,
+      "text": "Kids, we like getting good gifts, right?",
+      "avg_logprob": -0.1483417774768586,
+      "no_speech_prob": 4.0415910093453966e-13,
+      "compression_ratio": 1.6532663316582914,
+      "temperature": 0.0
+    },
+    {
+      "start": 1504.2199999999998,
+      "duration": 1.9800000000002456,
+      "text": "We love giving good gifts, too.",
+      "avg_logprob": -0.1273411750793457,
+      "no_speech_prob": 8.325101675740743e-13,
+      "compression_ratio": 1.75,
+      "temperature": 0.0
+    },
+    {
+      "start": 1506.46,
+      "duration": 0.6599999999998545,
+      "text": "I'll tell you what.",
+      "avg_logprob": -0.1273411750793457,
+      "no_speech_prob": 8.325101675740743e-13,
+      "compression_ratio": 1.75,
+      "temperature": 0.0
+    },
+    {
+      "start": 1508.02,
+      "duration": 5.339999999999918,
+      "text": "Last year, I got to give a gift that made my day.",
+      "avg_logprob": -0.1273411750793457,
+      "no_speech_prob": 8.325101675740743e-13,
+      "compression_ratio": 1.75,
+      "temperature": 0.0
+    },
+    {
+      "start": 1513.52,
+      "duration": 3.019999999999982,
+      "text": "And she's not in the room, but, okay, so Sierra got this gift.",
+      "avg_logprob": -0.1273411750793457,
+      "no_speech_prob": 8.325101675740743e-13,
+      "compression_ratio": 1.75,
+      "temperature": 0.0
+    },
+    {
+      "start": 1517.2399999999998,
+      "duration": 1.3200000000001637,
+      "text": "And she opened it up.",
+      "avg_logprob": -0.1273411750793457,
+      "no_speech_prob": 8.325101675740743e-13,
+      "compression_ratio": 1.75,
+      "temperature": 0.0
+    },
+    {
+      "start": 1518.62,
+      "duration": 2.4600000000000364,
+      "text": "If you know Sierra, she doesn't respond.",
+      "avg_logprob": -0.1273411750793457,
+      "no_speech_prob": 8.325101675740743e-13,
+      "compression_ratio": 1.75,
+      "temperature": 0.0
+    },
+    {
+      "start": 1521.38,
+      "duration": 1.6399999999998727,
+      "text": "She doesn't, like, react to things a lot.",
+      "avg_logprob": -0.1273411750793457,
+      "no_speech_prob": 8.325101675740743e-13,
+      "compression_ratio": 1.75,
+      "temperature": 0.0
+    },
+    {
+      "start": 1523.48,
+      "duration": 6.220000000000027,
+      "text": "But when she opened it up and she made this little smile, and I was like, yes, that was it.",
+      "avg_logprob": -0.1273411750793457,
+      "no_speech_prob": 8.325101675740743e-13,
+      "compression_ratio": 1.75,
+      "temperature": 0.0
+    },
+    {
+      "start": 1529.86,
+      "duration": 1.1000000000001364,
+      "text": "That's what I was looking for.",
+      "avg_logprob": -0.1273411750793457,
+      "no_speech_prob": 8.325101675740743e-13,
+      "compression_ratio": 1.75,
+      "temperature": 0.0
+    },
+    {
+      "start": 1531.1,
+      "duration": 0.6200000000001182,
+      "text": "It was so good.",
+      "avg_logprob": -0.1273411750793457,
+      "no_speech_prob": 8.325101675740743e-13,
+      "compression_ratio": 1.75,
+      "temperature": 0.0
+    },
+    {
+      "start": 1531.92,
+      "duration": 1.5399999999999636,
+      "text": "I love giving good gifts.",
+      "avg_logprob": -0.1273411750793457,
+      "no_speech_prob": 8.325101675740743e-13,
+      "compression_ratio": 1.75,
+      "temperature": 0.0
+    },
+    {
+      "start": 1534.3999999999999,
+      "duration": 2.7800000000002,
+      "text": "it's so much fun, and it's a good thing for us to do.",
+      "avg_logprob": -0.16758059788417148,
+      "no_speech_prob": 8.456171960574688e-13,
+      "compression_ratio": 1.7640845070422535,
+      "temperature": 0.0
+    },
+    {
+      "start": 1537.3,
+      "duration": 3.980000000000018,
+      "text": "It's a good thing for us to enjoy the blessings and to bless one another.",
+      "avg_logprob": -0.16758059788417148,
+      "no_speech_prob": 8.456171960574688e-13,
+      "compression_ratio": 1.7640845070422535,
+      "temperature": 0.0
+    },
+    {
+      "start": 1542.2,
+      "duration": 3.2799999999999727,
+      "text": "But I think also with gift giving, we also have to keep it in perspective, right?",
+      "avg_logprob": -0.16758059788417148,
+      "no_speech_prob": 8.456171960574688e-13,
+      "compression_ratio": 1.7640845070422535,
+      "temperature": 0.0
+    },
+    {
+      "start": 1545.5,
+      "duration": 0.5399999999999636,
+      "text": "We know this.",
+      "avg_logprob": -0.16758059788417148,
+      "no_speech_prob": 8.456171960574688e-13,
+      "compression_ratio": 1.7640845070422535,
+      "temperature": 0.0
+    },
+    {
+      "start": 1546.14,
+      "duration": 1.2199999999998,
+      "text": "We check our hearts with this.",
+      "avg_logprob": -0.16758059788417148,
+      "no_speech_prob": 8.456171960574688e-13,
+      "compression_ratio": 1.7640845070422535,
+      "temperature": 0.0
+    },
+    {
+      "start": 1547.86,
+      "duration": 1.5600000000001728,
+      "text": "Because sometimes we get a great gift,",
+      "avg_logprob": -0.16758059788417148,
+      "no_speech_prob": 8.456171960574688e-13,
+      "compression_ratio": 1.7640845070422535,
+      "temperature": 0.0
+    },
+    {
+      "start": 1549.54,
+      "duration": 2.900000000000091,
+      "text": "something that maybe we've wanted for a really, really long time,",
+      "avg_logprob": -0.16758059788417148,
+      "no_speech_prob": 8.456171960574688e-13,
+      "compression_ratio": 1.7640845070422535,
+      "temperature": 0.0
+    },
+    {
+      "start": 1552.5,
+      "duration": 2.8199999999999363,
+      "text": "and our heart is tempted to think, I've arrived.",
+      "avg_logprob": -0.16758059788417148,
+      "no_speech_prob": 8.456171960574688e-13,
+      "compression_ratio": 1.7640845070422535,
+      "temperature": 0.0
+    },
+    {
+      "start": 1555.64,
+      "duration": 0.8399999999999181,
+      "text": "This is it.",
+      "avg_logprob": -0.16758059788417148,
+      "no_speech_prob": 8.456171960574688e-13,
+      "compression_ratio": 1.7640845070422535,
+      "temperature": 0.0
+    },
+    {
+      "start": 1557.28,
+      "duration": 3.8600000000001273,
+      "text": "My life is going to be so much better because I have this thing, whatever it is.",
+      "avg_logprob": -0.16758059788417148,
+      "no_speech_prob": 8.456171960574688e-13,
+      "compression_ratio": 1.7640845070422535,
+      "temperature": 0.0
+    },
+    {
+      "start": 1562.3799999999999,
+      "duration": 5.7800000000002,
+      "text": "But we can't do that because we know that these things are never fully going to satisfy us.",
+      "avg_logprob": -0.1825416382044962,
+      "no_speech_prob": 4.025468109888908e-13,
+      "compression_ratio": 1.5433526011560694,
+      "temperature": 0.0
+    },
+    {
+      "start": 1568.9,
+      "duration": 2.8199999999999363,
+      "text": "Over time, things break.",
+      "avg_logprob": -0.1825416382044962,
+      "no_speech_prob": 4.025468109888908e-13,
+      "compression_ratio": 1.5433526011560694,
+      "temperature": 0.0
+    },
+    {
+      "start": 1573.16,
+      "duration": 1.7200000000000273,
+      "text": "Clothes wear out.",
+      "avg_logprob": -0.1825416382044962,
+      "no_speech_prob": 4.025468109888908e-13,
+      "compression_ratio": 1.5433526011560694,
+      "temperature": 0.0
+    },
+    {
+      "start": 1576.72,
+      "duration": 6.420000000000073,
+      "text": "All of the luster of all of the world has to offer to us fades away.",
+      "avg_logprob": -0.1825416382044962,
+      "no_speech_prob": 4.025468109888908e-13,
+      "compression_ratio": 1.5433526011560694,
+      "temperature": 0.0
+    },
+    {
+      "start": 1583.92,
+      "duration": 4.980000000000018,
+      "text": "We are left with only looking for something else to satisfy us.",
+      "avg_logprob": -0.1825416382044962,
+      "no_speech_prob": 4.025468109888908e-13,
+      "compression_ratio": 1.5433526011560694,
+      "temperature": 0.0
+    },
+    {
+      "start": 1591.14,
+      "duration": 2.5,
+      "text": "And this is what David, I think, was doing in this moment.",
+      "avg_logprob": -0.15580186178517896,
+      "no_speech_prob": 6.715607887494701e-13,
+      "compression_ratio": 1.7290836653386454,
+      "temperature": 0.0
+    },
+    {
+      "start": 1593.66,
+      "duration": 2.519999999999982,
+      "text": "He was looking at all of the good gifts God has given him.",
+      "avg_logprob": -0.15580186178517896,
+      "no_speech_prob": 6.715607887494701e-13,
+      "compression_ratio": 1.7290836653386454,
+      "temperature": 0.0
+    },
+    {
+      "start": 1596.24,
+      "duration": 2.1400000000001,
+      "text": "These are things that God has given, good things.",
+      "avg_logprob": -0.15580186178517896,
+      "no_speech_prob": 6.715607887494701e-13,
+      "compression_ratio": 1.7290836653386454,
+      "temperature": 0.0
+    },
+    {
+      "start": 1599.12,
+      "duration": 0.9800000000000182,
+      "text": "They're in the land.",
+      "avg_logprob": -0.15580186178517896,
+      "no_speech_prob": 6.715607887494701e-13,
+      "compression_ratio": 1.7290836653386454,
+      "temperature": 0.0
+    },
+    {
+      "start": 1600.8,
+      "duration": 2.2799999999999727,
+      "text": "They have peace and rest from their enemies.",
+      "avg_logprob": -0.15580186178517896,
+      "no_speech_prob": 6.715607887494701e-13,
+      "compression_ratio": 1.7290836653386454,
+      "temperature": 0.0
+    },
+    {
+      "start": 1603.44,
+      "duration": 1.099999999999909,
+      "text": "They have the ark back.",
+      "avg_logprob": -0.15580186178517896,
+      "no_speech_prob": 6.715607887494701e-13,
+      "compression_ratio": 1.7290836653386454,
+      "temperature": 0.0
+    },
+    {
+      "start": 1604.76,
+      "duration": 1.8599999999999,
+      "text": "All of these things are great things.",
+      "avg_logprob": -0.15580186178517896,
+      "no_speech_prob": 6.715607887494701e-13,
+      "compression_ratio": 1.7290836653386454,
+      "temperature": 0.0
+    },
+    {
+      "start": 1607.8,
+      "duration": 2.5599999999999454,
+      "text": "He's looking at this, he's wondering, like, have I arrived?",
+      "avg_logprob": -0.15580186178517896,
+      "no_speech_prob": 6.715607887494701e-13,
+      "compression_ratio": 1.7290836653386454,
+      "temperature": 0.0
+    },
+    {
+      "start": 1610.4,
+      "duration": 0.6199999999998909,
+      "text": "Is this it?",
+      "avg_logprob": -0.15580186178517896,
+      "no_speech_prob": 6.715607887494701e-13,
+      "compression_ratio": 1.7290836653386454,
+      "temperature": 0.0
+    },
+    {
+      "start": 1615.08,
+      "duration": 1.4600000000000364,
+      "text": "But God corrects David.",
+      "avg_logprob": -0.15580186178517896,
+      "no_speech_prob": 6.715607887494701e-13,
+      "compression_ratio": 1.7290836653386454,
+      "temperature": 0.0
+    },
+    {
+      "start": 1617.24,
+      "duration": 2.480000000000018,
+      "text": "And again, saying, there's a better place.",
+      "avg_logprob": -0.15580186178517896,
+      "no_speech_prob": 6.715607887494701e-13,
+      "compression_ratio": 1.7290836653386454,
+      "temperature": 0.0
+    },
+    {
+      "start": 1621.36,
+      "duration": 4.580000000000155,
+      "text": "This is, again, probably the most famous quote from C.S. Lewis,",
+      "avg_logprob": -0.16166555580972625,
+      "no_speech_prob": 6.043431271911259e-13,
+      "compression_ratio": 1.8706896551724137,
+      "temperature": 0.0
+    },
+    {
+      "start": 1626.74,
+      "duration": 3.3799999999998818,
+      "text": "but it was just so appropriate here, so I've got to bring it out.",
+      "avg_logprob": -0.16166555580972625,
+      "no_speech_prob": 6.043431271911259e-13,
+      "compression_ratio": 1.8706896551724137,
+      "temperature": 0.0
+    },
+    {
+      "start": 1630.5,
+      "duration": 0.9400000000000546,
+      "text": "He says this.",
+      "avg_logprob": -0.16166555580972625,
+      "no_speech_prob": 6.043431271911259e-13,
+      "compression_ratio": 1.8706896551724137,
+      "temperature": 0.0
+    },
+    {
+      "start": 1632.12,
+      "duration": 0.6400000000001,
+      "text": "He says,",
+      "avg_logprob": -0.16166555580972625,
+      "no_speech_prob": 6.043431271911259e-13,
+      "compression_ratio": 1.8706896551724137,
+      "temperature": 0.0
+    },
+    {
+      "start": 1632.92,
+      "duration": 4.259999999999991,
+      "text": "If we find ourselves with a desire that nothing in this world can satisfy,",
+      "avg_logprob": -0.16166555580972625,
+      "no_speech_prob": 6.043431271911259e-13,
+      "compression_ratio": 1.8706896551724137,
+      "temperature": 0.0
+    },
+    {
+      "start": 1637.6599999999999,
+      "duration": 3.4800000000002456,
+      "text": "the most probable explanation is that we're made for another world.",
+      "avg_logprob": -0.16166555580972625,
+      "no_speech_prob": 6.043431271911259e-13,
+      "compression_ratio": 1.8706896551724137,
+      "temperature": 0.0
+    },
+    {
+      "start": 1642.08,
+      "duration": 1.1600000000000819,
+      "text": "You've probably heard that before.",
+      "avg_logprob": -0.16166555580972625,
+      "no_speech_prob": 6.043431271911259e-13,
+      "compression_ratio": 1.8706896551724137,
+      "temperature": 0.0
+    },
+    {
+      "start": 1644.46,
+      "duration": 1.0599999999999454,
+      "text": "Let me say it one more time.",
+      "avg_logprob": -0.16166555580972625,
+      "no_speech_prob": 6.043431271911259e-13,
+      "compression_ratio": 1.8706896551724137,
+      "temperature": 0.0
+    },
+    {
+      "start": 1645.6,
+      "duration": 3.8400000000001455,
+      "text": "If we find ourselves with a desire that nothing in this world can satisfy,",
+      "avg_logprob": -0.16166555580972625,
+      "no_speech_prob": 6.043431271911259e-13,
+      "compression_ratio": 1.8706896551724137,
+      "temperature": 0.0
+    },
+    {
+      "start": 1651.14,
+      "duration": 2.1599999999998545,
+      "text": "is that we're made for another world.",
+      "avg_logprob": -0.24163577241717643,
+      "no_speech_prob": 4.951990423621155e-13,
+      "compression_ratio": 1.7549019607843137,
+      "temperature": 0.0
+    },
+    {
+      "start": 1655.16,
+      "duration": 2.1799999999998363,
+      "text": "Here's the thing with the new heavens and new earth, you guys.",
+      "avg_logprob": -0.24163577241717643,
+      "no_speech_prob": 4.951990423621155e-13,
+      "compression_ratio": 1.7549019607843137,
+      "temperature": 0.0
+    },
+    {
+      "start": 1658.64,
+      "duration": 0.9799999999997908,
+      "text": "And this is incredible.",
+      "avg_logprob": -0.24163577241717643,
+      "no_speech_prob": 4.951990423621155e-13,
+      "compression_ratio": 1.7549019607843137,
+      "temperature": 0.0
+    },
+    {
+      "start": 1661.0,
+      "duration": 2.160000000000082,
+      "text": "Every single desire that you have,",
+      "avg_logprob": -0.24163577241717643,
+      "no_speech_prob": 4.951990423621155e-13,
+      "compression_ratio": 1.7549019607843137,
+      "temperature": 0.0
+    },
+    {
+      "start": 1663.84,
+      "duration": 1.040000000000191,
+      "text": "every single one,",
+      "avg_logprob": -0.24163577241717643,
+      "no_speech_prob": 4.951990423621155e-13,
+      "compression_ratio": 1.7549019607843137,
+      "temperature": 0.0
+    },
+    {
+      "start": 1665.9199999999998,
+      "duration": 1.1600000000000819,
+      "text": "is going to be met there.",
+      "avg_logprob": -0.24163577241717643,
+      "no_speech_prob": 4.951990423621155e-13,
+      "compression_ratio": 1.7549019607843137,
+      "temperature": 0.0
+    },
+    {
+      "start": 1670.28,
+      "duration": 1.5,
+      "text": "Every single desire.",
+      "avg_logprob": -0.24163577241717643,
+      "no_speech_prob": 4.951990423621155e-13,
+      "compression_ratio": 1.7549019607843137,
+      "temperature": 0.0
+    },
+    {
+      "start": 1673.14,
+      "duration": 1.099999999999909,
+      "text": "Now, what do I mean by that?",
+      "avg_logprob": -0.24163577241717643,
+      "no_speech_prob": 4.951990423621155e-13,
+      "compression_ratio": 1.7549019607843137,
+      "temperature": 0.0
+    },
+    {
+      "start": 1675.14,
+      "duration": 2.9199999999998454,
+      "text": "I mean, what do you desire most in this world?",
+      "avg_logprob": -0.24163577241717643,
+      "no_speech_prob": 4.951990423621155e-13,
+      "compression_ratio": 1.7549019607843137,
+      "temperature": 0.0
+    },
+    {
+      "start": 1678.5,
+      "duration": 2.2000000000000455,
+      "text": "When you think about the things that you desire the most.",
+      "avg_logprob": -0.24163577241717643,
+      "no_speech_prob": 4.951990423621155e-13,
+      "compression_ratio": 1.7549019607843137,
+      "temperature": 0.0
+    },
+    {
+      "start": 1681.14,
+      "duration": 3.699999999999818,
+      "text": "And if we start to process it, maybe one of the first things that comes to mind is like,",
+      "avg_logprob": -0.17146585477108986,
+      "no_speech_prob": 7.610015590776842e-13,
+      "compression_ratio": 1.712837837837838,
+      "temperature": 0.0
+    },
+    {
+      "start": 1684.94,
+      "duration": 2.0799999999999272,
+      "text": "well, it'd be really nice to have some more money, right?",
+      "avg_logprob": -0.17146585477108986,
+      "no_speech_prob": 7.610015590776842e-13,
+      "compression_ratio": 1.712837837837838,
+      "temperature": 0.0
+    },
+    {
+      "start": 1687.2,
+      "duration": 0.18000000000006366,
+      "text": "Okay.",
+      "avg_logprob": -0.17146585477108986,
+      "no_speech_prob": 7.610015590776842e-13,
+      "compression_ratio": 1.712837837837838,
+      "temperature": 0.0
+    },
+    {
+      "start": 1687.74,
+      "duration": 3.8199999999999363,
+      "text": "But money is an interesting thing because it's a tool to get the things that we need.",
+      "avg_logprob": -0.17146585477108986,
+      "no_speech_prob": 7.610015590776842e-13,
+      "compression_ratio": 1.712837837837838,
+      "temperature": 0.0
+    },
+    {
+      "start": 1691.66,
+      "duration": 1.3199999999999363,
+      "text": "You know, that's a different thing.",
+      "avg_logprob": -0.17146585477108986,
+      "no_speech_prob": 7.610015590776842e-13,
+      "compression_ratio": 1.712837837837838,
+      "temperature": 0.0
+    },
+    {
+      "start": 1693.06,
+      "duration": 1.3800000000001091,
+      "text": "Like, push that aside.",
+      "avg_logprob": -0.17146585477108986,
+      "no_speech_prob": 7.610015590776842e-13,
+      "compression_ratio": 1.712837837837838,
+      "temperature": 0.0
+    },
+    {
+      "start": 1694.58,
+      "duration": 1.0399999999999636,
+      "text": "What do you really desire?",
+      "avg_logprob": -0.17146585477108986,
+      "no_speech_prob": 7.610015590776842e-13,
+      "compression_ratio": 1.712837837837838,
+      "temperature": 0.0
+    },
+    {
+      "start": 1696.18,
+      "duration": 0.8799999999998818,
+      "text": "What do you want?",
+      "avg_logprob": -0.17146585477108986,
+      "no_speech_prob": 7.610015590776842e-13,
+      "compression_ratio": 1.712837837837838,
+      "temperature": 0.0
+    },
+    {
+      "start": 1698.76,
+      "duration": 2.5799999999999272,
+      "text": "Well, we want a nice place to live, you know.",
+      "avg_logprob": -0.17146585477108986,
+      "no_speech_prob": 7.610015590776842e-13,
+      "compression_ratio": 1.712837837837838,
+      "temperature": 0.0
+    },
+    {
+      "start": 1702.32,
+      "duration": 2.9400000000000546,
+      "text": "I mean, I see some of the houses around town.",
+      "avg_logprob": -0.17146585477108986,
+      "no_speech_prob": 7.610015590776842e-13,
+      "compression_ratio": 1.712837837837838,
+      "temperature": 0.0
+    },
+    {
+      "start": 1705.26,
+      "duration": 3.9400000000000546,
+      "text": "It's like, oh, man, like they've got these beautiful granite countertops",
+      "avg_logprob": -0.17146585477108986,
+      "no_speech_prob": 7.610015590776842e-13,
+      "compression_ratio": 1.712837837837838,
+      "temperature": 0.0
+    },
+    {
+      "start": 1711.1600000000003,
+      "duration": 4.859999999999673,
+      "text": "tile and, you know, a nice big living room to have people over. And, you know, like, it's like,",
+      "avg_logprob": -0.11344645100255166,
+      "no_speech_prob": 7.759880520270823e-13,
+      "compression_ratio": 1.8117154811715481,
+      "temperature": 0.0
+    },
+    {
+      "start": 1716.1,
+      "duration": 4.019999999999982,
+      "text": "wow, it'd be cool to have all these, like, nice finishings and things like that. But let me tell",
+      "avg_logprob": -0.11344645100255166,
+      "no_speech_prob": 7.759880520270823e-13,
+      "compression_ratio": 1.8117154811715481,
+      "temperature": 0.0
+    },
+    {
+      "start": 1720.12,
+      "duration": 5.440000000000055,
+      "text": "you something. Jesus had told us, he said, in my Father's house, there are many rooms.",
+      "avg_logprob": -0.11344645100255166,
+      "no_speech_prob": 7.759880520270823e-13,
+      "compression_ratio": 1.8117154811715481,
+      "temperature": 0.0
+    },
+    {
+      "start": 1726.46,
+      "duration": 4.539999999999964,
+      "text": "And he said that he's going to the Father to prepare a place for you.",
+      "avg_logprob": -0.11344645100255166,
+      "no_speech_prob": 7.759880520270823e-13,
+      "compression_ratio": 1.8117154811715481,
+      "temperature": 0.0
+    },
+    {
+      "start": 1733.3400000000001,
+      "duration": 4.319999999999936,
+      "text": "And I'll tell you what, if Jesus is preparing that place, it's going to be awesome.",
+      "avg_logprob": -0.11344645100255166,
+      "no_speech_prob": 7.759880520270823e-13,
+      "compression_ratio": 1.8117154811715481,
+      "temperature": 0.0
+    },
+    {
+      "start": 1738.3400000000001,
+      "duration": 1.1599999999998545,
+      "text": "it's going to be so good.",
+      "avg_logprob": -0.14596463763524617,
+      "no_speech_prob": 7.912940051466033e-13,
+      "compression_ratio": 1.748936170212766,
+      "temperature": 0.0
+    },
+    {
+      "start": 1740.0800000000002,
+      "duration": 2.7199999999998,
+      "text": "We're not even going to be able to imagine what that place is going to be like.",
+      "avg_logprob": -0.14596463763524617,
+      "no_speech_prob": 7.912940051466033e-13,
+      "compression_ratio": 1.748936170212766,
+      "temperature": 0.0
+    },
+    {
+      "start": 1744.48,
+      "duration": 0.8399999999999181,
+      "text": "You want food?",
+      "avg_logprob": -0.14596463763524617,
+      "no_speech_prob": 7.912940051466033e-13,
+      "compression_ratio": 1.748936170212766,
+      "temperature": 0.0
+    },
+    {
+      "start": 1747.5400000000002,
+      "duration": 1.099999999999909,
+      "text": "Food is a great thing.",
+      "avg_logprob": -0.14596463763524617,
+      "no_speech_prob": 7.912940051466033e-13,
+      "compression_ratio": 1.748936170212766,
+      "temperature": 0.0
+    },
+    {
+      "start": 1748.88,
+      "duration": 3.6799999999998363,
+      "text": "We just love, I mean, we love good food, right?",
+      "avg_logprob": -0.14596463763524617,
+      "no_speech_prob": 7.912940051466033e-13,
+      "compression_ratio": 1.748936170212766,
+      "temperature": 0.0
+    },
+    {
+      "start": 1753.3200000000002,
+      "duration": 1.7799999999997453,
+      "text": "Some of us turn to food for comfort.",
+      "avg_logprob": -0.14596463763524617,
+      "no_speech_prob": 7.912940051466033e-13,
+      "compression_ratio": 1.748936170212766,
+      "temperature": 0.0
+    },
+    {
+      "start": 1755.38,
+      "duration": 3.8599999999999,
+      "text": "Some of us turn to food because it's like, oh, it's just tasty and delicious and wonderful.",
+      "avg_logprob": -0.14596463763524617,
+      "no_speech_prob": 7.912940051466033e-13,
+      "compression_ratio": 1.748936170212766,
+      "temperature": 0.0
+    },
+    {
+      "start": 1759.36,
+      "duration": 0.4800000000000182,
+      "text": "But you know what?",
+      "avg_logprob": -0.14596463763524617,
+      "no_speech_prob": 7.912940051466033e-13,
+      "compression_ratio": 1.748936170212766,
+      "temperature": 0.0
+    },
+    {
+      "start": 1759.9,
+      "duration": 5.439999999999827,
+      "text": "In the new heavens and new earth, there's going to be a feast, a feast.",
+      "avg_logprob": -0.14596463763524617,
+      "no_speech_prob": 7.912940051466033e-13,
+      "compression_ratio": 1.748936170212766,
+      "temperature": 0.0
+    },
+    {
+      "start": 1766.26,
+      "duration": 1.9600000000000364,
+      "text": "they call the wedding supper of the lamb",
+      "avg_logprob": -0.19189214706420898,
+      "no_speech_prob": 6.383330279288724e-13,
+      "compression_ratio": 1.8075471698113208,
+      "temperature": 0.0
+    },
+    {
+      "start": 1768.22,
+      "duration": 2.2000000000000455,
+      "text": "where we're going to eat the richest of foods",
+      "avg_logprob": -0.19189214706420898,
+      "no_speech_prob": 6.383330279288724e-13,
+      "compression_ratio": 1.8075471698113208,
+      "temperature": 0.0
+    },
+    {
+      "start": 1770.42,
+      "duration": 1.0599999999999454,
+      "text": "and be satisfied.",
+      "avg_logprob": -0.19189214706420898,
+      "no_speech_prob": 6.383330279288724e-13,
+      "compression_ratio": 1.8075471698113208,
+      "temperature": 0.0
+    },
+    {
+      "start": 1772.14,
+      "duration": 2.3999999999998636,
+      "text": "You know, here on earth, we eat and we get hungry again.",
+      "avg_logprob": -0.19189214706420898,
+      "no_speech_prob": 6.383330279288724e-13,
+      "compression_ratio": 1.8075471698113208,
+      "temperature": 0.0
+    },
+    {
+      "start": 1775.22,
+      "duration": 1.0399999999999636,
+      "text": "What's going to happen there?",
+      "avg_logprob": -0.19189214706420898,
+      "no_speech_prob": 6.383330279288724e-13,
+      "compression_ratio": 1.8075471698113208,
+      "temperature": 0.0
+    },
+    {
+      "start": 1776.44,
+      "duration": 1.6399999999998727,
+      "text": "We're going to eat and we're going to be satisfied.",
+      "avg_logprob": -0.19189214706420898,
+      "no_speech_prob": 6.383330279288724e-13,
+      "compression_ratio": 1.8075471698113208,
+      "temperature": 0.0
+    },
+    {
+      "start": 1779.58,
+      "duration": 1.6800000000000637,
+      "text": "Do you want peace and security?",
+      "avg_logprob": -0.19189214706420898,
+      "no_speech_prob": 6.383330279288724e-13,
+      "compression_ratio": 1.8075471698113208,
+      "temperature": 0.0
+    },
+    {
+      "start": 1782.04,
+      "duration": 1.5599999999999454,
+      "text": "You know, sometimes we look to money",
+      "avg_logprob": -0.19189214706420898,
+      "no_speech_prob": 6.383330279288724e-13,
+      "compression_ratio": 1.8075471698113208,
+      "temperature": 0.0
+    },
+    {
+      "start": 1783.6,
+      "duration": 3.1000000000001364,
+      "text": "as a way of like having security in our life, right?",
+      "avg_logprob": -0.19189214706420898,
+      "no_speech_prob": 6.383330279288724e-13,
+      "compression_ratio": 1.8075471698113208,
+      "temperature": 0.0
+    },
+    {
+      "start": 1787.0,
+      "duration": 1.9600000000000364,
+      "text": "Or what about like physical security?",
+      "avg_logprob": -0.19189214706420898,
+      "no_speech_prob": 6.383330279288724e-13,
+      "compression_ratio": 1.8075471698113208,
+      "temperature": 0.0
+    },
+    {
+      "start": 1789.24,
+      "duration": 2.400000000000091,
+      "text": "You know how much like money and time",
+      "avg_logprob": -0.19189214706420898,
+      "no_speech_prob": 6.383330279288724e-13,
+      "compression_ratio": 1.8075471698113208,
+      "temperature": 0.0
+    },
+    {
+      "start": 1791.64,
+      "duration": 2.519999999999982,
+      "text": "people spend on like security cameras",
+      "avg_logprob": -0.19189214706420898,
+      "no_speech_prob": 6.383330279288724e-13,
+      "compression_ratio": 1.8075471698113208,
+      "temperature": 0.0
+    },
+    {
+      "start": 1795.34,
+      "duration": 6.580000000000155,
+      "text": "and all that sort of, it's like, wow, we spend a lot of energy on security things for our computers,",
+      "avg_logprob": -0.15015413886622378,
+      "no_speech_prob": 4.561850029671799e-13,
+      "compression_ratio": 1.556701030927835,
+      "temperature": 0.0
+    },
+    {
+      "start": 1802.2,
+      "duration": 6.2000000000000455,
+      "text": "things like that. Well, let me tell you this. Jesus has promised in this better place that there will",
+      "avg_logprob": -0.15015413886622378,
+      "no_speech_prob": 4.561850029671799e-13,
+      "compression_ratio": 1.556701030927835,
+      "temperature": 0.0
+    },
+    {
+      "start": 1808.4,
+      "duration": 8.319999999999936,
+      "text": "never again be violence and we will have rest from all of our enemies. There will be perfect peace.",
+      "avg_logprob": -0.15015413886622378,
+      "no_speech_prob": 4.561850029671799e-13,
+      "compression_ratio": 1.556701030927835,
+      "temperature": 0.0
+    },
+    {
+      "start": 1819.48,
+      "duration": 1.3799999999998818,
+      "text": "maybe the most",
+      "avg_logprob": -0.10301559487568963,
+      "no_speech_prob": 3.947598541456654e-13,
+      "compression_ratio": 1.9518072289156627,
+      "temperature": 0.0
+    },
+    {
+      "start": 1820.86,
+      "duration": 2.2000000000000455,
+      "text": "maybe the thing we desire the most",
+      "avg_logprob": -0.10301559487568963,
+      "no_speech_prob": 3.947598541456654e-13,
+      "compression_ratio": 1.9518072289156627,
+      "temperature": 0.0
+    },
+    {
+      "start": 1823.06,
+      "duration": 2.1200000000001182,
+      "text": "is to be known and loved",
+      "avg_logprob": -0.10301559487568963,
+      "no_speech_prob": 3.947598541456654e-13,
+      "compression_ratio": 1.9518072289156627,
+      "temperature": 0.0
+    },
+    {
+      "start": 1826.5,
+      "duration": 2.0599999999999454,
+      "text": "maybe the thing that we want the most",
+      "avg_logprob": -0.10301559487568963,
+      "no_speech_prob": 3.947598541456654e-13,
+      "compression_ratio": 1.9518072289156627,
+      "temperature": 0.0
+    },
+    {
+      "start": 1828.56,
+      "duration": 1.3800000000001091,
+      "text": "out of everything in this world",
+      "avg_logprob": -0.10301559487568963,
+      "no_speech_prob": 3.947598541456654e-13,
+      "compression_ratio": 1.9518072289156627,
+      "temperature": 0.0
+    },
+    {
+      "start": 1830.8,
+      "duration": 2.380000000000109,
+      "text": "is for someone else to know us",
+      "avg_logprob": -0.10301559487568963,
+      "no_speech_prob": 3.947598541456654e-13,
+      "compression_ratio": 1.9518072289156627,
+      "temperature": 0.0
+    },
+    {
+      "start": 1833.18,
+      "duration": 1.259999999999991,
+      "text": "to truly know us",
+      "avg_logprob": -0.10301559487568963,
+      "no_speech_prob": 3.947598541456654e-13,
+      "compression_ratio": 1.9518072289156627,
+      "temperature": 0.0
+    },
+    {
+      "start": 1834.44,
+      "duration": 1.4400000000000546,
+      "text": "and to love us for who we are",
+      "avg_logprob": -0.10301559487568963,
+      "no_speech_prob": 3.947598541456654e-13,
+      "compression_ratio": 1.9518072289156627,
+      "temperature": 0.0
+    },
+    {
+      "start": 1837.94,
+      "duration": 2.099999999999909,
+      "text": "but listen there is no one else",
+      "avg_logprob": -0.10301559487568963,
+      "no_speech_prob": 3.947598541456654e-13,
+      "compression_ratio": 1.9518072289156627,
+      "temperature": 0.0
+    },
+    {
+      "start": 1840.04,
+      "duration": 1.8400000000001455,
+      "text": "who knows you",
+      "avg_logprob": -0.10301559487568963,
+      "no_speech_prob": 3.947598541456654e-13,
+      "compression_ratio": 1.9518072289156627,
+      "temperature": 0.0
+    },
+    {
+      "start": 1841.88,
+      "duration": 1.3399999999999181,
+      "text": "like your creator",
+      "avg_logprob": -0.10301559487568963,
+      "no_speech_prob": 3.947598541456654e-13,
+      "compression_ratio": 1.9518072289156627,
+      "temperature": 0.0
+    },
+    {
+      "start": 1844.06,
+      "duration": 2.3600000000001273,
+      "text": "and there's no one else who loves you",
+      "avg_logprob": -0.10301559487568963,
+      "no_speech_prob": 3.947598541456654e-13,
+      "compression_ratio": 1.9518072289156627,
+      "temperature": 0.0
+    },
+    {
+      "start": 1846.72,
+      "duration": 1.240000000000009,
+      "text": "like your Redeemer.",
+      "avg_logprob": -0.18606844654789678,
+      "no_speech_prob": 5.12899130718919e-13,
+      "compression_ratio": 1.6515837104072397,
+      "temperature": 0.0
+    },
+    {
+      "start": 1849.84,
+      "duration": 1.7799999999999727,
+      "text": "He knows you and loves you,",
+      "avg_logprob": -0.18606844654789678,
+      "no_speech_prob": 5.12899130718919e-13,
+      "compression_ratio": 1.6515837104072397,
+      "temperature": 0.0
+    },
+    {
+      "start": 1851.64,
+      "duration": 1.740000000000009,
+      "text": "and in the new heavens and new earth,",
+      "avg_logprob": -0.18606844654789678,
+      "no_speech_prob": 5.12899130718919e-13,
+      "compression_ratio": 1.6515837104072397,
+      "temperature": 0.0
+    },
+    {
+      "start": 1853.66,
+      "duration": 2.519999999999982,
+      "text": "God is going to dwell among us,",
+      "avg_logprob": -0.18606844654789678,
+      "no_speech_prob": 5.12899130718919e-13,
+      "compression_ratio": 1.6515837104072397,
+      "temperature": 0.0
+    },
+    {
+      "start": 1856.2,
+      "duration": 3.8799999999998818,
+      "text": "and we are going to know him face to face like a friend.",
+      "avg_logprob": -0.18606844654789678,
+      "no_speech_prob": 5.12899130718919e-13,
+      "compression_ratio": 1.6515837104072397,
+      "temperature": 0.0
+    },
+    {
+      "start": 1862.62,
+      "duration": 3.0800000000001546,
+      "text": "There's a promise, you guys, of a better place,",
+      "avg_logprob": -0.18606844654789678,
+      "no_speech_prob": 5.12899130718919e-13,
+      "compression_ratio": 1.6515837104072397,
+      "temperature": 0.0
+    },
+    {
+      "start": 1866.44,
+      "duration": 1.1199999999998909,
+      "text": "a better place,",
+      "avg_logprob": -0.18606844654789678,
+      "no_speech_prob": 5.12899130718919e-13,
+      "compression_ratio": 1.6515837104072397,
+      "temperature": 0.0
+    },
+    {
+      "start": 1867.58,
+      "duration": 2.380000000000109,
+      "text": "and this is the promise that God himself",
+      "avg_logprob": -0.18606844654789678,
+      "no_speech_prob": 5.12899130718919e-13,
+      "compression_ratio": 1.6515837104072397,
+      "temperature": 0.0
+    },
+    {
+      "start": 1870.84,
+      "duration": 3.400000000000091,
+      "text": "will satisfy every single desire that we could ever have.",
+      "avg_logprob": -0.18606844654789678,
+      "no_speech_prob": 5.12899130718919e-13,
+      "compression_ratio": 1.6515837104072397,
+      "temperature": 0.0
+    },
+    {
+      "start": 1874.9,
+      "duration": 1.0399999999999636,
+      "text": "And so what does that mean?",
+      "avg_logprob": -0.18606844654789678,
+      "no_speech_prob": 5.12899130718919e-13,
+      "compression_ratio": 1.6515837104072397,
+      "temperature": 0.0
+    },
+    {
+      "start": 1876.52,
+      "duration": 5.259999999999991,
+      "text": "today, we shouldn't look to the things of this world to satisfy us. Even the blessings that God",
+      "avg_logprob": -0.08903486078435724,
+      "no_speech_prob": 4.990824377035241e-13,
+      "compression_ratio": 1.6577777777777778,
+      "temperature": 0.0
+    },
+    {
+      "start": 1881.78,
+      "duration": 8.38000000000011,
+      "text": "gives us, ultimately, moth and rust destroy, right? Those things fall apart. But what do we do? We",
+      "avg_logprob": -0.08903486078435724,
+      "no_speech_prob": 4.990824377035241e-13,
+      "compression_ratio": 1.6577777777777778,
+      "temperature": 0.0
+    },
+    {
+      "start": 1890.16,
+      "duration": 6.279999999999973,
+      "text": "should put our trust in the Lord, because he's the source of every good gift. He's the source of",
+      "avg_logprob": -0.08903486078435724,
+      "no_speech_prob": 4.990824377035241e-13,
+      "compression_ratio": 1.6577777777777778,
+      "temperature": 0.0
+    },
+    {
+      "start": 1896.44,
+      "duration": 6.940000000000055,
+      "text": "everything that we would need, and he knows what we need, so we can trust in him.",
+      "avg_logprob": -0.08903486078435724,
+      "no_speech_prob": 4.990824377035241e-13,
+      "compression_ratio": 1.6577777777777778,
+      "temperature": 0.0
+    },
+    {
+      "start": 1905.34,
+      "duration": 1.240000000000009,
+      "text": "so here's the last thing",
+      "avg_logprob": -0.11444377899169922,
+      "no_speech_prob": 6.259661842686337e-13,
+      "compression_ratio": 1.770334928229665,
+      "temperature": 0.0
+    },
+    {
+      "start": 1907.4199999999998,
+      "duration": 2.300000000000182,
+      "text": "David has been shown that there's a better love",
+      "avg_logprob": -0.11444377899169922,
+      "no_speech_prob": 6.259661842686337e-13,
+      "compression_ratio": 1.770334928229665,
+      "temperature": 0.0
+    },
+    {
+      "start": 1909.72,
+      "duration": 1.0,
+      "text": "there's a better place",
+      "avg_logprob": -0.11444377899169922,
+      "no_speech_prob": 6.259661842686337e-13,
+      "compression_ratio": 1.770334928229665,
+      "temperature": 0.0
+    },
+    {
+      "start": 1912.1399999999999,
+      "duration": 1.0800000000001546,
+      "text": "but God's not done",
+      "avg_logprob": -0.11444377899169922,
+      "no_speech_prob": 6.259661842686337e-13,
+      "compression_ratio": 1.770334928229665,
+      "temperature": 0.0
+    },
+    {
+      "start": 1913.22,
+      "duration": 1.4200000000000728,
+      "text": "and there's still one more promise",
+      "avg_logprob": -0.11444377899169922,
+      "no_speech_prob": 6.259661842686337e-13,
+      "compression_ratio": 1.770334928229665,
+      "temperature": 0.0
+    },
+    {
+      "start": 1915.74,
+      "duration": 1.1400000000001,
+      "text": "and this is the big one",
+      "avg_logprob": -0.11444377899169922,
+      "no_speech_prob": 6.259661842686337e-13,
+      "compression_ratio": 1.770334928229665,
+      "temperature": 0.0
+    },
+    {
+      "start": 1917.48,
+      "duration": 1.759999999999991,
+      "text": "this is the promise of a better son",
+      "avg_logprob": -0.11444377899169922,
+      "no_speech_prob": 6.259661842686337e-13,
+      "compression_ratio": 1.770334928229665,
+      "temperature": 0.0
+    },
+    {
+      "start": 1919.96,
+      "duration": 1.3599999999999,
+      "text": "let's keep going in the passage",
+      "avg_logprob": -0.11444377899169922,
+      "no_speech_prob": 6.259661842686337e-13,
+      "compression_ratio": 1.770334928229665,
+      "temperature": 0.0
+    },
+    {
+      "start": 1921.32,
+      "duration": 0.9600000000000364,
+      "text": "back in 2 Samuel",
+      "avg_logprob": -0.11444377899169922,
+      "no_speech_prob": 6.259661842686337e-13,
+      "compression_ratio": 1.770334928229665,
+      "temperature": 0.0
+    },
+    {
+      "start": 1923.0,
+      "duration": 1.0199999999999818,
+      "text": "starting at verse 11",
+      "avg_logprob": -0.11444377899169922,
+      "no_speech_prob": 6.259661842686337e-13,
+      "compression_ratio": 1.770334928229665,
+      "temperature": 0.0
+    },
+    {
+      "start": 1927.0,
+      "duration": 1.1400000000001,
+      "text": "so verse 11",
+      "avg_logprob": -0.11444377899169922,
+      "no_speech_prob": 6.259661842686337e-13,
+      "compression_ratio": 1.770334928229665,
+      "temperature": 0.0
+    },
+    {
+      "start": 1928.14,
+      "duration": 1.6799999999998363,
+      "text": "it kind of finishes the sentence from before",
+      "avg_logprob": -0.11444377899169922,
+      "no_speech_prob": 6.259661842686337e-13,
+      "compression_ratio": 1.770334928229665,
+      "temperature": 0.0
+    },
+    {
+      "start": 1929.82,
+      "duration": 1.7200000000000273,
+      "text": "it says from the time I appointed",
+      "avg_logprob": -0.11444377899169922,
+      "no_speech_prob": 6.259661842686337e-13,
+      "compression_ratio": 1.770334928229665,
+      "temperature": 0.0
+    },
+    {
+      "start": 1933.38,
+      "duration": 1.5399999999999636,
+      "text": "and I'll give you rest from your enemies.",
+      "avg_logprob": -0.16740578989828786,
+      "no_speech_prob": 6.983362456011721e-13,
+      "compression_ratio": 1.8256880733944953,
+      "temperature": 0.0
+    },
+    {
+      "start": 1935.12,
+      "duration": 2.2800000000002,
+      "text": "So starting here at moreover, listen to what he says.",
+      "avg_logprob": -0.16740578989828786,
+      "no_speech_prob": 6.983362456011721e-13,
+      "compression_ratio": 1.8256880733944953,
+      "temperature": 0.0
+    },
+    {
+      "start": 1939.28,
+      "duration": 2.519999999999982,
+      "text": "Moreover, the Lord declares to you",
+      "avg_logprob": -0.16740578989828786,
+      "no_speech_prob": 6.983362456011721e-13,
+      "compression_ratio": 1.8256880733944953,
+      "temperature": 0.0
+    },
+    {
+      "start": 1942.3999999999999,
+      "duration": 3.7000000000000455,
+      "text": "that the Lord will make you a house.",
+      "avg_logprob": -0.16740578989828786,
+      "no_speech_prob": 6.983362456011721e-13,
+      "compression_ratio": 1.8256880733944953,
+      "temperature": 0.0
+    },
+    {
+      "start": 1947.3,
+      "duration": 2.880000000000109,
+      "text": "The Lord will make you a house.",
+      "avg_logprob": -0.16740578989828786,
+      "no_speech_prob": 6.983362456011721e-13,
+      "compression_ratio": 1.8256880733944953,
+      "temperature": 0.0
+    },
+    {
+      "start": 1950.36,
+      "duration": 2.1000000000001364,
+      "text": "God, you know, David's like, I'm gonna build you a house.",
+      "avg_logprob": -0.16740578989828786,
+      "no_speech_prob": 6.983362456011721e-13,
+      "compression_ratio": 1.8256880733944953,
+      "temperature": 0.0
+    },
+    {
+      "start": 1952.52,
+      "duration": 2.900000000000091,
+      "text": "And God's like, no, no, I'm gonna make you a house.",
+      "avg_logprob": -0.16740578989828786,
+      "no_speech_prob": 6.983362456011721e-13,
+      "compression_ratio": 1.8256880733944953,
+      "temperature": 0.0
+    },
+    {
+      "start": 1956.26,
+      "duration": 1.6800000000000637,
+      "text": "And what's happening here is actually,",
+      "avg_logprob": -0.16740578989828786,
+      "no_speech_prob": 6.983362456011721e-13,
+      "compression_ratio": 1.8256880733944953,
+      "temperature": 0.0
+    },
+    {
+      "start": 1958.5,
+      "duration": 2.240000000000009,
+      "text": "it's actually a pun, it's a little play on words.",
+      "avg_logprob": -0.16740578989828786,
+      "no_speech_prob": 6.983362456011721e-13,
+      "compression_ratio": 1.8256880733944953,
+      "temperature": 0.0
+    },
+    {
+      "start": 1960.74,
+      "duration": 5.539999999999964,
+      "text": "because the word house in Hebrew, just like in English, can mean like a dwelling place, right?",
+      "avg_logprob": -0.08376577711596932,
+      "no_speech_prob": 5.72182058677928e-13,
+      "compression_ratio": 1.5465587044534412,
+      "temperature": 0.0
+    },
+    {
+      "start": 1966.58,
+      "duration": 8.440000000000055,
+      "text": "But it can also mean a dynasty, right? A line of kings. And this is what's going on here. He",
+      "avg_logprob": -0.08376577711596932,
+      "no_speech_prob": 5.72182058677928e-13,
+      "compression_ratio": 1.5465587044534412,
+      "temperature": 0.0
+    },
+    {
+      "start": 1975.02,
+      "duration": 5.259999999999991,
+      "text": "explains it actually in verse 12, the very next verse. It says, when your days are fulfilled and",
+      "avg_logprob": -0.08376577711596932,
+      "no_speech_prob": 5.72182058677928e-13,
+      "compression_ratio": 1.5465587044534412,
+      "temperature": 0.0
+    },
+    {
+      "start": 1980.28,
+      "duration": 5.980000000000018,
+      "text": "you lie down with your fathers, I will raise up your offspring after you who shall come from your",
+      "avg_logprob": -0.08376577711596932,
+      "no_speech_prob": 5.72182058677928e-13,
+      "compression_ratio": 1.5465587044534412,
+      "temperature": 0.0
+    },
+    {
+      "start": 1986.26,
+      "duration": 6.599999999999909,
+      "text": "body, and I will establish his kingdom. He clarifies, this is a dynasty that's coming from",
+      "avg_logprob": -0.06977441931972984,
+      "no_speech_prob": 6.955934851553269e-13,
+      "compression_ratio": 1.657243816254417,
+      "temperature": 0.0
+    },
+    {
+      "start": 1992.86,
+      "duration": 4.720000000000027,
+      "text": "the line of David. Now, in the ancient world, kingdoms would attempt these things, these",
+      "avg_logprob": -0.06977441931972984,
+      "no_speech_prob": 6.955934851553269e-13,
+      "compression_ratio": 1.657243816254417,
+      "temperature": 0.0
+    },
+    {
+      "start": 1997.58,
+      "duration": 4.440000000000055,
+      "text": "dynasties, right? Generation after generation, where the rule of a kingdom was passed down",
+      "avg_logprob": -0.06977441931972984,
+      "no_speech_prob": 6.955934851553269e-13,
+      "compression_ratio": 1.657243816254417,
+      "temperature": 0.0
+    },
+    {
+      "start": 2002.02,
+      "duration": 7.039999999999964,
+      "text": "through a bloodline. Here's what's wild, okay? In the ancient Near East, the average dynasty lasted",
+      "avg_logprob": -0.06977441931972984,
+      "no_speech_prob": 6.955934851553269e-13,
+      "compression_ratio": 1.657243816254417,
+      "temperature": 0.0
+    },
+    {
+      "start": 2009.06,
+      "duration": 6.580000000000155,
+      "text": "about 100 years, like Egypt, Mesopotamia, you know, things like maybe about 100 years. The longest",
+      "avg_logprob": -0.06977441931972984,
+      "no_speech_prob": 6.955934851553269e-13,
+      "compression_ratio": 1.657243816254417,
+      "temperature": 0.0
+    },
+    {
+      "start": 2016.26,
+      "duration": 4.940000000000055,
+      "text": "was Egypt's 18th dynasty lasted 250 years.",
+      "avg_logprob": -0.1684579099162241,
+      "no_speech_prob": 4.5440753482055285e-13,
+      "compression_ratio": 1.4976525821596245,
+      "temperature": 0.0
+    },
+    {
+      "start": 2021.6,
+      "duration": 4.620000000000118,
+      "text": "The longest, except for one, and that's David's.",
+      "avg_logprob": -0.1684579099162241,
+      "no_speech_prob": 4.5440753482055285e-13,
+      "compression_ratio": 1.4976525821596245,
+      "temperature": 0.0
+    },
+    {
+      "start": 2027.06,
+      "duration": 3.4400000000000546,
+      "text": "David's dynasty far outlasted them all,",
+      "avg_logprob": -0.1684579099162241,
+      "no_speech_prob": 4.5440753482055285e-13,
+      "compression_ratio": 1.4976525821596245,
+      "temperature": 0.0
+    },
+    {
+      "start": 2030.62,
+      "duration": 1.9200000000000728,
+      "text": "lasting a little bit over 400 years.",
+      "avg_logprob": -0.1684579099162241,
+      "no_speech_prob": 4.5440753482055285e-13,
+      "compression_ratio": 1.4976525821596245,
+      "temperature": 0.0
+    },
+    {
+      "start": 2034.36,
+      "duration": 2.880000000000109,
+      "text": "I mean, just from a historical perspective,",
+      "avg_logprob": -0.1684579099162241,
+      "no_speech_prob": 4.5440753482055285e-13,
+      "compression_ratio": 1.4976525821596245,
+      "temperature": 0.0
+    },
+    {
+      "start": 2037.24,
+      "duration": 3.099999999999909,
+      "text": "that alone begins to show God's faithfulness to David.",
+      "avg_logprob": -0.1684579099162241,
+      "no_speech_prob": 4.5440753482055285e-13,
+      "compression_ratio": 1.4976525821596245,
+      "temperature": 0.0
+    },
+    {
+      "start": 2040.66,
+      "duration": 3.480000000000018,
+      "text": "There's been no kingdom in the history of the world",
+      "avg_logprob": -0.1684579099162241,
+      "no_speech_prob": 4.5440753482055285e-13,
+      "compression_ratio": 1.4976525821596245,
+      "temperature": 0.0
+    },
+    {
+      "start": 2044.6,
+      "duration": 2.7800000000002,
+      "text": "that has had a longer dynasty than David's.",
+      "avg_logprob": -0.20723987270045924,
+      "no_speech_prob": 4.4563265295775867e-13,
+      "compression_ratio": 1.6535087719298245,
+      "temperature": 0.0
+    },
+    {
+      "start": 2048.9,
+      "duration": 2.019999999999982,
+      "text": "But God's going to take this promise even further.",
+      "avg_logprob": -0.20723987270045924,
+      "no_speech_prob": 4.4563265295775867e-13,
+      "compression_ratio": 1.6535087719298245,
+      "temperature": 0.0
+    },
+    {
+      "start": 2051.76,
+      "duration": 2.299999999999727,
+      "text": "Verse 13 says,",
+      "avg_logprob": -0.20723987270045924,
+      "no_speech_prob": 4.4563265295775867e-13,
+      "compression_ratio": 1.6535087719298245,
+      "temperature": 0.0
+    },
+    {
+      "start": 2054.32,
+      "duration": 1.5599999999999454,
+      "text": "He shall build a house for my name,",
+      "avg_logprob": -0.20723987270045924,
+      "no_speech_prob": 4.4563265295775867e-13,
+      "compression_ratio": 1.6535087719298245,
+      "temperature": 0.0
+    },
+    {
+      "start": 2056.04,
+      "duration": 4.119999999999891,
+      "text": "and I will establish the throne of his kingdom forever.",
+      "avg_logprob": -0.20723987270045924,
+      "no_speech_prob": 4.4563265295775867e-13,
+      "compression_ratio": 1.6535087719298245,
+      "temperature": 0.0
+    },
+    {
+      "start": 2062.22,
+      "duration": 2.3400000000001455,
+      "text": "Okay, so here's where things get crazy.",
+      "avg_logprob": -0.20723987270045924,
+      "no_speech_prob": 4.4563265295775867e-13,
+      "compression_ratio": 1.6535087719298245,
+      "temperature": 0.0
+    },
+    {
+      "start": 2064.72,
+      "duration": 1.900000000000091,
+      "text": "He says, first, I'm going to establish,",
+      "avg_logprob": -0.20723987270045924,
+      "no_speech_prob": 4.4563265295775867e-13,
+      "compression_ratio": 1.6535087719298245,
+      "temperature": 0.0
+    },
+    {
+      "start": 2067.6,
+      "duration": 1.6600000000003092,
+      "text": "he's going to build a house for my name, all right?",
+      "avg_logprob": -0.20723987270045924,
+      "no_speech_prob": 4.4563265295775867e-13,
+      "compression_ratio": 1.6535087719298245,
+      "temperature": 0.0
+    },
+    {
+      "start": 2069.4,
+      "duration": 2.199999999999818,
+      "text": "This son will build a house for God's name.",
+      "avg_logprob": -0.20723987270045924,
+      "no_speech_prob": 4.4563265295775867e-13,
+      "compression_ratio": 1.6535087719298245,
+      "temperature": 0.0
+    },
+    {
+      "start": 2072.5200000000004,
+      "duration": 2.0799999999994725,
+      "text": "David ends up having a son",
+      "avg_logprob": -0.12806500670730428,
+      "no_speech_prob": 5.545788979953448e-13,
+      "compression_ratio": 1.6649746192893402,
+      "temperature": 0.0
+    },
+    {
+      "start": 2074.6,
+      "duration": 0.900000000000091,
+      "text": "his name is Solomon",
+      "avg_logprob": -0.12806500670730428,
+      "no_speech_prob": 5.545788979953448e-13,
+      "compression_ratio": 1.6649746192893402,
+      "temperature": 0.0
+    },
+    {
+      "start": 2075.5,
+      "duration": 3.0799999999999272,
+      "text": "Solomon becomes king, the next king over Israel",
+      "avg_logprob": -0.12806500670730428,
+      "no_speech_prob": 5.545788979953448e-13,
+      "compression_ratio": 1.6649746192893402,
+      "temperature": 0.0
+    },
+    {
+      "start": 2078.58,
+      "duration": 1.2800000000002,
+      "text": "and under Solomon's rule",
+      "avg_logprob": -0.12806500670730428,
+      "no_speech_prob": 5.545788979953448e-13,
+      "compression_ratio": 1.6649746192893402,
+      "temperature": 0.0
+    },
+    {
+      "start": 2079.86,
+      "duration": 2.019999999999982,
+      "text": "Solomon does build",
+      "avg_logprob": -0.12806500670730428,
+      "no_speech_prob": 5.545788979953448e-13,
+      "compression_ratio": 1.6649746192893402,
+      "temperature": 0.0
+    },
+    {
+      "start": 2081.88,
+      "duration": 1.3599999999996726,
+      "text": "the temple",
+      "avg_logprob": -0.12806500670730428,
+      "no_speech_prob": 5.545788979953448e-13,
+      "compression_ratio": 1.6649746192893402,
+      "temperature": 0.0
+    },
+    {
+      "start": 2083.24,
+      "duration": 2.980000000000018,
+      "text": "the first temple, this glorious house",
+      "avg_logprob": -0.12806500670730428,
+      "no_speech_prob": 5.545788979953448e-13,
+      "compression_ratio": 1.6649746192893402,
+      "temperature": 0.0
+    },
+    {
+      "start": 2086.22,
+      "duration": 0.7800000000002001,
+      "text": "for the ark",
+      "avg_logprob": -0.12806500670730428,
+      "no_speech_prob": 5.545788979953448e-13,
+      "compression_ratio": 1.6649746192893402,
+      "temperature": 0.0
+    },
+    {
+      "start": 2087.0,
+      "duration": 3.3600000000001273,
+      "text": "but this can't be all that God is talking about",
+      "avg_logprob": -0.12806500670730428,
+      "no_speech_prob": 5.545788979953448e-13,
+      "compression_ratio": 1.6649746192893402,
+      "temperature": 0.0
+    },
+    {
+      "start": 2090.36,
+      "duration": 2.0599999999999454,
+      "text": "because it says that",
+      "avg_logprob": -0.12806500670730428,
+      "no_speech_prob": 5.545788979953448e-13,
+      "compression_ratio": 1.6649746192893402,
+      "temperature": 0.0
+    },
+    {
+      "start": 2092.42,
+      "duration": 1.5599999999999454,
+      "text": "his throne will be established",
+      "avg_logprob": -0.12806500670730428,
+      "no_speech_prob": 5.545788979953448e-13,
+      "compression_ratio": 1.6649746192893402,
+      "temperature": 0.0
+    },
+    {
+      "start": 2094.8,
+      "duration": 0.6399999999998727,
+      "text": "forever",
+      "avg_logprob": -0.12806500670730428,
+      "no_speech_prob": 5.545788979953448e-13,
+      "compression_ratio": 1.6649746192893402,
+      "temperature": 0.0
+    },
+    {
+      "start": 2096.2400000000002,
+      "duration": 0.6399999999998727,
+      "text": "forever",
+      "avg_logprob": -0.12806500670730428,
+      "no_speech_prob": 5.545788979953448e-13,
+      "compression_ratio": 1.6649746192893402,
+      "temperature": 0.0
+    },
+    {
+      "start": 2097.76,
+      "duration": 1.199999999999818,
+      "text": "Solomon dies",
+      "avg_logprob": -0.12806500670730428,
+      "no_speech_prob": 5.545788979953448e-13,
+      "compression_ratio": 1.6649746192893402,
+      "temperature": 0.0
+    },
+    {
+      "start": 2099.9,
+      "duration": 4.940000000000055,
+      "text": "And David's dynasty does last 400 years or so, but it also ends.",
+      "avg_logprob": -0.16625631968180338,
+      "no_speech_prob": 4.421510087313646e-13,
+      "compression_ratio": 1.4615384615384615,
+      "temperature": 0.0
+    },
+    {
+      "start": 2106.82,
+      "duration": 4.919999999999618,
+      "text": "In 587 BC, the Babylonians come in, they destroy Jerusalem, they destroy the temple.",
+      "avg_logprob": -0.16625631968180338,
+      "no_speech_prob": 4.421510087313646e-13,
+      "compression_ratio": 1.4615384615384615,
+      "temperature": 0.0
+    },
+    {
+      "start": 2112.02,
+      "duration": 6.900000000000091,
+      "text": "The monarchy in Israel is crushed and it has never recovered to this day.",
+      "avg_logprob": -0.16625631968180338,
+      "no_speech_prob": 4.421510087313646e-13,
+      "compression_ratio": 1.4615384615384615,
+      "temperature": 0.0
+    },
+    {
+      "start": 2120.34,
+      "duration": 4.059999999999945,
+      "text": "So then how is the throne of David's son established forever?",
+      "avg_logprob": -0.16625631968180338,
+      "no_speech_prob": 4.421510087313646e-13,
+      "compression_ratio": 1.4615384615384615,
+      "temperature": 0.0
+    },
+    {
+      "start": 2125.16,
+      "duration": 2.600000000000364,
+      "text": "and this is where we begin to see that God's promise",
+      "avg_logprob": -0.19011821303256723,
+      "no_speech_prob": 6.534490288277739e-13,
+      "compression_ratio": 1.6455223880597014,
+      "temperature": 0.0
+    },
+    {
+      "start": 2128.86,
+      "duration": 3.0399999999999636,
+      "text": "is not only, not only does it have an immediate fulfillment",
+      "avg_logprob": -0.19011821303256723,
+      "no_speech_prob": 6.534490288277739e-13,
+      "compression_ratio": 1.6455223880597014,
+      "temperature": 0.0
+    },
+    {
+      "start": 2131.9,
+      "duration": 1.6399999999998727,
+      "text": "with Solomon and the kings,",
+      "avg_logprob": -0.19011821303256723,
+      "no_speech_prob": 6.534490288277739e-13,
+      "compression_ratio": 1.6455223880597014,
+      "temperature": 0.0
+    },
+    {
+      "start": 2134.6,
+      "duration": 1.800000000000182,
+      "text": "but it also points to something else,",
+      "avg_logprob": -0.19011821303256723,
+      "no_speech_prob": 6.534490288277739e-13,
+      "compression_ratio": 1.6455223880597014,
+      "temperature": 0.0
+    },
+    {
+      "start": 2136.54,
+      "duration": 2.6599999999998545,
+      "text": "a different king, a better son who will reign forever.",
+      "avg_logprob": -0.19011821303256723,
+      "no_speech_prob": 6.534490288277739e-13,
+      "compression_ratio": 1.6455223880597014,
+      "temperature": 0.0
+    },
+    {
+      "start": 2139.38,
+      "duration": 1.400000000000091,
+      "text": "Look at the next verse, verse 14.",
+      "avg_logprob": -0.19011821303256723,
+      "no_speech_prob": 6.534490288277739e-13,
+      "compression_ratio": 1.6455223880597014,
+      "temperature": 0.0
+    },
+    {
+      "start": 2141.74,
+      "duration": 1.7200000000002547,
+      "text": "He says, I will be to him a father",
+      "avg_logprob": -0.19011821303256723,
+      "no_speech_prob": 6.534490288277739e-13,
+      "compression_ratio": 1.6455223880597014,
+      "temperature": 0.0
+    },
+    {
+      "start": 2143.46,
+      "duration": 1.5,
+      "text": "and he shall be to me a son.",
+      "avg_logprob": -0.19011821303256723,
+      "no_speech_prob": 6.534490288277739e-13,
+      "compression_ratio": 1.6455223880597014,
+      "temperature": 0.0
+    },
+    {
+      "start": 2145.54,
+      "duration": 1.699999999999818,
+      "text": "And when he commits iniquity,",
+      "avg_logprob": -0.19011821303256723,
+      "no_speech_prob": 6.534490288277739e-13,
+      "compression_ratio": 1.6455223880597014,
+      "temperature": 0.0
+    },
+    {
+      "start": 2147.68,
+      "duration": 2.519999999999982,
+      "text": "I will discipline him with the rod of men,",
+      "avg_logprob": -0.19011821303256723,
+      "no_speech_prob": 6.534490288277739e-13,
+      "compression_ratio": 1.6455223880597014,
+      "temperature": 0.0
+    },
+    {
+      "start": 2150.44,
+      "duration": 2.0799999999999272,
+      "text": "with the stripes of the sons of men.",
+      "avg_logprob": -0.19011821303256723,
+      "no_speech_prob": 6.534490288277739e-13,
+      "compression_ratio": 1.6455223880597014,
+      "temperature": 0.0
+    },
+    {
+      "start": 2169.96,
+      "duration": 2.119999999999891,
+      "text": "Three times he says forever.",
+      "avg_logprob": -0.2991171914177972,
+      "no_speech_prob": 5.189454551843276e-13,
+      "compression_ratio": 1.2765957446808511,
+      "temperature": 0.0
+    },
+    {
+      "start": 2173.44,
+      "duration": 3.9200000000000728,
+      "text": "The son will not just be the son of David,",
+      "avg_logprob": -0.2991171914177972,
+      "no_speech_prob": 5.189454551843276e-13,
+      "compression_ratio": 1.2765957446808511,
+      "temperature": 0.0
+    },
+    {
+      "start": 2177.74,
+      "duration": 3.7800000000002,
+      "text": "but this son will also be called the son of God.",
+      "avg_logprob": -0.2991171914177972,
+      "no_speech_prob": 5.189454551843276e-13,
+      "compression_ratio": 1.2765957446808511,
+      "temperature": 0.0
+    },
+    {
+      "start": 2183.46,
+      "duration": 7.420000000000073,
+      "text": "In other words, the relationship now between God and the king will not be like that of the first king, King Saul.",
+      "avg_logprob": -0.13040345831762387,
+      "no_speech_prob": 4.688449064746414e-13,
+      "compression_ratio": 1.7112299465240641,
+      "temperature": 0.0
+    },
+    {
+      "start": 2191.6,
+      "duration": 7.5,
+      "text": "This king's reign is going to be made permanent because of his relationship with God.",
+      "avg_logprob": -0.13040345831762387,
+      "no_speech_prob": 4.688449064746414e-13,
+      "compression_ratio": 1.7112299465240641,
+      "temperature": 0.0
+    },
+    {
+      "start": 2200.02,
+      "duration": 2.2199999999998,
+      "text": "That his relationship with God is different.",
+      "avg_logprob": -0.13040345831762387,
+      "no_speech_prob": 4.688449064746414e-13,
+      "compression_ratio": 1.7112299465240641,
+      "temperature": 0.0
+    },
+    {
+      "start": 2203.2400000000002,
+      "duration": 5.739999999999782,
+      "text": "The king will be God's own son and God's love will never be taken from him.",
+      "avg_logprob": -0.13040345831762387,
+      "no_speech_prob": 4.688449064746414e-13,
+      "compression_ratio": 1.7112299465240641,
+      "temperature": 0.0
+    },
+    {
+      "start": 2210.42,
+      "duration": 2.380000000000109,
+      "text": "Now this is true of David's dynasty.",
+      "avg_logprob": -0.19733248915627738,
+      "no_speech_prob": 6.138609585926158e-13,
+      "compression_ratio": 1.6355555555555557,
+      "temperature": 0.0
+    },
+    {
+      "start": 2213.04,
+      "duration": 1.1399999999998727,
+      "text": "We see that.",
+      "avg_logprob": -0.19733248915627738,
+      "no_speech_prob": 6.138609585926158e-13,
+      "compression_ratio": 1.6355555555555557,
+      "temperature": 0.0
+    },
+    {
+      "start": 2214.34,
+      "duration": 1.199999999999818,
+      "text": "It lasted 400 years.",
+      "avg_logprob": -0.19733248915627738,
+      "no_speech_prob": 6.138609585926158e-13,
+      "compression_ratio": 1.6355555555555557,
+      "temperature": 0.0
+    },
+    {
+      "start": 2215.7,
+      "duration": 3.1600000000003092,
+      "text": "God maintained the dynasty even when the kings sinned,",
+      "avg_logprob": -0.19733248915627738,
+      "no_speech_prob": 6.138609585926158e-13,
+      "compression_ratio": 1.6355555555555557,
+      "temperature": 0.0
+    },
+    {
+      "start": 2218.96,
+      "duration": 2.0799999999999272,
+      "text": "even when they brought in idolatry,",
+      "avg_logprob": -0.19733248915627738,
+      "no_speech_prob": 6.138609585926158e-13,
+      "compression_ratio": 1.6355555555555557,
+      "temperature": 0.0
+    },
+    {
+      "start": 2221.28,
+      "duration": 2.699999999999818,
+      "text": "even when they led the country astray.",
+      "avg_logprob": -0.19733248915627738,
+      "no_speech_prob": 6.138609585926158e-13,
+      "compression_ratio": 1.6355555555555557,
+      "temperature": 0.0
+    },
+    {
+      "start": 2224.1,
+      "duration": 1.0,
+      "text": "God disciplined them,",
+      "avg_logprob": -0.19733248915627738,
+      "no_speech_prob": 6.138609585926158e-13,
+      "compression_ratio": 1.6355555555555557,
+      "temperature": 0.0
+    },
+    {
+      "start": 2225.16,
+      "duration": 3.400000000000091,
+      "text": "but he always kept his promise to David over and over again.",
+      "avg_logprob": -0.19733248915627738,
+      "no_speech_prob": 6.138609585926158e-13,
+      "compression_ratio": 1.6355555555555557,
+      "temperature": 0.0
+    },
+    {
+      "start": 2229.5,
+      "duration": 3.0799999999999272,
+      "text": "But it's also true of the ultimate king,",
+      "avg_logprob": -0.19733248915627738,
+      "no_speech_prob": 6.138609585926158e-13,
+      "compression_ratio": 1.6355555555555557,
+      "temperature": 0.0
+    },
+    {
+      "start": 2232.76,
+      "duration": 3.199999999999818,
+      "text": "God's son who reigns on the throne forever.",
+      "avg_logprob": -0.19733248915627738,
+      "no_speech_prob": 6.138609585926158e-13,
+      "compression_ratio": 1.6355555555555557,
+      "temperature": 0.0
+    },
+    {
+      "start": 2236.92,
+      "duration": 5.099999999999909,
+      "text": "David hears this promise and he's, I would imagine he's left wondering, how is this possible?",
+      "avg_logprob": -0.0789942741394043,
+      "no_speech_prob": 5.63311495973412e-13,
+      "compression_ratio": 1.7239819004524888,
+      "temperature": 0.0
+    },
+    {
+      "start": 2242.8,
+      "duration": 6.419999999999618,
+      "text": "How is it possible for one king to reign forever when every king dies and the line eventually might",
+      "avg_logprob": -0.0789942741394043,
+      "no_speech_prob": 5.63311495973412e-13,
+      "compression_ratio": 1.7239819004524888,
+      "temperature": 0.0
+    },
+    {
+      "start": 2249.22,
+      "duration": 8.5600000000004,
+      "text": "end? And the only way that this promise could possibly work is if there's a king who can live",
+      "avg_logprob": -0.0789942741394043,
+      "no_speech_prob": 5.63311495973412e-13,
+      "compression_ratio": 1.7239819004524888,
+      "temperature": 0.0
+    },
+    {
+      "start": 2257.78,
+      "duration": 6.739999999999782,
+      "text": "forever. It means that the king must be a very special king, a king who is truly man, someone",
+      "avg_logprob": -0.0789942741394043,
+      "no_speech_prob": 5.63311495973412e-13,
+      "compression_ratio": 1.7239819004524888,
+      "temperature": 0.0
+    },
+    {
+      "start": 2265.96,
+      "duration": 7.400000000000091,
+      "text": "faithful representative, but also someone who is truly God so that he can live forever.",
+      "avg_logprob": -0.1991873521071214,
+      "no_speech_prob": 3.7820438512740917e-13,
+      "compression_ratio": 1.467065868263473,
+      "temperature": 0.0
+    },
+    {
+      "start": 2274.74,
+      "duration": 6.980000000000018,
+      "text": "He must be both. And that's where the Davidic covenant ends. It's where it leaves us.",
+      "avg_logprob": -0.1991873521071214,
+      "no_speech_prob": 3.7820438512740917e-13,
+      "compression_ratio": 1.467065868263473,
+      "temperature": 0.0
+    },
+    {
+      "start": 2283.64,
+      "duration": 10.579999999999927,
+      "text": "And so God's people wait and wait and wait. And a thousand years go by.",
+      "avg_logprob": -0.1991873521071214,
+      "no_speech_prob": 3.7820438512740917e-13,
+      "compression_ratio": 1.467065868263473,
+      "temperature": 0.0
+    },
+    {
+      "start": 2295.96,
+      "duration": 4.539999999999964,
+      "text": "And in this little seaside village called Galilee,",
+      "avg_logprob": -0.20163261116325082,
+      "no_speech_prob": 3.994499772185661e-13,
+      "compression_ratio": 1.4393939393939394,
+      "temperature": 0.0
+    },
+    {
+      "start": 2301.32,
+      "duration": 2.919999999999618,
+      "text": "there's an angel named Gabriel",
+      "avg_logprob": -0.20163261116325082,
+      "no_speech_prob": 3.994499772185661e-13,
+      "compression_ratio": 1.4393939393939394,
+      "temperature": 0.0
+    },
+    {
+      "start": 2304.24,
+      "duration": 3.600000000000364,
+      "text": "who appears to a young woman",
+      "avg_logprob": -0.20163261116325082,
+      "no_speech_prob": 3.994499772185661e-13,
+      "compression_ratio": 1.4393939393939394,
+      "temperature": 0.0
+    },
+    {
+      "start": 2309.1200000000003,
+      "duration": 5.919999999999618,
+      "text": "and says something to her that just absolutely floors her.",
+      "avg_logprob": -0.20163261116325082,
+      "no_speech_prob": 3.994499772185661e-13,
+      "compression_ratio": 1.4393939393939394,
+      "temperature": 0.0
+    },
+    {
+      "start": 2317.26,
+      "duration": 1.5,
+      "text": "He came to her and said,",
+      "avg_logprob": -0.20163261116325082,
+      "no_speech_prob": 3.994499772185661e-13,
+      "compression_ratio": 1.4393939393939394,
+      "temperature": 0.0
+    },
+    {
+      "start": 2318.92,
+      "duration": 2.619999999999891,
+      "text": "Greetings, O favored one. The Lord is with you.",
+      "avg_logprob": -0.20163261116325082,
+      "no_speech_prob": 3.994499772185661e-13,
+      "compression_ratio": 1.4393939393939394,
+      "temperature": 0.0
+    },
+    {
+      "start": 2323.2200000000003,
+      "duration": 2.3399999999996908,
+      "text": "But she was greatly troubled at the saying",
+      "avg_logprob": -0.20163261116325082,
+      "no_speech_prob": 3.994499772185661e-13,
+      "compression_ratio": 1.4393939393939394,
+      "temperature": 0.0
+    },
+    {
+      "start": 2325.96,
+      "duration": 2.400000000000091,
+      "text": "tried to discern what sort of greeting this might be.",
+      "avg_logprob": -0.22334997994559153,
+      "no_speech_prob": 1.1648657299162535e-12,
+      "compression_ratio": 1.528497409326425,
+      "temperature": 0.0
+    },
+    {
+      "start": 2328.82,
+      "duration": 1.7199999999998,
+      "text": "And the angel said to her,",
+      "avg_logprob": -0.22334997994559153,
+      "no_speech_prob": 1.1648657299162535e-12,
+      "compression_ratio": 1.528497409326425,
+      "temperature": 0.0
+    },
+    {
+      "start": 2330.78,
+      "duration": 4.139999999999873,
+      "text": "Do not be afraid, Mary, for you have found favor with God.",
+      "avg_logprob": -0.22334997994559153,
+      "no_speech_prob": 1.1648657299162535e-12,
+      "compression_ratio": 1.528497409326425,
+      "temperature": 0.0
+    },
+    {
+      "start": 2336.08,
+      "duration": 6.0,
+      "text": "And behold, you will conceive in your womb and bear a son,",
+      "avg_logprob": -0.22334997994559153,
+      "no_speech_prob": 1.1648657299162535e-12,
+      "compression_ratio": 1.528497409326425,
+      "temperature": 0.0
+    },
+    {
+      "start": 2342.86,
+      "duration": 2.799999999999727,
+      "text": "and you shall call his name Jesus.",
+      "avg_logprob": -0.22334997994559153,
+      "no_speech_prob": 1.1648657299162535e-12,
+      "compression_ratio": 1.528497409326425,
+      "temperature": 0.0
+    },
+    {
+      "start": 2347.1,
+      "duration": 4.559999999999945,
+      "text": "He will be great and will be called the Son of the Most High,",
+      "avg_logprob": -0.22334997994559153,
+      "no_speech_prob": 1.1648657299162535e-12,
+      "compression_ratio": 1.528497409326425,
+      "temperature": 0.0
+    },
+    {
+      "start": 2352.3,
+      "duration": 4.799999999999727,
+      "text": "and the Lord God will give him the throne of his father David",
+      "avg_logprob": -0.1387279063095281,
+      "no_speech_prob": 3.7668284290359733e-13,
+      "compression_ratio": 1.6306818181818181,
+      "temperature": 0.0
+    },
+    {
+      "start": 2357.98,
+      "duration": 3.619999999999891,
+      "text": "and he will reign over the house of Jacob forever",
+      "avg_logprob": -0.1387279063095281,
+      "no_speech_prob": 3.7668284290359733e-13,
+      "compression_ratio": 1.6306818181818181,
+      "temperature": 0.0
+    },
+    {
+      "start": 2362.34,
+      "duration": 3.799999999999727,
+      "text": "and of his kingdom there will be no end.",
+      "avg_logprob": -0.1387279063095281,
+      "no_speech_prob": 3.7668284290359733e-13,
+      "compression_ratio": 1.6306818181818181,
+      "temperature": 0.0
+    },
+    {
+      "start": 2368.1200000000003,
+      "duration": 2.919999999999618,
+      "text": "All of the promises to David are right there",
+      "avg_logprob": -0.1387279063095281,
+      "no_speech_prob": 3.7668284290359733e-13,
+      "compression_ratio": 1.6306818181818181,
+      "temperature": 0.0
+    },
+    {
+      "start": 2371.04,
+      "duration": 2.5599999999999454,
+      "text": "in the message to Mary.",
+      "avg_logprob": -0.1387279063095281,
+      "no_speech_prob": 3.7668284290359733e-13,
+      "compression_ratio": 1.6306818181818181,
+      "temperature": 0.0
+    },
+    {
+      "start": 2375.26,
+      "duration": 1.9399999999995998,
+      "text": "Mary's son will be the one",
+      "avg_logprob": -0.1387279063095281,
+      "no_speech_prob": 3.7668284290359733e-13,
+      "compression_ratio": 1.6306818181818181,
+      "temperature": 0.0
+    },
+    {
+      "start": 2377.2,
+      "duration": 2.580000000000382,
+      "text": "who will build a house for God's name.",
+      "avg_logprob": -0.1387279063095281,
+      "no_speech_prob": 3.7668284290359733e-13,
+      "compression_ratio": 1.6306818181818181,
+      "temperature": 0.0
+    },
+    {
+      "start": 2381.66,
+      "duration": 2.6400000000003274,
+      "text": "the one who will reign on the throne forever.",
+      "avg_logprob": -0.16741016657665522,
+      "no_speech_prob": 4.651819294348991e-13,
+      "compression_ratio": 1.7445652173913044,
+      "temperature": 0.0
+    },
+    {
+      "start": 2385.7,
+      "duration": 2.7600000000002183,
+      "text": "He's the one who is both the son of David",
+      "avg_logprob": -0.16741016657665522,
+      "no_speech_prob": 4.651819294348991e-13,
+      "compression_ratio": 1.7445652173913044,
+      "temperature": 0.0
+    },
+    {
+      "start": 2388.46,
+      "duration": 1.300000000000182,
+      "text": "and the son of God.",
+      "avg_logprob": -0.16741016657665522,
+      "no_speech_prob": 4.651819294348991e-13,
+      "compression_ratio": 1.7445652173913044,
+      "temperature": 0.0
+    },
+    {
+      "start": 2390.92,
+      "duration": 1.2199999999998,
+      "text": "His name is Jesus.",
+      "avg_logprob": -0.16741016657665522,
+      "no_speech_prob": 4.651819294348991e-13,
+      "compression_ratio": 1.7445652173913044,
+      "temperature": 0.0
+    },
+    {
+      "start": 2394.28,
+      "duration": 1.2599999999997635,
+      "text": "And so this Christmas,",
+      "avg_logprob": -0.16741016657665522,
+      "no_speech_prob": 4.651819294348991e-13,
+      "compression_ratio": 1.7445652173913044,
+      "temperature": 0.0
+    },
+    {
+      "start": 2395.54,
+      "duration": 5.480000000000018,
+      "text": "you are also confronted with that one question.",
+      "avg_logprob": -0.16741016657665522,
+      "no_speech_prob": 4.651819294348991e-13,
+      "compression_ratio": 1.7445652173913044,
+      "temperature": 0.0
+    },
+    {
+      "start": 2402.2,
+      "duration": 1.7200000000002547,
+      "text": "Who do you say that he is?",
+      "avg_logprob": -0.16741016657665522,
+      "no_speech_prob": 4.651819294348991e-13,
+      "compression_ratio": 1.7445652173913044,
+      "temperature": 0.0
+    },
+    {
+      "start": 2405.36,
+      "duration": 2.3399999999996908,
+      "text": "Do you say that he's the long-awaited king?",
+      "avg_logprob": -0.16741016657665522,
+      "no_speech_prob": 4.651819294348991e-13,
+      "compression_ratio": 1.7445652173913044,
+      "temperature": 0.0
+    },
+    {
+      "start": 2408.3,
+      "duration": 2.6399999999998727,
+      "text": "The one who will sit on the throne of David forever?",
+      "avg_logprob": -0.16741016657665522,
+      "no_speech_prob": 4.651819294348991e-13,
+      "compression_ratio": 1.7445652173913044,
+      "temperature": 0.0
+    },
+    {
+      "start": 2412.48,
+      "duration": 3.6799999999998363,
+      "text": "Do you say that he's the one that has given you a better love,",
+      "avg_logprob": -0.15359720690497036,
+      "no_speech_prob": 4.0415866725367067e-13,
+      "compression_ratio": 1.7857142857142858,
+      "temperature": 0.0
+    },
+    {
+      "start": 2416.36,
+      "duration": 3.1399999999998727,
+      "text": "who knew you and loved you before the world began,",
+      "avg_logprob": -0.15359720690497036,
+      "no_speech_prob": 4.0415866725367067e-13,
+      "compression_ratio": 1.7857142857142858,
+      "temperature": 0.0
+    },
+    {
+      "start": 2419.5,
+      "duration": 3.800000000000182,
+      "text": "who set his love on you and has been pursuing you your entire life?",
+      "avg_logprob": -0.15359720690497036,
+      "no_speech_prob": 4.0415866725367067e-13,
+      "compression_ratio": 1.7857142857142858,
+      "temperature": 0.0
+    },
+    {
+      "start": 2424.04,
+      "duration": 2.519999999999982,
+      "text": "Do you say that he's the one who has prepared,",
+      "avg_logprob": -0.15359720690497036,
+      "no_speech_prob": 4.0415866725367067e-13,
+      "compression_ratio": 1.7857142857142858,
+      "temperature": 0.0
+    },
+    {
+      "start": 2426.84,
+      "duration": 3.4400000000000546,
+      "text": "right now is preparing a better place for you",
+      "avg_logprob": -0.15359720690497036,
+      "no_speech_prob": 4.0415866725367067e-13,
+      "compression_ratio": 1.7857142857142858,
+      "temperature": 0.0
+    },
+    {
+      "start": 2430.28,
+      "duration": 2.3399999999996908,
+      "text": "in the new heavens and new earth for all eternity?",
+      "avg_logprob": -0.15359720690497036,
+      "no_speech_prob": 4.0415866725367067e-13,
+      "compression_ratio": 1.7857142857142858,
+      "temperature": 0.0
+    },
+    {
+      "start": 2433.2400000000002,
+      "duration": 1.5199999999999818,
+      "text": "Who do you say Jesus is?",
+      "avg_logprob": -0.15359720690497036,
+      "no_speech_prob": 4.0415866725367067e-13,
+      "compression_ratio": 1.7857142857142858,
+      "temperature": 0.0
+    },
+    {
+      "start": 2435.94,
+      "duration": 3.5799999999999272,
+      "text": "This is the most important question that you will ever answer.",
+      "avg_logprob": -0.15359720690497036,
+      "no_speech_prob": 4.0415866725367067e-13,
+      "compression_ratio": 1.7857142857142858,
+      "temperature": 0.0
+    },
+    {
+      "start": 2440.66,
+      "duration": 0.680000000000291,
+      "text": "Let's pray.",
+      "avg_logprob": -0.15359720690497036,
+      "no_speech_prob": 4.0415866725367067e-13,
+      "compression_ratio": 1.7857142857142858,
+      "temperature": 0.0
+    },
+    {
+      "start": 2443.1800000000003,
+      "duration": 4.619999999999891,
+      "text": "Our Father, I thank you that we can be together today",
+      "avg_logprob": -0.2106189238719451,
+      "no_speech_prob": 4.670012206803298e-13,
+      "compression_ratio": 1.5681818181818181,
+      "temperature": 0.0
+    },
+    {
+      "start": 2447.8,
+      "duration": 1.6799999999998363,
+      "text": "to look into your word",
+      "avg_logprob": -0.2106189238719451,
+      "no_speech_prob": 4.670012206803298e-13,
+      "compression_ratio": 1.5681818181818181,
+      "temperature": 0.0
+    },
+    {
+      "start": 2450.26,
+      "duration": 1.819999999999709,
+      "text": "and to see that through your word",
+      "avg_logprob": -0.2106189238719451,
+      "no_speech_prob": 4.670012206803298e-13,
+      "compression_ratio": 1.5681818181818181,
+      "temperature": 0.0
+    },
+    {
+      "start": 2452.08,
+      "duration": 2.300000000000182,
+      "text": "you have given us incredible promises.",
+      "avg_logprob": -0.2106189238719451,
+      "no_speech_prob": 4.670012206803298e-13,
+      "compression_ratio": 1.5681818181818181,
+      "temperature": 0.0
+    },
+    {
+      "start": 2457.1200000000003,
+      "duration": 3.6399999999998727,
+      "text": "Promises that as we look at the New Testament,",
+      "avg_logprob": -0.2106189238719451,
+      "no_speech_prob": 4.670012206803298e-13,
+      "compression_ratio": 1.5681818181818181,
+      "temperature": 0.0
+    },
+    {
+      "start": 2461.04,
+      "duration": 1.8400000000001455,
+      "text": "as we look at who Jesus is,",
+      "avg_logprob": -0.2106189238719451,
+      "no_speech_prob": 4.670012206803298e-13,
+      "compression_ratio": 1.5681818181818181,
+      "temperature": 0.0
+    },
+    {
+      "start": 2463.84,
+      "duration": 1.8799999999996544,
+      "text": "they align so beautifully.",
+      "avg_logprob": -0.2106189238719451,
+      "no_speech_prob": 4.670012206803298e-13,
+      "compression_ratio": 1.5681818181818181,
+      "temperature": 0.0
+    },
+    {
+      "start": 2466.76,
+      "duration": 1.6599999999998545,
+      "text": "They align so perfectly.",
+      "avg_logprob": -0.2106189238719451,
+      "no_speech_prob": 4.670012206803298e-13,
+      "compression_ratio": 1.5681818181818181,
+      "temperature": 0.0
+    },
+    {
+      "start": 2472.1600000000003,
+      "duration": 12.819999999999709,
+      "text": "Lord, this Christmas I pray that you would help us to just have awe and wonder over who you are.",
+      "avg_logprob": -0.13629987193088905,
+      "no_speech_prob": 3.9630416461509943e-13,
+      "compression_ratio": 1.4202898550724639,
+      "temperature": 0.0
+    },
+    {
+      "start": 2486.7200000000003,
+      "duration": 8.879999999999654,
+      "text": "That you would move our hearts just so powerfully to just be amazed at all that you've done for us.",
+      "avg_logprob": -0.13629987193088905,
+      "no_speech_prob": 3.9630416461509943e-13,
+      "compression_ratio": 1.4202898550724639,
+      "temperature": 0.0
+    },
+    {
+      "start": 2495.6,
+      "duration": 1.8800000000001091,
+      "text": "that when you came as a baby,",
+      "avg_logprob": -0.19217914190047827,
+      "no_speech_prob": 3.6656607111697215e-13,
+      "compression_ratio": 1.5536723163841808,
+      "temperature": 0.0
+    },
+    {
+      "start": 2497.64,
+      "duration": 1.5199999999999818,
+      "text": "that you were fulfilling everything",
+      "avg_logprob": -0.19217914190047827,
+      "no_speech_prob": 3.6656607111697215e-13,
+      "compression_ratio": 1.5536723163841808,
+      "temperature": 0.0
+    },
+    {
+      "start": 2499.16,
+      "duration": 2.200000000000273,
+      "text": "that is promised to us in the Old Testament.",
+      "avg_logprob": -0.19217914190047827,
+      "no_speech_prob": 3.6656607111697215e-13,
+      "compression_ratio": 1.5536723163841808,
+      "temperature": 0.0
+    },
+    {
+      "start": 2503.04,
+      "duration": 3.099999999999909,
+      "text": "God, thank you so much for these incredible blessings.",
+      "avg_logprob": -0.19217914190047827,
+      "no_speech_prob": 3.6656607111697215e-13,
+      "compression_ratio": 1.5536723163841808,
+      "temperature": 0.0
+    },
+    {
+      "start": 2507.48,
+      "duration": 2.980000000000018,
+      "text": "Thank you so much for your son, Jesus,",
+      "avg_logprob": -0.19217914190047827,
+      "no_speech_prob": 3.6656607111697215e-13,
+      "compression_ratio": 1.5536723163841808,
+      "temperature": 0.0
+    },
+    {
+      "start": 2512.02,
+      "duration": 2.900000000000091,
+      "text": "who is our king and reigns forever.",
+      "avg_logprob": -0.19217914190047827,
+      "no_speech_prob": 3.6656607111697215e-13,
+      "compression_ratio": 1.5536723163841808,
+      "temperature": 0.0
+    },
+    {
+      "start": 2516.14,
+      "duration": 1.800000000000182,
+      "text": "We pray this in Jesus' name, amen.",
+      "avg_logprob": -0.19217914190047827,
+      "no_speech_prob": 3.6656607111697215e-13,
+      "compression_ratio": 1.5536723163841808,
+      "temperature": 0.0
+    }
+  ]
+}

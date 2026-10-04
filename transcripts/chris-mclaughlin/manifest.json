@@ -884,7 +884,9 @@
       "site_url": "https://fieldspres.org/media/t5rb8xc/enjoyment-restored",
       "short_code": "t5rb8xc",
       "subsplash_url": "https://subspla.sh/t5rb8xc",
-      "audio_url": null,
+      "audio_url": "https://cdn.subsplash.com/videos/83RBNZ/73381ee6-0132-45f8-9486-e9bb4c0c60eb/hls/audio.m3u8",
+      "audio_source_page": "https://subspla.sh/t5rb8xc",
+      "audio_source_note": "Public audio-only HLS rendition recovered from the sermon player's advertised master playlist on 2026-10-04; original source MP4 returns 403.",
       "video_url": "https://cdn.subsplash.com/videos/83RBNZ/_source/0f643714-0466-4790-b5a1-51b3662ad101/video.mp4",
       "duration_ms": 2640041
     },

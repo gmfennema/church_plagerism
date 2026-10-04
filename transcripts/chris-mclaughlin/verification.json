@@ -1,12 +1,12 @@
 {
-  "verified_transcripts": 47,
+  "verified_transcripts": 57,
   "matching_start_end_boundaries": true,
   "all_individual_files_in_combined": true,
   "timestamps_monotonic": true,
   "caption_segments_preserved_exactly": true,
-  "combined_bytes": 1919988,
-  "transcript_words": 266831,
-  "combined_sha256": "3191fe9abb0409a0047425f06c0aa37af2b42440c171545dd3498a634c20870b",
+  "combined_bytes": 2305281,
+  "transcript_words": 322496,
+  "combined_sha256": "3d1e5f14529af7e24bf59cd879b13981946b13b04978407cca95d23a09ded612",
   "duration_discrepancies_over_10_percent_or_60_seconds": [],
   "verification_scope": "Structural and text-sample checks. Not a manual word-for-word audio verification. Names and references may be misrecognized.",
   "text_samples": [
@@ -432,6 +432,96 @@
       "last": "We pray this all in Jesus' name. Amen.",
       "transcript_end_seconds": 2468.56,
       "archive_duration_seconds": 2474.631
+    },
+    {
+      "id": "zpz5gqr",
+      "title": "Will You Listen?",
+      "first": "We've been in this series in the book of Ecclesiastes called Meaningful.",
+      "middle": "God is, that he is the sovereign Lord of the universe who created all things, who designed",
+      "last": "Thank you.",
+      "transcript_end_seconds": 2270.2,
+      "archive_duration_seconds": 2270.406
+    },
+    {
+      "id": "9h9fj9h",
+      "title": "Face Suffering With Hope",
+      "first": "We'll be reading from Ecclesiastes 6 and 7 today, starting at 610.",
+      "middle": "but even exercise can be misused to become a distraction",
+      "last": "Amen.",
+      "transcript_end_seconds": 2401.46,
+      "archive_duration_seconds": 2406.426
+    },
+    {
+      "id": "ghykdcr",
+      "title": "Enjoy God's Daily Gifts",
+      "first": "You know, there are, there are few things in life that can get a grip on our hearts more than money.",
+      "middle": "They set their heart on it, and their heart was in really the wrong place.",
+      "last": "Thank you.",
+      "transcript_end_seconds": 2545.62,
+      "archive_duration_seconds": 2546.155
+    },
+    {
+      "id": "rq4ct8j",
+      "title": "The Lost Art Of Companionship",
+      "first": "We'll open up your Bible this morning to Ecclesiastes chapter 4.",
+      "middle": "It gives ourselves to others, helps along the journey of life,",
+      "last": "In Jesus' name we pray, amen.",
+      "transcript_end_seconds": 2320.32,
+      "archive_duration_seconds": 2325.89
+    },
+    {
+      "id": "rgcmdpc",
+      "title": "The God Of Pleasures",
+      "first": "The passage today is from Ecclesiastes 2, 1 through 11.",
+      "middle": "the only pleasure that I got out of it was just the pleasure itself.",
+      "last": "Amen",
+      "transcript_end_seconds": 2476.84,
+      "archive_duration_seconds": 2482.416
+    },
+    {
+      "id": "jtvxwfp",
+      "title": "The Search Begins",
+      "first": "Ecclesiastes 1, 12-18",
+      "middle": "being wise would be a good thing, right?",
+      "last": "It's all in Jesus' name we pray. Amen.",
+      "transcript_end_seconds": 2193.06,
+      "archive_duration_seconds": 2198.883
+    },
+    {
+      "id": "wnnjvw3",
+      "title": "Son Of David",
+      "first": "So, the Covenants seem to be this way that God is relating to us throughout history.",
+      "middle": "to that new heavens and new earth.",
+      "last": "We pray this in Jesus' name, amen.",
+      "transcript_end_seconds": 2517.94,
+      "archive_duration_seconds": 2523.611
+    },
+    {
+      "id": "fx83snz",
+      "title": "A Sober Assessment of Sin",
+      "first": "Our scripture this morning is from Acts chapter 4, starting in verse 32.",
+      "middle": "and after it was sold, was it not at your disposal?",
+      "last": "Amen.",
+      "transcript_end_seconds": 2192.0,
+      "archive_duration_seconds": 2198.282
+    },
+    {
+      "id": "fqyvs3m",
+      "title": "The Promise Is For You",
+      "first": "Good morning, church.",
+      "middle": "if you've seen that in your life",
+      "last": "Amen.",
+      "transcript_end_seconds": 2152.8,
+      "archive_duration_seconds": 2160.77
+    },
+    {
+      "id": "q4268vn",
+      "title": "God's People In God's Place Under God's Rule",
+      "first": "Well, this morning I get the privilege of bringing the Word to us today, and I'm excited.",
+      "middle": "Jesus is sending the Holy Spirit to give them power.",
+      "last": "Amen.",
+      "transcript_end_seconds": 2442.64,
+      "archive_duration_seconds": 2448.927
     }
   ]
 }

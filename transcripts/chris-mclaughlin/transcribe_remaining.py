@@ -42,17 +42,17 @@ def duration(path):
 
 
 def fetch_audio(item, directory):
-    if item.get('audio_url'):
+    if item.get('audio_url') and not item['audio_url'].split('?', 1)[0].endswith('.m3u8'):
         path = directory / 'recording.mp3'
         command(['curl', '--fail', '--location', '--silent', '--show-error',
                  '--connect-timeout', '20', '--max-time', '600', '--retry', '2',
                  '--retry-delay', '10', '--max-filesize', '524288000',
                  '--output', str(path), item['audio_url']])
-    elif item.get('video_url'):
+    elif item.get('audio_url') or item.get('video_url'):
         # Stream the source and retain only its audio; never save an MP4.
         path = directory / 'recording.wav'
         command(['ffmpeg', '-nostdin', '-hide_banner', '-loglevel', 'error',
-                 '-rw_timeout', '30000000', '-i', item['video_url'],
+                 '-rw_timeout', '30000000', '-i', item.get('audio_url') or item['video_url'],
                  '-map', '0:a:0', '-vn', '-ac', '1', '-ar', '16000', '-c:a', 'pcm_s16le', str(path)], timeout=900)
     else:
         raise ValueError('No direct audio or video source')
