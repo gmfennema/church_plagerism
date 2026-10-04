@@ -1,0 +1,4545 @@
+{
+  "title": "The Fruit Of Faith",
+  "date": "2023-04-02T00:00:00Z",
+  "scripture": null,
+  "speaker": "Chris McLaughlin",
+  "site_url": "https://fieldspres.org/media/mmrncgs/the-fruit-of-faith",
+  "short_code": "mmrncgs",
+  "subsplash_url": "https://subspla.sh/mmrncgs",
+  "audio_url": "https://cdn.subsplash.com/audios/83RBNZ/50297339-d84b-4d9f-bd83-d56a23f8391c/audio.mp3",
+  "video_url": "https://cdn.subsplash.com/videos/83RBNZ/_source/ad42ac52-06a0-4fba-bac4-d9818a02aad4/video.mp4",
+  "duration_ms": 2335921,
+  "transcript_source": "Local Whisper large-v3-turbo (MLX)",
+  "transcript_source_url": "https://cdn.subsplash.com/audios/83RBNZ/50297339-d84b-4d9f-bd83-d56a23f8391c/audio.mp3",
+  "language_code": "en",
+  "transcribed_at": "2026-10-04T22:08:03.091708+00:00",
+  "transcription": {
+    "engine": "mlx-whisper",
+    "engine_version": "0.4.3",
+    "mlx_version": "0.32.3",
+    "model_repo": "mlx-community/whisper-large-v3-turbo",
+    "model_revision": "a4aaeec0636e6fef84abdcbe3544cb2bf7e9f6fb",
+    "language": "en",
+    "word_timestamps": true,
+    "condition_on_previous_text": false,
+    "hallucination_silence_threshold": 2.0,
+    "audio_duration_seconds": 2335.878095,
+    "processing_seconds": 173.4682708750006,
+    "speed_multiple": 13.4657368936548,
+    "audio_retained": false,
+    "cloud_audio_processing": false,
+    "manually_corrected": false
+  },
+  "quality_flags": [],
+  "snippets": [
+    {
+      "start": 0.0,
+      "duration": 2.6,
+      "text": "Today's scripture from Genesis 22.",
+      "avg_logprob": -0.16282205020680146,
+      "no_speech_prob": 8.132510507033452e-13,
+      "compression_ratio": 1.6470588235294117,
+      "temperature": 0.0
+    },
+    {
+      "start": 4.22,
+      "duration": 3.38,
+      "text": "After these things, God tested Abraham and said to him,",
+      "avg_logprob": -0.16282205020680146,
+      "no_speech_prob": 8.132510507033452e-13,
+      "compression_ratio": 1.6470588235294117,
+      "temperature": 0.0
+    },
+    {
+      "start": 8.04,
+      "duration": 2.380000000000001,
+      "text": "Abraham, and he said, here am I.",
+      "avg_logprob": -0.16282205020680146,
+      "no_speech_prob": 8.132510507033452e-13,
+      "compression_ratio": 1.6470588235294117,
+      "temperature": 0.0
+    },
+    {
+      "start": 11.12,
+      "duration": 3.9800000000000004,
+      "text": "He said, take your son, your only son Isaac, whom you love,",
+      "avg_logprob": -0.16282205020680146,
+      "no_speech_prob": 8.132510507033452e-13,
+      "compression_ratio": 1.6470588235294117,
+      "temperature": 0.0
+    },
+    {
+      "start": 15.28,
+      "duration": 4.160000000000002,
+      "text": "and go to the land of Moriah, and offer him there as a burnt offering",
+      "avg_logprob": -0.16282205020680146,
+      "no_speech_prob": 8.132510507033452e-13,
+      "compression_ratio": 1.6470588235294117,
+      "temperature": 0.0
+    },
+    {
+      "start": 19.44,
+      "duration": 2.2799999999999976,
+      "text": "on one of the mountains of which I shall tell you.",
+      "avg_logprob": -0.16282205020680146,
+      "no_speech_prob": 8.132510507033452e-13,
+      "compression_ratio": 1.6470588235294117,
+      "temperature": 0.0
+    },
+    {
+      "start": 22.38,
+      "duration": 3.16,
+      "text": "So Abraham rose early in the morning, saddled his donkey,",
+      "avg_logprob": -0.16282205020680146,
+      "no_speech_prob": 8.132510507033452e-13,
+      "compression_ratio": 1.6470588235294117,
+      "temperature": 0.0
+    },
+    {
+      "start": 25.78,
+      "duration": 2.8200000000000003,
+      "text": "and took two of his young men with him and his son Isaac.",
+      "avg_logprob": -0.16282205020680146,
+      "no_speech_prob": 8.132510507033452e-13,
+      "compression_ratio": 1.6470588235294117,
+      "temperature": 0.0
+    },
+    {
+      "start": 30.0,
+      "duration": 4.439999999999998,
+      "text": "for the burnt offering and arose and went to the place of which God had told him.",
+      "avg_logprob": -0.1432225545247396,
+      "no_speech_prob": 1.3355342222756694e-12,
+      "compression_ratio": 1.7716535433070866,
+      "temperature": 0.0
+    },
+    {
+      "start": 35.18,
+      "duration": 4.380000000000003,
+      "text": "On the third day, Abraham lifted up his eyes and saw the place from afar.",
+      "avg_logprob": -0.1432225545247396,
+      "no_speech_prob": 1.3355342222756694e-12,
+      "compression_ratio": 1.7716535433070866,
+      "temperature": 0.0
+    },
+    {
+      "start": 40.220000000000006,
+      "duration": 3.739999999999995,
+      "text": "Then Abraham said to his young men, stay here with the donkey.",
+      "avg_logprob": -0.1432225545247396,
+      "no_speech_prob": 1.3355342222756694e-12,
+      "compression_ratio": 1.7716535433070866,
+      "temperature": 0.0
+    },
+    {
+      "start": 44.26,
+      "duration": 3.6000000000000014,
+      "text": "I and the boy will go over there and worship and come again to you.",
+      "avg_logprob": -0.1432225545247396,
+      "no_speech_prob": 1.3355342222756694e-12,
+      "compression_ratio": 1.7716535433070866,
+      "temperature": 0.0
+    },
+    {
+      "start": 48.52,
+      "duration": 4.659999999999997,
+      "text": "And Abraham took the wood of the burnt offering and laid it on Isaac, his son.",
+      "avg_logprob": -0.1432225545247396,
+      "no_speech_prob": 1.3355342222756694e-12,
+      "compression_ratio": 1.7716535433070866,
+      "temperature": 0.0
+    },
+    {
+      "start": 53.720000000000006,
+      "duration": 2.559999999999995,
+      "text": "And he took in his hand the fire and the knife.",
+      "avg_logprob": -0.1432225545247396,
+      "no_speech_prob": 1.3355342222756694e-12,
+      "compression_ratio": 1.7716535433070866,
+      "temperature": 0.0
+    },
+    {
+      "start": 56.760000000000005,
+      "duration": 1.8399999999999963,
+      "text": "So they went, both of them together.",
+      "avg_logprob": -0.1432225545247396,
+      "no_speech_prob": 1.3355342222756694e-12,
+      "compression_ratio": 1.7716535433070866,
+      "temperature": 0.0
+    },
+    {
+      "start": 60.0,
+      "duration": 8.299999999999997,
+      "text": "said to his father Abraham, my father, and he said, here am I, my son. He said, behold, the fire and the",
+      "avg_logprob": -0.07083320617675781,
+      "no_speech_prob": 1.1785019574800382e-12,
+      "compression_ratio": 1.7901785714285714,
+      "temperature": 0.0
+    },
+    {
+      "start": 68.3,
+      "duration": 6.939999999999998,
+      "text": "wood, but where's the lamb for a burnt offering? Abraham said, God will provide for himself the",
+      "avg_logprob": -0.07083320617675781,
+      "no_speech_prob": 1.1785019574800382e-12,
+      "compression_ratio": 1.7901785714285714,
+      "temperature": 0.0
+    },
+    {
+      "start": 75.24,
+      "duration": 6.560000000000002,
+      "text": "lamb for a burnt offering, my son. So they went, both of them together. When they came to the place",
+      "avg_logprob": -0.07083320617675781,
+      "no_speech_prob": 1.1785019574800382e-12,
+      "compression_ratio": 1.7901785714285714,
+      "temperature": 0.0
+    },
+    {
+      "start": 81.8,
+      "duration": 6.260000000000005,
+      "text": "of which God had told him, Abraham built the altar there and laid the wood in order and bound Isaac,",
+      "avg_logprob": -0.07083320617675781,
+      "no_speech_prob": 1.1785019574800382e-12,
+      "compression_ratio": 1.7901785714285714,
+      "temperature": 0.0
+    },
+    {
+      "start": 91.8,
+      "duration": 3.9200000000000017,
+      "text": "Then Abraham reached out his hand and took the knife to slaughter his son.",
+      "avg_logprob": -0.18084374913629495,
+      "no_speech_prob": 1.7146886124516647e-12,
+      "compression_ratio": 1.6828193832599119,
+      "temperature": 0.0
+    },
+    {
+      "start": 96.46,
+      "duration": 3.9000000000000057,
+      "text": "But the angel of the Lord called to him from heaven and said, Abraham, Abraham.",
+      "avg_logprob": -0.18084374913629495,
+      "no_speech_prob": 1.7146886124516647e-12,
+      "compression_ratio": 1.6828193832599119,
+      "temperature": 0.0
+    },
+    {
+      "start": 100.72,
+      "duration": 1.3400000000000034,
+      "text": "And he said, here am I.",
+      "avg_logprob": -0.18084374913629495,
+      "no_speech_prob": 1.7146886124516647e-12,
+      "compression_ratio": 1.6828193832599119,
+      "temperature": 0.0
+    },
+    {
+      "start": 102.42,
+      "duration": 3.780000000000001,
+      "text": "He said, do not lay your hand on the boy or do anything to him.",
+      "avg_logprob": -0.18084374913629495,
+      "no_speech_prob": 1.7146886124516647e-12,
+      "compression_ratio": 1.6828193832599119,
+      "temperature": 0.0
+    },
+    {
+      "start": 106.36,
+      "duration": 6.400000000000006,
+      "text": "For now I know that you fear God, seeing you have not withheld your son, your only son, from me.",
+      "avg_logprob": -0.18084374913629495,
+      "no_speech_prob": 1.7146886124516647e-12,
+      "compression_ratio": 1.6828193832599119,
+      "temperature": 0.0
+    },
+    {
+      "start": 113.8,
+      "duration": 2.5600000000000023,
+      "text": "And Abraham lifted up his eyes and looked.",
+      "avg_logprob": -0.18084374913629495,
+      "no_speech_prob": 1.7146886124516647e-12,
+      "compression_ratio": 1.6828193832599119,
+      "temperature": 0.0
+    },
+    {
+      "start": 116.36,
+      "duration": 4.280000000000001,
+      "text": "and behold, behind him was a ram caught in a thicket by his horns.",
+      "avg_logprob": -0.1347612047952319,
+      "no_speech_prob": 1.3670803855267422e-12,
+      "compression_ratio": 1.7647058823529411,
+      "temperature": 0.0
+    },
+    {
+      "start": 121.28,
+      "duration": 4.799999999999997,
+      "text": "And Abraham went and took the ram and offered it up as a burnt offering instead of his son.",
+      "avg_logprob": -0.1347612047952319,
+      "no_speech_prob": 1.3670803855267422e-12,
+      "compression_ratio": 1.7647058823529411,
+      "temperature": 0.0
+    },
+    {
+      "start": 127.1,
+      "duration": 5.280000000000001,
+      "text": "So Abraham called the name of that place, the Lord will provide, as it is said to this day.",
+      "avg_logprob": -0.1347612047952319,
+      "no_speech_prob": 1.3670803855267422e-12,
+      "compression_ratio": 1.7647058823529411,
+      "temperature": 0.0
+    },
+    {
+      "start": 133.06,
+      "duration": 2.259999999999991,
+      "text": "On the mount of the Lord, it shall be provided.",
+      "avg_logprob": -0.1347612047952319,
+      "no_speech_prob": 1.3670803855267422e-12,
+      "compression_ratio": 1.7647058823529411,
+      "temperature": 0.0
+    },
+    {
+      "start": 136.18,
+      "duration": 4.1200000000000045,
+      "text": "And the angel of the Lord called to Abraham a second time from heaven and said,",
+      "avg_logprob": -0.1347612047952319,
+      "no_speech_prob": 1.3670803855267422e-12,
+      "compression_ratio": 1.7647058823529411,
+      "temperature": 0.0
+    },
+    {
+      "start": 140.58,
+      "duration": 5.359999999999985,
+      "text": "By myself I have sworn, declares the Lord, because you have done this and have not withheld your son,",
+      "avg_logprob": -0.1347612047952319,
+      "no_speech_prob": 1.3670803855267422e-12,
+      "compression_ratio": 1.7647058823529411,
+      "temperature": 0.0
+    },
+    {
+      "start": 146.36,
+      "duration": 8.579999999999984,
+      "text": "Only son, I will surely bless you, and I will surely multiply your offspring as the stars of heaven and as the sand that is on the seashore.",
+      "avg_logprob": -0.1325189394828601,
+      "no_speech_prob": 1.3044698784700492e-12,
+      "compression_ratio": 1.8393574297188755,
+      "temperature": 0.0
+    },
+    {
+      "start": 155.28,
+      "duration": 2.8799999999999955,
+      "text": "And your offspring shall possess the gate of his enemies.",
+      "avg_logprob": -0.1325189394828601,
+      "no_speech_prob": 1.3044698784700492e-12,
+      "compression_ratio": 1.8393574297188755,
+      "temperature": 0.0
+    },
+    {
+      "start": 158.5,
+      "duration": 5.400000000000006,
+      "text": "And in your offspring shall all the nations of the earth be blessed, because you have obeyed my voice.",
+      "avg_logprob": -0.1325189394828601,
+      "no_speech_prob": 1.3044698784700492e-12,
+      "compression_ratio": 1.8393574297188755,
+      "temperature": 0.0
+    },
+    {
+      "start": 164.54,
+      "duration": 4.480000000000018,
+      "text": "So Abraham returned to his young men, and they arose and went together to Beersheba.",
+      "avg_logprob": -0.1325189394828601,
+      "no_speech_prob": 1.3044698784700492e-12,
+      "compression_ratio": 1.8393574297188755,
+      "temperature": 0.0
+    },
+    {
+      "start": 169.2,
+      "duration": 1.5200000000000102,
+      "text": "And Abraham lived at Beersheba.",
+      "avg_logprob": -0.1325189394828601,
+      "no_speech_prob": 1.3044698784700492e-12,
+      "compression_ratio": 1.8393574297188755,
+      "temperature": 0.0
+    },
+    {
+      "start": 172.46,
+      "duration": 2.4399999999999977,
+      "text": "The grass withers and the flower fades.",
+      "avg_logprob": -0.1325189394828601,
+      "no_speech_prob": 1.3044698784700492e-12,
+      "compression_ratio": 1.8393574297188755,
+      "temperature": 0.0
+    },
+    {
+      "start": 180.11999999999998,
+      "duration": 5.440000000000026,
+      "text": "Amen. Well, good morning, everyone. My name is Chris. Glad to be here today to bring you",
+      "avg_logprob": -0.07784665864089439,
+      "no_speech_prob": 1.3887199766873803e-12,
+      "compression_ratio": 1.547008547008547,
+      "temperature": 0.0
+    },
+    {
+      "start": 186.54,
+      "duration": 6.860000000000014,
+      "text": "a message from God's Word from Genesis 22. This passage is difficult. It's challenging",
+      "avg_logprob": -0.07784665864089439,
+      "no_speech_prob": 1.3887199766873803e-12,
+      "compression_ratio": 1.547008547008547,
+      "temperature": 0.0
+    },
+    {
+      "start": 193.4,
+      "duration": 7.6200000000000045,
+      "text": "to think about what exactly is happening here. You know, I think about our own circumstances",
+      "avg_logprob": -0.07784665864089439,
+      "no_speech_prob": 1.3887199766873803e-12,
+      "compression_ratio": 1.547008547008547,
+      "temperature": 0.0
+    },
+    {
+      "start": 201.02,
+      "duration": 4.560000000000002,
+      "text": "and painful circumstances that we go through. We often ask the question, why do we go through",
+      "avg_logprob": -0.07784665864089439,
+      "no_speech_prob": 1.3887199766873803e-12,
+      "compression_ratio": 1.547008547008547,
+      "temperature": 0.0
+    },
+    {
+      "start": 206.46,
+      "duration": 5.019999999999982,
+      "text": "at times. And I don't think we can answer that question completely. I don't think there's a good",
+      "avg_logprob": -0.05790527918005502,
+      "no_speech_prob": 9.848041436152921e-13,
+      "compression_ratio": 1.646551724137931,
+      "temperature": 0.0
+    },
+    {
+      "start": 211.48,
+      "duration": 6.100000000000023,
+      "text": "overarching answer for that all the time. But one reason why we might be going through difficult",
+      "avg_logprob": -0.05790527918005502,
+      "no_speech_prob": 9.848041436152921e-13,
+      "compression_ratio": 1.646551724137931,
+      "temperature": 0.0
+    },
+    {
+      "start": 217.58,
+      "duration": 9.059999999999974,
+      "text": "circumstances, challenging times in our life has to do with God testing us. Sometimes we go",
+      "avg_logprob": -0.05790527918005502,
+      "no_speech_prob": 9.848041436152921e-13,
+      "compression_ratio": 1.646551724137931,
+      "temperature": 0.0
+    },
+    {
+      "start": 226.64,
+      "duration": 5.52000000000001,
+      "text": "through things as a test. This isn't God tempting us to sin, but he's testing our faith. And the",
+      "avg_logprob": -0.05790527918005502,
+      "no_speech_prob": 9.848041436152921e-13,
+      "compression_ratio": 1.646551724137931,
+      "temperature": 0.0
+    },
+    {
+      "start": 232.16,
+      "duration": 5.400000000000006,
+      "text": "reason for this is because faith, if you think about what it is, it's intangible. It's not",
+      "avg_logprob": -0.0732437150668254,
+      "no_speech_prob": 6.483660179926187e-13,
+      "compression_ratio": 1.6964285714285714,
+      "temperature": 0.0
+    },
+    {
+      "start": 237.56,
+      "duration": 4.719999999999999,
+      "text": "something that we can see. We can't taste it. We can't smell it. We can't touch it. You can't",
+      "avg_logprob": -0.0732437150668254,
+      "no_speech_prob": 6.483660179926187e-13,
+      "compression_ratio": 1.6964285714285714,
+      "temperature": 0.0
+    },
+    {
+      "start": 242.28,
+      "duration": 6.319999999999993,
+      "text": "observe it on an MRI. You can't see it on an x-ray. Hebrews 11.1, right, tells us what faith is. It",
+      "avg_logprob": -0.0732437150668254,
+      "no_speech_prob": 6.483660179926187e-13,
+      "compression_ratio": 1.6964285714285714,
+      "temperature": 0.0
+    },
+    {
+      "start": 248.6,
+      "duration": 7.599999999999994,
+      "text": "says, faith is the assurance of things hoped for, right, and the conviction of things not seen.",
+      "avg_logprob": -0.0732437150668254,
+      "no_speech_prob": 6.483660179926187e-13,
+      "compression_ratio": 1.6964285714285714,
+      "temperature": 0.0
+    },
+    {
+      "start": 256.96000000000004,
+      "duration": 6.639999999999986,
+      "text": "So while we can't see faith, we can see the fruit of faith.",
+      "avg_logprob": -0.2252242596118481,
+      "no_speech_prob": 4.856059673298552e-13,
+      "compression_ratio": 1.654970760233918,
+      "temperature": 0.0
+    },
+    {
+      "start": 263.98,
+      "duration": 2.9399999999999977,
+      "text": "We can see what it produces in our life.",
+      "avg_logprob": -0.2252242596118481,
+      "no_speech_prob": 4.856059673298552e-13,
+      "compression_ratio": 1.654970760233918,
+      "temperature": 0.0
+    },
+    {
+      "start": 267.46,
+      "duration": 5.980000000000018,
+      "text": "Faith can only be seen when it's really applied into a difficult circumstance,",
+      "avg_logprob": -0.2252242596118481,
+      "no_speech_prob": 4.856059673298552e-13,
+      "compression_ratio": 1.654970760233918,
+      "temperature": 0.0
+    },
+    {
+      "start": 273.92,
+      "duration": 4.259999999999991,
+      "text": "into a real-life situation, into that test of faith.",
+      "avg_logprob": -0.2252242596118481,
+      "no_speech_prob": 4.856059673298552e-13,
+      "compression_ratio": 1.654970760233918,
+      "temperature": 0.0
+    },
+    {
+      "start": 278.7,
+      "duration": 4.920000000000016,
+      "text": "And faith actually needs to be tested in our life.",
+      "avg_logprob": -0.2252242596118481,
+      "no_speech_prob": 4.856059673298552e-13,
+      "compression_ratio": 1.654970760233918,
+      "temperature": 0.0
+    },
+    {
+      "start": 284.3,
+      "duration": 3.0,
+      "text": "It needs to be tested because when it is tested,",
+      "avg_logprob": -0.1938933563232422,
+      "no_speech_prob": 6.663369400521091e-13,
+      "compression_ratio": 1.7609756097560976,
+      "temperature": 0.0
+    },
+    {
+      "start": 287.58,
+      "duration": 3.180000000000007,
+      "text": "it actually becomes something that's confirmed in us.",
+      "avg_logprob": -0.1938933563232422,
+      "no_speech_prob": 6.663369400521091e-13,
+      "compression_ratio": 1.7609756097560976,
+      "temperature": 0.0
+    },
+    {
+      "start": 290.96,
+      "duration": 1.4399999999999977,
+      "text": "It helps us to grow.",
+      "avg_logprob": -0.1938933563232422,
+      "no_speech_prob": 6.663369400521091e-13,
+      "compression_ratio": 1.7609756097560976,
+      "temperature": 0.0
+    },
+    {
+      "start": 293.66,
+      "duration": 1.6199999999999477,
+      "text": "So what is a test of faith?",
+      "avg_logprob": -0.1938933563232422,
+      "no_speech_prob": 6.663369400521091e-13,
+      "compression_ratio": 1.7609756097560976,
+      "temperature": 0.0
+    },
+    {
+      "start": 296.6,
+      "duration": 4.399999999999977,
+      "text": "You know, a test, it confirms something that's already in us.",
+      "avg_logprob": -0.1938933563232422,
+      "no_speech_prob": 6.663369400521091e-13,
+      "compression_ratio": 1.7609756097560976,
+      "temperature": 0.0
+    },
+    {
+      "start": 301.08,
+      "duration": 4.28000000000003,
+      "text": "Think about a test that you've taken in school or something like that, right?",
+      "avg_logprob": -0.1938933563232422,
+      "no_speech_prob": 6.663369400521091e-13,
+      "compression_ratio": 1.7609756097560976,
+      "temperature": 0.0
+    },
+    {
+      "start": 305.5,
+      "duration": 1.1000000000000227,
+      "text": "Why do we take a test?",
+      "avg_logprob": -0.1938933563232422,
+      "no_speech_prob": 6.663369400521091e-13,
+      "compression_ratio": 1.7609756097560976,
+      "temperature": 0.0
+    },
+    {
+      "start": 306.6,
+      "duration": 3.2399999999999523,
+      "text": "It confirms something that we already possess.",
+      "avg_logprob": -0.1938933563232422,
+      "no_speech_prob": 6.663369400521091e-13,
+      "compression_ratio": 1.7609756097560976,
+      "temperature": 0.0
+    },
+    {
+      "start": 309.84,
+      "duration": 4.840000000000032,
+      "text": "It demonstrates that we have some sort of knowledge, some skill, something as our character,",
+      "avg_logprob": -0.1447526758367365,
+      "no_speech_prob": 7.318087108520999e-13,
+      "compression_ratio": 1.7450980392156863,
+      "temperature": 0.0
+    },
+    {
+      "start": 315.18,
+      "duration": 1.0199999999999818,
+      "text": "something that we already have.",
+      "avg_logprob": -0.1447526758367365,
+      "no_speech_prob": 7.318087108520999e-13,
+      "compression_ratio": 1.7450980392156863,
+      "temperature": 0.0
+    },
+    {
+      "start": 316.32,
+      "duration": 4.319999999999993,
+      "text": "So if we take a geometry test, for example, I'm going to take a geometry test to maybe",
+      "avg_logprob": -0.1447526758367365,
+      "no_speech_prob": 7.318087108520999e-13,
+      "compression_ratio": 1.7450980392156863,
+      "temperature": 0.0
+    },
+    {
+      "start": 320.64,
+      "duration": 5.699999999999989,
+      "text": "make sure that I know how to figure out the hypotenuse of a triangle, right?",
+      "avg_logprob": -0.1447526758367365,
+      "no_speech_prob": 7.318087108520999e-13,
+      "compression_ratio": 1.7450980392156863,
+      "temperature": 0.0
+    },
+    {
+      "start": 326.46,
+      "duration": 1.4399999999999977,
+      "text": "The length of a hypotenuse, right?",
+      "avg_logprob": -0.1447526758367365,
+      "no_speech_prob": 7.318087108520999e-13,
+      "compression_ratio": 1.7450980392156863,
+      "temperature": 0.0
+    },
+    {
+      "start": 328.06,
+      "duration": 1.5199999999999818,
+      "text": "A squared plus B squared equals C squared.",
+      "avg_logprob": -0.1447526758367365,
+      "no_speech_prob": 7.318087108520999e-13,
+      "compression_ratio": 1.7450980392156863,
+      "temperature": 0.0
+    },
+    {
+      "start": 329.68,
+      "duration": 0.5799999999999841,
+      "text": "Anyone remember that?",
+      "avg_logprob": -0.1447526758367365,
+      "no_speech_prob": 7.318087108520999e-13,
+      "compression_ratio": 1.7450980392156863,
+      "temperature": 0.0
+    },
+    {
+      "start": 330.38,
+      "duration": 0.060000000000002274,
+      "text": "Yeah?",
+      "avg_logprob": -0.1447526758367365,
+      "no_speech_prob": 7.318087108520999e-13,
+      "compression_ratio": 1.7450980392156863,
+      "temperature": 0.0
+    },
+    {
+      "start": 331.52,
+      "duration": 1.9600000000000364,
+      "text": "That stuff that we'll never use again in our life.",
+      "avg_logprob": -0.1447526758367365,
+      "no_speech_prob": 7.318087108520999e-13,
+      "compression_ratio": 1.7450980392156863,
+      "temperature": 0.0
+    },
+    {
+      "start": 335.38,
+      "duration": 5.079999999999984,
+      "text": "or we'll take a driver's test to make sure that we have the skills necessary to drive safely on",
+      "avg_logprob": -0.06729442904693912,
+      "no_speech_prob": 5.089107303971052e-13,
+      "compression_ratio": 1.6680851063829787,
+      "temperature": 0.0
+    },
+    {
+      "start": 340.46,
+      "duration": 5.240000000000009,
+      "text": "the road, right? That's what tests do. In the same way, a test of faith is something that's going to",
+      "avg_logprob": -0.06729442904693912,
+      "no_speech_prob": 5.089107303971052e-13,
+      "compression_ratio": 1.6680851063829787,
+      "temperature": 0.0
+    },
+    {
+      "start": 345.7,
+      "duration": 8.020000000000039,
+      "text": "confirm the faith that we already have. And a test takes this intangible thing like faith and it",
+      "avg_logprob": -0.06729442904693912,
+      "no_speech_prob": 5.089107303971052e-13,
+      "compression_ratio": 1.6680851063829787,
+      "temperature": 0.0
+    },
+    {
+      "start": 353.72,
+      "duration": 7.139999999999986,
+      "text": "applies it into that real life situation. It asks the question, when things get tough, do I really",
+      "avg_logprob": -0.06729442904693912,
+      "no_speech_prob": 5.089107303971052e-13,
+      "compression_ratio": 1.6680851063829787,
+      "temperature": 0.0
+    },
+    {
+      "start": 360.86,
+      "duration": 10.71999999999997,
+      "text": "trust God? Do I really trust him? Testing isn't so that God will know if we have faith,",
+      "avg_logprob": -0.11593361695607503,
+      "no_speech_prob": 6.019876437612925e-13,
+      "compression_ratio": 1.411764705882353,
+      "temperature": 0.0
+    },
+    {
+      "start": 371.72,
+      "duration": 6.21999999999997,
+      "text": "because he already knows, right? But a test is given so that it confirms it in us.",
+      "avg_logprob": -0.11593361695607503,
+      "no_speech_prob": 6.019876437612925e-13,
+      "compression_ratio": 1.411764705882353,
+      "temperature": 0.0
+    },
+    {
+      "start": 378.14,
+      "duration": 7.600000000000023,
+      "text": "It helps us to grow. And so at the very beginning of James's letter, he writes about testing.",
+      "avg_logprob": -0.11593361695607503,
+      "no_speech_prob": 6.019876437612925e-13,
+      "compression_ratio": 1.411764705882353,
+      "temperature": 0.0
+    },
+    {
+      "start": 386.4,
+      "duration": 3.2800000000000296,
+      "text": "He says, count it all joy, he says.",
+      "avg_logprob": -0.15296062893337672,
+      "no_speech_prob": 6.308969189086633e-13,
+      "compression_ratio": 1.5694444444444444,
+      "temperature": 0.0
+    },
+    {
+      "start": 390.14,
+      "duration": 2.5,
+      "text": "You guys, think about this for a second.",
+      "avg_logprob": -0.15296062893337672,
+      "no_speech_prob": 6.308969189086633e-13,
+      "compression_ratio": 1.5694444444444444,
+      "temperature": 0.0
+    },
+    {
+      "start": 392.88,
+      "duration": 4.139999999999986,
+      "text": "Going through a test, going through some sort of difficult circumstance in your life, what does he say?",
+      "avg_logprob": -0.15296062893337672,
+      "no_speech_prob": 6.308969189086633e-13,
+      "compression_ratio": 1.5694444444444444,
+      "temperature": 0.0
+    },
+    {
+      "start": 397.52,
+      "duration": 7.2000000000000455,
+      "text": "Count it as joy, my brothers, when you meet trials of various kinds.",
+      "avg_logprob": -0.15296062893337672,
+      "no_speech_prob": 6.308969189086633e-13,
+      "compression_ratio": 1.5694444444444444,
+      "temperature": 0.0
+    },
+    {
+      "start": 404.72,
+      "duration": 5.699999999999989,
+      "text": "This is what he says, for you know that the testing of your faith produces steadfastness.",
+      "avg_logprob": -0.15296062893337672,
+      "no_speech_prob": 6.308969189086633e-13,
+      "compression_ratio": 1.5694444444444444,
+      "temperature": 0.0
+    },
+    {
+      "start": 410.42,
+      "duration": 4.560000000000002,
+      "text": "and let steadfastness have its full effect",
+      "avg_logprob": -0.14631044163423426,
+      "no_speech_prob": 4.817822573180419e-13,
+      "compression_ratio": 1.4606741573033708,
+      "temperature": 0.0
+    },
+    {
+      "start": 414.98,
+      "duration": 4.6200000000000045,
+      "text": "that you may be perfect and complete, lacking in nothing.",
+      "avg_logprob": -0.14631044163423426,
+      "no_speech_prob": 4.817822573180419e-13,
+      "compression_ratio": 1.4606741573033708,
+      "temperature": 0.0
+    },
+    {
+      "start": 421.0,
+      "duration": 4.740000000000009,
+      "text": "So we can find joy, church, when our faith is tested",
+      "avg_logprob": -0.14631044163423426,
+      "no_speech_prob": 4.817822573180419e-13,
+      "compression_ratio": 1.4606741573033708,
+      "temperature": 0.0
+    },
+    {
+      "start": 425.74,
+      "duration": 5.939999999999998,
+      "text": "because this type of test will confirm the work of God in our lives",
+      "avg_logprob": -0.14631044163423426,
+      "no_speech_prob": 4.817822573180419e-13,
+      "compression_ratio": 1.4606741573033708,
+      "temperature": 0.0
+    },
+    {
+      "start": 431.68,
+      "duration": 3.240000000000009,
+      "text": "and will actually lead us to maturity.",
+      "avg_logprob": -0.14631044163423426,
+      "no_speech_prob": 4.817822573180419e-13,
+      "compression_ratio": 1.4606741573033708,
+      "temperature": 0.0
+    },
+    {
+      "start": 436.3,
+      "duration": 6.079999999999984,
+      "text": "Now, we have been in a series since the beginning of the year looking at the life of Abraham.",
+      "avg_logprob": -0.12052977622092308,
+      "no_speech_prob": 8.100543348078804e-13,
+      "compression_ratio": 1.71900826446281,
+      "temperature": 0.0
+    },
+    {
+      "start": 443.0,
+      "duration": 4.1200000000000045,
+      "text": "And in his life, we started at Genesis 12, and now we're in Genesis 22.",
+      "avg_logprob": -0.12052977622092308,
+      "no_speech_prob": 8.100543348078804e-13,
+      "compression_ratio": 1.71900826446281,
+      "temperature": 0.0
+    },
+    {
+      "start": 447.4,
+      "duration": 5.720000000000027,
+      "text": "And in these 11 chapters, we've seen Abraham go from a man who has no faith,",
+      "avg_logprob": -0.12052977622092308,
+      "no_speech_prob": 8.100543348078804e-13,
+      "compression_ratio": 1.71900826446281,
+      "temperature": 0.0
+    },
+    {
+      "start": 453.32,
+      "duration": 4.900000000000034,
+      "text": "who makes terrible choices, who gives his wife over to wicked kings, right?",
+      "avg_logprob": -0.12052977622092308,
+      "no_speech_prob": 8.100543348078804e-13,
+      "compression_ratio": 1.71900826446281,
+      "temperature": 0.0
+    },
+    {
+      "start": 458.44,
+      "duration": 2.7200000000000273,
+      "text": "Who compromises over and over again.",
+      "avg_logprob": -0.12052977622092308,
+      "no_speech_prob": 8.100543348078804e-13,
+      "compression_ratio": 1.71900826446281,
+      "temperature": 0.0
+    },
+    {
+      "start": 461.26,
+      "duration": 3.519999999999982,
+      "text": "And little by little, we've seen him grow and grow and grow.",
+      "avg_logprob": -0.12052977622092308,
+      "no_speech_prob": 8.100543348078804e-13,
+      "compression_ratio": 1.71900826446281,
+      "temperature": 0.0
+    },
+    {
+      "start": 464.92,
+      "duration": 7.9599999999999795,
+      "text": "And here in Genesis 22, I think the scripture actually presents him as a man of mature faith.",
+      "avg_logprob": -0.07602773554184858,
+      "no_speech_prob": 5.230185316958125e-13,
+      "compression_ratio": 1.6775700934579438,
+      "temperature": 0.0
+    },
+    {
+      "start": 474.36,
+      "duration": 10.979999999999961,
+      "text": "And for this reason, this is one of the few times in scripture I think we can actually look to a human example in some ways as what our faith should look like.",
+      "avg_logprob": -0.07602773554184858,
+      "no_speech_prob": 5.230185316958125e-13,
+      "compression_ratio": 1.6775700934579438,
+      "temperature": 0.0
+    },
+    {
+      "start": 486.28,
+      "duration": 8.260000000000048,
+      "text": "So here in Genesis 22, Abraham is going to serve as that example of what true faith in our life produces.",
+      "avg_logprob": -0.07602773554184858,
+      "no_speech_prob": 5.230185316958125e-13,
+      "compression_ratio": 1.6775700934579438,
+      "temperature": 0.0
+    },
+    {
+      "start": 494.92,
+      "duration": 3.3799999999999955,
+      "text": "All right, so let's pray and let's look at this story.",
+      "avg_logprob": -0.18163772062821823,
+      "no_speech_prob": 5.856951208749184e-13,
+      "compression_ratio": 1.5758928571428572,
+      "temperature": 0.0
+    },
+    {
+      "start": 501.82,
+      "duration": 6.519999999999982,
+      "text": "Our gracious and loving Father, I thank you so much that you do not leave us alone,",
+      "avg_logprob": -0.18163772062821823,
+      "no_speech_prob": 5.856951208749184e-13,
+      "compression_ratio": 1.5758928571428572,
+      "temperature": 0.0
+    },
+    {
+      "start": 509.12,
+      "duration": 6.7999999999999545,
+      "text": "but that through the testing of our faith, through these difficult circumstances that we go through, Lord,",
+      "avg_logprob": -0.18163772062821823,
+      "no_speech_prob": 5.856951208749184e-13,
+      "compression_ratio": 1.5758928571428572,
+      "temperature": 0.0
+    },
+    {
+      "start": 516.02,
+      "duration": 1.9800000000000182,
+      "text": "that you are ever present with us.",
+      "avg_logprob": -0.18163772062821823,
+      "no_speech_prob": 5.856951208749184e-13,
+      "compression_ratio": 1.5758928571428572,
+      "temperature": 0.0
+    },
+    {
+      "start": 518.44,
+      "duration": 5.3599999999999,
+      "text": "And you demonstrate that even here in Genesis 22 in the life of Abraham.",
+      "avg_logprob": -0.18163772062821823,
+      "no_speech_prob": 5.856951208749184e-13,
+      "compression_ratio": 1.5758928571428572,
+      "temperature": 0.0
+    },
+    {
+      "start": 525.34,
+      "duration": 3.0799999999999272,
+      "text": "Thank you, Lord, that we can trust you.",
+      "avg_logprob": -0.1926609602841464,
+      "no_speech_prob": 4.951825624890938e-13,
+      "compression_ratio": 1.4093264248704662,
+      "temperature": 0.0
+    },
+    {
+      "start": 528.68,
+      "duration": 3.8799999999999955,
+      "text": "We look to you now that you might illuminate your word to us",
+      "avg_logprob": -0.1926609602841464,
+      "no_speech_prob": 4.951825624890938e-13,
+      "compression_ratio": 1.4093264248704662,
+      "temperature": 0.0
+    },
+    {
+      "start": 533.16,
+      "duration": 2.800000000000068,
+      "text": "and help us to see you clearly.",
+      "avg_logprob": -0.1926609602841464,
+      "no_speech_prob": 4.951825624890938e-13,
+      "compression_ratio": 1.4093264248704662,
+      "temperature": 0.0
+    },
+    {
+      "start": 536.32,
+      "duration": 1.9799999999999045,
+      "text": "In Jesus' name we pray. Amen.",
+      "avg_logprob": -0.1926609602841464,
+      "no_speech_prob": 4.951825624890938e-13,
+      "compression_ratio": 1.4093264248704662,
+      "temperature": 0.0
+    },
+    {
+      "start": 540.4,
+      "duration": 3.9400000000000546,
+      "text": "So, the story opens up, Genesis 22, verse 1.",
+      "avg_logprob": -0.1926609602841464,
+      "no_speech_prob": 4.951825624890938e-13,
+      "compression_ratio": 1.4093264248704662,
+      "temperature": 0.0
+    },
+    {
+      "start": 545.18,
+      "duration": 1.4600000000000364,
+      "text": "This is scene 1.",
+      "avg_logprob": -0.1926609602841464,
+      "no_speech_prob": 4.951825624890938e-13,
+      "compression_ratio": 1.4093264248704662,
+      "temperature": 0.0
+    },
+    {
+      "start": 547.54,
+      "duration": 3.080000000000041,
+      "text": "Abraham and his family are living in Beersheba.",
+      "avg_logprob": -0.1926609602841464,
+      "no_speech_prob": 4.951825624890938e-13,
+      "compression_ratio": 1.4093264248704662,
+      "temperature": 0.0
+    },
+    {
+      "start": 551.24,
+      "duration": 4.3799999999999955,
+      "text": "Beersheba is a town in the southern area of Canaan,",
+      "avg_logprob": -0.1426224375880042,
+      "no_speech_prob": 6.9288270867357e-13,
+      "compression_ratio": 1.7246963562753037,
+      "temperature": 0.0
+    },
+    {
+      "start": 555.82,
+      "duration": 2.4799999999999045,
+      "text": "kind of the area of the Philistines along the coast.",
+      "avg_logprob": -0.1426224375880042,
+      "no_speech_prob": 6.9288270867357e-13,
+      "compression_ratio": 1.7246963562753037,
+      "temperature": 0.0
+    },
+    {
+      "start": 558.54,
+      "duration": 3.1399999999999864,
+      "text": "And we learn that at the end of Genesis 21,",
+      "avg_logprob": -0.1426224375880042,
+      "no_speech_prob": 6.9288270867357e-13,
+      "compression_ratio": 1.7246963562753037,
+      "temperature": 0.0
+    },
+    {
+      "start": 561.84,
+      "duration": 2.3199999999999363,
+      "text": "we learn that he lived there for many days.",
+      "avg_logprob": -0.1426224375880042,
+      "no_speech_prob": 6.9288270867357e-13,
+      "compression_ratio": 1.7246963562753037,
+      "temperature": 0.0
+    },
+    {
+      "start": 564.2,
+      "duration": 1.9399999999999409,
+      "text": "So it doesn't tell us how long.",
+      "avg_logprob": -0.1426224375880042,
+      "no_speech_prob": 6.9288270867357e-13,
+      "compression_ratio": 1.7246963562753037,
+      "temperature": 0.0
+    },
+    {
+      "start": 566.52,
+      "duration": 4.0,
+      "text": "Abraham was in his hundreds at the time that Isaac was born.",
+      "avg_logprob": -0.1426224375880042,
+      "no_speech_prob": 6.9288270867357e-13,
+      "compression_ratio": 1.7246963562753037,
+      "temperature": 0.0
+    },
+    {
+      "start": 570.56,
+      "duration": 0.9600000000000364,
+      "text": "He was 100 years old.",
+      "avg_logprob": -0.1426224375880042,
+      "no_speech_prob": 6.9288270867357e-13,
+      "compression_ratio": 1.7246963562753037,
+      "temperature": 0.0
+    },
+    {
+      "start": 572.0,
+      "duration": 2.1399999999999864,
+      "text": "So we don't know how long he's been there.",
+      "avg_logprob": -0.1426224375880042,
+      "no_speech_prob": 6.9288270867357e-13,
+      "compression_ratio": 1.7246963562753037,
+      "temperature": 0.0
+    },
+    {
+      "start": 575.36,
+      "duration": 2.67999999999995,
+      "text": "But Abraham is a little bit older now.",
+      "avg_logprob": -0.1426224375880042,
+      "no_speech_prob": 6.9288270867357e-13,
+      "compression_ratio": 1.7246963562753037,
+      "temperature": 0.0
+    },
+    {
+      "start": 578.3,
+      "duration": 2.080000000000041,
+      "text": "Isaac is now a little bit older now.",
+      "avg_logprob": -0.1426224375880042,
+      "no_speech_prob": 6.9288270867357e-13,
+      "compression_ratio": 1.7246963562753037,
+      "temperature": 0.0
+    },
+    {
+      "start": 580.62,
+      "duration": 2.9600000000000364,
+      "text": "Isaac is probably not a young child anymore.",
+      "avg_logprob": -0.1390694914192989,
+      "no_speech_prob": 5.973216170816753e-13,
+      "compression_ratio": 1.5899581589958158,
+      "temperature": 0.0
+    },
+    {
+      "start": 583.58,
+      "duration": 1.419999999999959,
+      "text": "He might be a little bit older.",
+      "avg_logprob": -0.1390694914192989,
+      "no_speech_prob": 5.973216170816753e-13,
+      "compression_ratio": 1.5899581589958158,
+      "temperature": 0.0
+    },
+    {
+      "start": 585.7,
+      "duration": 3.8999999999999773,
+      "text": "In fact, he could be as old as 30 at this time.",
+      "avg_logprob": -0.1390694914192989,
+      "no_speech_prob": 5.973216170816753e-13,
+      "compression_ratio": 1.5899581589958158,
+      "temperature": 0.0
+    },
+    {
+      "start": 589.6,
+      "duration": 2.159999999999968,
+      "text": "So we don't know exactly how old he is.",
+      "avg_logprob": -0.1390694914192989,
+      "no_speech_prob": 5.973216170816753e-13,
+      "compression_ratio": 1.5899581589958158,
+      "temperature": 0.0
+    },
+    {
+      "start": 592.74,
+      "duration": 3.980000000000018,
+      "text": "And here at the beginning of the story, look at verse 1.",
+      "avg_logprob": -0.1390694914192989,
+      "no_speech_prob": 5.973216170816753e-13,
+      "compression_ratio": 1.5899581589958158,
+      "temperature": 0.0
+    },
+    {
+      "start": 596.94,
+      "duration": 5.039999999999964,
+      "text": "It says, after these things, God tested Abraham, said to him,",
+      "avg_logprob": -0.1390694914192989,
+      "no_speech_prob": 5.973216170816753e-13,
+      "compression_ratio": 1.5899581589958158,
+      "temperature": 0.0
+    },
+    {
+      "start": 602.1,
+      "duration": 1.4800000000000182,
+      "text": "Abraham, and he said, here I am.",
+      "avg_logprob": -0.1390694914192989,
+      "no_speech_prob": 5.973216170816753e-13,
+      "compression_ratio": 1.5899581589958158,
+      "temperature": 0.0
+    },
+    {
+      "start": 603.66,
+      "duration": 5.060000000000059,
+      "text": "And he said, take your son, your only son Isaac, whom you love,",
+      "avg_logprob": -0.1390694914192989,
+      "no_speech_prob": 5.973216170816753e-13,
+      "compression_ratio": 1.5899581589958158,
+      "temperature": 0.0
+    },
+    {
+      "start": 611.12,
+      "duration": 12.82000000000005,
+      "text": "And the first question that we come to, and I think we all feel it when we read that, is what in the world?",
+      "avg_logprob": -0.17453131600031777,
+      "no_speech_prob": 6.821608165494264e-13,
+      "compression_ratio": 1.4610389610389611,
+      "temperature": 0.0
+    },
+    {
+      "start": 624.82,
+      "duration": 1.2999999999999545,
+      "text": "What is God doing?",
+      "avg_logprob": -0.17453131600031777,
+      "no_speech_prob": 6.821608165494264e-13,
+      "compression_ratio": 1.4610389610389611,
+      "temperature": 0.0
+    },
+    {
+      "start": 626.78,
+      "duration": 8.600000000000023,
+      "text": "How could he possibly, how could a good and loving God ask him to do this, to sacrifice his child?",
+      "avg_logprob": -0.17453131600031777,
+      "no_speech_prob": 6.821608165494264e-13,
+      "compression_ratio": 1.4610389610389611,
+      "temperature": 0.0
+    },
+    {
+      "start": 635.38,
+      "duration": 6.519999999999982,
+      "text": "We're so troubled and perplexed by this question because, one, this is not what we know of our God.",
+      "avg_logprob": -0.1352394982880237,
+      "no_speech_prob": 7.404506695285473e-13,
+      "compression_ratio": 1.5899581589958158,
+      "temperature": 0.0
+    },
+    {
+      "start": 642.04,
+      "duration": 6.759999999999991,
+      "text": "But even more, if we've been following the story of Abraham, you guys, Isaac can't die.",
+      "avg_logprob": -0.1352394982880237,
+      "no_speech_prob": 7.404506695285473e-13,
+      "compression_ratio": 1.5899581589958158,
+      "temperature": 0.0
+    },
+    {
+      "start": 649.3,
+      "duration": 1.3400000000000318,
+      "text": "He can't die.",
+      "avg_logprob": -0.1352394982880237,
+      "no_speech_prob": 7.404506695285473e-13,
+      "compression_ratio": 1.5899581589958158,
+      "temperature": 0.0
+    },
+    {
+      "start": 650.82,
+      "duration": 7.759999999999991,
+      "text": "He is the promised child, the one through which Abraham is going to become not just a nation but a multitude of nations.",
+      "avg_logprob": -0.1352394982880237,
+      "no_speech_prob": 7.404506695285473e-13,
+      "compression_ratio": 1.5899581589958158,
+      "temperature": 0.0
+    },
+    {
+      "start": 659.02,
+      "duration": 4.519999999999982,
+      "text": "He said, it's through Isaac shall his offspring be named.",
+      "avg_logprob": -0.1352394982880237,
+      "no_speech_prob": 7.404506695285473e-13,
+      "compression_ratio": 1.5899581589958158,
+      "temperature": 0.0
+    },
+    {
+      "start": 665.38,
+      "duration": 10.600000000000023,
+      "text": "cannot die. Now, this is not what God wants. Later on, you know, so Moses wrote the book of Genesis.",
+      "avg_logprob": -0.08332394216662255,
+      "no_speech_prob": 6.45860101511353e-13,
+      "compression_ratio": 1.6008230452674896,
+      "temperature": 0.0
+    },
+    {
+      "start": 676.16,
+      "duration": 5.860000000000014,
+      "text": "He also wrote Exodus, Leviticus, Numbers, and Deuteronomy. And in both Leviticus and in Deuteronomy,",
+      "avg_logprob": -0.08332394216662255,
+      "no_speech_prob": 6.45860101511353e-13,
+      "compression_ratio": 1.6008230452674896,
+      "temperature": 0.0
+    },
+    {
+      "start": 682.54,
+      "duration": 5.480000000000018,
+      "text": "he mentions that child sacrifice is strictly forbidden. There were the other nations that",
+      "avg_logprob": -0.08332394216662255,
+      "no_speech_prob": 6.45860101511353e-13,
+      "compression_ratio": 1.6008230452674896,
+      "temperature": 0.0
+    },
+    {
+      "start": 688.02,
+      "duration": 5.600000000000023,
+      "text": "were doing that, and God says, no, we're not doing that. So that context helps us a little bit to",
+      "avg_logprob": -0.08332394216662255,
+      "no_speech_prob": 6.45860101511353e-13,
+      "compression_ratio": 1.6008230452674896,
+      "temperature": 0.0
+    },
+    {
+      "start": 695.38,
+      "duration": 5.2999999999999545,
+      "text": "want Isaac to die here. But there's another clue in the passage that helps us to see that.",
+      "avg_logprob": -0.08812457323074341,
+      "no_speech_prob": 7.261552470438914e-13,
+      "compression_ratio": 1.6837209302325582,
+      "temperature": 0.0
+    },
+    {
+      "start": 701.3,
+      "duration": 5.780000000000086,
+      "text": "And that's right here at the beginning. He says, after these things, God tested Abraham.",
+      "avg_logprob": -0.08812457323074341,
+      "no_speech_prob": 7.261552470438914e-13,
+      "compression_ratio": 1.6837209302325582,
+      "temperature": 0.0
+    },
+    {
+      "start": 708.44,
+      "duration": 4.8599999999999,
+      "text": "We are led in as a reader. We are led in on a little clue that helps us to understand",
+      "avg_logprob": -0.08812457323074341,
+      "no_speech_prob": 7.261552470438914e-13,
+      "compression_ratio": 1.6837209302325582,
+      "temperature": 0.0
+    },
+    {
+      "start": 713.3,
+      "duration": 7.259999999999991,
+      "text": "that this is a test. This is not exactly what God wants. It kind of cushions the blow for what's",
+      "avg_logprob": -0.08812457323074341,
+      "no_speech_prob": 7.261552470438914e-13,
+      "compression_ratio": 1.6837209302325582,
+      "temperature": 0.0
+    },
+    {
+      "start": 720.56,
+      "duration": 10.440000000000055,
+      "text": "coming. And so God's test is for Abraham to take his only son, his beloved son, this special child",
+      "avg_logprob": -0.04635908696558568,
+      "no_speech_prob": 5.789281814355673e-13,
+      "compression_ratio": 1.549738219895288,
+      "temperature": 0.0
+    },
+    {
+      "start": 731.0,
+      "duration": 6.840000000000032,
+      "text": "of promise, and sacrifice him as a burnt offering on this mountain in the land of Moriah. And how",
+      "avg_logprob": -0.04635908696558568,
+      "no_speech_prob": 5.789281814355673e-13,
+      "compression_ratio": 1.549738219895288,
+      "temperature": 0.0
+    },
+    {
+      "start": 737.84,
+      "duration": 7.0,
+      "text": "does Abraham respond? You know, we're not told how he feels about this. We're not told about how he",
+      "avg_logprob": -0.04635908696558568,
+      "no_speech_prob": 5.789281814355673e-13,
+      "compression_ratio": 1.549738219895288,
+      "temperature": 0.0
+    },
+    {
+      "start": 746.12,
+      "duration": 5.7000000000000455,
+      "text": "immediately reacted to this decision, we're actually left to put ourselves in his position.",
+      "avg_logprob": -0.1405358175629551,
+      "no_speech_prob": 6.16264363758473e-13,
+      "compression_ratio": 1.675,
+      "temperature": 0.0
+    },
+    {
+      "start": 752.06,
+      "duration": 5.220000000000027,
+      "text": "And the tension that you feel in your own heart when you read that is probably how he felt, right?",
+      "avg_logprob": -0.1405358175629551,
+      "no_speech_prob": 6.16264363758473e-13,
+      "compression_ratio": 1.675,
+      "temperature": 0.0
+    },
+    {
+      "start": 757.84,
+      "duration": 2.0,
+      "text": "I mean, if it were you, wouldn't you be torn?",
+      "avg_logprob": -0.1405358175629551,
+      "no_speech_prob": 6.16264363758473e-13,
+      "compression_ratio": 1.675,
+      "temperature": 0.0
+    },
+    {
+      "start": 760.0,
+      "duration": 7.159999999999968,
+      "text": "Wouldn't you be torn between this God that has been so good and faithful to you for decades,",
+      "avg_logprob": -0.1405358175629551,
+      "no_speech_prob": 6.16264363758473e-13,
+      "compression_ratio": 1.675,
+      "temperature": 0.0
+    },
+    {
+      "start": 768.1999999999999,
+      "duration": 4.460000000000036,
+      "text": "who loves you and you know that you love him as well, but then your son?",
+      "avg_logprob": -0.1405358175629551,
+      "no_speech_prob": 6.16264363758473e-13,
+      "compression_ratio": 1.675,
+      "temperature": 0.0
+    },
+    {
+      "start": 773.32,
+      "duration": 1.6599999999999682,
+      "text": "Wouldn't you be torn between the two?",
+      "avg_logprob": -0.17071772403404362,
+      "no_speech_prob": 7.639586662930298e-13,
+      "compression_ratio": 1.6165413533834587,
+      "temperature": 0.0
+    },
+    {
+      "start": 776.7,
+      "duration": 1.4399999999999409,
+      "text": "Would you get any sleep that night?",
+      "avg_logprob": -0.17071772403404362,
+      "no_speech_prob": 7.639586662930298e-13,
+      "compression_ratio": 1.6165413533834587,
+      "temperature": 0.0
+    },
+    {
+      "start": 779.86,
+      "duration": 2.0,
+      "text": "Would you be prepared to go through with it?",
+      "avg_logprob": -0.17071772403404362,
+      "no_speech_prob": 7.639586662930298e-13,
+      "compression_ratio": 1.6165413533834587,
+      "temperature": 0.0
+    },
+    {
+      "start": 782.46,
+      "duration": 2.919999999999959,
+      "text": "But look at what Abraham did in verse 3 right away.",
+      "avg_logprob": -0.17071772403404362,
+      "no_speech_prob": 7.639586662930298e-13,
+      "compression_ratio": 1.6165413533834587,
+      "temperature": 0.0
+    },
+    {
+      "start": 785.56,
+      "duration": 2.880000000000109,
+      "text": "It says, so Abraham rose early the next morning.",
+      "avg_logprob": -0.17071772403404362,
+      "no_speech_prob": 7.639586662930298e-13,
+      "compression_ratio": 1.6165413533834587,
+      "temperature": 0.0
+    },
+    {
+      "start": 789.1800000000001,
+      "duration": 1.1399999999999864,
+      "text": "He saddled his donkey.",
+      "avg_logprob": -0.17071772403404362,
+      "no_speech_prob": 7.639586662930298e-13,
+      "compression_ratio": 1.6165413533834587,
+      "temperature": 0.0
+    },
+    {
+      "start": 790.48,
+      "duration": 2.5599999999999454,
+      "text": "He took two of his young men with him and his son Isaac.",
+      "avg_logprob": -0.17071772403404362,
+      "no_speech_prob": 7.639586662930298e-13,
+      "compression_ratio": 1.6165413533834587,
+      "temperature": 0.0
+    },
+    {
+      "start": 793.34,
+      "duration": 4.139999999999986,
+      "text": "He cut the wood for the burnt offering, arose, and went to the place which God had told him.",
+      "avg_logprob": -0.17071772403404362,
+      "no_speech_prob": 7.639586662930298e-13,
+      "compression_ratio": 1.6165413533834587,
+      "temperature": 0.0
+    },
+    {
+      "start": 797.58,
+      "duration": 2.339999999999918,
+      "text": "So, you guys, Abraham does not stall.",
+      "avg_logprob": -0.17071772403404362,
+      "no_speech_prob": 7.639586662930298e-13,
+      "compression_ratio": 1.6165413533834587,
+      "temperature": 0.0
+    },
+    {
+      "start": 800.96,
+      "duration": 2.7799999999999727,
+      "text": "he immediately does what God asks him to do.",
+      "avg_logprob": -0.20049820323981862,
+      "no_speech_prob": 5.926715823841022e-13,
+      "compression_ratio": 1.6590909090909092,
+      "temperature": 0.0
+    },
+    {
+      "start": 803.96,
+      "duration": 3.1200000000000045,
+      "text": "He rises early, he prepares what he needs to prepare,",
+      "avg_logprob": -0.20049820323981862,
+      "no_speech_prob": 5.926715823841022e-13,
+      "compression_ratio": 1.6590909090909092,
+      "temperature": 0.0
+    },
+    {
+      "start": 807.26,
+      "duration": 1.4600000000000364,
+      "text": "and he heads out.",
+      "avg_logprob": -0.20049820323981862,
+      "no_speech_prob": 5.926715823841022e-13,
+      "compression_ratio": 1.6590909090909092,
+      "temperature": 0.0
+    },
+    {
+      "start": 810.22,
+      "duration": 2.339999999999918,
+      "text": "And I think this tells us something about faith.",
+      "avg_logprob": -0.20049820323981862,
+      "no_speech_prob": 5.926715823841022e-13,
+      "compression_ratio": 1.6590909090909092,
+      "temperature": 0.0
+    },
+    {
+      "start": 813.44,
+      "duration": 2.7999999999999545,
+      "text": "One of the things that faith will produce in our life",
+      "avg_logprob": -0.20049820323981862,
+      "no_speech_prob": 5.926715823841022e-13,
+      "compression_ratio": 1.6590909090909092,
+      "temperature": 0.0
+    },
+    {
+      "start": 816.86,
+      "duration": 1.0199999999999818,
+      "text": "is action.",
+      "avg_logprob": -0.20049820323981862,
+      "no_speech_prob": 5.926715823841022e-13,
+      "compression_ratio": 1.6590909090909092,
+      "temperature": 0.0
+    },
+    {
+      "start": 818.8000000000001,
+      "duration": 2.2799999999999727,
+      "text": "Faith will produce action in our life.",
+      "avg_logprob": -0.20049820323981862,
+      "no_speech_prob": 5.926715823841022e-13,
+      "compression_ratio": 1.6590909090909092,
+      "temperature": 0.0
+    },
+    {
+      "start": 822.2600000000001,
+      "duration": 3.7399999999998954,
+      "text": "The faith we've been given is not just a passive belief.",
+      "avg_logprob": -0.20049820323981862,
+      "no_speech_prob": 5.926715823841022e-13,
+      "compression_ratio": 1.6590909090909092,
+      "temperature": 0.0
+    },
+    {
+      "start": 826.9200000000001,
+      "duration": 2.599999999999909,
+      "text": "It's an active trust in the living God",
+      "avg_logprob": -0.20049820323981862,
+      "no_speech_prob": 5.926715823841022e-13,
+      "compression_ratio": 1.6590909090909092,
+      "temperature": 0.0
+    },
+    {
+      "start": 829.92,
+      "duration": 3.3799999999999955,
+      "text": "That's going to actually change us and it's going to move us to action.",
+      "avg_logprob": -0.18514027871376226,
+      "no_speech_prob": 5.524348339891461e-13,
+      "compression_ratio": 1.9454545454545455,
+      "temperature": 0.0
+    },
+    {
+      "start": 833.62,
+      "duration": 5.559999999999945,
+      "text": "So first, it's going to bear fruit in our lives by giving us love for God.",
+      "avg_logprob": -0.18514027871376226,
+      "no_speech_prob": 5.524348339891461e-13,
+      "compression_ratio": 1.9454545454545455,
+      "temperature": 0.0
+    },
+    {
+      "start": 839.38,
+      "duration": 0.32000000000005,
+      "text": "Right?",
+      "avg_logprob": -0.18514027871376226,
+      "no_speech_prob": 5.524348339891461e-13,
+      "compression_ratio": 1.9454545454545455,
+      "temperature": 0.0
+    },
+    {
+      "start": 840.0,
+      "duration": 3.6000000000000227,
+      "text": "And that love for God manifests itself in one way.",
+      "avg_logprob": -0.18514027871376226,
+      "no_speech_prob": 5.524348339891461e-13,
+      "compression_ratio": 1.9454545454545455,
+      "temperature": 0.0
+    },
+    {
+      "start": 844.6400000000001,
+      "duration": 0.5599999999999454,
+      "text": "Obedience.",
+      "avg_logprob": -0.18514027871376226,
+      "no_speech_prob": 5.524348339891461e-13,
+      "compression_ratio": 1.9454545454545455,
+      "temperature": 0.0
+    },
+    {
+      "start": 846.3800000000001,
+      "duration": 3.9999999999998863,
+      "text": "Love for God is going to manifest itself in obedience to God's command.",
+      "avg_logprob": -0.18514027871376226,
+      "no_speech_prob": 5.524348339891461e-13,
+      "compression_ratio": 1.9454545454545455,
+      "temperature": 0.0
+    },
+    {
+      "start": 850.74,
+      "duration": 0.5800000000000409,
+      "text": "All right?",
+      "avg_logprob": -0.18514027871376226,
+      "no_speech_prob": 5.524348339891461e-13,
+      "compression_ratio": 1.9454545454545455,
+      "temperature": 0.0
+    },
+    {
+      "start": 852.1800000000001,
+      "duration": 3.9999999999998863,
+      "text": "But then it's also going to manifest itself, this faith is going to grow in us",
+      "avg_logprob": -0.18514027871376226,
+      "no_speech_prob": 5.524348339891461e-13,
+      "compression_ratio": 1.9454545454545455,
+      "temperature": 0.0
+    },
+    {
+      "start": 856.18,
+      "duration": 2.1000000000000227,
+      "text": "and it's going to produce love for others as well.",
+      "avg_logprob": -0.18514027871376226,
+      "no_speech_prob": 5.524348339891461e-13,
+      "compression_ratio": 1.9454545454545455,
+      "temperature": 0.0
+    },
+    {
+      "start": 859.92,
+      "duration": 4.740000000000009,
+      "text": "begin to grow in that we're going to have a desire to love one another, to serve one another,",
+      "avg_logprob": -0.10409153113930912,
+      "no_speech_prob": 5.949943229083265e-13,
+      "compression_ratio": 1.6893939393939394,
+      "temperature": 0.0
+    },
+    {
+      "start": 864.84,
+      "duration": 4.740000000000009,
+      "text": "to submit to one another, to care for one another. We begin to view God and others",
+      "avg_logprob": -0.10409153113930912,
+      "no_speech_prob": 5.949943229083265e-13,
+      "compression_ratio": 1.6893939393939394,
+      "temperature": 0.0
+    },
+    {
+      "start": 870.76,
+      "duration": 5.740000000000009,
+      "text": "as being more important than ourselves, right? You know, when I first became a Christian,",
+      "avg_logprob": -0.10409153113930912,
+      "no_speech_prob": 5.949943229083265e-13,
+      "compression_ratio": 1.6893939393939394,
+      "temperature": 0.0
+    },
+    {
+      "start": 877.02,
+      "duration": 6.0,
+      "text": "I was about 16 years old, about to turn 17. And you know what? I was a good kid. Like,",
+      "avg_logprob": -0.10409153113930912,
+      "no_speech_prob": 5.949943229083265e-13,
+      "compression_ratio": 1.6893939393939394,
+      "temperature": 0.0
+    },
+    {
+      "start": 883.62,
+      "duration": 5.960000000000036,
+      "text": "I was generally nice to people. I wasn't doing, like, these things that all my other friends",
+      "avg_logprob": -0.10409153113930912,
+      "no_speech_prob": 5.949943229083265e-13,
+      "compression_ratio": 1.6893939393939394,
+      "temperature": 0.0
+    },
+    {
+      "start": 889.9599999999999,
+      "duration": 2.0000000000001137,
+      "text": "I wasn't drinking and going to parties.",
+      "avg_logprob": -0.12722336560830302,
+      "no_speech_prob": 1.2594166161339349e-12,
+      "compression_ratio": 1.901360544217687,
+      "temperature": 0.0
+    },
+    {
+      "start": 891.96,
+      "duration": 2.339999999999918,
+      "text": "I wasn't having sex and doing that sort of stuff.",
+      "avg_logprob": -0.12722336560830302,
+      "no_speech_prob": 1.2594166161339349e-12,
+      "compression_ratio": 1.901360544217687,
+      "temperature": 0.0
+    },
+    {
+      "start": 894.52,
+      "duration": 1.9800000000000182,
+      "text": "So I was just like, yeah, I'm a generally good kid.",
+      "avg_logprob": -0.12722336560830302,
+      "no_speech_prob": 1.2594166161339349e-12,
+      "compression_ratio": 1.901360544217687,
+      "temperature": 0.0
+    },
+    {
+      "start": 896.5,
+      "duration": 2.6200000000000045,
+      "text": "So I'm like, I'll just be a Christian.",
+      "avg_logprob": -0.12722336560830302,
+      "no_speech_prob": 1.2594166161339349e-12,
+      "compression_ratio": 1.901360544217687,
+      "temperature": 0.0
+    },
+    {
+      "start": 899.12,
+      "duration": 0.82000000000005,
+      "text": "That makes sense.",
+      "avg_logprob": -0.12722336560830302,
+      "no_speech_prob": 1.2594166161339349e-12,
+      "compression_ratio": 1.901360544217687,
+      "temperature": 0.0
+    },
+    {
+      "start": 901.2199999999999,
+      "duration": 4.380000000000109,
+      "text": "He just kind of showed me, hey, yeah, if I just believe.",
+      "avg_logprob": -0.12722336560830302,
+      "no_speech_prob": 1.2594166161339349e-12,
+      "compression_ratio": 1.901360544217687,
+      "temperature": 0.0
+    },
+    {
+      "start": 905.76,
+      "duration": 1.4400000000000546,
+      "text": "My pastor's like, yeah, you just believe.",
+      "avg_logprob": -0.12722336560830302,
+      "no_speech_prob": 1.2594166161339349e-12,
+      "compression_ratio": 1.901360544217687,
+      "temperature": 0.0
+    },
+    {
+      "start": 907.28,
+      "duration": 0.7200000000000273,
+      "text": "And I was like, that's great.",
+      "avg_logprob": -0.12722336560830302,
+      "no_speech_prob": 1.2594166161339349e-12,
+      "compression_ratio": 1.901360544217687,
+      "temperature": 0.0
+    },
+    {
+      "start": 908.52,
+      "duration": 3.1399999999999864,
+      "text": "But then I was like, not much is really going to change in my life.",
+      "avg_logprob": -0.12722336560830302,
+      "no_speech_prob": 1.2594166161339349e-12,
+      "compression_ratio": 1.901360544217687,
+      "temperature": 0.0
+    },
+    {
+      "start": 911.66,
+      "duration": 2.840000000000032,
+      "text": "I'm just kind of adding this little belief, and maybe I'll go to church on Sunday,",
+      "avg_logprob": -0.12722336560830302,
+      "no_speech_prob": 1.2594166161339349e-12,
+      "compression_ratio": 1.901360544217687,
+      "temperature": 0.0
+    },
+    {
+      "start": 914.54,
+      "duration": 1.0600000000000591,
+      "text": "and that'll be great, right?",
+      "avg_logprob": -0.12722336560830302,
+      "no_speech_prob": 1.2594166161339349e-12,
+      "compression_ratio": 1.901360544217687,
+      "temperature": 0.0
+    },
+    {
+      "start": 916.22,
+      "duration": 2.159999999999968,
+      "text": "So I'm like, okay, I'm going to become a Christian.",
+      "avg_logprob": -0.12722336560830302,
+      "no_speech_prob": 1.2594166161339349e-12,
+      "compression_ratio": 1.901360544217687,
+      "temperature": 0.0
+    },
+    {
+      "start": 919.92,
+      "duration": 6.060000000000059,
+      "text": "was I wrong, right? That little by little, what was so amazing about God in this is that very",
+      "avg_logprob": -0.07278228210190595,
+      "no_speech_prob": 7.520481091170816e-13,
+      "compression_ratio": 1.6654275092936803,
+      "temperature": 0.0
+    },
+    {
+      "start": 925.98,
+      "duration": 6.579999999999927,
+      "text": "slowly and gently, he began to grow my faith and he showed me that these old ways of thinking,",
+      "avg_logprob": -0.07278228210190595,
+      "no_speech_prob": 7.520481091170816e-13,
+      "compression_ratio": 1.6654275092936803,
+      "temperature": 0.0
+    },
+    {
+      "start": 932.76,
+      "duration": 3.9600000000000364,
+      "text": "these old ways of, these old habits that I had, they needed to be put to death.",
+      "avg_logprob": -0.07278228210190595,
+      "no_speech_prob": 7.520481091170816e-13,
+      "compression_ratio": 1.6654275092936803,
+      "temperature": 0.0
+    },
+    {
+      "start": 937.62,
+      "duration": 5.8799999999999955,
+      "text": "And he began to renew me and produce more obedience in my life. And I mean, if you've",
+      "avg_logprob": -0.07278228210190595,
+      "no_speech_prob": 7.520481091170816e-13,
+      "compression_ratio": 1.6654275092936803,
+      "temperature": 0.0
+    },
+    {
+      "start": 943.5,
+      "duration": 4.259999999999991,
+      "text": "been walking with the Lord for any amount of time, you know that's what happens, right? Like,",
+      "avg_logprob": -0.07278228210190595,
+      "no_speech_prob": 7.520481091170816e-13,
+      "compression_ratio": 1.6654275092936803,
+      "temperature": 0.0
+    },
+    {
+      "start": 947.76,
+      "duration": 4.340000000000032,
+      "text": "You grow in that, and our faith will produce that action.",
+      "avg_logprob": -0.17103809356689453,
+      "no_speech_prob": 4.4911302324660007e-13,
+      "compression_ratio": 1.5025641025641026,
+      "temperature": 0.0
+    },
+    {
+      "start": 953.26,
+      "duration": 7.480000000000018,
+      "text": "And so as scene one closes, we are already beginning to see the strength of Abraham's faith.",
+      "avg_logprob": -0.17103809356689453,
+      "no_speech_prob": 4.4911302324660007e-13,
+      "compression_ratio": 1.5025641025641026,
+      "temperature": 0.0
+    },
+    {
+      "start": 961.14,
+      "duration": 7.300000000000068,
+      "text": "His faith has grown to a place that has produced immediate action, right?",
+      "avg_logprob": -0.17103809356689453,
+      "no_speech_prob": 4.4911302324660007e-13,
+      "compression_ratio": 1.5025641025641026,
+      "temperature": 0.0
+    },
+    {
+      "start": 968.54,
+      "duration": 3.160000000000082,
+      "text": "Immediate obedience to God's command.",
+      "avg_logprob": -0.17103809356689453,
+      "no_speech_prob": 4.4911302324660007e-13,
+      "compression_ratio": 1.5025641025641026,
+      "temperature": 0.0
+    },
+    {
+      "start": 973.46,
+      "duration": 3.0,
+      "text": "Scene two, look at verse four.",
+      "avg_logprob": -0.17103809356689453,
+      "no_speech_prob": 4.4911302324660007e-13,
+      "compression_ratio": 1.5025641025641026,
+      "temperature": 0.0
+    },
+    {
+      "start": 978.66,
+      "duration": 1.1399999999999864,
+      "text": "It starts out,",
+      "avg_logprob": -0.1596654545177113,
+      "no_speech_prob": 7.55057041196272e-13,
+      "compression_ratio": 1.61244019138756,
+      "temperature": 0.0
+    },
+    {
+      "start": 980.0,
+      "duration": 4.240000000000009,
+      "text": "On the third day, Abraham lifted up his eyes, and he saw the place from afar.",
+      "avg_logprob": -0.1596654545177113,
+      "no_speech_prob": 7.55057041196272e-13,
+      "compression_ratio": 1.61244019138756,
+      "temperature": 0.0
+    },
+    {
+      "start": 986.16,
+      "duration": 5.1200000000000045,
+      "text": "Abraham, Isaac, and the two servants have been traveling now for three days.",
+      "avg_logprob": -0.1596654545177113,
+      "no_speech_prob": 7.55057041196272e-13,
+      "compression_ratio": 1.61244019138756,
+      "temperature": 0.0
+    },
+    {
+      "start": 992.06,
+      "duration": 7.100000000000023,
+      "text": "And when Abraham looks up, he sees out in the distance these hills in the land of Moriah.",
+      "avg_logprob": -0.1596654545177113,
+      "no_speech_prob": 7.55057041196272e-13,
+      "compression_ratio": 1.61244019138756,
+      "temperature": 0.0
+    },
+    {
+      "start": 1000.16,
+      "duration": 4.519999999999982,
+      "text": "And we're still left to imagine how Abraham has been feeling this whole time.",
+      "avg_logprob": -0.1596654545177113,
+      "no_speech_prob": 7.55057041196272e-13,
+      "compression_ratio": 1.61244019138756,
+      "temperature": 0.0
+    },
+    {
+      "start": 1004.68,
+      "duration": 4.1400000000001,
+      "text": "This has now been four days since he's received this command from God.",
+      "avg_logprob": -0.20623719692230225,
+      "no_speech_prob": 5.502628517770058e-13,
+      "compression_ratio": 1.725,
+      "temperature": 0.0
+    },
+    {
+      "start": 1010.44,
+      "duration": 1.2999999999999545,
+      "text": "How has he been feeling?",
+      "avg_logprob": -0.20623719692230225,
+      "no_speech_prob": 5.502628517770058e-13,
+      "compression_ratio": 1.725,
+      "temperature": 0.0
+    },
+    {
+      "start": 1012.86,
+      "duration": 2.759999999999991,
+      "text": "Has he just been content in trusting the Lord?",
+      "avg_logprob": -0.20623719692230225,
+      "no_speech_prob": 5.502628517770058e-13,
+      "compression_ratio": 1.725,
+      "temperature": 0.0
+    },
+    {
+      "start": 1017.18,
+      "duration": 1.7000000000000455,
+      "text": "Or has he been anxious?",
+      "avg_logprob": -0.20623719692230225,
+      "no_speech_prob": 5.502628517770058e-13,
+      "compression_ratio": 1.725,
+      "temperature": 0.0
+    },
+    {
+      "start": 1019.78,
+      "duration": 1.1800000000000637,
+      "text": "Has he been worried?",
+      "avg_logprob": -0.20623719692230225,
+      "no_speech_prob": 5.502628517770058e-13,
+      "compression_ratio": 1.725,
+      "temperature": 0.0
+    },
+    {
+      "start": 1021.46,
+      "duration": 4.139999999999873,
+      "text": "Has he been wondering if he has the courage to even go through with this?",
+      "avg_logprob": -0.20623719692230225,
+      "no_speech_prob": 5.502628517770058e-13,
+      "compression_ratio": 1.725,
+      "temperature": 0.0
+    },
+    {
+      "start": 1026.48,
+      "duration": 3.660000000000082,
+      "text": "Has he been wondering if the Lord's really going to make him kill his son?",
+      "avg_logprob": -0.20623719692230225,
+      "no_speech_prob": 5.502628517770058e-13,
+      "compression_ratio": 1.725,
+      "temperature": 0.0
+    },
+    {
+      "start": 1031.8600000000001,
+      "duration": 0.9199999999998454,
+      "text": "Verse 5.",
+      "avg_logprob": -0.20623719692230225,
+      "no_speech_prob": 5.502628517770058e-13,
+      "compression_ratio": 1.725,
+      "temperature": 0.0
+    },
+    {
+      "start": 1034.68,
+      "duration": 3.980000000000018,
+      "text": "turns to his two servants, and he makes a fascinating statement.",
+      "avg_logprob": -0.13903282086054483,
+      "no_speech_prob": 7.289757989956125e-13,
+      "compression_ratio": 1.6486486486486487,
+      "temperature": 0.0
+    },
+    {
+      "start": 1038.98,
+      "duration": 7.740000000000009,
+      "text": "He says, I and the boy will go over there and worship and come again to you.",
+      "avg_logprob": -0.13903282086054483,
+      "no_speech_prob": 7.289757989956125e-13,
+      "compression_ratio": 1.6486486486486487,
+      "temperature": 0.0
+    },
+    {
+      "start": 1048.8799999999999,
+      "duration": 2.2000000000000455,
+      "text": "Abraham insists that they're both going to come back.",
+      "avg_logprob": -0.13903282086054483,
+      "no_speech_prob": 7.289757989956125e-13,
+      "compression_ratio": 1.6486486486486487,
+      "temperature": 0.0
+    },
+    {
+      "start": 1052.5,
+      "duration": 1.8199999999999363,
+      "text": "Now why is Abraham saying this?",
+      "avg_logprob": -0.13903282086054483,
+      "no_speech_prob": 7.289757989956125e-13,
+      "compression_ratio": 1.6486486486486487,
+      "temperature": 0.0
+    },
+    {
+      "start": 1054.38,
+      "duration": 1.0399999999999636,
+      "text": "What's going through his mind here?",
+      "avg_logprob": -0.13903282086054483,
+      "no_speech_prob": 7.289757989956125e-13,
+      "compression_ratio": 1.6486486486486487,
+      "temperature": 0.0
+    },
+    {
+      "start": 1055.48,
+      "duration": 4.3599999999999,
+      "text": "Is he just saying this so that the two servants maybe don't stop him from doing what he's going to do?",
+      "avg_logprob": -0.13903282086054483,
+      "no_speech_prob": 7.289757989956125e-13,
+      "compression_ratio": 1.6486486486486487,
+      "temperature": 0.0
+    },
+    {
+      "start": 1059.84,
+      "duration": 5.720000000000027,
+      "text": "Or is he saying this so that maybe Isaac doesn't get wise to what's about to happen and run off?",
+      "avg_logprob": -0.1415091963375316,
+      "no_speech_prob": 5.375337219608312e-13,
+      "compression_ratio": 1.5847457627118644,
+      "temperature": 0.0
+    },
+    {
+      "start": 1065.72,
+      "duration": 1.6399999999998727,
+      "text": "I don't think that's the case.",
+      "avg_logprob": -0.1415091963375316,
+      "no_speech_prob": 5.375337219608312e-13,
+      "compression_ratio": 1.5847457627118644,
+      "temperature": 0.0
+    },
+    {
+      "start": 1067.88,
+      "duration": 3.6399999999998727,
+      "text": "In your Bible, open up to Hebrews chapter 11.",
+      "avg_logprob": -0.1415091963375316,
+      "no_speech_prob": 5.375337219608312e-13,
+      "compression_ratio": 1.5847457627118644,
+      "temperature": 0.0
+    },
+    {
+      "start": 1071.6,
+      "duration": 1.5600000000001728,
+      "text": "I'm going to show you this passage.",
+      "avg_logprob": -0.1415091963375316,
+      "no_speech_prob": 5.375337219608312e-13,
+      "compression_ratio": 1.5847457627118644,
+      "temperature": 0.0
+    },
+    {
+      "start": 1073.68,
+      "duration": 1.7200000000000273,
+      "text": "Hebrews 11 verse 17.",
+      "avg_logprob": -0.1415091963375316,
+      "no_speech_prob": 5.375337219608312e-13,
+      "compression_ratio": 1.5847457627118644,
+      "temperature": 0.0
+    },
+    {
+      "start": 1077.24,
+      "duration": 6.440000000000055,
+      "text": "See, in this statement that Abraham makes, I think he's displaying faith once again.",
+      "avg_logprob": -0.1415091963375316,
+      "no_speech_prob": 5.375337219608312e-13,
+      "compression_ratio": 1.5847457627118644,
+      "temperature": 0.0
+    },
+    {
+      "start": 1084.24,
+      "duration": 4.940000000000055,
+      "text": "Abraham is confident that Isaac is not going to die today.",
+      "avg_logprob": -0.1415091963375316,
+      "no_speech_prob": 5.375337219608312e-13,
+      "compression_ratio": 1.5847457627118644,
+      "temperature": 0.0
+    },
+    {
+      "start": 1089.84,
+      "duration": 6.160000000000082,
+      "text": "In fact, in Hebrews here, I think we get some inspired commentary on this passage.",
+      "avg_logprob": -0.22261207898457844,
+      "no_speech_prob": 4.352966012817483e-13,
+      "compression_ratio": 1.3066666666666666,
+      "temperature": 0.0
+    },
+    {
+      "start": 1096.14,
+      "duration": 2.119999999999891,
+      "text": "This is Hebrews 11, verse 17.",
+      "avg_logprob": -0.22261207898457844,
+      "no_speech_prob": 4.352966012817483e-13,
+      "compression_ratio": 1.3066666666666666,
+      "temperature": 0.0
+    },
+    {
+      "start": 1098.52,
+      "duration": 0.7400000000000091,
+      "text": "Look at what he says.",
+      "avg_logprob": -0.22261207898457844,
+      "no_speech_prob": 4.352966012817483e-13,
+      "compression_ratio": 1.3066666666666666,
+      "temperature": 0.0
+    },
+    {
+      "start": 1100.0,
+      "duration": 0.7000000000000455,
+      "text": "It says,",
+      "avg_logprob": -0.22261207898457844,
+      "no_speech_prob": 4.352966012817483e-13,
+      "compression_ratio": 1.3066666666666666,
+      "temperature": 0.0
+    },
+    {
+      "start": 1111.82,
+      "duration": 3.9600000000000364,
+      "text": "So he's recalling this story from Genesis 22, right?",
+      "avg_logprob": -0.22261207898457844,
+      "no_speech_prob": 4.352966012817483e-13,
+      "compression_ratio": 1.3066666666666666,
+      "temperature": 0.0
+    },
+    {
+      "start": 1115.78,
+      "duration": 3.480000000000018,
+      "text": "of whom it was said, through Isaac shall your offspring be named.",
+      "avg_logprob": -0.2666726759922357,
+      "no_speech_prob": 5.029805781944785e-13,
+      "compression_ratio": 1.4339622641509433,
+      "temperature": 0.0
+    },
+    {
+      "start": 1119.42,
+      "duration": 0.7999999999999545,
+      "text": "Verse 19.",
+      "avg_logprob": -0.2666726759922357,
+      "no_speech_prob": 5.029805781944785e-13,
+      "compression_ratio": 1.4339622641509433,
+      "temperature": 0.0
+    },
+    {
+      "start": 1121.86,
+      "duration": 6.900000000000091,
+      "text": "He considered that God was able even to raise him from the dead,",
+      "avg_logprob": -0.2666726759922357,
+      "no_speech_prob": 5.029805781944785e-13,
+      "compression_ratio": 1.4339622641509433,
+      "temperature": 0.0
+    },
+    {
+      "start": 1129.02,
+      "duration": 4.920000000000073,
+      "text": "from which, figuratively speaking, he did receive him back.",
+      "avg_logprob": -0.2666726759922357,
+      "no_speech_prob": 5.029805781944785e-13,
+      "compression_ratio": 1.4339622641509433,
+      "temperature": 0.0
+    },
+    {
+      "start": 1135.32,
+      "duration": 0.2400000000000091,
+      "text": "Okay.",
+      "avg_logprob": -0.2666726759922357,
+      "no_speech_prob": 5.029805781944785e-13,
+      "compression_ratio": 1.4339622641509433,
+      "temperature": 0.0
+    },
+    {
+      "start": 1136.38,
+      "duration": 3.019999999999982,
+      "text": "The author of Hebrews is helping us to understand",
+      "avg_logprob": -0.2666726759922357,
+      "no_speech_prob": 5.029805781944785e-13,
+      "compression_ratio": 1.4339622641509433,
+      "temperature": 0.0
+    },
+    {
+      "start": 1139.4,
+      "duration": 4.319999999999936,
+      "text": "that at that moment, Abraham truly trusted God.",
+      "avg_logprob": -0.2666726759922357,
+      "no_speech_prob": 5.029805781944785e-13,
+      "compression_ratio": 1.4339622641509433,
+      "temperature": 0.0
+    },
+    {
+      "start": 1145.1399999999999,
+      "duration": 4.2000000000000455,
+      "text": "and that if God was actually going to make him go through with it and kill his son,",
+      "avg_logprob": -0.1933191155874601,
+      "no_speech_prob": 4.387099407712758e-13,
+      "compression_ratio": 1.5954545454545455,
+      "temperature": 0.0
+    },
+    {
+      "start": 1150.34,
+      "duration": 3.480000000000018,
+      "text": "that the promise would still be kept and God would have to raise him from the dead",
+      "avg_logprob": -0.1933191155874601,
+      "no_speech_prob": 4.387099407712758e-13,
+      "compression_ratio": 1.5954545454545455,
+      "temperature": 0.0
+    },
+    {
+      "start": 1153.82,
+      "duration": 3.0800000000001546,
+      "text": "because God's going to keep his promise, right?",
+      "avg_logprob": -0.1933191155874601,
+      "no_speech_prob": 4.387099407712758e-13,
+      "compression_ratio": 1.5954545454545455,
+      "temperature": 0.0
+    },
+    {
+      "start": 1158.98,
+      "duration": 5.059999999999945,
+      "text": "And so Abraham responds to those two servants,",
+      "avg_logprob": -0.1933191155874601,
+      "no_speech_prob": 4.387099407712758e-13,
+      "compression_ratio": 1.5954545454545455,
+      "temperature": 0.0
+    },
+    {
+      "start": 1164.36,
+      "duration": 3.9200000000000728,
+      "text": "I and the boy will go and worship and will come again to you.",
+      "avg_logprob": -0.1933191155874601,
+      "no_speech_prob": 4.387099407712758e-13,
+      "compression_ratio": 1.5954545454545455,
+      "temperature": 0.0
+    },
+    {
+      "start": 1169.84,
+      "duration": 1.3200000000001637,
+      "text": "And then we get to verse 6.",
+      "avg_logprob": -0.1933191155874601,
+      "no_speech_prob": 4.387099407712758e-13,
+      "compression_ratio": 1.5954545454545455,
+      "temperature": 0.0
+    },
+    {
+      "start": 1172.1,
+      "duration": 1.0600000000001728,
+      "text": "these verses",
+      "avg_logprob": -0.17409995544788448,
+      "no_speech_prob": 4.856210377400527e-13,
+      "compression_ratio": 1.670731707317073,
+      "temperature": 0.0
+    },
+    {
+      "start": 1173.16,
+      "duration": 1.8199999999999363,
+      "text": "to be honest with you",
+      "avg_logprob": -0.17409995544788448,
+      "no_speech_prob": 4.856210377400527e-13,
+      "compression_ratio": 1.670731707317073,
+      "temperature": 0.0
+    },
+    {
+      "start": 1174.98,
+      "duration": 2.119999999999891,
+      "text": "I think these are the most heart wrenching verses",
+      "avg_logprob": -0.17409995544788448,
+      "no_speech_prob": 4.856210377400527e-13,
+      "compression_ratio": 1.670731707317073,
+      "temperature": 0.0
+    },
+    {
+      "start": 1177.1,
+      "duration": 1.1200000000001182,
+      "text": "in the whole story",
+      "avg_logprob": -0.17409995544788448,
+      "no_speech_prob": 4.856210377400527e-13,
+      "compression_ratio": 1.670731707317073,
+      "temperature": 0.0
+    },
+    {
+      "start": 1179.3,
+      "duration": 0.6800000000000637,
+      "text": "Abraham",
+      "avg_logprob": -0.17409995544788448,
+      "no_speech_prob": 4.856210377400527e-13,
+      "compression_ratio": 1.670731707317073,
+      "temperature": 0.0
+    },
+    {
+      "start": 1181.12,
+      "duration": 2.400000000000091,
+      "text": "took the wood of the burnt offering",
+      "avg_logprob": -0.17409995544788448,
+      "no_speech_prob": 4.856210377400527e-13,
+      "compression_ratio": 1.670731707317073,
+      "temperature": 0.0
+    },
+    {
+      "start": 1183.52,
+      "duration": 2.0799999999999272,
+      "text": "and he laid it",
+      "avg_logprob": -0.17409995544788448,
+      "no_speech_prob": 4.856210377400527e-13,
+      "compression_ratio": 1.670731707317073,
+      "temperature": 0.0
+    },
+    {
+      "start": 1185.6,
+      "duration": 2.019999999999982,
+      "text": "on Isaac his son",
+      "avg_logprob": -0.17409995544788448,
+      "no_speech_prob": 4.856210377400527e-13,
+      "compression_ratio": 1.670731707317073,
+      "temperature": 0.0
+    },
+    {
+      "start": 1187.62,
+      "duration": 1.4200000000000728,
+      "text": "so his son",
+      "avg_logprob": -0.17409995544788448,
+      "no_speech_prob": 4.856210377400527e-13,
+      "compression_ratio": 1.670731707317073,
+      "temperature": 0.0
+    },
+    {
+      "start": 1189.04,
+      "duration": 2.0399999999999636,
+      "text": "is going to be carrying",
+      "avg_logprob": -0.17409995544788448,
+      "no_speech_prob": 4.856210377400527e-13,
+      "compression_ratio": 1.670731707317073,
+      "temperature": 0.0
+    },
+    {
+      "start": 1191.08,
+      "duration": 1.1600000000000819,
+      "text": "the instrument",
+      "avg_logprob": -0.17409995544788448,
+      "no_speech_prob": 4.856210377400527e-13,
+      "compression_ratio": 1.670731707317073,
+      "temperature": 0.0
+    },
+    {
+      "start": 1192.24,
+      "duration": 2.160000000000082,
+      "text": "that is going to then",
+      "avg_logprob": -0.17409995544788448,
+      "no_speech_prob": 4.856210377400527e-13,
+      "compression_ratio": 1.670731707317073,
+      "temperature": 0.0
+    },
+    {
+      "start": 1195.58,
+      "duration": 1.6800000000000637,
+      "text": "burn his flesh",
+      "avg_logprob": -0.17409995544788448,
+      "no_speech_prob": 4.856210377400527e-13,
+      "compression_ratio": 1.670731707317073,
+      "temperature": 0.0
+    },
+    {
+      "start": 1198.1799999999998,
+      "duration": 0.6800000000000637,
+      "text": "alright",
+      "avg_logprob": -0.17409995544788448,
+      "no_speech_prob": 4.856210377400527e-13,
+      "compression_ratio": 1.670731707317073,
+      "temperature": 0.0
+    },
+    {
+      "start": 1200.3,
+      "duration": 4.620000000000118,
+      "text": "And then it says that he took the knife, the fire and the knife in his hand.",
+      "avg_logprob": -0.18930282592773437,
+      "no_speech_prob": 5.481323402979632e-13,
+      "compression_ratio": 1.7083333333333333,
+      "temperature": 0.0
+    },
+    {
+      "start": 1206.34,
+      "duration": 5.8400000000001455,
+      "text": "And I try to think about Abraham holding that knife, knowing what it is about to do.",
+      "avg_logprob": -0.18930282592773437,
+      "no_speech_prob": 5.481323402979632e-13,
+      "compression_ratio": 1.7083333333333333,
+      "temperature": 0.0
+    },
+    {
+      "start": 1213.8600000000001,
+      "duration": 3.3799999999998818,
+      "text": "And he takes these things and they carry it to the top of the mountain.",
+      "avg_logprob": -0.18930282592773437,
+      "no_speech_prob": 5.481323402979632e-13,
+      "compression_ratio": 1.7083333333333333,
+      "temperature": 0.0
+    },
+    {
+      "start": 1218.74,
+      "duration": 1.0599999999999454,
+      "text": "Look at verse 7.",
+      "avg_logprob": -0.18930282592773437,
+      "no_speech_prob": 5.481323402979632e-13,
+      "compression_ratio": 1.7083333333333333,
+      "temperature": 0.0
+    },
+    {
+      "start": 1220.24,
+      "duration": 3.619999999999891,
+      "text": "Isaac said to his father, Abraham, my father.",
+      "avg_logprob": -0.18930282592773437,
+      "no_speech_prob": 5.481323402979632e-13,
+      "compression_ratio": 1.7083333333333333,
+      "temperature": 0.0
+    },
+    {
+      "start": 1224.36,
+      "duration": 2.3400000000001455,
+      "text": "And he said, here I am, my son.",
+      "avg_logprob": -0.18930282592773437,
+      "no_speech_prob": 5.481323402979632e-13,
+      "compression_ratio": 1.7083333333333333,
+      "temperature": 0.0
+    },
+    {
+      "start": 1227.8,
+      "duration": 5.1400000000001,
+      "text": "He said, behold the fire and the wood, but where is the lamb for the burnt offering?",
+      "avg_logprob": -0.20621297298333582,
+      "no_speech_prob": 5.010197985655385e-13,
+      "compression_ratio": 1.5248618784530388,
+      "temperature": 0.0
+    },
+    {
+      "start": 1234.48,
+      "duration": 2.1399999999998727,
+      "text": "I mean, it breaks your heart, doesn't it?",
+      "avg_logprob": -0.20621297298333582,
+      "no_speech_prob": 5.010197985655385e-13,
+      "compression_ratio": 1.5248618784530388,
+      "temperature": 0.0
+    },
+    {
+      "start": 1237.94,
+      "duration": 6.559999999999945,
+      "text": "This innocent son who is about to be killed doesn't know it's coming.",
+      "avg_logprob": -0.20621297298333582,
+      "no_speech_prob": 5.010197985655385e-13,
+      "compression_ratio": 1.5248618784530388,
+      "temperature": 0.0
+    },
+    {
+      "start": 1245.78,
+      "duration": 3.339999999999918,
+      "text": "Ask this question, very innocent, honest question.",
+      "avg_logprob": -0.20621297298333582,
+      "no_speech_prob": 5.010197985655385e-13,
+      "compression_ratio": 1.5248618784530388,
+      "temperature": 0.0
+    },
+    {
+      "start": 1249.44,
+      "duration": 3.0799999999999272,
+      "text": "My father, where's the lamb?",
+      "avg_logprob": -0.20621297298333582,
+      "no_speech_prob": 5.010197985655385e-13,
+      "compression_ratio": 1.5248618784530388,
+      "temperature": 0.0
+    },
+    {
+      "start": 1255.0,
+      "duration": 2.7799999999999727,
+      "text": "imagine how Abraham felt at that moment.",
+      "avg_logprob": -0.28841609170992083,
+      "no_speech_prob": 4.1858113112788753e-13,
+      "compression_ratio": 1.462962962962963,
+      "temperature": 0.0
+    },
+    {
+      "start": 1258.42,
+      "duration": 1.4800000000000182,
+      "text": "How should he respond?",
+      "avg_logprob": -0.28841609170992083,
+      "no_speech_prob": 4.1858113112788753e-13,
+      "compression_ratio": 1.462962962962963,
+      "temperature": 0.0
+    },
+    {
+      "start": 1261.28,
+      "duration": 0.9200000000000728,
+      "text": "Should he tell him the truth?",
+      "avg_logprob": -0.28841609170992083,
+      "no_speech_prob": 4.1858113112788753e-13,
+      "compression_ratio": 1.462962962962963,
+      "temperature": 0.0
+    },
+    {
+      "start": 1262.68,
+      "duration": 1.0,
+      "text": "Should he lie to him?",
+      "avg_logprob": -0.28841609170992083,
+      "no_speech_prob": 4.1858113112788753e-13,
+      "compression_ratio": 1.462962962962963,
+      "temperature": 0.0
+    },
+    {
+      "start": 1265.26,
+      "duration": 4.3599999999999,
+      "text": "Abraham actually goes the one place that he can go",
+      "avg_logprob": -0.28841609170992083,
+      "no_speech_prob": 4.1858113112788753e-13,
+      "compression_ratio": 1.462962962962963,
+      "temperature": 0.0
+    },
+    {
+      "start": 1269.62,
+      "duration": 1.9400000000000546,
+      "text": "and he turns to his faith.",
+      "avg_logprob": -0.28841609170992083,
+      "no_speech_prob": 4.1858113112788753e-13,
+      "compression_ratio": 1.462962962962963,
+      "temperature": 0.0
+    },
+    {
+      "start": 1272.96,
+      "duration": 2.619999999999891,
+      "text": "He says, God will provide.",
+      "avg_logprob": -0.28841609170992083,
+      "no_speech_prob": 4.1858113112788753e-13,
+      "compression_ratio": 1.462962962962963,
+      "temperature": 0.0
+    },
+    {
+      "start": 1276.36,
+      "duration": 1.3200000000001637,
+      "text": "Look at verse 8.",
+      "avg_logprob": -0.28841609170992083,
+      "no_speech_prob": 4.1858113112788753e-13,
+      "compression_ratio": 1.462962962962963,
+      "temperature": 0.0
+    },
+    {
+      "start": 1280.24,
+      "duration": 4.759999999999991,
+      "text": "Abraham said, God will provide for himself the lamb for the burnt offering, my son.",
+      "avg_logprob": -0.1464113167354039,
+      "no_speech_prob": 5.010202322464075e-13,
+      "compression_ratio": 1.8527918781725887,
+      "temperature": 0.0
+    },
+    {
+      "start": 1286.6,
+      "duration": 3.9400000000000546,
+      "text": "I think this is another thing that faith produces in our life.",
+      "avg_logprob": -0.1464113167354039,
+      "no_speech_prob": 5.010202322464075e-13,
+      "compression_ratio": 1.8527918781725887,
+      "temperature": 0.0
+    },
+    {
+      "start": 1290.64,
+      "duration": 6.879999999999882,
+      "text": "We saw how faith is producing action in our life, but here, faith is producing a dependency in our life.",
+      "avg_logprob": -0.1464113167354039,
+      "no_speech_prob": 5.010202322464075e-13,
+      "compression_ratio": 1.8527918781725887,
+      "temperature": 0.0
+    },
+    {
+      "start": 1298.02,
+      "duration": 1.9600000000000364,
+      "text": "Faith produces dependency.",
+      "avg_logprob": -0.1464113167354039,
+      "no_speech_prob": 5.010202322464075e-13,
+      "compression_ratio": 1.8527918781725887,
+      "temperature": 0.0
+    },
+    {
+      "start": 1300.32,
+      "duration": 6.880000000000109,
+      "text": "Specifically, faith is producing dependency on God to provide everything that we need.",
+      "avg_logprob": -0.1464113167354039,
+      "no_speech_prob": 5.010202322464075e-13,
+      "compression_ratio": 1.8527918781725887,
+      "temperature": 0.0
+    },
+    {
+      "start": 1308.0800000000002,
+      "duration": 6.679999999999836,
+      "text": "our faith helps us to know that anything good that we have in our life comes from God.",
+      "avg_logprob": -0.13014682479526685,
+      "no_speech_prob": 4.780763458722692e-13,
+      "compression_ratio": 1.7416267942583732,
+      "temperature": 0.0
+    },
+    {
+      "start": 1314.92,
+      "duration": 4.879999999999882,
+      "text": "Every good and perfect gift comes from God, the Father of heavenly lights.",
+      "avg_logprob": -0.13014682479526685,
+      "no_speech_prob": 4.780763458722692e-13,
+      "compression_ratio": 1.7416267942583732,
+      "temperature": 0.0
+    },
+    {
+      "start": 1320.0,
+      "duration": 3.7200000000000273,
+      "text": "He is the source of everything good in our life.",
+      "avg_logprob": -0.13014682479526685,
+      "no_speech_prob": 4.780763458722692e-13,
+      "compression_ratio": 1.7416267942583732,
+      "temperature": 0.0
+    },
+    {
+      "start": 1323.86,
+      "duration": 4.320000000000164,
+      "text": "And this develops in us into a dependency in God",
+      "avg_logprob": -0.13014682479526685,
+      "no_speech_prob": 4.780763458722692e-13,
+      "compression_ratio": 1.7416267942583732,
+      "temperature": 0.0
+    },
+    {
+      "start": 1328.18,
+      "duration": 4.2999999999999545,
+      "text": "that he alone is going to provide everything that we need,",
+      "avg_logprob": -0.13014682479526685,
+      "no_speech_prob": 4.780763458722692e-13,
+      "compression_ratio": 1.7416267942583732,
+      "temperature": 0.0
+    },
+    {
+      "start": 1332.6,
+      "duration": 2.3400000000001455,
+      "text": "both in times of plenty and in times of want.",
+      "avg_logprob": -0.13014682479526685,
+      "no_speech_prob": 4.780763458722692e-13,
+      "compression_ratio": 1.7416267942583732,
+      "temperature": 0.0
+    },
+    {
+      "start": 1336.08,
+      "duration": 4.6400000000001,
+      "text": "But it's especially in the difficult times, in the times of painful circumstances,",
+      "avg_logprob": -0.1011330140840023,
+      "no_speech_prob": 5.250820936907041e-13,
+      "compression_ratio": 1.7385892116182573,
+      "temperature": 0.0
+    },
+    {
+      "start": 1341.04,
+      "duration": 3.519999999999982,
+      "text": "the times when we just don't know how we're going to make it through.",
+      "avg_logprob": -0.1011330140840023,
+      "no_speech_prob": 5.250820936907041e-13,
+      "compression_ratio": 1.7385892116182573,
+      "temperature": 0.0
+    },
+    {
+      "start": 1344.6,
+      "duration": 2.880000000000109,
+      "text": "We don't know how this is going to work out for good.",
+      "avg_logprob": -0.1011330140840023,
+      "no_speech_prob": 5.250820936907041e-13,
+      "compression_ratio": 1.7385892116182573,
+      "temperature": 0.0
+    },
+    {
+      "start": 1347.62,
+      "duration": 3.6400000000001,
+      "text": "Those times when we think that it's going to cause us to fear and doubt.",
+      "avg_logprob": -0.1011330140840023,
+      "no_speech_prob": 5.250820936907041e-13,
+      "compression_ratio": 1.7385892116182573,
+      "temperature": 0.0
+    },
+    {
+      "start": 1351.28,
+      "duration": 7.380000000000109,
+      "text": "It's in those moments that faith that God has given us is going to produce dependency on him.",
+      "avg_logprob": -0.1011330140840023,
+      "no_speech_prob": 5.250820936907041e-13,
+      "compression_ratio": 1.7385892116182573,
+      "temperature": 0.0
+    },
+    {
+      "start": 1360.32,
+      "duration": 3.9400000000000546,
+      "text": "Not fear, but to trust that God will provide.",
+      "avg_logprob": -0.1011330140840023,
+      "no_speech_prob": 5.250820936907041e-13,
+      "compression_ratio": 1.7385892116182573,
+      "temperature": 0.0
+    },
+    {
+      "start": 1364.94,
+      "duration": 5.220000000000027,
+      "text": "It's not always what we want, exactly what we think, but it's always going to be exactly what we need.",
+      "avg_logprob": -0.09043959395526206,
+      "no_speech_prob": 8.292649336313906e-13,
+      "compression_ratio": 1.5665024630541873,
+      "temperature": 0.0
+    },
+    {
+      "start": 1371.38,
+      "duration": 12.299999999999955,
+      "text": "So when we encounter painful and difficult circumstances in life, we too can lean into that faith and see how it produces that within us.",
+      "avg_logprob": -0.09043959395526206,
+      "no_speech_prob": 8.292649336313906e-13,
+      "compression_ratio": 1.5665024630541873,
+      "temperature": 0.0
+    },
+    {
+      "start": 1383.88,
+      "duration": 4.319999999999936,
+      "text": "John Calvin actually writes in his commentary on this something just awesome.",
+      "avg_logprob": -0.09043959395526206,
+      "no_speech_prob": 8.292649336313906e-13,
+      "compression_ratio": 1.5665024630541873,
+      "temperature": 0.0
+    },
+    {
+      "start": 1388.2,
+      "duration": 6.220000000000027,
+      "text": "He says, in such straits, in such just terrible circumstances,",
+      "avg_logprob": -0.15089641119304456,
+      "no_speech_prob": 4.252246883600097e-13,
+      "compression_ratio": 1.478021978021978,
+      "temperature": 0.0
+    },
+    {
+      "start": 1395.12,
+      "duration": 7.520000000000209,
+      "text": "he says, the only remedy to despondency is to leave the event to God",
+      "avg_logprob": -0.15089641119304456,
+      "no_speech_prob": 4.252246883600097e-13,
+      "compression_ratio": 1.478021978021978,
+      "temperature": 0.0
+    },
+    {
+      "start": 1402.64,
+      "duration": 5.679999999999836,
+      "text": "in order that he may open up a way for us where there is none.",
+      "avg_logprob": -0.15089641119304456,
+      "no_speech_prob": 4.252246883600097e-13,
+      "compression_ratio": 1.478021978021978,
+      "temperature": 0.0
+    },
+    {
+      "start": 1410.54,
+      "duration": 6.039999999999964,
+      "text": "Well, scene two ends, and Abraham can't see how this is going to turn out.",
+      "avg_logprob": -0.15089641119304456,
+      "no_speech_prob": 4.252246883600097e-13,
+      "compression_ratio": 1.478021978021978,
+      "temperature": 0.0
+    },
+    {
+      "start": 1418.2,
+      "duration": 4.180000000000064,
+      "text": "His faith at this point has helped him now to trust in the Lord's provision.",
+      "avg_logprob": -0.14552262094285753,
+      "no_speech_prob": 6.458586378384201e-13,
+      "compression_ratio": 1.569811320754717,
+      "temperature": 0.0
+    },
+    {
+      "start": 1422.38,
+      "duration": 5.579999999999927,
+      "text": "He is completely dependent on God, trusting that God will provide exactly what he needs.",
+      "avg_logprob": -0.14552262094285753,
+      "no_speech_prob": 6.458586378384201e-13,
+      "compression_ratio": 1.569811320754717,
+      "temperature": 0.0
+    },
+    {
+      "start": 1428.28,
+      "duration": 2.480000000000018,
+      "text": "And now, scene three.",
+      "avg_logprob": -0.14552262094285753,
+      "no_speech_prob": 6.458586378384201e-13,
+      "compression_ratio": 1.569811320754717,
+      "temperature": 0.0
+    },
+    {
+      "start": 1432.1200000000001,
+      "duration": 1.459999999999809,
+      "text": "They're at the top of the mountain.",
+      "avg_logprob": -0.14552262094285753,
+      "no_speech_prob": 6.458586378384201e-13,
+      "compression_ratio": 1.569811320754717,
+      "temperature": 0.0
+    },
+    {
+      "start": 1436.02,
+      "duration": 5.180000000000064,
+      "text": "We're not given all the details exactly of what happens here, but the action moves very quickly.",
+      "avg_logprob": -0.14552262094285753,
+      "no_speech_prob": 6.458586378384201e-13,
+      "compression_ratio": 1.569811320754717,
+      "temperature": 0.0
+    },
+    {
+      "start": 1441.52,
+      "duration": 3.6200000000001182,
+      "text": "The next thing we know, Abraham has bound Isaac.",
+      "avg_logprob": -0.14552262094285753,
+      "no_speech_prob": 6.458586378384201e-13,
+      "compression_ratio": 1.569811320754717,
+      "temperature": 0.0
+    },
+    {
+      "start": 1445.36,
+      "duration": 2.300000000000182,
+      "text": "And I'm just wondering, how did that play out?",
+      "avg_logprob": -0.14552262094285753,
+      "no_speech_prob": 6.458586378384201e-13,
+      "compression_ratio": 1.569811320754717,
+      "temperature": 0.0
+    },
+    {
+      "start": 1448.2,
+      "duration": 2.2000000000000455,
+      "text": "Did Abraham wrestle him to the ground?",
+      "avg_logprob": -0.1564429433722245,
+      "no_speech_prob": 5.857512283373445e-13,
+      "compression_ratio": 1.5348837209302326,
+      "temperature": 0.0
+    },
+    {
+      "start": 1450.58,
+      "duration": 2.2200000000000273,
+      "text": "I mean, he's 100 and something years old.",
+      "avg_logprob": -0.1564429433722245,
+      "no_speech_prob": 5.857512283373445e-13,
+      "compression_ratio": 1.5348837209302326,
+      "temperature": 0.0
+    },
+    {
+      "start": 1452.92,
+      "duration": 1.0799999999999272,
+      "text": "How did this work out?",
+      "avg_logprob": -0.1564429433722245,
+      "no_speech_prob": 5.857512283373445e-13,
+      "compression_ratio": 1.5348837209302326,
+      "temperature": 0.0
+    },
+    {
+      "start": 1454.58,
+      "duration": 5.920000000000073,
+      "text": "Was Isaac going to willingly submit to his father's instructions?",
+      "avg_logprob": -0.1564429433722245,
+      "no_speech_prob": 5.857512283373445e-13,
+      "compression_ratio": 1.5348837209302326,
+      "temperature": 0.0
+    },
+    {
+      "start": 1461.32,
+      "duration": 2.2999999999999545,
+      "text": "And if he was willing to do this, why was he bound?",
+      "avg_logprob": -0.1564429433722245,
+      "no_speech_prob": 5.857512283373445e-13,
+      "compression_ratio": 1.5348837209302326,
+      "temperature": 0.0
+    },
+    {
+      "start": 1463.76,
+      "duration": 1.8199999999999363,
+      "text": "There's some questions there that I have.",
+      "avg_logprob": -0.1564429433722245,
+      "no_speech_prob": 5.857512283373445e-13,
+      "compression_ratio": 1.5348837209302326,
+      "temperature": 0.0
+    },
+    {
+      "start": 1465.58,
+      "duration": 0.900000000000091,
+      "text": "We just don't know.",
+      "avg_logprob": -0.1564429433722245,
+      "no_speech_prob": 5.857512283373445e-13,
+      "compression_ratio": 1.5348837209302326,
+      "temperature": 0.0
+    },
+    {
+      "start": 1467.38,
+      "duration": 2.199999999999818,
+      "text": "But the action moves quickly along.",
+      "avg_logprob": -0.1564429433722245,
+      "no_speech_prob": 5.857512283373445e-13,
+      "compression_ratio": 1.5348837209302326,
+      "temperature": 0.0
+    },
+    {
+      "start": 1469.74,
+      "duration": 0.4600000000000364,
+      "text": "He's bound.",
+      "avg_logprob": -0.1564429433722245,
+      "no_speech_prob": 5.857512283373445e-13,
+      "compression_ratio": 1.5348837209302326,
+      "temperature": 0.0
+    },
+    {
+      "start": 1470.3,
+      "duration": 6.1400000000001,
+      "text": "He's put on the altar with the wood underneath it ready to burn.",
+      "avg_logprob": -0.1564429433722245,
+      "no_speech_prob": 5.857512283373445e-13,
+      "compression_ratio": 1.5348837209302326,
+      "temperature": 0.0
+    },
+    {
+      "start": 1478.2,
+      "duration": 5.3599999999999,
+      "text": "his son, laid him on the altar. And the next thing that we read is that Abraham takes the knife in",
+      "avg_logprob": -0.11500260264603133,
+      "no_speech_prob": 1.1648784150816716e-12,
+      "compression_ratio": 1.6790697674418604,
+      "temperature": 0.0
+    },
+    {
+      "start": 1483.56,
+      "duration": 6.980000000000018,
+      "text": "his hand and he is about to plunge it into his son when suddenly a voice from heaven calls out.",
+      "avg_logprob": -0.11500260264603133,
+      "no_speech_prob": 1.1648784150816716e-12,
+      "compression_ratio": 1.6790697674418604,
+      "temperature": 0.0
+    },
+    {
+      "start": 1490.7,
+      "duration": 5.059999999999945,
+      "text": "It says the angel of the Lord called to him from heaven saying, Abraham, Abraham. And he says,",
+      "avg_logprob": -0.11500260264603133,
+      "no_speech_prob": 1.1648784150816716e-12,
+      "compression_ratio": 1.6790697674418604,
+      "temperature": 0.0
+    },
+    {
+      "start": 1496.24,
+      "duration": 6.940000000000055,
+      "text": "here I am. Here I am. The sacrifice has been halted. He's been stopped.",
+      "avg_logprob": -0.11500260264603133,
+      "no_speech_prob": 1.1648784150816716e-12,
+      "compression_ratio": 1.6790697674418604,
+      "temperature": 0.0
+    },
+    {
+      "start": 1504.6,
+      "duration": 3.4600000000000364,
+      "text": "The angel says, do not lay your hand on the boy or do anything to him.",
+      "avg_logprob": -0.12881348444067914,
+      "no_speech_prob": 6.043414466777586e-13,
+      "compression_ratio": 1.6341463414634145,
+      "temperature": 0.0
+    },
+    {
+      "start": 1508.6,
+      "duration": 5.6400000000001,
+      "text": "So Abraham immediately stops and the angel says, for now I know that you fear God,",
+      "avg_logprob": -0.12881348444067914,
+      "no_speech_prob": 6.043414466777586e-13,
+      "compression_ratio": 1.6341463414634145,
+      "temperature": 0.0
+    },
+    {
+      "start": 1514.5,
+      "duration": 4.7000000000000455,
+      "text": "seeing you have not withheld your son, your only son, from me.",
+      "avg_logprob": -0.12881348444067914,
+      "no_speech_prob": 6.043414466777586e-13,
+      "compression_ratio": 1.6341463414634145,
+      "temperature": 0.0
+    },
+    {
+      "start": 1520.76,
+      "duration": 6.980000000000018,
+      "text": "It's right here that it is revealed to Abraham that this has been a test of his faith.",
+      "avg_logprob": -0.12881348444067914,
+      "no_speech_prob": 6.043414466777586e-13,
+      "compression_ratio": 1.6341463414634145,
+      "temperature": 0.0
+    },
+    {
+      "start": 1529.2,
+      "duration": 3.2799999999999727,
+      "text": "It's been a test and he passed.",
+      "avg_logprob": -0.12881348444067914,
+      "no_speech_prob": 6.043414466777586e-13,
+      "compression_ratio": 1.6341463414634145,
+      "temperature": 0.0
+    },
+    {
+      "start": 1534.8,
+      "duration": 5.5,
+      "text": "You guys, we face choices like this all the time.",
+      "avg_logprob": -0.22834493036139503,
+      "no_speech_prob": 4.335980630532782e-13,
+      "compression_ratio": 1.4262295081967213,
+      "temperature": 0.0
+    },
+    {
+      "start": 1541.8600000000001,
+      "duration": 4.919999999999845,
+      "text": "See here, Abraham is obedient to God's command,",
+      "avg_logprob": -0.22834493036139503,
+      "no_speech_prob": 4.335980630532782e-13,
+      "compression_ratio": 1.4262295081967213,
+      "temperature": 0.0
+    },
+    {
+      "start": 1546.78,
+      "duration": 4.019999999999982,
+      "text": "even when it means losing the thing he loves the most.",
+      "avg_logprob": -0.22834493036139503,
+      "no_speech_prob": 4.335980630532782e-13,
+      "compression_ratio": 1.4262295081967213,
+      "temperature": 0.0
+    },
+    {
+      "start": 1551.9,
+      "duration": 7.980000000000018,
+      "text": "He's willing to sacrifice his precious son, his beloved son, and his entire future.",
+      "avg_logprob": -0.22834493036139503,
+      "no_speech_prob": 4.335980630532782e-13,
+      "compression_ratio": 1.4262295081967213,
+      "temperature": 0.0
+    },
+    {
+      "start": 1561.0800000000002,
+      "duration": 0.11999999999989086,
+      "text": "Right?",
+      "avg_logprob": -0.22834493036139503,
+      "no_speech_prob": 4.335980630532782e-13,
+      "compression_ratio": 1.4262295081967213,
+      "temperature": 0.0
+    },
+    {
+      "start": 1561.42,
+      "duration": 0.5399999999999636,
+      "text": "Think about this.",
+      "avg_logprob": -0.22834493036139503,
+      "no_speech_prob": 4.335980630532782e-13,
+      "compression_ratio": 1.4262295081967213,
+      "temperature": 0.0
+    },
+    {
+      "start": 1563.62,
+      "duration": 2.980000000000018,
+      "text": "This is the promise from God for a future.",
+      "avg_logprob": -0.19758901596069336,
+      "no_speech_prob": 4.894291894506908e-13,
+      "compression_ratio": 1.6062176165803108,
+      "temperature": 0.0
+    },
+    {
+      "start": 1568.54,
+      "duration": 4.279999999999973,
+      "text": "But he's willing to sacrifice it all because he loves and trusts God more.",
+      "avg_logprob": -0.19758901596069336,
+      "no_speech_prob": 4.894291894506908e-13,
+      "compression_ratio": 1.6062176165803108,
+      "temperature": 0.0
+    },
+    {
+      "start": 1573.94,
+      "duration": 5.339999999999918,
+      "text": "So faith here we see is producing a willingness to sacrifice.",
+      "avg_logprob": -0.19758901596069336,
+      "no_speech_prob": 4.894291894506908e-13,
+      "compression_ratio": 1.6062176165803108,
+      "temperature": 0.0
+    },
+    {
+      "start": 1581.16,
+      "duration": 2.0599999999999454,
+      "text": "God is the most important thing to Abraham.",
+      "avg_logprob": -0.19758901596069336,
+      "no_speech_prob": 4.894291894506908e-13,
+      "compression_ratio": 1.6062176165803108,
+      "temperature": 0.0
+    },
+    {
+      "start": 1583.82,
+      "duration": 1.5,
+      "text": "Everything else is secondary.",
+      "avg_logprob": -0.19758901596069336,
+      "no_speech_prob": 4.894291894506908e-13,
+      "compression_ratio": 1.6062176165803108,
+      "temperature": 0.0
+    },
+    {
+      "start": 1586.76,
+      "duration": 4.079999999999927,
+      "text": "And so he's willing to just lay it all down to obey God.",
+      "avg_logprob": -0.19758901596069336,
+      "no_speech_prob": 4.894291894506908e-13,
+      "compression_ratio": 1.6062176165803108,
+      "temperature": 0.0
+    },
+    {
+      "start": 1593.56,
+      "duration": 2.0599999999999454,
+      "text": "Now, we face choices like this, right?",
+      "avg_logprob": -0.13654178933998973,
+      "no_speech_prob": 4.951834298508317e-13,
+      "compression_ratio": 1.8177339901477831,
+      "temperature": 0.0
+    },
+    {
+      "start": 1596.0,
+      "duration": 3.0599999999999454,
+      "text": "And I think we face choices like this more often than we think.",
+      "avg_logprob": -0.13654178933998973,
+      "no_speech_prob": 4.951834298508317e-13,
+      "compression_ratio": 1.8177339901477831,
+      "temperature": 0.0
+    },
+    {
+      "start": 1600.0,
+      "duration": 7.900000000000091,
+      "text": "We're faced very often with a choice between obeying God's command or obeying our own desires.",
+      "avg_logprob": -0.13654178933998973,
+      "no_speech_prob": 4.951834298508317e-13,
+      "compression_ratio": 1.8177339901477831,
+      "temperature": 0.0
+    },
+    {
+      "start": 1609.24,
+      "duration": 3.9600000000000364,
+      "text": "Most often, it's a choice between what we think is going to bring us the most joy",
+      "avg_logprob": -0.13654178933998973,
+      "no_speech_prob": 4.951834298508317e-13,
+      "compression_ratio": 1.8177339901477831,
+      "temperature": 0.0
+    },
+    {
+      "start": 1613.2,
+      "duration": 7.519999999999982,
+      "text": "and what God commands us to do, which is what actually will bring us the most joy, right?",
+      "avg_logprob": -0.13654178933998973,
+      "no_speech_prob": 4.951834298508317e-13,
+      "compression_ratio": 1.8177339901477831,
+      "temperature": 0.0
+    },
+    {
+      "start": 1620.72,
+      "duration": 0.01999999999998181,
+      "text": "Right?",
+      "avg_logprob": -0.20723450299605584,
+      "no_speech_prob": 5.588747780532755e-13,
+      "compression_ratio": 1.6794258373205742,
+      "temperature": 0.0
+    },
+    {
+      "start": 1621.46,
+      "duration": 5.319999999999936,
+      "text": "The choices that we make then reveal actually the strength of our faith.",
+      "avg_logprob": -0.20723450299605584,
+      "no_speech_prob": 5.588747780532755e-13,
+      "compression_ratio": 1.6794258373205742,
+      "temperature": 0.0
+    },
+    {
+      "start": 1626.92,
+      "duration": 1.9600000000000364,
+      "text": "When we fail, it's not that we don't have faith,",
+      "avg_logprob": -0.20723450299605584,
+      "no_speech_prob": 5.588747780532755e-13,
+      "compression_ratio": 1.6794258373205742,
+      "temperature": 0.0
+    },
+    {
+      "start": 1628.92,
+      "duration": 4.539999999999964,
+      "text": "but when we fail at these things, I think it shows our weakness,",
+      "avg_logprob": -0.20723450299605584,
+      "no_speech_prob": 5.588747780532755e-13,
+      "compression_ratio": 1.6794258373205742,
+      "temperature": 0.0
+    },
+    {
+      "start": 1633.84,
+      "duration": 2.240000000000009,
+      "text": "the weakness of our faith at times.",
+      "avg_logprob": -0.20723450299605584,
+      "no_speech_prob": 5.588747780532755e-13,
+      "compression_ratio": 1.6794258373205742,
+      "temperature": 0.0
+    },
+    {
+      "start": 1636.42,
+      "duration": 2.6599999999998545,
+      "text": "And I will admit, fully admit,",
+      "avg_logprob": -0.20723450299605584,
+      "no_speech_prob": 5.588747780532755e-13,
+      "compression_ratio": 1.6794258373205742,
+      "temperature": 0.0
+    },
+    {
+      "start": 1639.86,
+      "duration": 4.180000000000064,
+      "text": "man, so often I make the wrong choice in this.",
+      "avg_logprob": -0.20723450299605584,
+      "no_speech_prob": 5.588747780532755e-13,
+      "compression_ratio": 1.6794258373205742,
+      "temperature": 0.0
+    },
+    {
+      "start": 1644.76,
+      "duration": 3.980000000000018,
+      "text": "So often I can see how my faith is so weak.",
+      "avg_logprob": -0.20723450299605584,
+      "no_speech_prob": 5.588747780532755e-13,
+      "compression_ratio": 1.6794258373205742,
+      "temperature": 0.0
+    },
+    {
+      "start": 1650.72,
+      "duration": 4.539999999999964,
+      "text": "I'm unwilling at times to lay down my desires and to lay down my pride",
+      "avg_logprob": -0.11063236991564433,
+      "no_speech_prob": 6.162612737822815e-13,
+      "compression_ratio": 1.7253886010362693,
+      "temperature": 0.0
+    },
+    {
+      "start": 1655.26,
+      "duration": 6.960000000000036,
+      "text": "and to just lay down all of these things that I want just so that I can obey God.",
+      "avg_logprob": -0.11063236991564433,
+      "no_speech_prob": 6.162612737822815e-13,
+      "compression_ratio": 1.7253886010362693,
+      "temperature": 0.0
+    },
+    {
+      "start": 1662.34,
+      "duration": 5.400000000000091,
+      "text": "I'm unwilling to do that at times, to put those things on the altar for the sake of loving God.",
+      "avg_logprob": -0.11063236991564433,
+      "no_speech_prob": 6.162612737822815e-13,
+      "compression_ratio": 1.7253886010362693,
+      "temperature": 0.0
+    },
+    {
+      "start": 1668.78,
+      "duration": 5.1400000000001,
+      "text": "But you guys, God is so patient with us, isn't he?",
+      "avg_logprob": -0.11063236991564433,
+      "no_speech_prob": 6.162612737822815e-13,
+      "compression_ratio": 1.7253886010362693,
+      "temperature": 0.0
+    },
+    {
+      "start": 1674.78,
+      "duration": 2.1000000000001364,
+      "text": "He's so loving. He's so gracious.",
+      "avg_logprob": -0.11063236991564433,
+      "no_speech_prob": 6.162612737822815e-13,
+      "compression_ratio": 1.7253886010362693,
+      "temperature": 0.0
+    },
+    {
+      "start": 1677.6,
+      "duration": 3.8200000000001637,
+      "text": "out of his great love for us, he does not give up on us, does he?",
+      "avg_logprob": -0.12924175048142336,
+      "no_speech_prob": 6.186739488767135e-13,
+      "compression_ratio": 1.5902439024390245,
+      "temperature": 0.0
+    },
+    {
+      "start": 1682.04,
+      "duration": 6.5,
+      "text": "He keeps nurturing and growing our faith so that we more and more die unto sin",
+      "avg_logprob": -0.12924175048142336,
+      "no_speech_prob": 6.186739488767135e-13,
+      "compression_ratio": 1.5902439024390245,
+      "temperature": 0.0
+    },
+    {
+      "start": 1688.54,
+      "duration": 4.1400000000001,
+      "text": "and are willing to put those things to death so that we can grow in our obedience.",
+      "avg_logprob": -0.12924175048142336,
+      "no_speech_prob": 6.186739488767135e-13,
+      "compression_ratio": 1.5902439024390245,
+      "temperature": 0.0
+    },
+    {
+      "start": 1693.72,
+      "duration": 3.4400000000000546,
+      "text": "He's so good to us, so patient.",
+      "avg_logprob": -0.12924175048142336,
+      "no_speech_prob": 6.186739488767135e-13,
+      "compression_ratio": 1.5902439024390245,
+      "temperature": 0.0
+    },
+    {
+      "start": 1699.3,
+      "duration": 4.8400000000001455,
+      "text": "Well, right then, Abraham looks up and he sees across the mountain",
+      "avg_logprob": -0.12924175048142336,
+      "no_speech_prob": 6.186739488767135e-13,
+      "compression_ratio": 1.5902439024390245,
+      "temperature": 0.0
+    },
+    {
+      "start": 1704.14,
+      "duration": 3.740000000000009,
+      "text": "that there is a young ram with its horns caught in a thicket.",
+      "avg_logprob": -0.21253362516077554,
+      "no_speech_prob": 4.4912744313549413e-13,
+      "compression_ratio": 1.612565445026178,
+      "temperature": 0.0
+    },
+    {
+      "start": 1708.96,
+      "duration": 2.099999999999909,
+      "text": "It's got all these branches wrapped around its head.",
+      "avg_logprob": -0.21253362516077554,
+      "no_speech_prob": 4.4912744313549413e-13,
+      "compression_ratio": 1.612565445026178,
+      "temperature": 0.0
+    },
+    {
+      "start": 1711.22,
+      "duration": 3.759999999999991,
+      "text": "He sees right there that God has provided.",
+      "avg_logprob": -0.21253362516077554,
+      "no_speech_prob": 4.4912744313549413e-13,
+      "compression_ratio": 1.612565445026178,
+      "temperature": 0.0
+    },
+    {
+      "start": 1716.14,
+      "duration": 3.759999999999991,
+      "text": "He provided this young ram that day",
+      "avg_logprob": -0.21253362516077554,
+      "no_speech_prob": 4.4912744313549413e-13,
+      "compression_ratio": 1.612565445026178,
+      "temperature": 0.0
+    },
+    {
+      "start": 1719.9,
+      "duration": 4.740000000000009,
+      "text": "that was then offered as a substitute for Isaac.",
+      "avg_logprob": -0.21253362516077554,
+      "no_speech_prob": 4.4912744313549413e-13,
+      "compression_ratio": 1.612565445026178,
+      "temperature": 0.0
+    },
+    {
+      "start": 1725.28,
+      "duration": 4.460000000000036,
+      "text": "The ram dies on the mountain that day",
+      "avg_logprob": -0.21253362516077554,
+      "no_speech_prob": 4.4912744313549413e-13,
+      "compression_ratio": 1.612565445026178,
+      "temperature": 0.0
+    },
+    {
+      "start": 1729.74,
+      "duration": 3.0799999999999272,
+      "text": "instead of the beloved son.",
+      "avg_logprob": -0.21253362516077554,
+      "no_speech_prob": 4.4912744313549413e-13,
+      "compression_ratio": 1.612565445026178,
+      "temperature": 0.0
+    },
+    {
+      "start": 1734.14,
+      "duration": 4.379999999999882,
+      "text": "The ram protected Isaac, protected Abraham's future,",
+      "avg_logprob": -0.2204767790707675,
+      "no_speech_prob": 3.963545258060114e-13,
+      "compression_ratio": 1.5990338164251208,
+      "temperature": 0.0
+    },
+    {
+      "start": 1739.22,
+      "duration": 4.220000000000027,
+      "text": "protected the entire nation of Israel.",
+      "avg_logprob": -0.2204767790707675,
+      "no_speech_prob": 3.963545258060114e-13,
+      "compression_ratio": 1.5990338164251208,
+      "temperature": 0.0
+    },
+    {
+      "start": 1744.3,
+      "duration": 1.240000000000009,
+      "text": "Think about that.",
+      "avg_logprob": -0.2204767790707675,
+      "no_speech_prob": 3.963545258060114e-13,
+      "compression_ratio": 1.5990338164251208,
+      "temperature": 0.0
+    },
+    {
+      "start": 1746.18,
+      "duration": 4.8599999999999,
+      "text": "This ram helped to secure the nation of Israel.",
+      "avg_logprob": -0.2204767790707675,
+      "no_speech_prob": 3.963545258060114e-13,
+      "compression_ratio": 1.5990338164251208,
+      "temperature": 0.0
+    },
+    {
+      "start": 1751.86,
+      "duration": 3.520000000000209,
+      "text": "And as an act of worship, Abraham names the mountain,",
+      "avg_logprob": -0.2204767790707675,
+      "no_speech_prob": 3.963545258060114e-13,
+      "compression_ratio": 1.5990338164251208,
+      "temperature": 0.0
+    },
+    {
+      "start": 1755.38,
+      "duration": 2.0799999999999272,
+      "text": "and he calls it, the Lord will provide.",
+      "avg_logprob": -0.2204767790707675,
+      "no_speech_prob": 3.963545258060114e-13,
+      "compression_ratio": 1.5990338164251208,
+      "temperature": 0.0
+    },
+    {
+      "start": 1758.38,
+      "duration": 3.7799999999999727,
+      "text": "And you know what, what's so cool is we're given this little detail in verse 14",
+      "avg_logprob": -0.2204767790707675,
+      "no_speech_prob": 3.963545258060114e-13,
+      "compression_ratio": 1.5990338164251208,
+      "temperature": 0.0
+    },
+    {
+      "start": 1764.86,
+      "duration": 7.940000000000055,
+      "text": "Which tells us that God's provision is part of his unchangeable character, right?",
+      "avg_logprob": -0.18315516985379732,
+      "no_speech_prob": 5.97322376023196e-13,
+      "compression_ratio": 1.5842696629213484,
+      "temperature": 0.0
+    },
+    {
+      "start": 1772.96,
+      "duration": 3.1800000000000637,
+      "text": "It's part of what he will always do.",
+      "avg_logprob": -0.18315516985379732,
+      "no_speech_prob": 5.97322376023196e-13,
+      "compression_ratio": 1.5842696629213484,
+      "temperature": 0.0
+    },
+    {
+      "start": 1776.18,
+      "duration": 2.599999999999909,
+      "text": "And so what that means is that we can trust it.",
+      "avg_logprob": -0.18315516985379732,
+      "no_speech_prob": 5.97322376023196e-13,
+      "compression_ratio": 1.5842696629213484,
+      "temperature": 0.0
+    },
+    {
+      "start": 1779.04,
+      "duration": 5.880000000000109,
+      "text": "We can trust in God's provision every day, every hour, every minute.",
+      "avg_logprob": -0.18315516985379732,
+      "no_speech_prob": 5.97322376023196e-13,
+      "compression_ratio": 1.5842696629213484,
+      "temperature": 0.0
+    },
+    {
+      "start": 1787.82,
+      "duration": 4.7999999999999545,
+      "text": "Well, that scene really kind of continues now.",
+      "avg_logprob": -0.18315516985379732,
+      "no_speech_prob": 5.97322376023196e-13,
+      "compression_ratio": 1.5842696629213484,
+      "temperature": 0.0
+    },
+    {
+      "start": 1794.14,
+      "duration": 4.639999999999873,
+      "text": "shift that takes place because here now, in verse 15, the angel is going to speak again.",
+      "avg_logprob": -0.19591156272001045,
+      "no_speech_prob": 8.623178126415665e-13,
+      "compression_ratio": 1.5414634146341464,
+      "temperature": 0.0
+    },
+    {
+      "start": 1800.04,
+      "duration": 3.660000000000082,
+      "text": "Verse 15, the angel says, we'll read this.",
+      "avg_logprob": -0.19591156272001045,
+      "no_speech_prob": 8.623178126415665e-13,
+      "compression_ratio": 1.5414634146341464,
+      "temperature": 0.0
+    },
+    {
+      "start": 1807.46,
+      "duration": 3.4200000000000728,
+      "text": "The angel of the Lord called to Abraham a second time from heaven and said,",
+      "avg_logprob": -0.19591156272001045,
+      "no_speech_prob": 8.623178126415665e-13,
+      "compression_ratio": 1.5414634146341464,
+      "temperature": 0.0
+    },
+    {
+      "start": 1812.02,
+      "duration": 2.1800000000000637,
+      "text": "by myself I have sworn.",
+      "avg_logprob": -0.19591156272001045,
+      "no_speech_prob": 8.623178126415665e-13,
+      "compression_ratio": 1.5414634146341464,
+      "temperature": 0.0
+    },
+    {
+      "start": 1814.8,
+      "duration": 6.779999999999973,
+      "text": "All right, so this is God swearing by his own name because there is no other name in",
+      "avg_logprob": -0.19591156272001045,
+      "no_speech_prob": 8.623178126415665e-13,
+      "compression_ratio": 1.5414634146341464,
+      "temperature": 0.0
+    },
+    {
+      "start": 1821.58,
+      "duration": 4.279999999999973,
+      "text": "heaven and on earth, which is higher for him to swear by.",
+      "avg_logprob": -0.13790430341448104,
+      "no_speech_prob": 1.0856854694776819e-12,
+      "compression_ratio": 1.7219730941704037,
+      "temperature": 0.0
+    },
+    {
+      "start": 1826.56,
+      "duration": 2.0800000000001546,
+      "text": "So he swears by his own name.",
+      "avg_logprob": -0.13790430341448104,
+      "no_speech_prob": 1.0856854694776819e-12,
+      "compression_ratio": 1.7219730941704037,
+      "temperature": 0.0
+    },
+    {
+      "start": 1828.78,
+      "duration": 2.5599999999999454,
+      "text": "By myself I have sworn, declares the Lord.",
+      "avg_logprob": -0.13790430341448104,
+      "no_speech_prob": 1.0856854694776819e-12,
+      "compression_ratio": 1.7219730941704037,
+      "temperature": 0.0
+    },
+    {
+      "start": 1832.54,
+      "duration": 6.059999999999945,
+      "text": "Because you have done this and have not withheld your son, your only son, I will surely bless",
+      "avg_logprob": -0.13790430341448104,
+      "no_speech_prob": 1.0856854694776819e-12,
+      "compression_ratio": 1.7219730941704037,
+      "temperature": 0.0
+    },
+    {
+      "start": 1838.6,
+      "duration": 4.440000000000055,
+      "text": "you and I will surely multiply your offspring as the stars of heaven and as the sand on",
+      "avg_logprob": -0.13790430341448104,
+      "no_speech_prob": 1.0856854694776819e-12,
+      "compression_ratio": 1.7219730941704037,
+      "temperature": 0.0
+    },
+    {
+      "start": 1843.04,
+      "duration": 0.6000000000001364,
+      "text": "the seashore.",
+      "avg_logprob": -0.13790430341448104,
+      "no_speech_prob": 1.0856854694776819e-12,
+      "compression_ratio": 1.7219730941704037,
+      "temperature": 0.0
+    },
+    {
+      "start": 1843.78,
+      "duration": 2.660000000000082,
+      "text": "And your offspring shall possess the gate of his enemies.",
+      "avg_logprob": -0.13790430341448104,
+      "no_speech_prob": 1.0856854694776819e-12,
+      "compression_ratio": 1.7219730941704037,
+      "temperature": 0.0
+    },
+    {
+      "start": 1846.44,
+      "duration": 3.119999999999891,
+      "text": "And in your offspring shall all the nations of the earth be blessed,",
+      "avg_logprob": -0.18383942010267726,
+      "no_speech_prob": 4.913310426915563e-13,
+      "compression_ratio": 1.737556561085973,
+      "temperature": 0.0
+    },
+    {
+      "start": 1849.62,
+      "duration": 2.880000000000109,
+      "text": "because you have obeyed my voice.",
+      "avg_logprob": -0.18383942010267726,
+      "no_speech_prob": 4.913310426915563e-13,
+      "compression_ratio": 1.737556561085973,
+      "temperature": 0.0
+    },
+    {
+      "start": 1853.38,
+      "duration": 1.9199999999998454,
+      "text": "And it raises a question for us.",
+      "avg_logprob": -0.18383942010267726,
+      "no_speech_prob": 4.913310426915563e-13,
+      "compression_ratio": 1.737556561085973,
+      "temperature": 0.0
+    },
+    {
+      "start": 1857.02,
+      "duration": 2.380000000000109,
+      "text": "Because look at the beginning and the end of this.",
+      "avg_logprob": -0.18383942010267726,
+      "no_speech_prob": 4.913310426915563e-13,
+      "compression_ratio": 1.737556561085973,
+      "temperature": 0.0
+    },
+    {
+      "start": 1859.54,
+      "duration": 2.7200000000000273,
+      "text": "Both say, because you have done this, because you have obeyed my voice.",
+      "avg_logprob": -0.18383942010267726,
+      "no_speech_prob": 4.913310426915563e-13,
+      "compression_ratio": 1.737556561085973,
+      "temperature": 0.0
+    },
+    {
+      "start": 1862.46,
+      "duration": 4.2999999999999545,
+      "text": "Is God's blessing here a result of Abraham's obedience?",
+      "avg_logprob": -0.18383942010267726,
+      "no_speech_prob": 4.913310426915563e-13,
+      "compression_ratio": 1.737556561085973,
+      "temperature": 0.0
+    },
+    {
+      "start": 1868.34,
+      "duration": 3.300000000000182,
+      "text": "Are all of these blessings predicated on him obeying?",
+      "avg_logprob": -0.18383942010267726,
+      "no_speech_prob": 4.913310426915563e-13,
+      "compression_ratio": 1.737556561085973,
+      "temperature": 0.0
+    },
+    {
+      "start": 1873.72,
+      "duration": 0.8199999999999363,
+      "text": "Well, it isn't.",
+      "avg_logprob": -0.18383942010267726,
+      "no_speech_prob": 4.913310426915563e-13,
+      "compression_ratio": 1.737556561085973,
+      "temperature": 0.0
+    },
+    {
+      "start": 1876.44,
+      "duration": 1.740000000000009,
+      "text": "The Bible helps us to understand this.",
+      "avg_logprob": -0.2249090936448839,
+      "no_speech_prob": 4.670028469835885e-13,
+      "compression_ratio": 1.4457831325301205,
+      "temperature": 0.0
+    },
+    {
+      "start": 1878.42,
+      "duration": 2.9199999999998454,
+      "text": "We've been going back to James a lot today, the book of James.",
+      "avg_logprob": -0.2249090936448839,
+      "no_speech_prob": 4.670028469835885e-13,
+      "compression_ratio": 1.4457831325301205,
+      "temperature": 0.0
+    },
+    {
+      "start": 1881.58,
+      "duration": 8.240000000000009,
+      "text": "But in James 2, he gives us a very specific thing, referring back to this story again.",
+      "avg_logprob": -0.2249090936448839,
+      "no_speech_prob": 4.670028469835885e-13,
+      "compression_ratio": 1.4457831325301205,
+      "temperature": 0.0
+    },
+    {
+      "start": 1890.42,
+      "duration": 2.6399999999998727,
+      "text": "This is James 2, verse 21.",
+      "avg_logprob": -0.2249090936448839,
+      "no_speech_prob": 4.670028469835885e-13,
+      "compression_ratio": 1.4457831325301205,
+      "temperature": 0.0
+    },
+    {
+      "start": 1894.4,
+      "duration": 0.8599999999999,
+      "text": "He says,",
+      "avg_logprob": -0.2249090936448839,
+      "no_speech_prob": 4.670028469835885e-13,
+      "compression_ratio": 1.4457831325301205,
+      "temperature": 0.0
+    },
+    {
+      "start": 1898.7200000000003,
+      "duration": 1.4199999999998454,
+      "text": "Listen to this.",
+      "avg_logprob": -0.2249090936448839,
+      "no_speech_prob": 4.670028469835885e-13,
+      "compression_ratio": 1.4457831325301205,
+      "temperature": 0.0
+    },
+    {
+      "start": 1906.44,
+      "duration": 7.119999999999891,
+      "text": "the altar. Now he's using the word justified here a little differently than what we're used to.",
+      "avg_logprob": -0.09637317874214867,
+      "no_speech_prob": 7.882070647211026e-13,
+      "compression_ratio": 1.748878923766816,
+      "temperature": 0.0
+    },
+    {
+      "start": 1913.66,
+      "duration": 6.220000000000027,
+      "text": "We're used to the word justified meaning declared righteous, right? Just declared righteous. But you",
+      "avg_logprob": -0.09637317874214867,
+      "no_speech_prob": 7.882070647211026e-13,
+      "compression_ratio": 1.748878923766816,
+      "temperature": 0.0
+    },
+    {
+      "start": 1919.88,
+      "duration": 6.019999999999982,
+      "text": "know what? Abraham has already been declared righteous. Seven chapters earlier in chapter 15,",
+      "avg_logprob": -0.09637317874214867,
+      "no_speech_prob": 7.882070647211026e-13,
+      "compression_ratio": 1.748878923766816,
+      "temperature": 0.0
+    },
+    {
+      "start": 1926.08,
+      "duration": 6.360000000000127,
+      "text": "verse 6, says that Abraham believed God and it was counted to him as righteousness. So he's already",
+      "avg_logprob": -0.09637317874214867,
+      "no_speech_prob": 7.882070647211026e-13,
+      "compression_ratio": 1.748878923766816,
+      "temperature": 0.0
+    },
+    {
+      "start": 1932.44,
+      "duration": 4.419999999999845,
+      "text": "been justified. He's been declared righteous there. So what is James saying here? He's saying,",
+      "avg_logprob": -0.15850892957750257,
+      "no_speech_prob": 6.408331439285153e-13,
+      "compression_ratio": 1.643835616438356,
+      "temperature": 0.0
+    },
+    {
+      "start": 1938.1399999999999,
+      "duration": 4.820000000000164,
+      "text": "actually what's happening here is that his faith, the faith that he already had,",
+      "avg_logprob": -0.15850892957750257,
+      "no_speech_prob": 6.408331439285153e-13,
+      "compression_ratio": 1.643835616438356,
+      "temperature": 0.0
+    },
+    {
+      "start": 1943.66,
+      "duration": 6.740000000000009,
+      "text": "has been proven. That being justified here, it was proven, it was confirmed on the day",
+      "avg_logprob": -0.15850892957750257,
+      "no_speech_prob": 6.408331439285153e-13,
+      "compression_ratio": 1.643835616438356,
+      "temperature": 0.0
+    },
+    {
+      "start": 1950.4,
+      "duration": 7.059999999999945,
+      "text": "that it was tested. Because look at the next verse. He says, this is verse 22 of James chapter 2.",
+      "avg_logprob": -0.15850892957750257,
+      "no_speech_prob": 6.408331439285153e-13,
+      "compression_ratio": 1.643835616438356,
+      "temperature": 0.0
+    },
+    {
+      "start": 1957.46,
+      "duration": 4.519999999999982,
+      "text": "You see that faith was active along with his works.",
+      "avg_logprob": -0.20222067221617088,
+      "no_speech_prob": 5.312540229777951e-13,
+      "compression_ratio": 1.6318681318681318,
+      "temperature": 0.0
+    },
+    {
+      "start": 1962.16,
+      "duration": 0.9800000000000182,
+      "text": "Both were together, right?",
+      "avg_logprob": -0.20222067221617088,
+      "no_speech_prob": 5.312540229777951e-13,
+      "compression_ratio": 1.6318681318681318,
+      "temperature": 0.0
+    },
+    {
+      "start": 1963.34,
+      "duration": 4.220000000000027,
+      "text": "And faith was completed by his works.",
+      "avg_logprob": -0.20222067221617088,
+      "no_speech_prob": 5.312540229777951e-13,
+      "compression_ratio": 1.6318681318681318,
+      "temperature": 0.0
+    },
+    {
+      "start": 1967.96,
+      "duration": 3.259999999999991,
+      "text": "Completed or made mature by his works.",
+      "avg_logprob": -0.20222067221617088,
+      "no_speech_prob": 5.312540229777951e-13,
+      "compression_ratio": 1.6318681318681318,
+      "temperature": 0.0
+    },
+    {
+      "start": 1972.12,
+      "duration": 5.440000000000055,
+      "text": "And the scripture was fulfilled that says Abraham believed God",
+      "avg_logprob": -0.20222067221617088,
+      "no_speech_prob": 5.312540229777951e-13,
+      "compression_ratio": 1.6318681318681318,
+      "temperature": 0.0
+    },
+    {
+      "start": 1977.56,
+      "duration": 2.7799999999999727,
+      "text": "and it was counted to him as righteousness.",
+      "avg_logprob": -0.20222067221617088,
+      "no_speech_prob": 5.312540229777951e-13,
+      "compression_ratio": 1.6318681318681318,
+      "temperature": 0.0
+    },
+    {
+      "start": 1980.96,
+      "duration": 2.4200000000000728,
+      "text": "And he was called a friend of God.",
+      "avg_logprob": -0.20222067221617088,
+      "no_speech_prob": 5.312540229777951e-13,
+      "compression_ratio": 1.6318681318681318,
+      "temperature": 0.0
+    },
+    {
+      "start": 1983.38,
+      "duration": 5.079999999999927,
+      "text": "I love the way that James says it here, that the scripture is fulfilled in this.",
+      "avg_logprob": -0.14968175003209064,
+      "no_speech_prob": 9.470740164330138e-13,
+      "compression_ratio": 1.6724890829694323,
+      "temperature": 0.0
+    },
+    {
+      "start": 1988.66,
+      "duration": 3.5,
+      "text": "So Abraham was given faith, but it wasn't brought to completion.",
+      "avg_logprob": -0.14968175003209064,
+      "no_speech_prob": 9.470740164330138e-13,
+      "compression_ratio": 1.6724890829694323,
+      "temperature": 0.0
+    },
+    {
+      "start": 1992.16,
+      "duration": 4.099999999999909,
+      "text": "It wasn't made mature yet until this day when it was tested.",
+      "avg_logprob": -0.14968175003209064,
+      "no_speech_prob": 9.470740164330138e-13,
+      "compression_ratio": 1.6724890829694323,
+      "temperature": 0.0
+    },
+    {
+      "start": 1996.6,
+      "duration": 5.759999999999991,
+      "text": "This day when Abraham obeyed God and his faith was demonstrated, you could see it now.",
+      "avg_logprob": -0.14968175003209064,
+      "no_speech_prob": 9.470740164330138e-13,
+      "compression_ratio": 1.6724890829694323,
+      "temperature": 0.0
+    },
+    {
+      "start": 2003.0800000000002,
+      "duration": 1.3199999999999363,
+      "text": "Here is his faith.",
+      "avg_logprob": -0.14968175003209064,
+      "no_speech_prob": 9.470740164330138e-13,
+      "compression_ratio": 1.6724890829694323,
+      "temperature": 0.0
+    },
+    {
+      "start": 2004.76,
+      "duration": 4.839999999999918,
+      "text": "Through this very painful and difficult test, his faith was confirmed.",
+      "avg_logprob": -0.14968175003209064,
+      "no_speech_prob": 9.470740164330138e-13,
+      "compression_ratio": 1.6724890829694323,
+      "temperature": 0.0
+    },
+    {
+      "start": 2010.8600000000001,
+      "duration": 3.4999999999997726,
+      "text": "And so this is God's final speech to Abraham.",
+      "avg_logprob": -0.15045194236599668,
+      "no_speech_prob": 7.404519705711543e-13,
+      "compression_ratio": 1.5822784810126582,
+      "temperature": 0.0
+    },
+    {
+      "start": 2015.6200000000001,
+      "duration": 6.1599999999998545,
+      "text": "And he receives confirmation of all of the promises that he's been given his entire life.",
+      "avg_logprob": -0.15045194236599668,
+      "no_speech_prob": 7.404519705711543e-13,
+      "compression_ratio": 1.5822784810126582,
+      "temperature": 0.0
+    },
+    {
+      "start": 2022.2,
+      "duration": 4.3599999999999,
+      "text": "It echoes back to the very beginning in Genesis chapter 12, verses 1 through 3.",
+      "avg_logprob": -0.15045194236599668,
+      "no_speech_prob": 7.404519705711543e-13,
+      "compression_ratio": 1.5822784810126582,
+      "temperature": 0.0
+    },
+    {
+      "start": 2026.78,
+      "duration": 1.0399999999999636,
+      "text": "Listen to what he says.",
+      "avg_logprob": -0.15045194236599668,
+      "no_speech_prob": 7.404519705711543e-13,
+      "compression_ratio": 1.5822784810126582,
+      "temperature": 0.0
+    },
+    {
+      "start": 2027.92,
+      "duration": 4.699999999999818,
+      "text": "He says, not only I will bless you, he says, I will surely bless you.",
+      "avg_logprob": -0.15045194236599668,
+      "no_speech_prob": 7.404519705711543e-13,
+      "compression_ratio": 1.5822784810126582,
+      "temperature": 0.0
+    },
+    {
+      "start": 2033.28,
+      "duration": 5.0,
+      "text": "And I will surely multiply your offspring as the stars of heaven.",
+      "avg_logprob": -0.15045194236599668,
+      "no_speech_prob": 7.404519705711543e-13,
+      "compression_ratio": 1.5822784810126582,
+      "temperature": 0.0
+    },
+    {
+      "start": 2054.22,
+      "duration": 3.1400000000003274,
+      "text": "Here, faith is producing one more thing.",
+      "avg_logprob": -0.29321044141596014,
+      "no_speech_prob": 7.093103773607445e-13,
+      "compression_ratio": 1.4017857142857142,
+      "temperature": 0.0
+    },
+    {
+      "start": 2058.88,
+      "duration": 1.9200000000000728,
+      "text": "It's producing a reward.",
+      "avg_logprob": -0.29321044141596014,
+      "no_speech_prob": 7.093103773607445e-13,
+      "compression_ratio": 1.4017857142857142,
+      "temperature": 0.0
+    },
+    {
+      "start": 2061.92,
+      "duration": 2.3400000000001455,
+      "text": "Faith is producing a reward.",
+      "avg_logprob": -0.29321044141596014,
+      "no_speech_prob": 7.093103773607445e-13,
+      "compression_ratio": 1.4017857142857142,
+      "temperature": 0.0
+    },
+    {
+      "start": 2065.36,
+      "duration": 4.079999999999927,
+      "text": "We are saved from our sinful condition, not by our good works,",
+      "avg_logprob": -0.29321044141596014,
+      "no_speech_prob": 7.093103773607445e-13,
+      "compression_ratio": 1.4017857142857142,
+      "temperature": 0.0
+    },
+    {
+      "start": 2069.6,
+      "duration": 5.300000000000182,
+      "text": "but by grace alone, and it is received by faith alone.",
+      "avg_logprob": -0.16608779430389403,
+      "no_speech_prob": 5.3543546549642e-13,
+      "compression_ratio": 1.489795918367347,
+      "temperature": 0.0
+    },
+    {
+      "start": 2076.46,
+      "duration": 3.5799999999999272,
+      "text": "Our reward is not something that we could ever earn.",
+      "avg_logprob": -0.16608779430389403,
+      "no_speech_prob": 5.3543546549642e-13,
+      "compression_ratio": 1.489795918367347,
+      "temperature": 0.0
+    },
+    {
+      "start": 2080.04,
+      "duration": 1.4600000000000364,
+      "text": "It's a precious gift.",
+      "avg_logprob": -0.16608779430389403,
+      "no_speech_prob": 5.3543546549642e-13,
+      "compression_ratio": 1.489795918367347,
+      "temperature": 0.0
+    },
+    {
+      "start": 2081.7,
+      "duration": 7.2800000000002,
+      "text": "And so here, God's promise to bless Abraham is confirmed.",
+      "avg_logprob": -0.16608779430389403,
+      "no_speech_prob": 5.3543546549642e-13,
+      "compression_ratio": 1.489795918367347,
+      "temperature": 0.0
+    },
+    {
+      "start": 2089.58,
+      "duration": 2.7800000000002,
+      "text": "And it rings in our ears in a similar way",
+      "avg_logprob": -0.16608779430389403,
+      "no_speech_prob": 5.3543546549642e-13,
+      "compression_ratio": 1.489795918367347,
+      "temperature": 0.0
+    },
+    {
+      "start": 2092.36,
+      "duration": 4.599999999999909,
+      "text": "to when Jesus tells that story of the master and his servants,",
+      "avg_logprob": -0.16608779430389403,
+      "no_speech_prob": 5.3543546549642e-13,
+      "compression_ratio": 1.489795918367347,
+      "temperature": 0.0
+    },
+    {
+      "start": 2096.96,
+      "duration": 1.1399999999998727,
+      "text": "and he tells his servants,",
+      "avg_logprob": -0.326130833345301,
+      "no_speech_prob": 5.169230386618817e-13,
+      "compression_ratio": 1.5425531914893618,
+      "temperature": 0.0
+    },
+    {
+      "start": 2098.38,
+      "duration": 2.599999999999909,
+      "text": "well done, my good and faithful servant.",
+      "avg_logprob": -0.326130833345301,
+      "no_speech_prob": 5.169230386618817e-13,
+      "compression_ratio": 1.5425531914893618,
+      "temperature": 0.0
+    },
+    {
+      "start": 2101.52,
+      "duration": 3.400000000000091,
+      "text": "Come and share in your master's happiness.",
+      "avg_logprob": -0.326130833345301,
+      "no_speech_prob": 5.169230386618817e-13,
+      "compression_ratio": 1.5425531914893618,
+      "temperature": 0.0
+    },
+    {
+      "start": 2106.08,
+      "duration": 1.8400000000001455,
+      "text": "For those who have faith,",
+      "avg_logprob": -0.326130833345301,
+      "no_speech_prob": 5.169230386618817e-13,
+      "compression_ratio": 1.5425531914893618,
+      "temperature": 0.0
+    },
+    {
+      "start": 2110.54,
+      "duration": 3.480000000000018,
+      "text": "there is a great reward that is awaiting us.",
+      "avg_logprob": -0.326130833345301,
+      "no_speech_prob": 5.169230386618817e-13,
+      "compression_ratio": 1.5425531914893618,
+      "temperature": 0.0
+    },
+    {
+      "start": 2114.52,
+      "duration": 1.0799999999999272,
+      "text": "Eternity in heaven,",
+      "avg_logprob": -0.326130833345301,
+      "no_speech_prob": 5.169230386618817e-13,
+      "compression_ratio": 1.5425531914893618,
+      "temperature": 0.0
+    },
+    {
+      "start": 2116.38,
+      "duration": 2.9400000000000546,
+      "text": "where there is no sin or suffering or death.",
+      "avg_logprob": -0.326130833345301,
+      "no_speech_prob": 5.169230386618817e-13,
+      "compression_ratio": 1.5425531914893618,
+      "temperature": 0.0
+    },
+    {
+      "start": 2119.72,
+      "duration": 5.0,
+      "text": "But most of all, our reward is God himself.",
+      "avg_logprob": -0.326130833345301,
+      "no_speech_prob": 5.169230386618817e-13,
+      "compression_ratio": 1.5425531914893618,
+      "temperature": 0.0
+    },
+    {
+      "start": 2125.8799999999997,
+      "duration": 3.3600000000001273,
+      "text": "We get Jesus for all eternity.",
+      "avg_logprob": -0.24865488022092788,
+      "no_speech_prob": 4.579276953291245e-13,
+      "compression_ratio": 1.3493975903614457,
+      "temperature": 0.0
+    },
+    {
+      "start": 2129.86,
+      "duration": 3.599999999999909,
+      "text": "And like Abraham, we will be called a friend of God.",
+      "avg_logprob": -0.24865488022092788,
+      "no_speech_prob": 4.579276953291245e-13,
+      "compression_ratio": 1.3493975903614457,
+      "temperature": 0.0
+    },
+    {
+      "start": 2135.92,
+      "duration": 10.319999999999709,
+      "text": "It was 2,000 years after this event that another only son, another beloved son,",
+      "avg_logprob": -0.24865488022092788,
+      "no_speech_prob": 4.579276953291245e-13,
+      "compression_ratio": 1.3493975903614457,
+      "temperature": 0.0
+    },
+    {
+      "start": 2147.14,
+      "duration": 2.480000000000018,
+      "text": "traveled to the land of Moriah.",
+      "avg_logprob": -0.24865488022092788,
+      "no_speech_prob": 4.579276953291245e-13,
+      "compression_ratio": 1.3493975903614457,
+      "temperature": 0.0
+    },
+    {
+      "start": 2151.14,
+      "duration": 1.8800000000001091,
+      "text": "That's modern day Jerusalem.",
+      "avg_logprob": -0.24865488022092788,
+      "no_speech_prob": 4.579276953291245e-13,
+      "compression_ratio": 1.3493975903614457,
+      "temperature": 0.0
+    },
+    {
+      "start": 2154.72,
+      "duration": 5.040000000000418,
+      "text": "And this child would walk up one of the mountains in Moriah.",
+      "avg_logprob": -0.14922096202899884,
+      "no_speech_prob": 4.4912728050516826e-13,
+      "compression_ratio": 1.5978260869565217,
+      "temperature": 0.0
+    },
+    {
+      "start": 2160.6,
+      "duration": 3.2400000000002365,
+      "text": "He'd have a crown of thorns wrapped around his head.",
+      "avg_logprob": -0.14922096202899884,
+      "no_speech_prob": 4.4912728050516826e-13,
+      "compression_ratio": 1.5978260869565217,
+      "temperature": 0.0
+    },
+    {
+      "start": 2164.5,
+      "duration": 5.2199999999998,
+      "text": "He'd be carrying the wood for the sacrifice up that mountain.",
+      "avg_logprob": -0.14922096202899884,
+      "no_speech_prob": 4.4912728050516826e-13,
+      "compression_ratio": 1.5978260869565217,
+      "temperature": 0.0
+    },
+    {
+      "start": 2170.82,
+      "duration": 4.119999999999891,
+      "text": "Only this time, the sacrifice would not be halted.",
+      "avg_logprob": -0.14922096202899884,
+      "no_speech_prob": 4.4912728050516826e-13,
+      "compression_ratio": 1.5978260869565217,
+      "temperature": 0.0
+    },
+    {
+      "start": 2175.08,
+      "duration": 4.320000000000164,
+      "text": "There would be no substitute for him because he was our substitute.",
+      "avg_logprob": -0.14922096202899884,
+      "no_speech_prob": 4.4912728050516826e-13,
+      "compression_ratio": 1.5978260869565217,
+      "temperature": 0.0
+    },
+    {
+      "start": 2181.4,
+      "duration": 4.079999999999927,
+      "text": "truly on the mountain of the Lord it was provided.",
+      "avg_logprob": -0.1552580012831577,
+      "no_speech_prob": 5.857487888824564e-13,
+      "compression_ratio": 1.6974358974358974,
+      "temperature": 0.0
+    },
+    {
+      "start": 2185.86,
+      "duration": 3.8399999999996908,
+      "text": "God provided the lamb for the burnt offering,",
+      "avg_logprob": -0.1552580012831577,
+      "no_speech_prob": 5.857487888824564e-13,
+      "compression_ratio": 1.6974358974358974,
+      "temperature": 0.0
+    },
+    {
+      "start": 2189.7,
+      "duration": 1.3600000000001273,
+      "text": "for that offering that day.",
+      "avg_logprob": -0.1552580012831577,
+      "no_speech_prob": 5.857487888824564e-13,
+      "compression_ratio": 1.6974358974358974,
+      "temperature": 0.0
+    },
+    {
+      "start": 2191.2,
+      "duration": 5.620000000000346,
+      "text": "He was called the lamb of God who takes away the sins of the world.",
+      "avg_logprob": -0.1552580012831577,
+      "no_speech_prob": 5.857487888824564e-13,
+      "compression_ratio": 1.6974358974358974,
+      "temperature": 0.0
+    },
+    {
+      "start": 2197.82,
+      "duration": 3.799999999999727,
+      "text": "And on that day, Jesus willingly died in our place",
+      "avg_logprob": -0.1552580012831577,
+      "no_speech_prob": 5.857487888824564e-13,
+      "compression_ratio": 1.6974358974358974,
+      "temperature": 0.0
+    },
+    {
+      "start": 2201.62,
+      "duration": 3.7400000000002365,
+      "text": "so that all who share in the faith of Abraham",
+      "avg_logprob": -0.1552580012831577,
+      "no_speech_prob": 5.857487888824564e-13,
+      "compression_ratio": 1.6974358974358974,
+      "temperature": 0.0
+    },
+    {
+      "start": 2205.36,
+      "duration": 3.099999999999909,
+      "text": "will also be counted righteous and share.",
+      "avg_logprob": -0.1552580012831577,
+      "no_speech_prob": 5.857487888824564e-13,
+      "compression_ratio": 1.6974358974358974,
+      "temperature": 0.0
+    },
+    {
+      "start": 2209.4,
+      "duration": 1.5399999999999636,
+      "text": "In Christ's eternal reward.",
+      "avg_logprob": -0.16879575628983348,
+      "no_speech_prob": 5.250146563155755e-13,
+      "compression_ratio": 1.6233183856502242,
+      "temperature": 0.0
+    },
+    {
+      "start": 2212.6600000000003,
+      "duration": 2.9399999999996,
+      "text": "And so church, we can have confidence",
+      "avg_logprob": -0.16879575628983348,
+      "no_speech_prob": 5.250146563155755e-13,
+      "compression_ratio": 1.6233183856502242,
+      "temperature": 0.0
+    },
+    {
+      "start": 2216.3,
+      "duration": 3.419999999999618,
+      "text": "that all of the things that God promises us are true,",
+      "avg_logprob": -0.16879575628983348,
+      "no_speech_prob": 5.250146563155755e-13,
+      "compression_ratio": 1.6233183856502242,
+      "temperature": 0.0
+    },
+    {
+      "start": 2219.72,
+      "duration": 3.3600000000001273,
+      "text": "especially when we face trials and tests like this.",
+      "avg_logprob": -0.16879575628983348,
+      "no_speech_prob": 5.250146563155755e-13,
+      "compression_ratio": 1.6233183856502242,
+      "temperature": 0.0
+    },
+    {
+      "start": 2223.16,
+      "duration": 2.3400000000001455,
+      "text": "As we walk through difficult circumstances,",
+      "avg_logprob": -0.16879575628983348,
+      "no_speech_prob": 5.250146563155755e-13,
+      "compression_ratio": 1.6233183856502242,
+      "temperature": 0.0
+    },
+    {
+      "start": 2225.5,
+      "duration": 2.400000000000091,
+      "text": "let us face these things with joy,",
+      "avg_logprob": -0.16879575628983348,
+      "no_speech_prob": 5.250146563155755e-13,
+      "compression_ratio": 1.6233183856502242,
+      "temperature": 0.0
+    },
+    {
+      "start": 2228.56,
+      "duration": 2.6799999999998363,
+      "text": "knowing that God is using them in our lives",
+      "avg_logprob": -0.16879575628983348,
+      "no_speech_prob": 5.250146563155755e-13,
+      "compression_ratio": 1.6233183856502242,
+      "temperature": 0.0
+    },
+    {
+      "start": 2231.24,
+      "duration": 4.460000000000036,
+      "text": "to confirm our faith and to mature our faith.",
+      "avg_logprob": -0.16879575628983348,
+      "no_speech_prob": 5.250146563155755e-13,
+      "compression_ratio": 1.6233183856502242,
+      "temperature": 0.0
+    },
+    {
+      "start": 2237.5,
+      "duration": 1.4200000000000728,
+      "text": "He loves you, church.",
+      "avg_logprob": -0.16879575628983348,
+      "no_speech_prob": 5.250146563155755e-13,
+      "compression_ratio": 1.6233183856502242,
+      "temperature": 0.0
+    },
+    {
+      "start": 2239.82,
+      "duration": 5.2599999999997635,
+      "text": "He is so good to us, so patient with us, and through our pain and struggle,",
+      "avg_logprob": -0.2364456528111508,
+      "no_speech_prob": 4.1208968746056507e-13,
+      "compression_ratio": 1.5705882352941176,
+      "temperature": 0.0
+    },
+    {
+      "start": 2245.4,
+      "duration": 6.440000000000055,
+      "text": "he is gently and tenderly, lovingly bringing you to maturity in Christ.",
+      "avg_logprob": -0.2364456528111508,
+      "no_speech_prob": 4.1208968746056507e-13,
+      "compression_ratio": 1.5705882352941176,
+      "temperature": 0.0
+    },
+    {
+      "start": 2252.4,
+      "duration": 0.7799999999997453,
+      "text": "Let's pray.",
+      "avg_logprob": -0.2364456528111508,
+      "no_speech_prob": 4.1208968746056507e-13,
+      "compression_ratio": 1.5705882352941176,
+      "temperature": 0.0
+    },
+    {
+      "start": 2256.86,
+      "duration": 5.299999999999727,
+      "text": "Our gracious Father, thank you for your love for us that is so patient,",
+      "avg_logprob": -0.2364456528111508,
+      "no_speech_prob": 4.1208968746056507e-13,
+      "compression_ratio": 1.5705882352941176,
+      "temperature": 0.0
+    },
+    {
+      "start": 2264.3,
+      "duration": 4.099999999999909,
+      "text": "that is so gentle, that is so kind.",
+      "avg_logprob": -0.2364456528111508,
+      "no_speech_prob": 4.1208968746056507e-13,
+      "compression_ratio": 1.5705882352941176,
+      "temperature": 0.0
+    },
+    {
+      "start": 2271.6800000000003,
+      "duration": 6.019999999999527,
+      "text": "Lord, it is this love for us that then humbles us and leads us to repentance.",
+      "avg_logprob": -0.17082575205210093,
+      "no_speech_prob": 3.932678835361081e-13,
+      "compression_ratio": 1.7320261437908497,
+      "temperature": 0.0
+    },
+    {
+      "start": 2279.48,
+      "duration": 4.679999999999836,
+      "text": "It's this love for us that turns our hearts toward you.",
+      "avg_logprob": -0.17082575205210093,
+      "no_speech_prob": 3.932678835361081e-13,
+      "compression_ratio": 1.7320261437908497,
+      "temperature": 0.0
+    },
+    {
+      "start": 2287.26,
+      "duration": 2.3399999999996908,
+      "text": "That makes us want to obey.",
+      "avg_logprob": -0.17082575205210093,
+      "no_speech_prob": 3.932678835361081e-13,
+      "compression_ratio": 1.7320261437908497,
+      "temperature": 0.0
+    },
+    {
+      "start": 2289.98,
+      "duration": 1.900000000000091,
+      "text": "That makes us want to follow you.",
+      "avg_logprob": -0.17082575205210093,
+      "no_speech_prob": 3.932678835361081e-13,
+      "compression_ratio": 1.7320261437908497,
+      "temperature": 0.0
+    },
+    {
+      "start": 2292.82,
+      "duration": 3.8799999999996544,
+      "text": "It's this love that you have given us through your son, Jesus Christ.",
+      "avg_logprob": -0.17082575205210093,
+      "no_speech_prob": 3.932678835361081e-13,
+      "compression_ratio": 1.7320261437908497,
+      "temperature": 0.0
+    },
+    {
+      "start": 2299.4,
+      "duration": 1.7599999999997635,
+      "text": "that absolutely changes our life.",
+      "avg_logprob": -0.16488024083579458,
+      "no_speech_prob": 3.901599909036241e-13,
+      "compression_ratio": 1.737142857142857,
+      "temperature": 0.0
+    },
+    {
+      "start": 2303.7200000000003,
+      "duration": 2.4599999999995816,
+      "text": "So God, today we remember what you did for us.",
+      "avg_logprob": -0.16488024083579458,
+      "no_speech_prob": 3.901599909036241e-13,
+      "compression_ratio": 1.737142857142857,
+      "temperature": 0.0
+    },
+    {
+      "start": 2308.08,
+      "duration": 2.980000000000018,
+      "text": "On this day, as we remember Palm Sunday,",
+      "avg_logprob": -0.16488024083579458,
+      "no_speech_prob": 3.901599909036241e-13,
+      "compression_ratio": 1.737142857142857,
+      "temperature": 0.0
+    },
+    {
+      "start": 2311.2,
+      "duration": 2.8600000000001273,
+      "text": "the day that you entered into Jerusalem to go and to die,",
+      "avg_logprob": -0.16488024083579458,
+      "no_speech_prob": 3.901599909036241e-13,
+      "compression_ratio": 1.737142857142857,
+      "temperature": 0.0
+    },
+    {
+      "start": 2315.5,
+      "duration": 3.619999999999891,
+      "text": "we remember how you did that willingly.",
+      "avg_logprob": -0.16488024083579458,
+      "no_speech_prob": 3.901599909036241e-13,
+      "compression_ratio": 1.737142857142857,
+      "temperature": 0.0
+    },
+    {
+      "start": 2321.26,
+      "duration": 1.6199999999998909,
+      "text": "Jesus, you did that willingly",
+      "avg_logprob": -0.16488024083579458,
+      "no_speech_prob": 3.901599909036241e-13,
+      "compression_ratio": 1.737142857142857,
+      "temperature": 0.0
+    },
+    {
+      "start": 2323.48,
+      "duration": 3.800000000000182,
+      "text": "because you loved the Father and because you loved us.",
+      "avg_logprob": -0.16488024083579458,
+      "no_speech_prob": 3.901599909036241e-13,
+      "compression_ratio": 1.737142857142857,
+      "temperature": 0.0
+    },
+    {
+      "start": 2329.22,
+      "duration": 5.040000000000418,
+      "text": "oh god we praise you we thank you it's in jesus name we pray amen",
+      "avg_logprob": -0.20652103424072266,
+      "no_speech_prob": 3.3885096334743126e-13,
+      "compression_ratio": 1.0655737704918034,
+      "temperature": 0.0
+    }
+  ]
+}

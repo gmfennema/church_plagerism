@@ -1,27 +1,27 @@
 # Transcript coverage
 
 Manifest recordings: 99
-Completed transcripts: 57
-Sources: {"Local Whisper large-v3-turbo (MLX)": 30, "YouTube auto captions": 27}
+Completed transcripts: 67
+Sources: {"Local Whisper large-v3-turbo (MLX)": 40, "YouTube auto captions": 27}
 
 Machine transcripts are not manually corrected. See verification.json for integrity checks and text samples.
 
 | Date | ID | Title | Status | Transcript source |
 |---|---|---|---|---|
-| 2019-09-08 | 32mv3ct | "Enjoy God's Daily Gifts" | no_confirmed_youtube_match |  |
+| 2019-09-08 | 32mv3ct | "Enjoy God's Daily Gifts" | complete | Local Whisper large-v3-turbo (MLX) |
 | 2020-06-28 | 9435rzn | "The Crossroads" | no_confirmed_youtube_match |  |
 | 2020-07-05 | kccmwqp | "The Redeemer" | no_confirmed_youtube_match |  |
-| 2020-07-12 | 7p645fr | "The Threshing Floor" | no_confirmed_youtube_match |  |
-| 2020-07-19 | b6hbmgs | "The Cost" | no_confirmed_youtube_match |  |
-| 2021-01-03 | 34d5cch | "The Submissive Citizen" | no_confirmed_youtube_match |  |
-| 2022-10-16 | n2dzrgc | Speak Truth | no_confirmed_youtube_match |  |
-| 2022-12-04 | p45vvvg | Be Ready | no_confirmed_youtube_match |  |
+| 2020-07-12 | 7p645fr | "The Threshing Floor" | complete | Local Whisper large-v3-turbo (MLX) |
+| 2020-07-19 | b6hbmgs | "The Cost" | complete | Local Whisper large-v3-turbo (MLX) |
+| 2021-01-03 | 34d5cch | "The Submissive Citizen" | complete | Local Whisper large-v3-turbo (MLX) |
+| 2022-10-16 | n2dzrgc | Speak Truth | complete | Local Whisper large-v3-turbo (MLX) |
+| 2022-12-04 | p45vvvg | Be Ready | complete | Local Whisper large-v3-turbo (MLX) |
 | 2023-02-15 | pdqm8qr | Session 1 - Introduction | no_confirmed_youtube_match |  |
-| 2023-02-19 | qvj4987 | God Is Able | no_confirmed_youtube_match |  |
+| 2023-02-19 | qvj4987 | God Is Able | complete | Local Whisper large-v3-turbo (MLX) |
 | 2023-03-15 | sdczzjg | Session 5 - 2:17-23 | no_confirmed_youtube_match |  |
-| 2023-04-02 | mmrncgs | The Fruit Of Faith | no_confirmed_youtube_match |  |
-| 2023-06-04 | 9jkqhc9 | A Confident Expectation | no_confirmed_youtube_match |  |
-| 2023-08-27 | 58w2dmd | God's Two Books | no_confirmed_youtube_match |  |
+| 2023-04-02 | mmrncgs | The Fruit Of Faith | complete | Local Whisper large-v3-turbo (MLX) |
+| 2023-06-04 | 9jkqhc9 | A Confident Expectation | complete | Local Whisper large-v3-turbo (MLX) |
+| 2023-08-27 | 58w2dmd | God's Two Books | complete | Local Whisper large-v3-turbo (MLX) |
 | 2023-09-08 | 3n25fz8 | Session 1 - Introduction to Acts | no_confirmed_youtube_match |  |
 | 2023-09-17 | q4268vn | God's People In God's Place Under God's Rule | complete | Local Whisper large-v3-turbo (MLX) |
 | 2023-09-22 | vccs892 | Session 3 - Thessalonica and Berea | no_confirmed_youtube_match |  |

@@ -1,12 +1,12 @@
 {
-  "verified_transcripts": 57,
+  "verified_transcripts": 67,
   "matching_start_end_boundaries": true,
   "all_individual_files_in_combined": true,
   "timestamps_monotonic": true,
   "caption_segments_preserved_exactly": true,
-  "combined_bytes": 2305281,
-  "transcript_words": 322496,
-  "combined_sha256": "3d1e5f14529af7e24bf59cd879b13981946b13b04978407cca95d23a09ded612",
+  "combined_bytes": 2693049,
+  "transcript_words": 379922,
+  "combined_sha256": "122af2f2b2e674dddf9bf5bcd941f0b060725149e94420272d85d404dab0b34f",
   "duration_discrepancies_over_10_percent_or_60_seconds": [],
   "verification_scope": "Structural and text-sample checks. Not a manual word-for-word audio verification. Names and references may be misrecognized.",
   "text_samples": [
@@ -522,6 +522,96 @@
       "last": "Amen.",
       "transcript_end_seconds": 2442.64,
       "archive_duration_seconds": 2448.927
+    },
+    {
+      "id": "58w2dmd",
+      "title": "God's Two Books",
+      "first": "Good morning, good morning.",
+      "middle": "I wanted to trust it.",
+      "last": "Amen.",
+      "transcript_end_seconds": 2422.16,
+      "archive_duration_seconds": 2427.506
+    },
+    {
+      "id": "9jkqhc9",
+      "title": "A Confident Expectation",
+      "first": "We're going to be in 2 Corinthians chapter 5, verses 1 through 10.",
+      "middle": "So, Paul says that we are always of good courage.",
+      "last": "Amen.",
+      "transcript_end_seconds": 2212.58,
+      "archive_duration_seconds": 2214.217
+    },
+    {
+      "id": "mmrncgs",
+      "title": "The Fruit Of Faith",
+      "first": "Today's scripture from Genesis 22.",
+      "middle": "to be honest with you",
+      "last": "oh god we praise you we thank you it's in jesus name we pray amen",
+      "transcript_end_seconds": 2334.26,
+      "archive_duration_seconds": 2335.921
+    },
+    {
+      "id": "qvj4987",
+      "title": "God Is Able",
+      "first": "Today's reading is from Genesis 17.",
+      "middle": "and we've fallen short of that",
+      "last": "Amen.",
+      "transcript_end_seconds": 2271.64,
+      "archive_duration_seconds": 2274.377
+    },
+    {
+      "id": "p45vvvg",
+      "title": "Be Ready",
+      "first": "Our passage for this morning is from Luke chapter 12 verses 35 through 48.",
+      "middle": "The verdict of",
+      "last": "Amen.",
+      "transcript_end_seconds": 2149.2,
+      "archive_duration_seconds": 2151.732
+    },
+    {
+      "id": "n2dzrgc",
+      "title": "Speak Truth",
+      "first": "Good morning, everyone. I'll be reading the sermon passage today that Chris will be preaching on.",
+      "middle": "for me was Michael Scott from The Office. Okay, you guys seen The Office? So in the show,",
+      "last": "We praise you in Jesus' name. Amen.",
+      "transcript_end_seconds": 2120.44,
+      "archive_duration_seconds": 2121.822
+    },
+    {
+      "id": "34d5cch",
+      "title": "\"The Submissive Citizen\"",
+      "first": "My name is Chris McLaughlin. I'm the discipleship pastor here. I get to bring God's word to you",
+      "middle": "We love those stories of those people that go and they fight against the man and they win, right?",
+      "last": "We pray this in Jesus' name. Amen.",
+      "transcript_end_seconds": 2644.68,
+      "archive_duration_seconds": 2646.021
+    },
+    {
+      "id": "b6hbmgs",
+      "title": "\"The Cost\"",
+      "first": "Welcome. It's so good to see you guys this morning. Open up to Ruth chapter 4.",
+      "middle": "And Jacob becomes Israel.",
+      "last": "Amen.",
+      "transcript_end_seconds": 2082.24,
+      "archive_duration_seconds": 2083.056
+    },
+    {
+      "id": "7p645fr",
+      "title": "\"The Threshing Floor\"",
+      "first": "Hey, go ahead and open up your Bible to Ruth chapter 3. It's where we're going to be this morning.",
+      "middle": "It was this picture of, I want you to come under my care and provision.",
+      "last": "Amen.",
+      "transcript_end_seconds": 2000.36,
+      "archive_duration_seconds": 2001.031
+    },
+    {
+      "id": "32mv3ct",
+      "title": "\"Enjoy God's Daily Gifts\"",
+      "first": "My name is Chris. I'm the discipleship pastor here at Stones, and we are continuing in our series in the book of Ecclesiastes,",
+      "middle": "This is vanity.",
+      "last": "Amen.",
+      "transcript_end_seconds": 2642.54,
+      "archive_duration_seconds": 2643.017
     }
   ]
 }
