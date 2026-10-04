@@ -1,0 +1,2952 @@
+{
+  "title": "Session 1 - Introduction to Nehemiah",
+  "date": "2025-01-23T00:00:00Z",
+  "scripture": null,
+  "speaker": "Chris McLaughlin",
+  "site_url": "https://fieldspres.org/media/mw7369j/session-1-introduction-to-nehemiah",
+  "short_code": "mw7369j",
+  "subsplash_url": "https://subspla.sh/mw7369j",
+  "audio_url": "https://cdn.subsplash.com/audios/83RBNZ/8b3bb9ab-9711-4c13-bec4-ed2e2be93ee0/audio.mp3",
+  "video_url": null,
+  "duration_ms": 1324094,
+  "transcript_source": "Local Whisper large-v3-turbo (MLX)",
+  "transcript_source_url": "https://cdn.subsplash.com/audios/83RBNZ/8b3bb9ab-9711-4c13-bec4-ed2e2be93ee0/audio.mp3",
+  "language_code": "en",
+  "transcribed_at": "2026-10-04T22:43:19.709108+00:00",
+  "transcription": {
+    "engine": "mlx-whisper",
+    "engine_version": "0.4.3",
+    "mlx_version": "0.32.3",
+    "model_repo": "mlx-community/whisper-large-v3-turbo",
+    "model_revision": "a4aaeec0636e6fef84abdcbe3544cb2bf7e9f6fb",
+    "language": "en",
+    "word_timestamps": true,
+    "condition_on_previous_text": false,
+    "hallucination_silence_threshold": 2.0,
+    "audio_duration_seconds": 1324.068571,
+    "processing_seconds": 102.67715791599949,
+    "speed_multiple": 12.895454041328499,
+    "audio_retained": false,
+    "cloud_audio_processing": false,
+    "manually_corrected": false
+  },
+  "quality_flags": [],
+  "snippets": [
+    {
+      "start": 0.0,
+      "duration": 10.06,
+      "text": "I want to ask you to turn to, not Nehemiah, we're going to, I know, you got 65 choices,",
+      "avg_logprob": -0.1302548488938665,
+      "no_speech_prob": 1.0565355014480193e-12,
+      "compression_ratio": 1.481081081081081,
+      "temperature": 0.0
+    },
+    {
+      "start": 10.9,
+      "duration": 7.799999999999999,
+      "text": "Deuteronomy chapter 30, Deuteronomy chapter 30, and I'll talk about why in just a second",
+      "avg_logprob": -0.1302548488938665,
+      "no_speech_prob": 1.0565355014480193e-12,
+      "compression_ratio": 1.481081081081081,
+      "temperature": 0.0
+    },
+    {
+      "start": 18.7,
+      "duration": 0.14000000000000057,
+      "text": "here.",
+      "avg_logprob": -0.1302548488938665,
+      "no_speech_prob": 1.0565355014480193e-12,
+      "compression_ratio": 1.481081081081081,
+      "temperature": 0.0
+    },
+    {
+      "start": 18.98,
+      "duration": 5.739999999999998,
+      "text": "So hopefully you've got a chance to read through the, that introduction to the study guide.",
+      "avg_logprob": -0.1302548488938665,
+      "no_speech_prob": 1.0565355014480193e-12,
+      "compression_ratio": 1.481081081081081,
+      "temperature": 0.0
+    },
+    {
+      "start": 24.72,
+      "duration": 3.3800000000000026,
+      "text": "And if you haven't, take some time to do that this week.",
+      "avg_logprob": -0.07970660772079076,
+      "no_speech_prob": 8.690607912129056e-13,
+      "compression_ratio": 1.7811320754716982,
+      "temperature": 0.0
+    },
+    {
+      "start": 29.6,
+      "duration": 5.019999999999996,
+      "text": "It's not super long, but hopefully it gives you just a good idea about what this book is about",
+      "avg_logprob": -0.07970660772079076,
+      "no_speech_prob": 8.690607912129056e-13,
+      "compression_ratio": 1.7811320754716982,
+      "temperature": 0.0
+    },
+    {
+      "start": 34.62,
+      "duration": 4.520000000000003,
+      "text": "and sort of the history that's leading up to the events of Nehemiah.",
+      "avg_logprob": -0.07970660772079076,
+      "no_speech_prob": 8.690607912129056e-13,
+      "compression_ratio": 1.7811320754716982,
+      "temperature": 0.0
+    },
+    {
+      "start": 40.1,
+      "duration": 7.32,
+      "text": "One of the things that I want to do tonight is just tell you a little bit about some things that this book is going to emphasize.",
+      "avg_logprob": -0.07970660772079076,
+      "no_speech_prob": 8.690607912129056e-13,
+      "compression_ratio": 1.7811320754716982,
+      "temperature": 0.0
+    },
+    {
+      "start": 47.46,
+      "duration": 7.159999999999997,
+      "text": "And I think it's important that we understand these three things that the book emphasizes as we are beginning to read it.",
+      "avg_logprob": -0.07970660772079076,
+      "no_speech_prob": 8.690607912129056e-13,
+      "compression_ratio": 1.7811320754716982,
+      "temperature": 0.0
+    },
+    {
+      "start": 54.72,
+      "duration": 5.340000000000003,
+      "text": "Because I think sometimes these things are easy for us to overlook.",
+      "avg_logprob": -0.19065257756396978,
+      "no_speech_prob": 8.196313094378793e-13,
+      "compression_ratio": 1.7464114832535884,
+      "temperature": 0.0
+    },
+    {
+      "start": 60.56,
+      "duration": 7.939999999999998,
+      "text": "But if we keep them in mind as we're reading it, it'll actually frame the way that we're reading it a little bit differently.",
+      "avg_logprob": -0.19065257756396978,
+      "no_speech_prob": 8.196313094378793e-13,
+      "compression_ratio": 1.7464114832535884,
+      "temperature": 0.0
+    },
+    {
+      "start": 68.76,
+      "duration": 0.4399999999999977,
+      "text": "Okay?",
+      "avg_logprob": -0.19065257756396978,
+      "no_speech_prob": 8.196313094378793e-13,
+      "compression_ratio": 1.7464114832535884,
+      "temperature": 0.0
+    },
+    {
+      "start": 69.48,
+      "duration": 1.3199999999999932,
+      "text": "So we're talking about three things.",
+      "avg_logprob": -0.19065257756396978,
+      "no_speech_prob": 8.196313094378793e-13,
+      "compression_ratio": 1.7464114832535884,
+      "temperature": 0.0
+    },
+    {
+      "start": 70.92,
+      "duration": 6.299999999999997,
+      "text": "And so they're going to be God's covenant, God's sovereignty, and God's word.",
+      "avg_logprob": -0.19065257756396978,
+      "no_speech_prob": 8.196313094378793e-13,
+      "compression_ratio": 1.7464114832535884,
+      "temperature": 0.0
+    },
+    {
+      "start": 78.14,
+      "duration": 4.060000000000002,
+      "text": "God's covenant, God's sovereignty, and God's word.",
+      "avg_logprob": -0.19065257756396978,
+      "no_speech_prob": 8.196313094378793e-13,
+      "compression_ratio": 1.7464114832535884,
+      "temperature": 0.0
+    },
+    {
+      "start": 82.2,
+      "duration": 2.4599999999999937,
+      "text": "I'm just going to show you these three things.",
+      "avg_logprob": -0.10192507191708214,
+      "no_speech_prob": 1.0240024973795503e-12,
+      "compression_ratio": 1.8040816326530613,
+      "temperature": 0.0
+    },
+    {
+      "start": 85.0,
+      "duration": 1.4000000000000057,
+      "text": "So first is God's covenant.",
+      "avg_logprob": -0.10192507191708214,
+      "no_speech_prob": 1.0240024973795503e-12,
+      "compression_ratio": 1.8040816326530613,
+      "temperature": 0.0
+    },
+    {
+      "start": 87.92,
+      "duration": 9.420000000000002,
+      "text": "In order to understand Nehemiah, we have to have at least a little bit of an understanding of what covenant is and God's covenant with his people.",
+      "avg_logprob": -0.10192507191708214,
+      "no_speech_prob": 1.0240024973795503e-12,
+      "compression_ratio": 1.8040816326530613,
+      "temperature": 0.0
+    },
+    {
+      "start": 97.88,
+      "duration": 4.02000000000001,
+      "text": "The word covenant actually comes up just a few times in the book of Nehemiah, only five times.",
+      "avg_logprob": -0.10192507191708214,
+      "no_speech_prob": 1.0240024973795503e-12,
+      "compression_ratio": 1.8040816326530613,
+      "temperature": 0.0
+    },
+    {
+      "start": 102.04,
+      "duration": 8.079999999999998,
+      "text": "But here's the thing with it is that the covenant that God made with his people is really the underpinning of the whole book.",
+      "avg_logprob": -0.10192507191708214,
+      "no_speech_prob": 1.0240024973795503e-12,
+      "compression_ratio": 1.8040816326530613,
+      "temperature": 0.0
+    },
+    {
+      "start": 110.12,
+      "duration": 5.519999999999996,
+      "text": "It's everything that is happening with Nehemiah, what he's wanting to accomplish, what happens at the end.",
+      "avg_logprob": -0.1327701985150918,
+      "no_speech_prob": 7.347136679429489e-13,
+      "compression_ratio": 1.712962962962963,
+      "temperature": 0.0
+    },
+    {
+      "start": 116.08,
+      "duration": 3.960000000000008,
+      "text": "Everything comes back to this covenant with God.",
+      "avg_logprob": -0.1327701985150918,
+      "no_speech_prob": 7.347136679429489e-13,
+      "compression_ratio": 1.712962962962963,
+      "temperature": 0.0
+    },
+    {
+      "start": 121.82,
+      "duration": 8.360000000000014,
+      "text": "So when we think about covenant, first of all, just to give us some framework to understand what's happening with covenant throughout Scripture.",
+      "avg_logprob": -0.1327701985150918,
+      "no_speech_prob": 7.347136679429489e-13,
+      "compression_ratio": 1.712962962962963,
+      "temperature": 0.0
+    },
+    {
+      "start": 131.92000000000002,
+      "duration": 4.679999999999978,
+      "text": "There is a what we would call a covenant of grace, covenant of grace.",
+      "avg_logprob": -0.1327701985150918,
+      "no_speech_prob": 7.347136679429489e-13,
+      "compression_ratio": 1.712962962962963,
+      "temperature": 0.0
+    },
+    {
+      "start": 137.5,
+      "duration": 6.860000000000014,
+      "text": "And it is this covenant that God has made with his people to redeem them, to restore them.",
+      "avg_logprob": -0.1614236831665039,
+      "no_speech_prob": 7.148742860695056e-13,
+      "compression_ratio": 2.0256410256410255,
+      "temperature": 0.0
+    },
+    {
+      "start": 144.48,
+      "duration": 4.1200000000000045,
+      "text": "And it begins all the way back at Abraham.",
+      "avg_logprob": -0.1614236831665039,
+      "no_speech_prob": 7.148742860695056e-13,
+      "compression_ratio": 2.0256410256410255,
+      "temperature": 0.0
+    },
+    {
+      "start": 149.54,
+      "duration": 5.1200000000000045,
+      "text": "And so you have a very clear covenant with Abraham that's part of this covenant of grace.",
+      "avg_logprob": -0.1614236831665039,
+      "no_speech_prob": 7.148742860695056e-13,
+      "compression_ratio": 2.0256410256410255,
+      "temperature": 0.0
+    },
+    {
+      "start": 155.06,
+      "duration": 4.639999999999986,
+      "text": "You have this covenant with Moses, which is the law, right?",
+      "avg_logprob": -0.1614236831665039,
+      "no_speech_prob": 7.148742860695056e-13,
+      "compression_ratio": 2.0256410256410255,
+      "temperature": 0.0
+    },
+    {
+      "start": 159.94,
+      "duration": 1.5200000000000102,
+      "text": "That's part of this covenant of grace.",
+      "avg_logprob": -0.1614236831665039,
+      "no_speech_prob": 7.148742860695056e-13,
+      "compression_ratio": 2.0256410256410255,
+      "temperature": 0.0
+    },
+    {
+      "start": 161.8,
+      "duration": 3.619999999999976,
+      "text": "You have a covenant with David, which is part of that covenant of grace.",
+      "avg_logprob": -0.1614236831665039,
+      "no_speech_prob": 7.148742860695056e-13,
+      "compression_ratio": 2.0256410256410255,
+      "temperature": 0.0
+    },
+    {
+      "start": 166.94,
+      "duration": 5.780000000000001,
+      "text": "which is part of that covenant of grace as well. And so all of that is God working out his plan of",
+      "avg_logprob": -0.07224594593048096,
+      "no_speech_prob": 1.3096971424042536e-12,
+      "compression_ratio": 1.6218487394957983,
+      "temperature": 0.0
+    },
+    {
+      "start": 172.72,
+      "duration": 5.939999999999998,
+      "text": "redemption through covenants. Now, covenants are, they're like a contract. They're an agreement.",
+      "avg_logprob": -0.07224594593048096,
+      "no_speech_prob": 1.3096971424042536e-12,
+      "compression_ratio": 1.6218487394957983,
+      "temperature": 0.0
+    },
+    {
+      "start": 178.94,
+      "duration": 6.97999999999999,
+      "text": "They set the expectations for the relationship between God and the people, right? So on God's",
+      "avg_logprob": -0.07224594593048096,
+      "no_speech_prob": 1.3096971424042536e-12,
+      "compression_ratio": 1.6218487394957983,
+      "temperature": 0.0
+    },
+    {
+      "start": 185.92,
+      "duration": 7.260000000000019,
+      "text": "side, you have a lot of promises. God is saying, I'm going to promise blessing, but also there's",
+      "avg_logprob": -0.07224594593048096,
+      "no_speech_prob": 1.3096971424042536e-12,
+      "compression_ratio": 1.6218487394957983,
+      "temperature": 0.0
+    },
+    {
+      "start": 193.18,
+      "duration": 5.9199999999999875,
+      "text": "going to be disciplined when the people disobey. And those are both promises. And God is always",
+      "avg_logprob": -0.0784275483111946,
+      "no_speech_prob": 7.176708771532148e-13,
+      "compression_ratio": 1.668141592920354,
+      "temperature": 0.0
+    },
+    {
+      "start": 199.1,
+      "duration": 5.800000000000011,
+      "text": "faithful to keep his promises, right? On the people's side, especially with the Mosaic covenant,",
+      "avg_logprob": -0.0784275483111946,
+      "no_speech_prob": 7.176708771532148e-13,
+      "compression_ratio": 1.668141592920354,
+      "temperature": 0.0
+    },
+    {
+      "start": 205.08,
+      "duration": 6.4599999999999795,
+      "text": "God gives the law, right? And the law is really key. In fact, this is what Nehemiah is going to",
+      "avg_logprob": -0.0784275483111946,
+      "no_speech_prob": 7.176708771532148e-13,
+      "compression_ratio": 1.668141592920354,
+      "temperature": 0.0
+    },
+    {
+      "start": 211.54,
+      "duration": 7.360000000000014,
+      "text": "talk about quite a bit with this idea of the Mosaic covenant, the law. These obligations",
+      "avg_logprob": -0.0784275483111946,
+      "no_speech_prob": 7.176708771532148e-13,
+      "compression_ratio": 1.668141592920354,
+      "temperature": 0.0
+    },
+    {
+      "start": 218.9,
+      "duration": 2.780000000000001,
+      "text": "that are really meant to,",
+      "avg_logprob": -0.1520595377141779,
+      "no_speech_prob": 6.768333181243757e-13,
+      "compression_ratio": 1.5643153526970954,
+      "temperature": 0.0
+    },
+    {
+      "start": 221.88,
+      "duration": 2.819999999999993,
+      "text": "so the people can demonstrate their faithfulness to God.",
+      "avg_logprob": -0.1520595377141779,
+      "no_speech_prob": 6.768333181243757e-13,
+      "compression_ratio": 1.5643153526970954,
+      "temperature": 0.0
+    },
+    {
+      "start": 224.88,
+      "duration": 1.740000000000009,
+      "text": "So this is what they're gonna talk about.",
+      "avg_logprob": -0.1520595377141779,
+      "no_speech_prob": 6.768333181243757e-13,
+      "compression_ratio": 1.5643153526970954,
+      "temperature": 0.0
+    },
+    {
+      "start": 226.82,
+      "duration": 4.240000000000009,
+      "text": "I think that oftentimes we as Christians look at the law",
+      "avg_logprob": -0.1520595377141779,
+      "no_speech_prob": 6.768333181243757e-13,
+      "compression_ratio": 1.5643153526970954,
+      "temperature": 0.0
+    },
+    {
+      "start": 231.06,
+      "duration": 2.539999999999992,
+      "text": "and we're like, well, what use are they to us, right?",
+      "avg_logprob": -0.1520595377141779,
+      "no_speech_prob": 6.768333181243757e-13,
+      "compression_ratio": 1.5643153526970954,
+      "temperature": 0.0
+    },
+    {
+      "start": 234.88,
+      "duration": 2.4000000000000057,
+      "text": "Or why do we need to even read that?",
+      "avg_logprob": -0.1520595377141779,
+      "no_speech_prob": 6.768333181243757e-13,
+      "compression_ratio": 1.5643153526970954,
+      "temperature": 0.0
+    },
+    {
+      "start": 238.02,
+      "duration": 1.1599999999999966,
+      "text": "Why does that even matter?",
+      "avg_logprob": -0.1520595377141779,
+      "no_speech_prob": 6.768333181243757e-13,
+      "compression_ratio": 1.5643153526970954,
+      "temperature": 0.0
+    },
+    {
+      "start": 239.9,
+      "duration": 3.859999999999985,
+      "text": "But see, I want us to get our mindset",
+      "avg_logprob": -0.1520595377141779,
+      "no_speech_prob": 6.768333181243757e-13,
+      "compression_ratio": 1.5643153526970954,
+      "temperature": 0.0
+    },
+    {
+      "start": 243.76,
+      "duration": 2.980000000000018,
+      "text": "into that of an Israelite at this time.",
+      "avg_logprob": -0.1520595377141779,
+      "no_speech_prob": 6.768333181243757e-13,
+      "compression_ratio": 1.5643153526970954,
+      "temperature": 0.0
+    },
+    {
+      "start": 247.43999999999997,
+      "duration": 5.180000000000035,
+      "text": "because for them, reading the law is really a blessing.",
+      "avg_logprob": -0.1703157335798317,
+      "no_speech_prob": 7.121107089419487e-13,
+      "compression_ratio": 1.7123287671232876,
+      "temperature": 0.0
+    },
+    {
+      "start": 253.48,
+      "duration": 1.5,
+      "text": "It really is a blessing",
+      "avg_logprob": -0.1703157335798317,
+      "no_speech_prob": 7.121107089419487e-13,
+      "compression_ratio": 1.7123287671232876,
+      "temperature": 0.0
+    },
+    {
+      "start": 254.98,
+      "duration": 3.219999999999999,
+      "text": "because what's happening is God is revealing himself",
+      "avg_logprob": -0.1703157335798317,
+      "no_speech_prob": 7.121107089419487e-13,
+      "compression_ratio": 1.7123287671232876,
+      "temperature": 0.0
+    },
+    {
+      "start": 258.2,
+      "duration": 1.3199999999999932,
+      "text": "through the law.",
+      "avg_logprob": -0.1703157335798317,
+      "no_speech_prob": 7.121107089419487e-13,
+      "compression_ratio": 1.7123287671232876,
+      "temperature": 0.0
+    },
+    {
+      "start": 260.58,
+      "duration": 0.9600000000000364,
+      "text": "Think about a law for a second.",
+      "avg_logprob": -0.1703157335798317,
+      "no_speech_prob": 7.121107089419487e-13,
+      "compression_ratio": 1.7123287671232876,
+      "temperature": 0.0
+    },
+    {
+      "start": 261.82,
+      "duration": 2.0400000000000205,
+      "text": "I like to use this as an example.",
+      "avg_logprob": -0.1703157335798317,
+      "no_speech_prob": 7.121107089419487e-13,
+      "compression_ratio": 1.7123287671232876,
+      "temperature": 0.0
+    },
+    {
+      "start": 264.86,
+      "duration": 3.5399999999999636,
+      "text": "There's a law that goes, if you have a field,",
+      "avg_logprob": -0.1703157335798317,
+      "no_speech_prob": 7.121107089419487e-13,
+      "compression_ratio": 1.7123287671232876,
+      "temperature": 0.0
+    },
+    {
+      "start": 268.56,
+      "duration": 2.1200000000000045,
+      "text": "you own a field and you dig a hole in that field",
+      "avg_logprob": -0.1703157335798317,
+      "no_speech_prob": 7.121107089419487e-13,
+      "compression_ratio": 1.7123287671232876,
+      "temperature": 0.0
+    },
+    {
+      "start": 270.68,
+      "duration": 2.0600000000000023,
+      "text": "and then your neighbor has an ox",
+      "avg_logprob": -0.1703157335798317,
+      "no_speech_prob": 7.121107089419487e-13,
+      "compression_ratio": 1.7123287671232876,
+      "temperature": 0.0
+    },
+    {
+      "start": 272.74,
+      "duration": 2.0,
+      "text": "and travels over into the field",
+      "avg_logprob": -0.1703157335798317,
+      "no_speech_prob": 7.121107089419487e-13,
+      "compression_ratio": 1.7123287671232876,
+      "temperature": 0.0
+    },
+    {
+      "start": 277.26000000000005,
+      "duration": 6.379999999999939,
+      "text": "eyes, then what has to happen is you have to pay for that ox. You have to make restitution for it.",
+      "avg_logprob": -0.15585720177852747,
+      "no_speech_prob": 9.886554465723951e-13,
+      "compression_ratio": 1.550660792951542,
+      "temperature": 0.0
+    },
+    {
+      "start": 284.54,
+      "duration": 5.979999999999961,
+      "text": "That's part of the Mosaic law. Now, everybody's like, I know right now you're all just like,",
+      "avg_logprob": -0.15585720177852747,
+      "no_speech_prob": 9.886554465723951e-13,
+      "compression_ratio": 1.550660792951542,
+      "temperature": 0.0
+    },
+    {
+      "start": 290.64,
+      "duration": 8.319999999999993,
+      "text": "hallelujah, praise the Lord. It's amazing. But let's stop for a second and think about this.",
+      "avg_logprob": -0.15585720177852747,
+      "no_speech_prob": 9.886554465723951e-13,
+      "compression_ratio": 1.550660792951542,
+      "temperature": 0.0
+    },
+    {
+      "start": 300.08000000000004,
+      "duration": 2.939999999999941,
+      "text": "Just think about it for a second. What does that tell us about God?",
+      "avg_logprob": -0.15585720177852747,
+      "no_speech_prob": 9.886554465723951e-13,
+      "compression_ratio": 1.550660792951542,
+      "temperature": 0.0
+    },
+    {
+      "start": 304.06,
+      "duration": 3.6999999999999886,
+      "text": "What is that law saying about what God cares about?",
+      "avg_logprob": -0.24714611486061333,
+      "no_speech_prob": 8.75876736590453e-13,
+      "compression_ratio": 1.7025641025641025,
+      "temperature": 0.0
+    },
+    {
+      "start": 307.98,
+      "duration": 0.6999999999999886,
+      "text": "What do you think?",
+      "avg_logprob": -0.24714611486061333,
+      "no_speech_prob": 8.75876736590453e-13,
+      "compression_ratio": 1.7025641025641025,
+      "temperature": 0.0
+    },
+    {
+      "start": 309.9,
+      "duration": 0.5600000000000023,
+      "text": "Justice.",
+      "avg_logprob": -0.24714611486061333,
+      "no_speech_prob": 8.75876736590453e-13,
+      "compression_ratio": 1.7025641025641025,
+      "temperature": 0.0
+    },
+    {
+      "start": 311.06,
+      "duration": 1.4399999999999977,
+      "text": "God cares about justice.",
+      "avg_logprob": -0.24714611486061333,
+      "no_speech_prob": 8.75876736590453e-13,
+      "compression_ratio": 1.7025641025641025,
+      "temperature": 0.0
+    },
+    {
+      "start": 313.14,
+      "duration": 1.3199999999999932,
+      "text": "Good, yeah, what else?",
+      "avg_logprob": -0.24714611486061333,
+      "no_speech_prob": 8.75876736590453e-13,
+      "compression_ratio": 1.7025641025641025,
+      "temperature": 0.0
+    },
+    {
+      "start": 314.64,
+      "duration": 0.36000000000001364,
+      "text": "What else?",
+      "avg_logprob": -0.24714611486061333,
+      "no_speech_prob": 8.75876736590453e-13,
+      "compression_ratio": 1.7025641025641025,
+      "temperature": 0.0
+    },
+    {
+      "start": 316.54,
+      "duration": 2.079999999999984,
+      "text": "He cares about our relationship with our neighbors.",
+      "avg_logprob": -0.24714611486061333,
+      "no_speech_prob": 8.75876736590453e-13,
+      "compression_ratio": 1.7025641025641025,
+      "temperature": 0.0
+    },
+    {
+      "start": 318.98,
+      "duration": 1.0199999999999818,
+      "text": "Absolutely, yeah.",
+      "avg_logprob": -0.24714611486061333,
+      "no_speech_prob": 8.75876736590453e-13,
+      "compression_ratio": 1.7025641025641025,
+      "temperature": 0.0
+    },
+    {
+      "start": 320.52,
+      "duration": 3.0200000000000387,
+      "text": "You guys hit the two perfect answers, way to go.",
+      "avg_logprob": -0.24714611486061333,
+      "no_speech_prob": 8.75876736590453e-13,
+      "compression_ratio": 1.7025641025641025,
+      "temperature": 0.0
+    },
+    {
+      "start": 324.82,
+      "duration": 3.980000000000018,
+      "text": "It is such a revelation to those people",
+      "avg_logprob": -0.24714611486061333,
+      "no_speech_prob": 8.75876736590453e-13,
+      "compression_ratio": 1.7025641025641025,
+      "temperature": 0.0
+    },
+    {
+      "start": 328.8,
+      "duration": 2.240000000000009,
+      "text": "that shows us what God cares about",
+      "avg_logprob": -0.24714611486061333,
+      "no_speech_prob": 8.75876736590453e-13,
+      "compression_ratio": 1.7025641025641025,
+      "temperature": 0.0
+    },
+    {
+      "start": 333.02,
+      "duration": 2.7200000000000273,
+      "text": "about justice and our relationships with each other.",
+      "avg_logprob": -0.11518567240136302,
+      "no_speech_prob": 9.964096605100115e-13,
+      "compression_ratio": 1.6804979253112033,
+      "temperature": 0.0
+    },
+    {
+      "start": 335.84,
+      "duration": 1.1800000000000068,
+      "text": "It's so good.",
+      "avg_logprob": -0.11518567240136302,
+      "no_speech_prob": 9.964096605100115e-13,
+      "compression_ratio": 1.6804979253112033,
+      "temperature": 0.0
+    },
+    {
+      "start": 337.26,
+      "duration": 1.9399999999999977,
+      "text": "And so they look at the law and they're like,",
+      "avg_logprob": -0.11518567240136302,
+      "no_speech_prob": 9.964096605100115e-13,
+      "compression_ratio": 1.6804979253112033,
+      "temperature": 0.0
+    },
+    {
+      "start": 339.92,
+      "duration": 4.139999999999986,
+      "text": "man, this is God telling us about him, okay?",
+      "avg_logprob": -0.11518567240136302,
+      "no_speech_prob": 9.964096605100115e-13,
+      "compression_ratio": 1.6804979253112033,
+      "temperature": 0.0
+    },
+    {
+      "start": 344.8,
+      "duration": 2.680000000000007,
+      "text": "The law also sets up the whole idea",
+      "avg_logprob": -0.11518567240136302,
+      "no_speech_prob": 9.964096605100115e-13,
+      "compression_ratio": 1.6804979253112033,
+      "temperature": 0.0
+    },
+    {
+      "start": 347.48,
+      "duration": 1.259999999999991,
+      "text": "of forgiveness of sin, right?",
+      "avg_logprob": -0.11518567240136302,
+      "no_speech_prob": 9.964096605100115e-13,
+      "compression_ratio": 1.6804979253112033,
+      "temperature": 0.0
+    },
+    {
+      "start": 349.16,
+      "duration": 3.839999999999975,
+      "text": "You have all of the laws about atonement and sacrifices",
+      "avg_logprob": -0.11518567240136302,
+      "no_speech_prob": 9.964096605100115e-13,
+      "compression_ratio": 1.6804979253112033,
+      "temperature": 0.0
+    },
+    {
+      "start": 353.0,
+      "duration": 2.5400000000000205,
+      "text": "and the priestly law and all that sort of stuff.",
+      "avg_logprob": -0.11518567240136302,
+      "no_speech_prob": 9.964096605100115e-13,
+      "compression_ratio": 1.6804979253112033,
+      "temperature": 0.0
+    },
+    {
+      "start": 356.02,
+      "duration": 2.8000000000000114,
+      "text": "The atonement, of course, is this idea",
+      "avg_logprob": -0.11518567240136302,
+      "no_speech_prob": 9.964096605100115e-13,
+      "compression_ratio": 1.6804979253112033,
+      "temperature": 0.0
+    },
+    {
+      "start": 358.82,
+      "duration": 1.920000000000016,
+      "text": "where you have to sacrifice an animal",
+      "avg_logprob": -0.11518567240136302,
+      "no_speech_prob": 9.964096605100115e-13,
+      "compression_ratio": 1.6804979253112033,
+      "temperature": 0.0
+    },
+    {
+      "start": 360.74,
+      "duration": 4.9599999999999795,
+      "text": "and the blood then pays for the sin of the people, right?",
+      "avg_logprob": -0.14791506390238918,
+      "no_speech_prob": 8.456491800215571e-13,
+      "compression_ratio": 1.8274336283185841,
+      "temperature": 0.0
+    },
+    {
+      "start": 365.98,
+      "duration": 1.599999999999966,
+      "text": "If you ever read through Leviticus, right?",
+      "avg_logprob": -0.14791506390238918,
+      "no_speech_prob": 8.456491800215571e-13,
+      "compression_ratio": 1.8274336283185841,
+      "temperature": 0.0
+    },
+    {
+      "start": 367.84,
+      "duration": 1.160000000000025,
+      "text": "Anyone ever read through it?",
+      "avg_logprob": -0.14791506390238918,
+      "no_speech_prob": 8.456491800215571e-13,
+      "compression_ratio": 1.8274336283185841,
+      "temperature": 0.0
+    },
+    {
+      "start": 369.64000000000004,
+      "duration": 1.2799999999999727,
+      "text": "And you read through it.",
+      "avg_logprob": -0.14791506390238918,
+      "no_speech_prob": 8.456491800215571e-13,
+      "compression_ratio": 1.8274336283185841,
+      "temperature": 0.0
+    },
+    {
+      "start": 371.0,
+      "duration": 1.240000000000009,
+      "text": "I read through it in one sitting one time",
+      "avg_logprob": -0.14791506390238918,
+      "no_speech_prob": 8.456491800215571e-13,
+      "compression_ratio": 1.8274336283185841,
+      "temperature": 0.0
+    },
+    {
+      "start": 372.24,
+      "duration": 3.9599999999999795,
+      "text": "and I was just like, all the blood, you guys.",
+      "avg_logprob": -0.14791506390238918,
+      "no_speech_prob": 8.456491800215571e-13,
+      "compression_ratio": 1.8274336283185841,
+      "temperature": 0.0
+    },
+    {
+      "start": 376.4,
+      "duration": 1.080000000000041,
+      "text": "Like, what?",
+      "avg_logprob": -0.14791506390238918,
+      "no_speech_prob": 8.456491800215571e-13,
+      "compression_ratio": 1.8274336283185841,
+      "temperature": 0.0
+    },
+    {
+      "start": 378.70000000000005,
+      "duration": 1.2999999999999545,
+      "text": "It was just so much.",
+      "avg_logprob": -0.14791506390238918,
+      "no_speech_prob": 8.456491800215571e-13,
+      "compression_ratio": 1.8274336283185841,
+      "temperature": 0.0
+    },
+    {
+      "start": 380.26,
+      "duration": 2.6200000000000045,
+      "text": "Anyway, so let's put ourselves in the shoes",
+      "avg_logprob": -0.14791506390238918,
+      "no_speech_prob": 8.456491800215571e-13,
+      "compression_ratio": 1.8274336283185841,
+      "temperature": 0.0
+    },
+    {
+      "start": 382.88,
+      "duration": 2.3799999999999955,
+      "text": "of the people of Judah in Nehemiah's time.",
+      "avg_logprob": -0.14791506390238918,
+      "no_speech_prob": 8.456491800215571e-13,
+      "compression_ratio": 1.8274336283185841,
+      "temperature": 0.0
+    },
+    {
+      "start": 385.64,
+      "duration": 1.9399999999999977,
+      "text": "All right, so just a little bit of history, right?",
+      "avg_logprob": -0.14791506390238918,
+      "no_speech_prob": 8.456491800215571e-13,
+      "compression_ratio": 1.8274336283185841,
+      "temperature": 0.0
+    },
+    {
+      "start": 388.14,
+      "duration": 1.4800000000000182,
+      "text": "It's 586 BC.",
+      "avg_logprob": -0.20400118394331498,
+      "no_speech_prob": 8.690860531235245e-13,
+      "compression_ratio": 1.6306306306306306,
+      "temperature": 0.0
+    },
+    {
+      "start": 390.22,
+      "duration": 1.3999999999999773,
+      "text": "They're living in Judah.",
+      "avg_logprob": -0.20400118394331498,
+      "no_speech_prob": 8.690860531235245e-13,
+      "compression_ratio": 1.6306306306306306,
+      "temperature": 0.0
+    },
+    {
+      "start": 392.16,
+      "duration": 2.839999999999975,
+      "text": "The Babylonians come in and destroy Jerusalem",
+      "avg_logprob": -0.20400118394331498,
+      "no_speech_prob": 8.690860531235245e-13,
+      "compression_ratio": 1.6306306306306306,
+      "temperature": 0.0
+    },
+    {
+      "start": 395.0,
+      "duration": 1.6800000000000068,
+      "text": "and they destroy the temple.",
+      "avg_logprob": -0.20400118394331498,
+      "no_speech_prob": 8.690860531235245e-13,
+      "compression_ratio": 1.6306306306306306,
+      "temperature": 0.0
+    },
+    {
+      "start": 397.88,
+      "duration": 2.4599999999999795,
+      "text": "There's no more sacrifices,",
+      "avg_logprob": -0.20400118394331498,
+      "no_speech_prob": 8.690860531235245e-13,
+      "compression_ratio": 1.6306306306306306,
+      "temperature": 0.0
+    },
+    {
+      "start": 400.34,
+      "duration": 1.7600000000000477,
+      "text": "which means for them,",
+      "avg_logprob": -0.20400118394331498,
+      "no_speech_prob": 8.690860531235245e-13,
+      "compression_ratio": 1.6306306306306306,
+      "temperature": 0.0
+    },
+    {
+      "start": 402.96,
+      "duration": 1.4600000000000364,
+      "text": "there's no more atonement for sin.",
+      "avg_logprob": -0.20400118394331498,
+      "no_speech_prob": 8.690860531235245e-13,
+      "compression_ratio": 1.6306306306306306,
+      "temperature": 0.0
+    },
+    {
+      "start": 405.16,
+      "duration": 1.7999999999999545,
+      "text": "What are they supposed to do?",
+      "avg_logprob": -0.20400118394331498,
+      "no_speech_prob": 8.690860531235245e-13,
+      "compression_ratio": 1.6306306306306306,
+      "temperature": 0.0
+    },
+    {
+      "start": 407.86,
+      "duration": 2.5,
+      "text": "They're exiled to Babylon for 70 years.",
+      "avg_logprob": -0.20400118394331498,
+      "no_speech_prob": 8.690860531235245e-13,
+      "compression_ratio": 1.6306306306306306,
+      "temperature": 0.0
+    },
+    {
+      "start": 410.6,
+      "duration": 2.359999999999957,
+      "text": "There's a new generation that's raised up",
+      "avg_logprob": -0.20400118394331498,
+      "no_speech_prob": 8.690860531235245e-13,
+      "compression_ratio": 1.6306306306306306,
+      "temperature": 0.0
+    },
+    {
+      "start": 412.96,
+      "duration": 2.2600000000000477,
+      "text": "that doesn't know what it means to go to the temple,",
+      "avg_logprob": -0.20400118394331498,
+      "no_speech_prob": 8.690860531235245e-13,
+      "compression_ratio": 1.6306306306306306,
+      "temperature": 0.0
+    },
+    {
+      "start": 415.22,
+      "duration": 3.419999999999959,
+      "text": "that doesn't understand the idea of the assurance",
+      "avg_logprob": -0.15607269226558626,
+      "no_speech_prob": 7.699730610044586e-13,
+      "compression_ratio": 1.6363636363636365,
+      "temperature": 0.0
+    },
+    {
+      "start": 419.28000000000003,
+      "duration": 1.9599999999999795,
+      "text": "of their salvation in a sense,",
+      "avg_logprob": -0.15607269226558626,
+      "no_speech_prob": 7.699730610044586e-13,
+      "compression_ratio": 1.6363636363636365,
+      "temperature": 0.0
+    },
+    {
+      "start": 421.44,
+      "duration": 3.839999999999975,
+      "text": "because there's no atonement, okay?",
+      "avg_logprob": -0.15607269226558626,
+      "no_speech_prob": 7.699730610044586e-13,
+      "compression_ratio": 1.6363636363636365,
+      "temperature": 0.0
+    },
+    {
+      "start": 425.94,
+      "duration": 1.660000000000025,
+      "text": "And then they returned to the land.",
+      "avg_logprob": -0.15607269226558626,
+      "no_speech_prob": 7.699730610044586e-13,
+      "compression_ratio": 1.6363636363636365,
+      "temperature": 0.0
+    },
+    {
+      "start": 428.0,
+      "duration": 2.680000000000007,
+      "text": "70 years later, it's 516 BC.",
+      "avg_logprob": -0.15607269226558626,
+      "no_speech_prob": 7.699730610044586e-13,
+      "compression_ratio": 1.6363636363636365,
+      "temperature": 0.0
+    },
+    {
+      "start": 430.68,
+      "duration": 1.6200000000000045,
+      "text": "The first thing that they do,",
+      "avg_logprob": -0.15607269226558626,
+      "no_speech_prob": 7.699730610044586e-13,
+      "compression_ratio": 1.6363636363636365,
+      "temperature": 0.0
+    },
+    {
+      "start": 432.38,
+      "duration": 1.8199999999999932,
+      "text": "this is in the book of Ezra, right?",
+      "avg_logprob": -0.15607269226558626,
+      "no_speech_prob": 7.699730610044586e-13,
+      "compression_ratio": 1.6363636363636365,
+      "temperature": 0.0
+    },
+    {
+      "start": 434.32,
+      "duration": 2.420000000000016,
+      "text": "Part one of Nehemiah, they're really to go together.",
+      "avg_logprob": -0.15607269226558626,
+      "no_speech_prob": 7.699730610044586e-13,
+      "compression_ratio": 1.6363636363636365,
+      "temperature": 0.0
+    },
+    {
+      "start": 437.62,
+      "duration": 1.7199999999999704,
+      "text": "516 BC, the first thing they do",
+      "avg_logprob": -0.15607269226558626,
+      "no_speech_prob": 7.699730610044586e-13,
+      "compression_ratio": 1.6363636363636365,
+      "temperature": 0.0
+    },
+    {
+      "start": 439.34,
+      "duration": 1.920000000000016,
+      "text": "is they build the second temple.",
+      "avg_logprob": -0.15607269226558626,
+      "no_speech_prob": 7.699730610044586e-13,
+      "compression_ratio": 1.6363636363636365,
+      "temperature": 0.0
+    },
+    {
+      "start": 441.76,
+      "duration": 2.7200000000000273,
+      "text": "They build the temple to perform the sacrifices,",
+      "avg_logprob": -0.15607269226558626,
+      "no_speech_prob": 7.699730610044586e-13,
+      "compression_ratio": 1.6363636363636365,
+      "temperature": 0.0
+    },
+    {
+      "start": 445.22,
+      "duration": 9.099999999999966,
+      "text": "for their sin, to perform their obligations to the covenant. Okay. This covenant idea is key",
+      "avg_logprob": -0.08012386433129172,
+      "no_speech_prob": 1.2303575042463266e-12,
+      "compression_ratio": 1.6297872340425532,
+      "temperature": 0.0
+    },
+    {
+      "start": 454.32,
+      "duration": 4.639999999999986,
+      "text": "because over and over again, you're going to see Nehemiah coming back and saying, God, would you",
+      "avg_logprob": -0.08012386433129172,
+      "no_speech_prob": 1.2303575042463266e-12,
+      "compression_ratio": 1.6297872340425532,
+      "temperature": 0.0
+    },
+    {
+      "start": 458.96,
+      "duration": 8.240000000000009,
+      "text": "just remember, remember your covenant? Look at, I'll just read this really quick. Don't turn that",
+      "avg_logprob": -0.08012386433129172,
+      "no_speech_prob": 1.2303575042463266e-12,
+      "compression_ratio": 1.6297872340425532,
+      "temperature": 0.0
+    },
+    {
+      "start": 467.2,
+      "duration": 4.180000000000007,
+      "text": "because we're in Deuteronomy. We're going to get to that in a second. But Nehemiah chapter one,",
+      "avg_logprob": -0.08012386433129172,
+      "no_speech_prob": 1.2303575042463266e-12,
+      "compression_ratio": 1.6297872340425532,
+      "temperature": 0.0
+    },
+    {
+      "start": 471.38,
+      "duration": 6.920000000000016,
+      "text": "verse eight says, Nehemiah is praying. Remember the word that you commanded your servant Moses",
+      "avg_logprob": -0.10755263652998148,
+      "no_speech_prob": 8.195303160055123e-13,
+      "compression_ratio": 1.6170212765957446,
+      "temperature": 0.0
+    },
+    {
+      "start": 479.06,
+      "duration": 6.939999999999998,
+      "text": "saying, if you are unfaithful, I will scatter you among the peoples. But if you return to me",
+      "avg_logprob": -0.10755263652998148,
+      "no_speech_prob": 8.195303160055123e-13,
+      "compression_ratio": 1.6170212765957446,
+      "temperature": 0.0
+    },
+    {
+      "start": 486.0,
+      "duration": 4.839999999999975,
+      "text": "and keep my commandments and do them, though your outcast are in the uttermost parts of heaven,",
+      "avg_logprob": -0.10755263652998148,
+      "no_speech_prob": 8.195303160055123e-13,
+      "compression_ratio": 1.6170212765957446,
+      "temperature": 0.0
+    },
+    {
+      "start": 491.54,
+      "duration": 6.339999999999975,
+      "text": "from there, I will gather them and bring them back to the place that I've chosen to make my name",
+      "avg_logprob": -0.10755263652998148,
+      "no_speech_prob": 8.195303160055123e-13,
+      "compression_ratio": 1.6170212765957446,
+      "temperature": 0.0
+    },
+    {
+      "start": 497.88,
+      "duration": 6.199999999999989,
+      "text": "dwell there. You know, he's, he's looking back to that covenant with Moses and he's like,",
+      "avg_logprob": -0.12086860757125051,
+      "no_speech_prob": 7.093133589167189e-13,
+      "compression_ratio": 1.5511363636363635,
+      "temperature": 0.0
+    },
+    {
+      "start": 504.34,
+      "duration": 6.0400000000000205,
+      "text": "God, would you just, would you just remember that? Would you remember that and make that happen?",
+      "avg_logprob": -0.12086860757125051,
+      "no_speech_prob": 7.093133589167189e-13,
+      "compression_ratio": 1.5511363636363635,
+      "temperature": 0.0
+    },
+    {
+      "start": 511.3400000000001,
+      "duration": 13.199999999999875,
+      "text": "So Deuteronomy 30, the hope of God's grace is based on God's covenant with them. Okay.",
+      "avg_logprob": -0.12086860757125051,
+      "no_speech_prob": 7.093133589167189e-13,
+      "compression_ratio": 1.5511363636363635,
+      "temperature": 0.0
+    },
+    {
+      "start": 524.54,
+      "duration": 1.9200000000000728,
+      "text": "Okay, verse one.",
+      "avg_logprob": -0.24552410670689173,
+      "no_speech_prob": 7.204796655113643e-13,
+      "compression_ratio": 1.7216117216117217,
+      "temperature": 0.0
+    },
+    {
+      "start": 526.76,
+      "duration": 0.82000000000005,
+      "text": "Let's look at this together.",
+      "avg_logprob": -0.24552410670689173,
+      "no_speech_prob": 7.204796655113643e-13,
+      "compression_ratio": 1.7216117216117217,
+      "temperature": 0.0
+    },
+    {
+      "start": 528.54,
+      "duration": 3.2000000000000455,
+      "text": "Would someone just read verses one through three,",
+      "avg_logprob": -0.24552410670689173,
+      "no_speech_prob": 7.204796655113643e-13,
+      "compression_ratio": 1.7216117216117217,
+      "temperature": 0.0
+    },
+    {
+      "start": 532.92,
+      "duration": 0.6600000000000819,
+      "text": "Deuteronomy 30?",
+      "avg_logprob": -0.24552410670689173,
+      "no_speech_prob": 7.204796655113643e-13,
+      "compression_ratio": 1.7216117216117217,
+      "temperature": 0.0
+    },
+    {
+      "start": 533.9,
+      "duration": 0.5,
+      "text": "Someone read that?",
+      "avg_logprob": -0.24552410670689173,
+      "no_speech_prob": 7.204796655113643e-13,
+      "compression_ratio": 1.7216117216117217,
+      "temperature": 0.0
+    },
+    {
+      "start": 535.0,
+      "duration": 0.32000000000005,
+      "text": "Yeah.",
+      "avg_logprob": -0.24552410670689173,
+      "no_speech_prob": 7.204796655113643e-13,
+      "compression_ratio": 1.7216117216117217,
+      "temperature": 0.0
+    },
+    {
+      "start": 535.58,
+      "duration": 1.8600000000000136,
+      "text": "When all these things come upon you,",
+      "avg_logprob": -0.24552410670689173,
+      "no_speech_prob": 7.204796655113643e-13,
+      "compression_ratio": 1.7216117216117217,
+      "temperature": 0.0
+    },
+    {
+      "start": 537.54,
+      "duration": 1.3600000000000136,
+      "text": "the blessing and the curse,",
+      "avg_logprob": -0.24552410670689173,
+      "no_speech_prob": 7.204796655113643e-13,
+      "compression_ratio": 1.7216117216117217,
+      "temperature": 0.0
+    },
+    {
+      "start": 538.94,
+      "duration": 1.3399999999999181,
+      "text": "which I have set before you,",
+      "avg_logprob": -0.24552410670689173,
+      "no_speech_prob": 7.204796655113643e-13,
+      "compression_ratio": 1.7216117216117217,
+      "temperature": 0.0
+    },
+    {
+      "start": 540.44,
+      "duration": 2.199999999999932,
+      "text": "and you call them to mind among all the nations",
+      "avg_logprob": -0.24552410670689173,
+      "no_speech_prob": 7.204796655113643e-13,
+      "compression_ratio": 1.7216117216117217,
+      "temperature": 0.0
+    },
+    {
+      "start": 542.64,
+      "duration": 1.740000000000009,
+      "text": "where the Lord your God has driven you,",
+      "avg_logprob": -0.24552410670689173,
+      "no_speech_prob": 7.204796655113643e-13,
+      "compression_ratio": 1.7216117216117217,
+      "temperature": 0.0
+    },
+    {
+      "start": 544.58,
+      "duration": 1.7199999999999136,
+      "text": "and return to the Lord your God,",
+      "avg_logprob": -0.24552410670689173,
+      "no_speech_prob": 7.204796655113643e-13,
+      "compression_ratio": 1.7216117216117217,
+      "temperature": 0.0
+    },
+    {
+      "start": 546.48,
+      "duration": 1.1000000000000227,
+      "text": "you and your children,",
+      "avg_logprob": -0.24552410670689173,
+      "no_speech_prob": 7.204796655113643e-13,
+      "compression_ratio": 1.7216117216117217,
+      "temperature": 0.0
+    },
+    {
+      "start": 547.76,
+      "duration": 2.480000000000018,
+      "text": "and obey his voice in all that I command you today,",
+      "avg_logprob": -0.24552410670689173,
+      "no_speech_prob": 7.204796655113643e-13,
+      "compression_ratio": 1.7216117216117217,
+      "temperature": 0.0
+    },
+    {
+      "start": 550.5,
+      "duration": 2.159999999999968,
+      "text": "with all your heart and with all your soul,",
+      "avg_logprob": -0.24552410670689173,
+      "no_speech_prob": 7.204796655113643e-13,
+      "compression_ratio": 1.7216117216117217,
+      "temperature": 0.0
+    },
+    {
+      "start": 554.54,
+      "duration": 2.0400000000000773,
+      "text": "restore your fortunes and have mercy on you.",
+      "avg_logprob": -0.2291643289419321,
+      "no_speech_prob": 7.093127083954154e-13,
+      "compression_ratio": 1.650735294117647,
+      "temperature": 0.0
+    },
+    {
+      "start": 556.7,
+      "duration": 2.2799999999999727,
+      "text": "And he will gather you again from all the peoples",
+      "avg_logprob": -0.2291643289419321,
+      "no_speech_prob": 7.093127083954154e-13,
+      "compression_ratio": 1.650735294117647,
+      "temperature": 0.0
+    },
+    {
+      "start": 558.98,
+      "duration": 2.0399999999999636,
+      "text": "where the Lord your God has scattered.",
+      "avg_logprob": -0.2291643289419321,
+      "no_speech_prob": 7.093127083954154e-13,
+      "compression_ratio": 1.650735294117647,
+      "temperature": 0.0
+    },
+    {
+      "start": 561.24,
+      "duration": 0.8199999999999363,
+      "text": "Right, right.",
+      "avg_logprob": -0.2291643289419321,
+      "no_speech_prob": 7.093127083954154e-13,
+      "compression_ratio": 1.650735294117647,
+      "temperature": 0.0
+    },
+    {
+      "start": 563.4200000000001,
+      "duration": 1.67999999999995,
+      "text": "See, this is Deuteronomy.",
+      "avg_logprob": -0.2291643289419321,
+      "no_speech_prob": 7.093127083954154e-13,
+      "compression_ratio": 1.650735294117647,
+      "temperature": 0.0
+    },
+    {
+      "start": 565.22,
+      "duration": 2.419999999999959,
+      "text": "This is centuries before Nehemiah.",
+      "avg_logprob": -0.2291643289419321,
+      "no_speech_prob": 7.093127083954154e-13,
+      "compression_ratio": 1.650735294117647,
+      "temperature": 0.0
+    },
+    {
+      "start": 567.74,
+      "duration": 1.2200000000000273,
+      "text": "And what's happening?",
+      "avg_logprob": -0.2291643289419321,
+      "no_speech_prob": 7.093127083954154e-13,
+      "compression_ratio": 1.650735294117647,
+      "temperature": 0.0
+    },
+    {
+      "start": 569.14,
+      "duration": 3.6399999999999864,
+      "text": "You see in this passage exactly what happened,",
+      "avg_logprob": -0.2291643289419321,
+      "no_speech_prob": 7.093127083954154e-13,
+      "compression_ratio": 1.650735294117647,
+      "temperature": 0.0
+    },
+    {
+      "start": 572.84,
+      "duration": 1.7799999999999727,
+      "text": "that they were taken away from the land,",
+      "avg_logprob": -0.2291643289419321,
+      "no_speech_prob": 7.093127083954154e-13,
+      "compression_ratio": 1.650735294117647,
+      "temperature": 0.0
+    },
+    {
+      "start": 575.24,
+      "duration": 2.6000000000000227,
+      "text": "but then God says he's going to bring them back.",
+      "avg_logprob": -0.2291643289419321,
+      "no_speech_prob": 7.093127083954154e-13,
+      "compression_ratio": 1.650735294117647,
+      "temperature": 0.0
+    },
+    {
+      "start": 578.2,
+      "duration": 1.4599999999999227,
+      "text": "They're going to return.",
+      "avg_logprob": -0.2291643289419321,
+      "no_speech_prob": 7.093127083954154e-13,
+      "compression_ratio": 1.650735294117647,
+      "temperature": 0.0
+    },
+    {
+      "start": 579.92,
+      "duration": 3.4600000000000364,
+      "text": "As they return to the Lord their God and obey his voice,",
+      "avg_logprob": -0.2291643289419321,
+      "no_speech_prob": 7.093127083954154e-13,
+      "compression_ratio": 1.650735294117647,
+      "temperature": 0.0
+    },
+    {
+      "start": 584.54,
+      "duration": 5.460000000000036,
+      "text": "restore their fortunes, have mercy, and gather them back together, right? So what Nehemiah is",
+      "avg_logprob": -0.09031351874856387,
+      "no_speech_prob": 8.132290413992438e-13,
+      "compression_ratio": 1.5708333333333333,
+      "temperature": 0.0
+    },
+    {
+      "start": 590.0,
+      "duration": 7.5,
+      "text": "doing, he's not saying like, you know, asking for some kind of new mercy or new word from God.",
+      "avg_logprob": -0.09031351874856387,
+      "no_speech_prob": 8.132290413992438e-13,
+      "compression_ratio": 1.5708333333333333,
+      "temperature": 0.0
+    },
+    {
+      "start": 597.5,
+      "duration": 5.940000000000055,
+      "text": "He's just asking God to be faithful to his covenant promises. This is not unlike us today",
+      "avg_logprob": -0.09031351874856387,
+      "no_speech_prob": 8.132290413992438e-13,
+      "compression_ratio": 1.5708333333333333,
+      "temperature": 0.0
+    },
+    {
+      "start": 603.44,
+      "duration": 10.479999999999905,
+      "text": "as Christians, right? We don't go to God and say, God, we need a new sacrifice. We need some fresh",
+      "avg_logprob": -0.09031351874856387,
+      "no_speech_prob": 8.132290413992438e-13,
+      "compression_ratio": 1.5708333333333333,
+      "temperature": 0.0
+    },
+    {
+      "start": 614.74,
+      "duration": 1.6399999999999864,
+      "text": "in our life to save us.",
+      "avg_logprob": -0.22077345848083496,
+      "no_speech_prob": 9.924921128001696e-13,
+      "compression_ratio": 1.6380090497737556,
+      "temperature": 0.0
+    },
+    {
+      "start": 616.44,
+      "duration": 0.599999999999909,
+      "text": "No, what are we doing?",
+      "avg_logprob": -0.22077345848083496,
+      "no_speech_prob": 9.924921128001696e-13,
+      "compression_ratio": 1.6380090497737556,
+      "temperature": 0.0
+    },
+    {
+      "start": 617.22,
+      "duration": 2.5,
+      "text": "We're going to God and saying,",
+      "avg_logprob": -0.22077345848083496,
+      "no_speech_prob": 9.924921128001696e-13,
+      "compression_ratio": 1.6380090497737556,
+      "temperature": 0.0
+    },
+    {
+      "start": 619.9,
+      "duration": 2.300000000000068,
+      "text": "God, we're not asking for anything new.",
+      "avg_logprob": -0.22077345848083496,
+      "no_speech_prob": 9.924921128001696e-13,
+      "compression_ratio": 1.6380090497737556,
+      "temperature": 0.0
+    },
+    {
+      "start": 622.2,
+      "duration": 4.419999999999959,
+      "text": "We're simply trusting that you will keep your promise to us.",
+      "avg_logprob": -0.22077345848083496,
+      "no_speech_prob": 9.924921128001696e-13,
+      "compression_ratio": 1.6380090497737556,
+      "temperature": 0.0
+    },
+    {
+      "start": 627.3000000000001,
+      "duration": 1.5399999999999636,
+      "text": "We're simply just trusting that.",
+      "avg_logprob": -0.22077345848083496,
+      "no_speech_prob": 9.924921128001696e-13,
+      "compression_ratio": 1.6380090497737556,
+      "temperature": 0.0
+    },
+    {
+      "start": 630.3000000000001,
+      "duration": 2.0599999999999454,
+      "text": "Okay, so that's the first thing is covenant.",
+      "avg_logprob": -0.22077345848083496,
+      "no_speech_prob": 9.924921128001696e-13,
+      "compression_ratio": 1.6380090497737556,
+      "temperature": 0.0
+    },
+    {
+      "start": 633.76,
+      "duration": 0.8799999999999955,
+      "text": "Here's the second one.",
+      "avg_logprob": -0.22077345848083496,
+      "no_speech_prob": 9.924921128001696e-13,
+      "compression_ratio": 1.6380090497737556,
+      "temperature": 0.0
+    },
+    {
+      "start": 634.74,
+      "duration": 0.5399999999999636,
+      "text": "It's a little bit shorter.",
+      "avg_logprob": -0.22077345848083496,
+      "no_speech_prob": 9.924921128001696e-13,
+      "compression_ratio": 1.6380090497737556,
+      "temperature": 0.0
+    },
+    {
+      "start": 636.1600000000001,
+      "duration": 1.4999999999998863,
+      "text": "So God's sovereignty.",
+      "avg_logprob": -0.22077345848083496,
+      "no_speech_prob": 9.924921128001696e-13,
+      "compression_ratio": 1.6380090497737556,
+      "temperature": 0.0
+    },
+    {
+      "start": 638.16,
+      "duration": 1.580000000000041,
+      "text": "This is a really interesting one.",
+      "avg_logprob": -0.22077345848083496,
+      "no_speech_prob": 9.924921128001696e-13,
+      "compression_ratio": 1.6380090497737556,
+      "temperature": 0.0
+    },
+    {
+      "start": 639.74,
+      "duration": 10.259999999999991,
+      "text": "the book of nehemiah looks at the events of history and assumes that god is sovereignly",
+      "avg_logprob": -0.07607820000447019,
+      "no_speech_prob": 6.45777431095701e-13,
+      "compression_ratio": 1.6257309941520468,
+      "temperature": 0.0
+    },
+    {
+      "start": 650.0,
+      "duration": 10.639999999999986,
+      "text": "in control of all those things okay in particular uh so ezra 9 nehemiah 1 and nehemiah 9 all of",
+      "avg_logprob": -0.07607820000447019,
+      "no_speech_prob": 6.45777431095701e-13,
+      "compression_ratio": 1.6257309941520468,
+      "temperature": 0.0
+    },
+    {
+      "start": 660.64,
+      "duration": 6.2000000000000455,
+      "text": "those chapters have prayers that are prayed and and it's i over and over again what happens is",
+      "avg_logprob": -0.07607820000447019,
+      "no_speech_prob": 6.45777431095701e-13,
+      "compression_ratio": 1.6257309941520468,
+      "temperature": 0.0
+    },
+    {
+      "start": 666.84,
+      "duration": 1.6399999999999864,
+      "text": "is they recount the events of history.",
+      "avg_logprob": -0.13513452776016727,
+      "no_speech_prob": 1.0360707517614864e-12,
+      "compression_ratio": 1.6,
+      "temperature": 0.0
+    },
+    {
+      "start": 668.8,
+      "duration": 2.740000000000009,
+      "text": "You guys, Nehemiah 9, actually, is really cool",
+      "avg_logprob": -0.13513452776016727,
+      "no_speech_prob": 1.0360707517614864e-12,
+      "compression_ratio": 1.6,
+      "temperature": 0.0
+    },
+    {
+      "start": 671.54,
+      "duration": 2.32000000000005,
+      "text": "because it's probably one of the best summaries",
+      "avg_logprob": -0.13513452776016727,
+      "no_speech_prob": 1.0360707517614864e-12,
+      "compression_ratio": 1.6,
+      "temperature": 0.0
+    },
+    {
+      "start": 673.86,
+      "duration": 1.9399999999999409,
+      "text": "of Israel's history in all of scripture.",
+      "avg_logprob": -0.13513452776016727,
+      "no_speech_prob": 1.0360707517614864e-12,
+      "compression_ratio": 1.6,
+      "temperature": 0.0
+    },
+    {
+      "start": 675.82,
+      "duration": 0.7399999999998954,
+      "text": "It's great.",
+      "avg_logprob": -0.13513452776016727,
+      "no_speech_prob": 1.0360707517614864e-12,
+      "compression_ratio": 1.6,
+      "temperature": 0.0
+    },
+    {
+      "start": 678.0600000000001,
+      "duration": 3.0799999999999272,
+      "text": "But here's what's crazy is as he's praying this,",
+      "avg_logprob": -0.13513452776016727,
+      "no_speech_prob": 1.0360707517614864e-12,
+      "compression_ratio": 1.6,
+      "temperature": 0.0
+    },
+    {
+      "start": 681.4,
+      "duration": 2.8999999999999773,
+      "text": "he's talking about all of these things that are happening",
+      "avg_logprob": -0.13513452776016727,
+      "no_speech_prob": 1.0360707517614864e-12,
+      "compression_ratio": 1.6,
+      "temperature": 0.0
+    },
+    {
+      "start": 685.32,
+      "duration": 3.019999999999982,
+      "text": "as God is directing them, right?",
+      "avg_logprob": -0.13513452776016727,
+      "no_speech_prob": 1.0360707517614864e-12,
+      "compression_ratio": 1.6,
+      "temperature": 0.0
+    },
+    {
+      "start": 688.64,
+      "duration": 3.840000000000032,
+      "text": "His understanding of it is that God is at work, okay?",
+      "avg_logprob": -0.13513452776016727,
+      "no_speech_prob": 1.0360707517614864e-12,
+      "compression_ratio": 1.6,
+      "temperature": 0.0
+    },
+    {
+      "start": 692.7,
+      "duration": 3.0,
+      "text": "It includes the redemption that they had from Egypt, right?",
+      "avg_logprob": -0.13513452776016727,
+      "no_speech_prob": 1.0360707517614864e-12,
+      "compression_ratio": 1.6,
+      "temperature": 0.0
+    },
+    {
+      "start": 696.84,
+      "duration": 6.319999999999936,
+      "text": "the manna, he's talking about that. He even talks about how the kings of Persia,",
+      "avg_logprob": -0.09569226035588904,
+      "no_speech_prob": 6.458585836283115e-13,
+      "compression_ratio": 1.4945054945054945,
+      "temperature": 0.0
+    },
+    {
+      "start": 703.3,
+      "duration": 7.540000000000077,
+      "text": "right, at that time, give decrees that were part of God's plan to restore them. Like at the very",
+      "avg_logprob": -0.09569226035588904,
+      "no_speech_prob": 6.458585836283115e-13,
+      "compression_ratio": 1.4945054945054945,
+      "temperature": 0.0
+    },
+    {
+      "start": 710.84,
+      "duration": 9.659999999999968,
+      "text": "beginning of Ezra, Ezra 1.1, he says that, that like this is the decree of Cyrus when the Lord",
+      "avg_logprob": -0.09569226035588904,
+      "no_speech_prob": 6.458585836283115e-13,
+      "compression_ratio": 1.4945054945054945,
+      "temperature": 0.0
+    },
+    {
+      "start": 720.5,
+      "duration": 8.100000000000023,
+      "text": "stirred this in him, right? It's like, oh, wow, God is sovereignly at work even in the kings of",
+      "avg_logprob": -0.07615223844000633,
+      "no_speech_prob": 7.58035452984307e-13,
+      "compression_ratio": 1.674641148325359,
+      "temperature": 0.0
+    },
+    {
+      "start": 728.6,
+      "duration": 7.539999999999964,
+      "text": "other nations, right? And so this is just over and over again, we see his sovereign control,",
+      "avg_logprob": -0.07615223844000633,
+      "no_speech_prob": 7.58035452984307e-13,
+      "compression_ratio": 1.674641148325359,
+      "temperature": 0.0
+    },
+    {
+      "start": 736.42,
+      "duration": 3.4600000000000364,
+      "text": "not just over Israel, but over the nations. But then here's the crazy thing.",
+      "avg_logprob": -0.07615223844000633,
+      "no_speech_prob": 7.58035452984307e-13,
+      "compression_ratio": 1.674641148325359,
+      "temperature": 0.0
+    },
+    {
+      "start": 740.9200000000001,
+      "duration": 6.579999999999927,
+      "text": "At the same time that we see this sovereign control of God, Nehemiah also emphasizes",
+      "avg_logprob": -0.07615223844000633,
+      "no_speech_prob": 7.58035452984307e-13,
+      "compression_ratio": 1.674641148325359,
+      "temperature": 0.0
+    },
+    {
+      "start": 748.52,
+      "duration": 1.0399999999999636,
+      "text": "human responsibility.",
+      "avg_logprob": -0.23459063635932076,
+      "no_speech_prob": 6.848102271882206e-13,
+      "compression_ratio": 1.631336405529954,
+      "temperature": 0.0
+    },
+    {
+      "start": 751.84,
+      "duration": 1.3799999999999955,
+      "text": "Both of these are at play.",
+      "avg_logprob": -0.23459063635932076,
+      "no_speech_prob": 6.848102271882206e-13,
+      "compression_ratio": 1.631336405529954,
+      "temperature": 0.0
+    },
+    {
+      "start": 754.58,
+      "duration": 1.67999999999995,
+      "text": "In fact, the bulk of the book",
+      "avg_logprob": -0.23459063635932076,
+      "no_speech_prob": 6.848102271882206e-13,
+      "compression_ratio": 1.631336405529954,
+      "temperature": 0.0
+    },
+    {
+      "start": 756.26,
+      "duration": 2.7799999999999727,
+      "text": "is truly about how ordinary people,",
+      "avg_logprob": -0.23459063635932076,
+      "no_speech_prob": 6.848102271882206e-13,
+      "compression_ratio": 1.631336405529954,
+      "temperature": 0.0
+    },
+    {
+      "start": 759.58,
+      "duration": 1.3600000000000136,
+      "text": "people just like us,",
+      "avg_logprob": -0.23459063635932076,
+      "no_speech_prob": 6.848102271882206e-13,
+      "compression_ratio": 1.631336405529954,
+      "temperature": 0.0
+    },
+    {
+      "start": 761.24,
+      "duration": 1.580000000000041,
+      "text": "people who are living in the land,",
+      "avg_logprob": -0.23459063635932076,
+      "no_speech_prob": 6.848102271882206e-13,
+      "compression_ratio": 1.631336405529954,
+      "temperature": 0.0
+    },
+    {
+      "start": 763.4,
+      "duration": 2.740000000000009,
+      "text": "people who are, for them,",
+      "avg_logprob": -0.23459063635932076,
+      "no_speech_prob": 6.848102271882206e-13,
+      "compression_ratio": 1.631336405529954,
+      "temperature": 0.0
+    },
+    {
+      "start": 766.28,
+      "duration": 1.580000000000041,
+      "text": "they're living around Jerusalem.",
+      "avg_logprob": -0.23459063635932076,
+      "no_speech_prob": 6.848102271882206e-13,
+      "compression_ratio": 1.631336405529954,
+      "temperature": 0.0
+    },
+    {
+      "start": 767.88,
+      "duration": 0.9400000000000546,
+      "text": "What do they do?",
+      "avg_logprob": -0.23459063635932076,
+      "no_speech_prob": 6.848102271882206e-13,
+      "compression_ratio": 1.631336405529954,
+      "temperature": 0.0
+    },
+    {
+      "start": 769.72,
+      "duration": 2.339999999999918,
+      "text": "They're called to rebuild a wall.",
+      "avg_logprob": -0.23459063635932076,
+      "no_speech_prob": 6.848102271882206e-13,
+      "compression_ratio": 1.631336405529954,
+      "temperature": 0.0
+    },
+    {
+      "start": 773.62,
+      "duration": 1.8999999999999773,
+      "text": "We were just talking about, Elton brought up,",
+      "avg_logprob": -0.23459063635932076,
+      "no_speech_prob": 6.848102271882206e-13,
+      "compression_ratio": 1.631336405529954,
+      "temperature": 0.0
+    },
+    {
+      "start": 775.66,
+      "duration": 1.0600000000000591,
+      "text": "that as they're doing this,",
+      "avg_logprob": -0.23459063635932076,
+      "no_speech_prob": 6.848102271882206e-13,
+      "compression_ratio": 1.631336405529954,
+      "temperature": 0.0
+    },
+    {
+      "start": 777.5,
+      "duration": 6.659999999999968,
+      "text": "spears and shields in their hand ready to go to battle. They got to be ready. They start to live",
+      "avg_logprob": -0.10841210013941714,
+      "no_speech_prob": 7.120862601829592e-13,
+      "compression_ratio": 1.7942583732057416,
+      "temperature": 0.0
+    },
+    {
+      "start": 784.16,
+      "duration": 6.940000000000055,
+      "text": "in the borders again, and they begin to conform their lives to the word of God. There's a clear",
+      "avg_logprob": -0.10841210013941714,
+      "no_speech_prob": 7.120862601829592e-13,
+      "compression_ratio": 1.7942583732057416,
+      "temperature": 0.0
+    },
+    {
+      "start": 791.1,
+      "duration": 7.519999999999982,
+      "text": "understanding that they have work to do, okay? And they have to step faithfully. Listen to this.",
+      "avg_logprob": -0.10841210013941714,
+      "no_speech_prob": 7.120862601829592e-13,
+      "compression_ratio": 1.7942583732057416,
+      "temperature": 0.0
+    },
+    {
+      "start": 798.72,
+      "duration": 5.519999999999982,
+      "text": "They have to step faithfully into that work in order to receive the blessings of God.",
+      "avg_logprob": -0.10841210013941714,
+      "no_speech_prob": 7.120862601829592e-13,
+      "compression_ratio": 1.7942583732057416,
+      "temperature": 0.0
+    },
+    {
+      "start": 804.24,
+      "duration": 7.860000000000014,
+      "text": "God. That's really interesting. And so I think we see this in Deuteronomy 30 as well.",
+      "avg_logprob": -0.13804444479286124,
+      "no_speech_prob": 7.092465178527851e-13,
+      "compression_ratio": 1.6666666666666667,
+      "temperature": 0.0
+    },
+    {
+      "start": 813.12,
+      "duration": 4.559999999999945,
+      "text": "Okay, go back to Deuteronomy 30. Look at verse six.",
+      "avg_logprob": -0.13804444479286124,
+      "no_speech_prob": 7.092465178527851e-13,
+      "compression_ratio": 1.6666666666666667,
+      "temperature": 0.0
+    },
+    {
+      "start": 819.84,
+      "duration": 5.579999999999927,
+      "text": "It says, and the Lord your God will circumcise your heart and the heart of your offspring",
+      "avg_logprob": -0.13804444479286124,
+      "no_speech_prob": 7.092465178527851e-13,
+      "compression_ratio": 1.6666666666666667,
+      "temperature": 0.0
+    },
+    {
+      "start": 826.28,
+      "duration": 3.1200000000000045,
+      "text": "so that you will love the Lord your God with all your heart, with all your soul,",
+      "avg_logprob": -0.13804444479286124,
+      "no_speech_prob": 7.092465178527851e-13,
+      "compression_ratio": 1.6666666666666667,
+      "temperature": 0.0
+    },
+    {
+      "start": 829.56,
+      "duration": 4.160000000000082,
+      "text": "that you may live. See, here's God's sovereignty. God is at work. Okay.",
+      "avg_logprob": -0.13804444479286124,
+      "no_speech_prob": 7.092465178527851e-13,
+      "compression_ratio": 1.6666666666666667,
+      "temperature": 0.0
+    },
+    {
+      "start": 834.78,
+      "duration": 3.1000000000000227,
+      "text": "the Lord your God will put all these curses on your foes",
+      "avg_logprob": -0.17915740802133684,
+      "no_speech_prob": 7.943870713143786e-13,
+      "compression_ratio": 1.9194139194139195,
+      "temperature": 0.0
+    },
+    {
+      "start": 837.88,
+      "duration": 1.5,
+      "text": "and enemies who persecuted you.",
+      "avg_logprob": -0.17915740802133684,
+      "no_speech_prob": 7.943870713143786e-13,
+      "compression_ratio": 1.9194139194139195,
+      "temperature": 0.0
+    },
+    {
+      "start": 839.88,
+      "duration": 3.4600000000000364,
+      "text": "You shall again, and you shall again obey the voice of the Lord",
+      "avg_logprob": -0.17915740802133684,
+      "no_speech_prob": 7.943870713143786e-13,
+      "compression_ratio": 1.9194139194139195,
+      "temperature": 0.0
+    },
+    {
+      "start": 843.34,
+      "duration": 2.1000000000000227,
+      "text": "and keep all his commandments that I command you today.",
+      "avg_logprob": -0.17915740802133684,
+      "no_speech_prob": 7.943870713143786e-13,
+      "compression_ratio": 1.9194139194139195,
+      "temperature": 0.0
+    },
+    {
+      "start": 846.0600000000001,
+      "duration": 2.9799999999999045,
+      "text": "The Lord your God will make you abundantly prosperous",
+      "avg_logprob": -0.17915740802133684,
+      "no_speech_prob": 7.943870713143786e-13,
+      "compression_ratio": 1.9194139194139195,
+      "temperature": 0.0
+    },
+    {
+      "start": 849.04,
+      "duration": 2.6200000000000045,
+      "text": "in all the work of your hand, in the fruit of your womb,",
+      "avg_logprob": -0.17915740802133684,
+      "no_speech_prob": 7.943870713143786e-13,
+      "compression_ratio": 1.9194139194139195,
+      "temperature": 0.0
+    },
+    {
+      "start": 851.76,
+      "duration": 1.8400000000000318,
+      "text": "in the fruit of your cattle, in the fruit of your ground.",
+      "avg_logprob": -0.17915740802133684,
+      "no_speech_prob": 7.943870713143786e-13,
+      "compression_ratio": 1.9194139194139195,
+      "temperature": 0.0
+    },
+    {
+      "start": 854.14,
+      "duration": 2.6399999999999864,
+      "text": "For the Lord will again take delight in prospering you",
+      "avg_logprob": -0.17915740802133684,
+      "no_speech_prob": 7.943870713143786e-13,
+      "compression_ratio": 1.9194139194139195,
+      "temperature": 0.0
+    },
+    {
+      "start": 856.78,
+      "duration": 1.740000000000009,
+      "text": "as he took delight in your fathers.",
+      "avg_logprob": -0.17915740802133684,
+      "no_speech_prob": 7.943870713143786e-13,
+      "compression_ratio": 1.9194139194139195,
+      "temperature": 0.0
+    },
+    {
+      "start": 859.8,
+      "duration": 2.4600000000000364,
+      "text": "Okay, so there's the sovereignty of God, but then what?",
+      "avg_logprob": -0.17915740802133684,
+      "no_speech_prob": 7.943870713143786e-13,
+      "compression_ratio": 1.9194139194139195,
+      "temperature": 0.0
+    },
+    {
+      "start": 864.5400000000001,
+      "duration": 1.5199999999998681,
+      "text": "the voice of the Lord your God,",
+      "avg_logprob": -0.16289771163223574,
+      "no_speech_prob": 1.0943353428299885e-12,
+      "compression_ratio": 1.8175675675675675,
+      "temperature": 0.0
+    },
+    {
+      "start": 866.28,
+      "duration": 2.660000000000082,
+      "text": "and keep his commandments and his statutes",
+      "avg_logprob": -0.16289771163223574,
+      "no_speech_prob": 1.0943353428299885e-12,
+      "compression_ratio": 1.8175675675675675,
+      "temperature": 0.0
+    },
+    {
+      "start": 868.94,
+      "duration": 1.8399999999999181,
+      "text": "that are written in this book of the law.",
+      "avg_logprob": -0.16289771163223574,
+      "no_speech_prob": 1.0943353428299885e-12,
+      "compression_ratio": 1.8175675675675675,
+      "temperature": 0.0
+    },
+    {
+      "start": 871.1800000000001,
+      "duration": 1.5799999999999272,
+      "text": "When you turn to the Lord your God",
+      "avg_logprob": -0.16289771163223574,
+      "no_speech_prob": 1.0943353428299885e-12,
+      "compression_ratio": 1.8175675675675675,
+      "temperature": 0.0
+    },
+    {
+      "start": 872.76,
+      "duration": 1.3400000000000318,
+      "text": "with all your heart and with all your soul.",
+      "avg_logprob": -0.16289771163223574,
+      "no_speech_prob": 1.0943353428299885e-12,
+      "compression_ratio": 1.8175675675675675,
+      "temperature": 0.0
+    },
+    {
+      "start": 874.24,
+      "duration": 1.8799999999999955,
+      "text": "So there's a tension here",
+      "avg_logprob": -0.16289771163223574,
+      "no_speech_prob": 1.0943353428299885e-12,
+      "compression_ratio": 1.8175675675675675,
+      "temperature": 0.0
+    },
+    {
+      "start": 877.2,
+      "duration": 1.740000000000009,
+      "text": "and a mystery that I don't know",
+      "avg_logprob": -0.16289771163223574,
+      "no_speech_prob": 1.0943353428299885e-12,
+      "compression_ratio": 1.8175675675675675,
+      "temperature": 0.0
+    },
+    {
+      "start": 878.94,
+      "duration": 1.5199999999999818,
+      "text": "that we can fully understand.",
+      "avg_logprob": -0.16289771163223574,
+      "no_speech_prob": 1.0943353428299885e-12,
+      "compression_ratio": 1.8175675675675675,
+      "temperature": 0.0
+    },
+    {
+      "start": 880.72,
+      "duration": 2.5799999999999272,
+      "text": "Remember Deuteronomy right before this 29, 29",
+      "avg_logprob": -0.16289771163223574,
+      "no_speech_prob": 1.0943353428299885e-12,
+      "compression_ratio": 1.8175675675675675,
+      "temperature": 0.0
+    },
+    {
+      "start": 883.3,
+      "duration": 2.4400000000000546,
+      "text": "says the secret things belong to the Lord,",
+      "avg_logprob": -0.16289771163223574,
+      "no_speech_prob": 1.0943353428299885e-12,
+      "compression_ratio": 1.8175675675675675,
+      "temperature": 0.0
+    },
+    {
+      "start": 886.44,
+      "duration": 1.6599999999999682,
+      "text": "but the things revealed are for us",
+      "avg_logprob": -0.16289771163223574,
+      "no_speech_prob": 1.0943353428299885e-12,
+      "compression_ratio": 1.8175675675675675,
+      "temperature": 0.0
+    },
+    {
+      "start": 888.1,
+      "duration": 1.240000000000009,
+      "text": "and for our children forever, right?",
+      "avg_logprob": -0.16289771163223574,
+      "no_speech_prob": 1.0943353428299885e-12,
+      "compression_ratio": 1.8175675675675675,
+      "temperature": 0.0
+    },
+    {
+      "start": 889.42,
+      "duration": 1.9800000000000182,
+      "text": "So what he's saying is there's things",
+      "avg_logprob": -0.16289771163223574,
+      "no_speech_prob": 1.0943353428299885e-12,
+      "compression_ratio": 1.8175675675675675,
+      "temperature": 0.0
+    },
+    {
+      "start": 891.4,
+      "duration": 2.6000000000000227,
+      "text": "that are hidden from us that we can't fully understand.",
+      "avg_logprob": -0.16289771163223574,
+      "no_speech_prob": 1.0943353428299885e-12,
+      "compression_ratio": 1.8175675675675675,
+      "temperature": 0.0
+    },
+    {
+      "start": 895.3000000000001,
+      "duration": 6.439999999999941,
+      "text": "Now, Nehemiah never breaks the fourth wall and explains how this works, but I liked the way that this one commentator said it.",
+      "avg_logprob": -0.15399937677865078,
+      "no_speech_prob": 6.928829797241132e-13,
+      "compression_ratio": 1.625,
+      "temperature": 0.0
+    },
+    {
+      "start": 901.8,
+      "duration": 0.5800000000000409,
+      "text": "He said it this way.",
+      "avg_logprob": -0.15399937677865078,
+      "no_speech_prob": 6.928829797241132e-13,
+      "compression_ratio": 1.625,
+      "temperature": 0.0
+    },
+    {
+      "start": 903.0,
+      "duration": 15.639999999999986,
+      "text": "He says, within the stream of history is the undercurrent of the will of God that steers the history of his people in a given direction, guided by his grace and love for his people.",
+      "avg_logprob": -0.15399937677865078,
+      "no_speech_prob": 6.928829797241132e-13,
+      "compression_ratio": 1.625,
+      "temperature": 0.0
+    },
+    {
+      "start": 920.46,
+      "duration": 1.240000000000009,
+      "text": "There's a mystery here.",
+      "avg_logprob": -0.15399937677865078,
+      "no_speech_prob": 6.928829797241132e-13,
+      "compression_ratio": 1.625,
+      "temperature": 0.0
+    },
+    {
+      "start": 922.08,
+      "duration": 1.2999999999999545,
+      "text": "We don't understand it.",
+      "avg_logprob": -0.15399937677865078,
+      "no_speech_prob": 6.928829797241132e-13,
+      "compression_ratio": 1.625,
+      "temperature": 0.0
+    },
+    {
+      "start": 924.4399999999999,
+      "duration": 6.440000000000055,
+      "text": "but this is what God is doing. Okay. So I think in Nehemiah, we're going to see God's covenant.",
+      "avg_logprob": -0.11288311325501059,
+      "no_speech_prob": 8.390654165392475e-13,
+      "compression_ratio": 1.8019323671497585,
+      "temperature": 0.0
+    },
+    {
+      "start": 931.02,
+      "duration": 4.360000000000014,
+      "text": "We're going to see God's sovereignty. We're also going to see God's word. And I'll end with this.",
+      "avg_logprob": -0.11288311325501059,
+      "no_speech_prob": 8.390654165392475e-13,
+      "compression_ratio": 1.8019323671497585,
+      "temperature": 0.0
+    },
+    {
+      "start": 936.72,
+      "duration": 5.399999999999977,
+      "text": "I think in Nehemiah, we're going to see a strong emphasis on the power of God's word",
+      "avg_logprob": -0.11288311325501059,
+      "no_speech_prob": 8.390654165392475e-13,
+      "compression_ratio": 1.8019323671497585,
+      "temperature": 0.0
+    },
+    {
+      "start": 942.12,
+      "duration": 7.259999999999991,
+      "text": "to transform his people. Most of the people are poor farmers. They're living outside the city.",
+      "avg_logprob": -0.11288311325501059,
+      "no_speech_prob": 8.390654165392475e-13,
+      "compression_ratio": 1.8019323671497585,
+      "temperature": 0.0
+    },
+    {
+      "start": 949.38,
+      "duration": 4.279999999999973,
+      "text": "They're very dependent on the foreign nations for trade, for survival.",
+      "avg_logprob": -0.1975834186260517,
+      "no_speech_prob": 7.492018615738727e-13,
+      "compression_ratio": 1.855072463768116,
+      "temperature": 0.0
+    },
+    {
+      "start": 953.92,
+      "duration": 2.1200000000000045,
+      "text": "And this begins to cause a problem.",
+      "avg_logprob": -0.1975834186260517,
+      "no_speech_prob": 7.492018615738727e-13,
+      "compression_ratio": 1.855072463768116,
+      "temperature": 0.0
+    },
+    {
+      "start": 957.22,
+      "duration": 2.3600000000000136,
+      "text": "Because of their dependency on these other nations,",
+      "avg_logprob": -0.1975834186260517,
+      "no_speech_prob": 7.492018615738727e-13,
+      "compression_ratio": 1.855072463768116,
+      "temperature": 0.0
+    },
+    {
+      "start": 960.2600000000001,
+      "duration": 4.67999999999995,
+      "text": "they begin to compromise with their obedience to the law.",
+      "avg_logprob": -0.1975834186260517,
+      "no_speech_prob": 7.492018615738727e-13,
+      "compression_ratio": 1.855072463768116,
+      "temperature": 0.0
+    },
+    {
+      "start": 966.1,
+      "duration": 2.519999999999982,
+      "text": "They begin to compromise on the Sabbath.",
+      "avg_logprob": -0.1975834186260517,
+      "no_speech_prob": 7.492018615738727e-13,
+      "compression_ratio": 1.855072463768116,
+      "temperature": 0.0
+    },
+    {
+      "start": 969.14,
+      "duration": 5.139999999999986,
+      "text": "They begin to compromise when it comes to intermarriage with the foreign nations.",
+      "avg_logprob": -0.1975834186260517,
+      "no_speech_prob": 7.492018615738727e-13,
+      "compression_ratio": 1.855072463768116,
+      "temperature": 0.0
+    },
+    {
+      "start": 974.58,
+      "duration": 2.8999999999999773,
+      "text": "They raise children who don't know the Lord.",
+      "avg_logprob": -0.1975834186260517,
+      "no_speech_prob": 7.492018615738727e-13,
+      "compression_ratio": 1.855072463768116,
+      "temperature": 0.0
+    },
+    {
+      "start": 979.38,
+      "duration": 2.759999999999991,
+      "text": "But in Nehemiah 8 and in Nehemiah 13,",
+      "avg_logprob": -0.24275109574601456,
+      "no_speech_prob": 6.637397337479201e-13,
+      "compression_ratio": 1.6168224299065421,
+      "temperature": 0.0
+    },
+    {
+      "start": 982.14,
+      "duration": 1.3000000000000682,
+      "text": "it happens a couple times.",
+      "avg_logprob": -0.24275109574601456,
+      "no_speech_prob": 6.637397337479201e-13,
+      "compression_ratio": 1.6168224299065421,
+      "temperature": 0.0
+    },
+    {
+      "start": 983.44,
+      "duration": 0.8399999999999181,
+      "text": "It's really neat.",
+      "avg_logprob": -0.24275109574601456,
+      "no_speech_prob": 6.637397337479201e-13,
+      "compression_ratio": 1.6168224299065421,
+      "temperature": 0.0
+    },
+    {
+      "start": 984.92,
+      "duration": 4.280000000000086,
+      "text": "It shows how these ordinary poor farmers were restored.",
+      "avg_logprob": -0.24275109574601456,
+      "no_speech_prob": 6.637397337479201e-13,
+      "compression_ratio": 1.6168224299065421,
+      "temperature": 0.0
+    },
+    {
+      "start": 990.02,
+      "duration": 0.6200000000000045,
+      "text": "Okay?",
+      "avg_logprob": -0.24275109574601456,
+      "no_speech_prob": 6.637397337479201e-13,
+      "compression_ratio": 1.6168224299065421,
+      "temperature": 0.0
+    },
+    {
+      "start": 991.3,
+      "duration": 3.660000000000082,
+      "text": "That the word of God was read aloud to the people.",
+      "avg_logprob": -0.24275109574601456,
+      "no_speech_prob": 6.637397337479201e-13,
+      "compression_ratio": 1.6168224299065421,
+      "temperature": 0.0
+    },
+    {
+      "start": 995.18,
+      "duration": 1.080000000000041,
+      "text": "It was read aloud.",
+      "avg_logprob": -0.24275109574601456,
+      "no_speech_prob": 6.637397337479201e-13,
+      "compression_ratio": 1.6168224299065421,
+      "temperature": 0.0
+    },
+    {
+      "start": 996.84,
+      "duration": 1.8199999999999363,
+      "text": "The leaders taught them what it meant.",
+      "avg_logprob": -0.24275109574601456,
+      "no_speech_prob": 6.637397337479201e-13,
+      "compression_ratio": 1.6168224299065421,
+      "temperature": 0.0
+    },
+    {
+      "start": 999.5400000000001,
+      "duration": 3.759999999999877,
+      "text": "And then the word did this work in them",
+      "avg_logprob": -0.24275109574601456,
+      "no_speech_prob": 6.637397337479201e-13,
+      "compression_ratio": 1.6168224299065421,
+      "temperature": 0.0
+    },
+    {
+      "start": 1003.3,
+      "duration": 1.9600000000000364,
+      "text": "to convict them of sin.",
+      "avg_logprob": -0.24275109574601456,
+      "no_speech_prob": 6.637397337479201e-13,
+      "compression_ratio": 1.6168224299065421,
+      "temperature": 0.0
+    },
+    {
+      "start": 1005.84,
+      "duration": 3.0399999999999636,
+      "text": "And then out of love of God,",
+      "avg_logprob": -0.24275109574601456,
+      "no_speech_prob": 6.637397337479201e-13,
+      "compression_ratio": 1.6168224299065421,
+      "temperature": 0.0
+    },
+    {
+      "start": 1009.38,
+      "duration": 2.9400000000000546,
+      "text": "motivated them to want to obey.",
+      "avg_logprob": -0.24544895612276518,
+      "no_speech_prob": 9.107939012362176e-13,
+      "compression_ratio": 1.482608695652174,
+      "temperature": 0.0
+    },
+    {
+      "start": 1013.82,
+      "duration": 5.099999999999909,
+      "text": "The whole people, all of the people were changed, okay?",
+      "avg_logprob": -0.24544895612276518,
+      "no_speech_prob": 9.107939012362176e-13,
+      "compression_ratio": 1.482608695652174,
+      "temperature": 0.0
+    },
+    {
+      "start": 1019.18,
+      "duration": 3.0,
+      "text": "And these changes were not about nationalism.",
+      "avg_logprob": -0.24544895612276518,
+      "no_speech_prob": 9.107939012362176e-13,
+      "compression_ratio": 1.482608695652174,
+      "temperature": 0.0
+    },
+    {
+      "start": 1022.48,
+      "duration": 2.400000000000091,
+      "text": "It's actually, they just love the Lord.",
+      "avg_logprob": -0.24544895612276518,
+      "no_speech_prob": 9.107939012362176e-13,
+      "compression_ratio": 1.482608695652174,
+      "temperature": 0.0
+    },
+    {
+      "start": 1025.3,
+      "duration": 2.400000000000091,
+      "text": "We can see that in what's happening here.",
+      "avg_logprob": -0.24544895612276518,
+      "no_speech_prob": 9.107939012362176e-13,
+      "compression_ratio": 1.482608695652174,
+      "temperature": 0.0
+    },
+    {
+      "start": 1028.94,
+      "duration": 1.759999999999991,
+      "text": "Deuteronomy 30, again,",
+      "avg_logprob": -0.24544895612276518,
+      "no_speech_prob": 9.107939012362176e-13,
+      "compression_ratio": 1.482608695652174,
+      "temperature": 0.0
+    },
+    {
+      "start": 1031.78,
+      "duration": 2.240000000000009,
+      "text": "I just wanna go back to the next little section of this.",
+      "avg_logprob": -0.24544895612276518,
+      "no_speech_prob": 9.107939012362176e-13,
+      "compression_ratio": 1.482608695652174,
+      "temperature": 0.0
+    },
+    {
+      "start": 1034.16,
+      "duration": 0.2799999999999727,
+      "text": "It's great.",
+      "avg_logprob": -0.24544895612276518,
+      "no_speech_prob": 9.107939012362176e-13,
+      "compression_ratio": 1.482608695652174,
+      "temperature": 0.0
+    },
+    {
+      "start": 1036.18,
+      "duration": 1.2000000000000455,
+      "text": "You guys, it's awesome.",
+      "avg_logprob": -0.24544895612276518,
+      "no_speech_prob": 9.107939012362176e-13,
+      "compression_ratio": 1.482608695652174,
+      "temperature": 0.0
+    },
+    {
+      "start": 1037.62,
+      "duration": 0.7000000000000455,
+      "text": "Verse 11.",
+      "avg_logprob": -0.24544895612276518,
+      "no_speech_prob": 9.107939012362176e-13,
+      "compression_ratio": 1.482608695652174,
+      "temperature": 0.0
+    },
+    {
+      "start": 1039.38,
+      "duration": 11.059999999999945,
+      "text": "What we see here is that God's word is given to his people, not as a burden in the law, right?",
+      "avg_logprob": -0.15225130174218154,
+      "no_speech_prob": 8.068956201985611e-13,
+      "compression_ratio": 1.5027624309392265,
+      "temperature": 0.0
+    },
+    {
+      "start": 1051.0,
+      "duration": 8.839999999999918,
+      "text": "But what it is, is this is God revealing himself to us, not to just instruct us how to live,",
+      "avg_logprob": -0.15225130174218154,
+      "no_speech_prob": 8.068956201985611e-13,
+      "compression_ratio": 1.5027624309392265,
+      "temperature": 0.0
+    },
+    {
+      "start": 1060.3799999999999,
+      "duration": 2.880000000000109,
+      "text": "but to show us who he is and all that he's done for us.",
+      "avg_logprob": -0.15225130174218154,
+      "no_speech_prob": 8.068956201985611e-13,
+      "compression_ratio": 1.5027624309392265,
+      "temperature": 0.0
+    },
+    {
+      "start": 1063.56,
+      "duration": 1.3200000000001637,
+      "text": "And so look at what he says.",
+      "avg_logprob": -0.15225130174218154,
+      "no_speech_prob": 8.068956201985611e-13,
+      "compression_ratio": 1.5027624309392265,
+      "temperature": 0.0
+    },
+    {
+      "start": 1066.26,
+      "duration": 0.4600000000000364,
+      "text": "It says,",
+      "avg_logprob": -0.1569217324256897,
+      "no_speech_prob": 1.0280077570451462e-12,
+      "compression_ratio": 2.0037735849056606,
+      "temperature": 0.0
+    },
+    {
+      "start": 1066.88,
+      "duration": 3.939999999999827,
+      "text": "For this commandment that I command you today is not too hard for you,",
+      "avg_logprob": -0.1569217324256897,
+      "no_speech_prob": 1.0280077570451462e-12,
+      "compression_ratio": 2.0037735849056606,
+      "temperature": 0.0
+    },
+    {
+      "start": 1071.6200000000001,
+      "duration": 1.4799999999997908,
+      "text": "neither is it far off.",
+      "avg_logprob": -0.1569217324256897,
+      "no_speech_prob": 1.0280077570451462e-12,
+      "compression_ratio": 2.0037735849056606,
+      "temperature": 0.0
+    },
+    {
+      "start": 1073.5400000000002,
+      "duration": 0.8599999999999,
+      "text": "Hey, listen to this.",
+      "avg_logprob": -0.1569217324256897,
+      "no_speech_prob": 1.0280077570451462e-12,
+      "compression_ratio": 2.0037735849056606,
+      "temperature": 0.0
+    },
+    {
+      "start": 1074.56,
+      "duration": 0.44000000000005457,
+      "text": "He says,",
+      "avg_logprob": -0.1569217324256897,
+      "no_speech_prob": 1.0280077570451462e-12,
+      "compression_ratio": 2.0037735849056606,
+      "temperature": 0.0
+    },
+    {
+      "start": 1075.26,
+      "duration": 1.5,
+      "text": "It is not in heaven that you should say,",
+      "avg_logprob": -0.1569217324256897,
+      "no_speech_prob": 1.0280077570451462e-12,
+      "compression_ratio": 2.0037735849056606,
+      "temperature": 0.0
+    },
+    {
+      "start": 1076.84,
+      "duration": 3.040000000000191,
+      "text": "Who should ascend to heaven for us and bring it to us that we can hear it and do it?",
+      "avg_logprob": -0.1569217324256897,
+      "no_speech_prob": 1.0280077570451462e-12,
+      "compression_ratio": 2.0037735849056606,
+      "temperature": 0.0
+    },
+    {
+      "start": 1080.5800000000002,
+      "duration": 2.1799999999998363,
+      "text": "Neither is it beyond the sea that you should say,",
+      "avg_logprob": -0.1569217324256897,
+      "no_speech_prob": 1.0280077570451462e-12,
+      "compression_ratio": 2.0037735849056606,
+      "temperature": 0.0
+    },
+    {
+      "start": 1082.98,
+      "duration": 4.7999999999999545,
+      "text": "Who will go over the sea for us and bring it to us that we may hear it and do it?",
+      "avg_logprob": -0.1569217324256897,
+      "no_speech_prob": 1.0280077570451462e-12,
+      "compression_ratio": 2.0037735849056606,
+      "temperature": 0.0
+    },
+    {
+      "start": 1087.78,
+      "duration": 0.4800000000000182,
+      "text": "What is he saying?",
+      "avg_logprob": -0.1569217324256897,
+      "no_speech_prob": 1.0280077570451462e-12,
+      "compression_ratio": 2.0037735849056606,
+      "temperature": 0.0
+    },
+    {
+      "start": 1088.36,
+      "duration": 5.060000000000173,
+      "text": "It's like, look, God's word is not something that we have to build up a tower to heaven",
+      "avg_logprob": -0.1569217324256897,
+      "no_speech_prob": 1.0280077570451462e-12,
+      "compression_ratio": 2.0037735849056606,
+      "temperature": 0.0
+    },
+    {
+      "start": 1093.42,
+      "duration": 1.240000000000009,
+      "text": "to go and find and bring it down.",
+      "avg_logprob": -0.1569217324256897,
+      "no_speech_prob": 1.0280077570451462e-12,
+      "compression_ratio": 2.0037735849056606,
+      "temperature": 0.0
+    },
+    {
+      "start": 1094.88,
+      "duration": 5.559999999999945,
+      "text": "we can understand it. No. It's not hidden in some treasure box in some other nation that we got to",
+      "avg_logprob": -0.051094089645937264,
+      "no_speech_prob": 7.882264177298814e-13,
+      "compression_ratio": 1.4820512820512821,
+      "temperature": 0.0
+    },
+    {
+      "start": 1100.44,
+      "duration": 7.519999999999982,
+      "text": "go find and dig up and bring it back. No. Why? Because God doesn't make us come out to him to",
+      "avg_logprob": -0.051094089645937264,
+      "no_speech_prob": 7.882264177298814e-13,
+      "compression_ratio": 1.4820512820512821,
+      "temperature": 0.0
+    },
+    {
+      "start": 1107.96,
+      "duration": 11.480000000000018,
+      "text": "get it. God brings his word to us. Verse 14 says, the word is very near you. It's in your mouth,",
+      "avg_logprob": -0.051094089645937264,
+      "no_speech_prob": 7.882264177298814e-13,
+      "compression_ratio": 1.4820512820512821,
+      "temperature": 0.0
+    },
+    {
+      "start": 1119.44,
+      "duration": 2.2999999999999545,
+      "text": "and your heart so that you can do it.",
+      "avg_logprob": -0.22604037619925835,
+      "no_speech_prob": 8.006163006862854e-13,
+      "compression_ratio": 1.4523809523809523,
+      "temperature": 0.0
+    },
+    {
+      "start": 1122.38,
+      "duration": 1.5399999999999636,
+      "text": "And this is what's happening.",
+      "avg_logprob": -0.22604037619925835,
+      "no_speech_prob": 8.006163006862854e-13,
+      "compression_ratio": 1.4523809523809523,
+      "temperature": 0.0
+    },
+    {
+      "start": 1125.18,
+      "duration": 6.599999999999909,
+      "text": "See, God's giving his word to his people, okay?",
+      "avg_logprob": -0.22604037619925835,
+      "no_speech_prob": 8.006163006862854e-13,
+      "compression_ratio": 1.4523809523809523,
+      "temperature": 0.0
+    },
+    {
+      "start": 1132.84,
+      "duration": 2.300000000000182,
+      "text": "Even Nehemiah and all of his leadership",
+      "avg_logprob": -0.22604037619925835,
+      "no_speech_prob": 8.006163006862854e-13,
+      "compression_ratio": 1.4523809523809523,
+      "temperature": 0.0
+    },
+    {
+      "start": 1135.14,
+      "duration": 1.0599999999999454,
+      "text": "and all of his reforms,",
+      "avg_logprob": -0.22604037619925835,
+      "no_speech_prob": 8.006163006862854e-13,
+      "compression_ratio": 1.4523809523809523,
+      "temperature": 0.0
+    },
+    {
+      "start": 1136.8999999999999,
+      "duration": 5.100000000000136,
+      "text": "it was not enough to bring the lasting change that needed, okay?",
+      "avg_logprob": -0.22604037619925835,
+      "no_speech_prob": 8.006163006862854e-13,
+      "compression_ratio": 1.4523809523809523,
+      "temperature": 0.0
+    },
+    {
+      "start": 1143.8200000000002,
+      "duration": 8.079999999999927,
+      "text": "ultimately we needed then the incarnate word of God and think about this this is just what God",
+      "avg_logprob": -0.03879681103666064,
+      "no_speech_prob": 7.760094108098803e-13,
+      "compression_ratio": 1.9261744966442953,
+      "temperature": 0.0
+    },
+    {
+      "start": 1151.9,
+      "duration": 6.419999999999845,
+      "text": "does he gives us his written word but then he gives us the incarnate word God sent the incarnate",
+      "avg_logprob": -0.03879681103666064,
+      "no_speech_prob": 7.760094108098803e-13,
+      "compression_ratio": 1.9261744966442953,
+      "temperature": 0.0
+    },
+    {
+      "start": 1158.32,
+      "duration": 8.680000000000064,
+      "text": "word Jesus the son of God to show us to show us the father to show us what it means to be truly",
+      "avg_logprob": -0.03879681103666064,
+      "no_speech_prob": 7.760094108098803e-13,
+      "compression_ratio": 1.9261744966442953,
+      "temperature": 0.0
+    },
+    {
+      "start": 1167.0,
+      "duration": 10.099999999999909,
+      "text": "human, to show us what it means to live as his children. When Jesus comes, he fulfills all of",
+      "avg_logprob": -0.04494157815590883,
+      "no_speech_prob": 6.901758895297427e-13,
+      "compression_ratio": 1.5078534031413613,
+      "temperature": 0.0
+    },
+    {
+      "start": 1177.1,
+      "duration": 7.920000000000073,
+      "text": "God's covenant promises to us, right? That they are all yes and amen in Christ. He's perfectly",
+      "avg_logprob": -0.04494157815590883,
+      "no_speech_prob": 6.901758895297427e-13,
+      "compression_ratio": 1.5078534031413613,
+      "temperature": 0.0
+    },
+    {
+      "start": 1185.02,
+      "duration": 7.839999999999918,
+      "text": "obeyed God's commands and he did so on our behalf. He did those all for us. He perfectly atoned for",
+      "avg_logprob": -0.04494157815590883,
+      "no_speech_prob": 6.901758895297427e-13,
+      "compression_ratio": 1.5078534031413613,
+      "temperature": 0.0
+    },
+    {
+      "start": 1192.86,
+      "duration": 8.0,
+      "text": "our sin as the pure and spotless sacrifice. And he is at work within us to reorient our hearts",
+      "avg_logprob": -0.028647642135620117,
+      "no_speech_prob": 7.318480673909611e-13,
+      "compression_ratio": 1.7162162162162162,
+      "temperature": 0.0
+    },
+    {
+      "start": 1200.86,
+      "duration": 5.880000000000109,
+      "text": "so that we would love and fear the Lord. Okay. Everything that we talked about here, we see in",
+      "avg_logprob": -0.028647642135620117,
+      "no_speech_prob": 7.318480673909611e-13,
+      "compression_ratio": 1.7162162162162162,
+      "temperature": 0.0
+    },
+    {
+      "start": 1206.74,
+      "duration": 7.420000000000073,
+      "text": "Christ. So as we study Nehemiah together, we're going to see these things. We're going to see",
+      "avg_logprob": -0.028647642135620117,
+      "no_speech_prob": 7.318480673909611e-13,
+      "compression_ratio": 1.7162162162162162,
+      "temperature": 0.0
+    },
+    {
+      "start": 1214.16,
+      "duration": 4.419999999999845,
+      "text": "God's covenant promises. We're going to see his sovereignty behind the scenes. We're going to see",
+      "avg_logprob": -0.028647642135620117,
+      "no_speech_prob": 7.318480673909611e-13,
+      "compression_ratio": 1.7162162162162162,
+      "temperature": 0.0
+    },
+    {
+      "start": 1218.58,
+      "duration": 6.2000000000000455,
+      "text": "the power of God's word. But ultimately, our prayer for this study as we go through this is",
+      "avg_logprob": -0.04899588384126362,
+      "no_speech_prob": 5.744203398529157e-13,
+      "compression_ratio": 1.591160220994475,
+      "temperature": 0.0
+    },
+    {
+      "start": 1224.78,
+      "duration": 7.660000000000082,
+      "text": "that we would see Christ. We would see how Christ, how Nehemiah, the events that happen here, the",
+      "avg_logprob": -0.04899588384126362,
+      "no_speech_prob": 5.744203398529157e-13,
+      "compression_ratio": 1.591160220994475,
+      "temperature": 0.0
+    },
+    {
+      "start": 1232.44,
+      "duration": 10.099999999999909,
+      "text": "people here, all of it points to an anticipation of the coming word, the incarnate word as we wait",
+      "avg_logprob": -0.04899588384126362,
+      "no_speech_prob": 5.744203398529157e-13,
+      "compression_ratio": 1.591160220994475,
+      "temperature": 0.0
+    },
+    {
+      "start": 1242.54,
+      "duration": 8.539999999999964,
+      "text": "for him. So I hope that that's helpful as we're beginning this study, thinking about those three",
+      "avg_logprob": -0.08621126810709635,
+      "no_speech_prob": 9.10795852800128e-13,
+      "compression_ratio": 1.6538461538461537,
+      "temperature": 0.0
+    },
+    {
+      "start": 1251.08,
+      "duration": 4.880000000000109,
+      "text": "things as we begin to read it. Let's pray. And then I want to send you back to your groups to",
+      "avg_logprob": -0.08621126810709635,
+      "no_speech_prob": 9.10795852800128e-13,
+      "compression_ratio": 1.6538461538461537,
+      "temperature": 0.0
+    },
+    {
+      "start": 1255.96,
+      "duration": 6.399999999999864,
+      "text": "just talk about a few things and pray together. All right, let's pray. God, thanks for this time.",
+      "avg_logprob": -0.08621126810709635,
+      "no_speech_prob": 9.10795852800128e-13,
+      "compression_ratio": 1.6538461538461537,
+      "temperature": 0.0
+    },
+    {
+      "start": 1262.66,
+      "duration": 8.5,
+      "text": "Thank you, Lord, that you are so gracious to give us your word, that we don't have to seek for it.",
+      "avg_logprob": -0.08621126810709635,
+      "no_speech_prob": 9.10795852800128e-13,
+      "compression_ratio": 1.6538461538461537,
+      "temperature": 0.0
+    },
+    {
+      "start": 1272.54,
+      "duration": 3.519999999999982,
+      "text": "that we don't have to go up to the heavens to search for it.",
+      "avg_logprob": -0.18251825838672872,
+      "no_speech_prob": 5.375304151442051e-13,
+      "compression_ratio": 1.701657458563536,
+      "temperature": 0.0
+    },
+    {
+      "start": 1277.64,
+      "duration": 2.3199999999999363,
+      "text": "But Lord, you saw our need.",
+      "avg_logprob": -0.18251825838672872,
+      "no_speech_prob": 5.375304151442051e-13,
+      "compression_ratio": 1.701657458563536,
+      "temperature": 0.0
+    },
+    {
+      "start": 1281.26,
+      "duration": 6.400000000000091,
+      "text": "You saw that we could not get to you on our own.",
+      "avg_logprob": -0.18251825838672872,
+      "no_speech_prob": 5.375304151442051e-13,
+      "compression_ratio": 1.701657458563536,
+      "temperature": 0.0
+    },
+    {
+      "start": 1288.4,
+      "duration": 4.019999999999982,
+      "text": "And because of that, you, in your mercy and your grace,",
+      "avg_logprob": -0.18251825838672872,
+      "no_speech_prob": 5.375304151442051e-13,
+      "compression_ratio": 1.701657458563536,
+      "temperature": 0.0
+    },
+    {
+      "start": 1292.6,
+      "duration": 2.6800000000000637,
+      "text": "you gave us your word to show us who you are,",
+      "avg_logprob": -0.18251825838672872,
+      "no_speech_prob": 5.375304151442051e-13,
+      "compression_ratio": 1.701657458563536,
+      "temperature": 0.0
+    },
+    {
+      "start": 1296.02,
+      "duration": 1.4600000000000364,
+      "text": "to show us what you're like,",
+      "avg_logprob": -0.18251825838672872,
+      "no_speech_prob": 5.375304151442051e-13,
+      "compression_ratio": 1.701657458563536,
+      "temperature": 0.0
+    },
+    {
+      "start": 1297.76,
+      "duration": 2.1400000000001,
+      "text": "to show us all that you've done for us.",
+      "avg_logprob": -0.18251825838672872,
+      "no_speech_prob": 5.375304151442051e-13,
+      "compression_ratio": 1.701657458563536,
+      "temperature": 0.0
+    },
+    {
+      "start": 1301.5400000000002,
+      "duration": 6.339999999999918,
+      "text": "to make promises and then to send us the incarnate word,",
+      "avg_logprob": -0.15806659323270203,
+      "no_speech_prob": 6.408247413616786e-13,
+      "compression_ratio": 1.4545454545454546,
+      "temperature": 0.0
+    },
+    {
+      "start": 1308.06,
+      "duration": 4.5,
+      "text": "the Lord Jesus, who accomplished all of that for us.",
+      "avg_logprob": -0.15806659323270203,
+      "no_speech_prob": 6.408247413616786e-13,
+      "compression_ratio": 1.4545454545454546,
+      "temperature": 0.0
+    },
+    {
+      "start": 1313.68,
+      "duration": 3.2000000000000455,
+      "text": "Lord, we thank you for that incredible gift",
+      "avg_logprob": -0.15806659323270203,
+      "no_speech_prob": 6.408247413616786e-13,
+      "compression_ratio": 1.4545454545454546,
+      "temperature": 0.0
+    },
+    {
+      "start": 1316.88,
+      "duration": 1.6199999999998909,
+      "text": "that you've given to us.",
+      "avg_logprob": -0.15806659323270203,
+      "no_speech_prob": 6.408247413616786e-13,
+      "compression_ratio": 1.4545454545454546,
+      "temperature": 0.0
+    },
+    {
+      "start": 1318.76,
+      "duration": 2.1200000000001182,
+      "text": "In Jesus' name we pray, amen.",
+      "avg_logprob": -0.15806659323270203,
+      "no_speech_prob": 6.408247413616786e-13,
+      "compression_ratio": 1.4545454545454546,
+      "temperature": 0.0
+    }
+  ]
+}

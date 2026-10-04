@@ -1,16 +1,16 @@
 # Transcript coverage
 
 Manifest recordings: 99
-Completed transcripts: 67
-Sources: {"Local Whisper large-v3-turbo (MLX)": 40, "YouTube auto captions": 27}
+Completed transcripts: 77
+Sources: {"Local Whisper large-v3-turbo (MLX)": 50, "YouTube auto captions": 27}
 
 Machine transcripts are not manually corrected. See verification.json for integrity checks and text samples.
 
 | Date | ID | Title | Status | Transcript source |
 |---|---|---|---|---|
 | 2019-09-08 | 32mv3ct | "Enjoy God's Daily Gifts" | complete | Local Whisper large-v3-turbo (MLX) |
-| 2020-06-28 | 9435rzn | "The Crossroads" | no_confirmed_youtube_match |  |
-| 2020-07-05 | kccmwqp | "The Redeemer" | no_confirmed_youtube_match |  |
+| 2020-06-28 | 9435rzn | "The Crossroads" | complete | Local Whisper large-v3-turbo (MLX) |
+| 2020-07-05 | kccmwqp | "The Redeemer" | complete | Local Whisper large-v3-turbo (MLX) |
 | 2020-07-12 | 7p645fr | "The Threshing Floor" | complete | Local Whisper large-v3-turbo (MLX) |
 | 2020-07-19 | b6hbmgs | "The Cost" | complete | Local Whisper large-v3-turbo (MLX) |
 | 2021-01-03 | 34d5cch | "The Submissive Citizen" | complete | Local Whisper large-v3-turbo (MLX) |
@@ -65,23 +65,23 @@ Machine transcripts are not manually corrected. See verification.json for integr
 | 2024-10-10 | pv752wm | Session 6 | no_confirmed_youtube_match |  |
 | 2024-10-17 | p2hrcdm | Session 7 | no_confirmed_youtube_match |  |
 | 2024-10-20 | tcsnqkb | Behold, What Manner Of Love | complete | Local Whisper large-v3-turbo (MLX) |
-| 2024-10-24 | tbtrwvj | Session 8 | no_confirmed_youtube_match |  |
+| 2024-10-24 | tbtrwvj | Session 8 | complete | Local Whisper large-v3-turbo (MLX) |
 | 2024-11-03 | s5ntnrx | If You Only Knew | complete | Local Whisper large-v3-turbo (MLX) |
-| 2024-11-07 | 5gfj7gb | Session 9 | no_confirmed_youtube_match |  |
-| 2024-11-14 | 2wc2zk8 | Session 10 | no_confirmed_youtube_match |  |
+| 2024-11-07 | 5gfj7gb | Session 9 | complete | Local Whisper large-v3-turbo (MLX) |
+| 2024-11-14 | 2wc2zk8 | Session 10 | complete | Local Whisper large-v3-turbo (MLX) |
 | 2024-11-17 | 5wtc82x | New Levels Of Faith | complete | Local Whisper large-v3-turbo (MLX) |
 | 2024-12-01 | 49g6zjf | Hope Against Hope - The Birth of Isaac | complete | Local Whisper large-v3-turbo (MLX) |
 | 2024-12-15 | h3m7kz4 | ...Because He Cares For You | complete | Local Whisper large-v3-turbo (MLX) |
 | 2025-01-05 | 2y9jgrw | God's Love, God's Hate | complete | Local Whisper large-v3-turbo (MLX) |
 | 2025-01-19 | vpb33p9 | A Leader To Follow | complete | Local Whisper large-v3-turbo (MLX) |
-| 2025-01-23 | mw7369j | Session 1 - Introduction to Nehemiah | no_confirmed_youtube_match |  |
+| 2025-01-23 | mw7369j | Session 1 - Introduction to Nehemiah | complete | Local Whisper large-v3-turbo (MLX) |
 | 2025-02-09 | y4swqns | The Power of the Tithe | complete | YouTube auto captions |
-| 2025-02-13 | t39qz2b | Session 4 | no_confirmed_youtube_match |  |
-| 2025-02-20 | df86prg | Session 5 | no_confirmed_youtube_match |  |
+| 2025-02-13 | t39qz2b | Session 4 | complete | Local Whisper large-v3-turbo (MLX) |
+| 2025-02-20 | df86prg | Session 5 | complete | Local Whisper large-v3-turbo (MLX) |
 | 2025-02-23 | kfj59fh | The Day of the Lord | complete | YouTube auto captions |
 | 2025-03-09 | q2nxsj2 | Judging Jesus | complete | Local Whisper large-v3-turbo (MLX) |
-| 2025-03-20 | tcx3v5q | Session 9 | no_confirmed_youtube_match |  |
-| 2025-03-27 | 6y2kzs3 | Session 10 | no_confirmed_youtube_match |  |
+| 2025-03-20 | tcx3v5q | Session 9 | complete | Local Whisper large-v3-turbo (MLX) |
+| 2025-03-27 | 6y2kzs3 | Session 10 | complete | Local Whisper large-v3-turbo (MLX) |
 | 2025-03-30 | t9nkh44 | Safe To Shore | complete | YouTube auto captions |
 | 2025-04-13 | 4hh9fmz | Grumblers Gonna Grumble | complete | YouTube auto captions |
 | 2025-04-27 | kcknqtf | The Brothers, The Crowd, And The Opposition | complete | YouTube auto captions |

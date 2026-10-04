@@ -1,12 +1,12 @@
 {
-  "verified_transcripts": 67,
+  "verified_transcripts": 77,
   "matching_start_end_boundaries": true,
   "all_individual_files_in_combined": true,
   "timestamps_monotonic": true,
   "caption_segments_preserved_exactly": true,
-  "combined_bytes": 2693049,
-  "transcript_words": 379922,
-  "combined_sha256": "122af2f2b2e674dddf9bf5bcd941f0b060725149e94420272d85d404dab0b34f",
+  "combined_bytes": 2943139,
+  "transcript_words": 416642,
+  "combined_sha256": "d09cef21a8e0cdd59b158e9490bbc102ed1ede039c702ba9e4ccb69a266c15ae",
   "duration_discrepancies_over_10_percent_or_60_seconds": [],
   "verification_scope": "Structural and text-sample checks. Not a manual word-for-word audio verification. Names and references may be misrecognized.",
   "text_samples": [
@@ -227,6 +227,15 @@
       "archive_duration_seconds": 2156.199
     },
     {
+      "id": "6y2kzs3",
+      "title": "Session 10",
+      "first": "Our gracious father, thank you for these 10 weeks and the study of Nehemiah.",
+      "middle": "Zeal is going to spring from humility, from humility.",
+      "last": "Amen.",
+      "transcript_end_seconds": 1381.86,
+      "archive_duration_seconds": 1398.099
+    },
+    {
       "id": "t9nkh44",
       "title": "Safe To Shore",
       "first": "[Music]",
@@ -234,6 +243,15 @@
       "last": "amen",
       "transcript_end_seconds": 2138.72,
       "archive_duration_seconds": 2140.342
+    },
+    {
+      "id": "tcx3v5q",
+      "title": "Session 9",
+      "first": "Our Father, thank you for this evening that you have given to us, that you bless us so richly in so many different ways.",
+      "middle": "Hashabiah,",
+      "last": "Amen",
+      "transcript_end_seconds": 1601.32,
+      "archive_duration_seconds": 1602.089
     },
     {
       "id": "q2nxsj2",
@@ -254,6 +272,24 @@
       "archive_duration_seconds": 2437.381
     },
     {
+      "id": "t39qz2b",
+      "title": "Session 4",
+      "first": "Heavenly Father, we thank you again for your word that is so rich and is powerful.",
+      "middle": "We cannot fail.",
+      "last": "We pray this in Jesus' name, amen.",
+      "transcript_end_seconds": 1390.23,
+      "archive_duration_seconds": 1391.595
+    },
+    {
+      "id": "df86prg",
+      "title": "Session 5",
+      "first": "I want to start by just saying I think that this could be very challenging for us.",
+      "middle": "and all the stuff that was going on.",
+      "last": "help us to follow you to see you and follow you lord we pray all this in jesus name amen",
+      "transcript_end_seconds": 1352.5,
+      "archive_duration_seconds": 1353.613
+    },
+    {
       "id": "y4swqns",
       "title": "The Power of the Tithe",
       "first": "[Music]",
@@ -261,6 +297,15 @@
       "last": "for us we pray this in Jesus name amen",
       "transcript_end_seconds": 2573.88,
       "archive_duration_seconds": 2577.031
+    },
+    {
+      "id": "mw7369j",
+      "title": "Session 1 - Introduction to Nehemiah",
+      "first": "I want to ask you to turn to, not Nehemiah, we're going to, I know, you got 65 choices,",
+      "middle": "We're simply just trusting that.",
+      "last": "In Jesus' name we pray, amen.",
+      "transcript_end_seconds": 1320.88,
+      "archive_duration_seconds": 1324.094
     },
     {
       "id": "vpb33p9",
@@ -308,6 +353,24 @@
       "archive_duration_seconds": 2344.724
     },
     {
+      "id": "2wc2zk8",
+      "title": "Session 10",
+      "first": "Thank you, Lord.",
+      "middle": "that says that",
+      "last": "gospel. We pray this in Jesus' name. Amen.",
+      "transcript_end_seconds": 1023.28,
+      "archive_duration_seconds": 1024.052
+    },
+    {
+      "id": "5gfj7gb",
+      "title": "Session 9",
+      "first": "Father, thank you that tonight we can gather together again to look at your word, to look into this letter from the Apostle John.",
+      "middle": "things that took place. Three things that John was a witness of, right? And then what does he do?",
+      "last": "In Jesus' name we pray, amen.",
+      "transcript_end_seconds": 1321.2,
+      "archive_duration_seconds": 1321.586
+    },
+    {
       "id": "s5ntnrx",
       "title": "If You Only Knew",
       "first": "Now when Jesus learned that the Pharisees had heard that Jesus was making and baptizing more disciples than John,",
@@ -315,6 +378,15 @@
       "last": "that it would go out from us to the nations as well.",
       "transcript_end_seconds": 2234.26,
       "archive_duration_seconds": 2239.947
+    },
+    {
+      "id": "tbtrwvj",
+      "title": "Session 8",
+      "first": "Heavenly Father, thank you. Thank you for this letter, this epistle given to us",
+      "middle": "And the pastor was like, really?",
+      "last": "In Jesus' name we pray, amen.",
+      "transcript_end_seconds": 1106.76,
+      "archive_duration_seconds": 1107.226
     },
     {
       "id": "tcsnqkb",
@@ -612,6 +684,24 @@
       "last": "Amen.",
       "transcript_end_seconds": 2642.54,
       "archive_duration_seconds": 2643.017
+    },
+    {
+      "id": "kccmwqp",
+      "title": "\"The Redeemer\"",
+      "first": "Happy 4th of July. You guys doing well? Alright. Hey, open up your Bible to Ruth, chapter 2.",
+      "middle": "God's not out to get her. God's not trying to punish her. God's with her.",
+      "last": "Amen.",
+      "transcript_end_seconds": 2087.8,
+      "archive_duration_seconds": 2088.071
+    },
+    {
+      "id": "9435rzn",
+      "title": "\"The Crossroads\"",
+      "first": "Go ahead and open up your Bible to the book of Ruth. Ruth chapter 1 is where we are today.",
+      "middle": "because of them. And the women said, is this Naomi? Is this the woman that left 10 years ago",
+      "last": "I pray this in Jesus' name, amen.",
+      "transcript_end_seconds": 2098.26,
+      "archive_duration_seconds": 2099.069
     }
   ]
 }

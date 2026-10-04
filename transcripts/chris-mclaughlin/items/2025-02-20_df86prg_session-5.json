@@ -1,0 +1,2817 @@
+{
+  "title": "Session 5",
+  "date": "2025-02-20T00:00:00Z",
+  "scripture": "Nehemiah 5:1-19",
+  "speaker": "Chris McLaughlin",
+  "site_url": "https://fieldspres.org/media/df86prg/session-5",
+  "short_code": "df86prg",
+  "subsplash_url": "https://subspla.sh/df86prg",
+  "audio_url": "https://cdn.subsplash.com/audios/83RBNZ/1c664300-206c-4980-979b-4b7c032848a9/audio.mp3",
+  "video_url": null,
+  "duration_ms": 1353613,
+  "transcript_source": "Local Whisper large-v3-turbo (MLX)",
+  "transcript_source_url": "https://cdn.subsplash.com/audios/83RBNZ/1c664300-206c-4980-979b-4b7c032848a9/audio.mp3",
+  "language_code": "en",
+  "transcribed_at": "2026-10-04T22:41:35.588148+00:00",
+  "transcription": {
+    "engine": "mlx-whisper",
+    "engine_version": "0.4.3",
+    "mlx_version": "0.32.3",
+    "model_repo": "mlx-community/whisper-large-v3-turbo",
+    "model_revision": "a4aaeec0636e6fef84abdcbe3544cb2bf7e9f6fb",
+    "language": "en",
+    "word_timestamps": true,
+    "condition_on_previous_text": false,
+    "hallucination_silence_threshold": 2.0,
+    "audio_duration_seconds": 1353.586939,
+    "processing_seconds": 106.23245674999998,
+    "speed_multiple": 12.741745605916247,
+    "audio_retained": false,
+    "cloud_audio_processing": false,
+    "manually_corrected": false
+  },
+  "quality_flags": [],
+  "snippets": [
+    {
+      "start": 0.0,
+      "duration": 5.36,
+      "text": "I want to start by just saying I think that this could be very challenging for us.",
+      "avg_logprob": -0.13392871739913007,
+      "no_speech_prob": 5.611158781539116e-13,
+      "compression_ratio": 1.7268518518518519,
+      "temperature": 0.0
+    },
+    {
+      "start": 6.66,
+      "duration": 10.18,
+      "text": "The type of, I don't know, for most of us, the sorts of things that I think that are being talked about here in chapter 5 are,",
+      "avg_logprob": -0.13392871739913007,
+      "no_speech_prob": 5.611158781539116e-13,
+      "compression_ratio": 1.7268518518518519,
+      "temperature": 0.0
+    },
+    {
+      "start": 18.32,
+      "duration": 3.0199999999999996,
+      "text": "they're not comfortable. They're not comfortable things to talk about.",
+      "avg_logprob": -0.13392871739913007,
+      "no_speech_prob": 5.611158781539116e-13,
+      "compression_ratio": 1.7268518518518519,
+      "temperature": 0.0
+    },
+    {
+      "start": 21.6,
+      "duration": 5.939999999999998,
+      "text": "So I want to take a minute to pray and then let's look at what's going on here in chapter 5.",
+      "avg_logprob": -0.13392871739913007,
+      "no_speech_prob": 5.611158781539116e-13,
+      "compression_ratio": 1.7268518518518519,
+      "temperature": 0.0
+    },
+    {
+      "start": 28.42,
+      "duration": 13.619999999999997,
+      "text": "Our Father, I thank you that there are times when we can read your word and we can just say amen.",
+      "avg_logprob": -0.15383841774680398,
+      "no_speech_prob": 7.289743353226796e-13,
+      "compression_ratio": 1.702970297029703,
+      "temperature": 0.0
+    },
+    {
+      "start": 42.44,
+      "duration": 4.5,
+      "text": "And this is, you know, fully get that and fully believe that.",
+      "avg_logprob": -0.15383841774680398,
+      "no_speech_prob": 7.289743353226796e-13,
+      "compression_ratio": 1.702970297029703,
+      "temperature": 0.0
+    },
+    {
+      "start": 46.94,
+      "duration": 2.760000000000005,
+      "text": "And there's not too much more that needs to happen.",
+      "avg_logprob": -0.15383841774680398,
+      "no_speech_prob": 7.289743353226796e-13,
+      "compression_ratio": 1.702970297029703,
+      "temperature": 0.0
+    },
+    {
+      "start": 50.06,
+      "duration": 4.780000000000001,
+      "text": "And there's other times when we might read a passage and it challenges us.",
+      "avg_logprob": -0.15383841774680398,
+      "no_speech_prob": 7.289743353226796e-13,
+      "compression_ratio": 1.702970297029703,
+      "temperature": 0.0
+    },
+    {
+      "start": 54.9,
+      "duration": 2.0799999999999983,
+      "text": "And it challenges us to maybe think a little differently.",
+      "avg_logprob": -0.15383841774680398,
+      "no_speech_prob": 7.289743353226796e-13,
+      "compression_ratio": 1.702970297029703,
+      "temperature": 0.0
+    },
+    {
+      "start": 57.54,
+      "duration": 5.5,
+      "text": "challenges us to maybe act a little differently in some ways.",
+      "avg_logprob": -0.11318205935614449,
+      "no_speech_prob": 7.610015590776842e-13,
+      "compression_ratio": 1.7025862068965518,
+      "temperature": 0.0
+    },
+    {
+      "start": 63.64000000000001,
+      "duration": 4.6599999999999895,
+      "text": "And so as we do that, we also recognize that we can't do that on our own,",
+      "avg_logprob": -0.11318205935614449,
+      "no_speech_prob": 7.610015590776842e-13,
+      "compression_ratio": 1.7025862068965518,
+      "temperature": 0.0
+    },
+    {
+      "start": 68.36,
+      "duration": 0.7800000000000011,
+      "text": "that we need your help.",
+      "avg_logprob": -0.11318205935614449,
+      "no_speech_prob": 7.610015590776842e-13,
+      "compression_ratio": 1.7025862068965518,
+      "temperature": 0.0
+    },
+    {
+      "start": 69.3,
+      "duration": 1.3400000000000034,
+      "text": "And so, Lord, we pray for that today.",
+      "avg_logprob": -0.11318205935614449,
+      "no_speech_prob": 7.610015590776842e-13,
+      "compression_ratio": 1.7025862068965518,
+      "temperature": 0.0
+    },
+    {
+      "start": 70.86,
+      "duration": 6.400000000000006,
+      "text": "We pray that your Holy Spirit would be at work through your word to speak to us,",
+      "avg_logprob": -0.11318205935614449,
+      "no_speech_prob": 7.610015590776842e-13,
+      "compression_ratio": 1.7025862068965518,
+      "temperature": 0.0
+    },
+    {
+      "start": 78.32,
+      "duration": 6.220000000000013,
+      "text": "to meet us where we feel challenged, and then to help us to know what to do next.",
+      "avg_logprob": -0.11318205935614449,
+      "no_speech_prob": 7.610015590776842e-13,
+      "compression_ratio": 1.7025862068965518,
+      "temperature": 0.0
+    },
+    {
+      "start": 85.78,
+      "duration": 1.5799999999999983,
+      "text": "So thank you, Lord, for your word.",
+      "avg_logprob": -0.11318205935614449,
+      "no_speech_prob": 7.610015590776842e-13,
+      "compression_ratio": 1.7025862068965518,
+      "temperature": 0.0
+    },
+    {
+      "start": 87.54,
+      "duration": 1.5999999999999943,
+      "text": "We pray this in Jesus' name. Amen.",
+      "avg_logprob": -0.15516671978059363,
+      "no_speech_prob": 1.0731743185082854e-12,
+      "compression_ratio": 1.6423076923076922,
+      "temperature": 0.0
+    },
+    {
+      "start": 90.86,
+      "duration": 3.200000000000003,
+      "text": "Well, let's just kind of get big picture here.",
+      "avg_logprob": -0.15516671978059363,
+      "no_speech_prob": 1.0731743185082854e-12,
+      "compression_ratio": 1.6423076923076922,
+      "temperature": 0.0
+    },
+    {
+      "start": 94.16,
+      "duration": 1.8400000000000034,
+      "text": "The problem. What's going on in chapter 5?",
+      "avg_logprob": -0.15516671978059363,
+      "no_speech_prob": 1.0731743185082854e-12,
+      "compression_ratio": 1.6423076923076922,
+      "temperature": 0.0
+    },
+    {
+      "start": 96.76,
+      "duration": 0.8199999999999932,
+      "text": "What's the problem?",
+      "avg_logprob": -0.15516671978059363,
+      "no_speech_prob": 1.0731743185082854e-12,
+      "compression_ratio": 1.6423076923076922,
+      "temperature": 0.0
+    },
+    {
+      "start": 98.38,
+      "duration": 0.9000000000000057,
+      "text": "Think about this for a second.",
+      "avg_logprob": -0.15516671978059363,
+      "no_speech_prob": 1.0731743185082854e-12,
+      "compression_ratio": 1.6423076923076922,
+      "temperature": 0.0
+    },
+    {
+      "start": 100.3,
+      "duration": 2.760000000000005,
+      "text": "Back in chapter 4, there was opposition.",
+      "avg_logprob": -0.15516671978059363,
+      "no_speech_prob": 1.0731743185082854e-12,
+      "compression_ratio": 1.6423076923076922,
+      "temperature": 0.0
+    },
+    {
+      "start": 103.22,
+      "duration": 1.019999999999996,
+      "text": "We saw this last week.",
+      "avg_logprob": -0.15516671978059363,
+      "no_speech_prob": 1.0731743185082854e-12,
+      "compression_ratio": 1.6423076923076922,
+      "temperature": 0.0
+    },
+    {
+      "start": 104.32,
+      "duration": 3.1400000000000006,
+      "text": "There was opposition that was coming against Nehemiah and his people.",
+      "avg_logprob": -0.15516671978059363,
+      "no_speech_prob": 1.0731743185082854e-12,
+      "compression_ratio": 1.6423076923076922,
+      "temperature": 0.0
+    },
+    {
+      "start": 107.48,
+      "duration": 3.8999999999999915,
+      "text": "It was primarily outside of Jerusalem.",
+      "avg_logprob": -0.15516671978059363,
+      "no_speech_prob": 1.0731743185082854e-12,
+      "compression_ratio": 1.6423076923076922,
+      "temperature": 0.0
+    },
+    {
+      "start": 112.22,
+      "duration": 2.1599999999999966,
+      "text": "Sanballat and Tobiah and these other nations,",
+      "avg_logprob": -0.15516671978059363,
+      "no_speech_prob": 1.0731743185082854e-12,
+      "compression_ratio": 1.6423076923076922,
+      "temperature": 0.0
+    },
+    {
+      "start": 114.38,
+      "duration": 1.2199999999999989,
+      "text": "they allied themselves together.",
+      "avg_logprob": -0.15516671978059363,
+      "no_speech_prob": 1.0731743185082854e-12,
+      "compression_ratio": 1.6423076923076922,
+      "temperature": 0.0
+    },
+    {
+      "start": 117.82,
+      "duration": 4.400000000000006,
+      "text": "against Nehemiah and this building of the wall project.",
+      "avg_logprob": -0.18466284967237903,
+      "no_speech_prob": 6.186950366089683e-13,
+      "compression_ratio": 1.678391959798995,
+      "temperature": 0.0
+    },
+    {
+      "start": 122.66,
+      "duration": 1.5400000000000063,
+      "text": "But now in chapter five,",
+      "avg_logprob": -0.18466284967237903,
+      "no_speech_prob": 6.186950366089683e-13,
+      "compression_ratio": 1.678391959798995,
+      "temperature": 0.0
+    },
+    {
+      "start": 124.38,
+      "duration": 2.740000000000009,
+      "text": "the threat is not coming from outside of the community.",
+      "avg_logprob": -0.18466284967237903,
+      "no_speech_prob": 6.186950366089683e-13,
+      "compression_ratio": 1.678391959798995,
+      "temperature": 0.0
+    },
+    {
+      "start": 127.4,
+      "duration": 2.519999999999982,
+      "text": "The threat's now coming from inside.",
+      "avg_logprob": -0.18466284967237903,
+      "no_speech_prob": 6.186950366089683e-13,
+      "compression_ratio": 1.678391959798995,
+      "temperature": 0.0
+    },
+    {
+      "start": 130.64,
+      "duration": 1.6800000000000068,
+      "text": "It's coming from inside the community.",
+      "avg_logprob": -0.18466284967237903,
+      "no_speech_prob": 6.186950366089683e-13,
+      "compression_ratio": 1.678391959798995,
+      "temperature": 0.0
+    },
+    {
+      "start": 133.1,
+      "duration": 2.8799999999999955,
+      "text": "God's own people are behaving in a way",
+      "avg_logprob": -0.18466284967237903,
+      "no_speech_prob": 6.186950366089683e-13,
+      "compression_ratio": 1.678391959798995,
+      "temperature": 0.0
+    },
+    {
+      "start": 135.98,
+      "duration": 5.100000000000023,
+      "text": "that's hindering and even in some ways undoing",
+      "avg_logprob": -0.18466284967237903,
+      "no_speech_prob": 6.186950366089683e-13,
+      "compression_ratio": 1.678391959798995,
+      "temperature": 0.0
+    },
+    {
+      "start": 141.08,
+      "duration": 3.559999999999974,
+      "text": "the work that they're trying to do.",
+      "avg_logprob": -0.18466284967237903,
+      "no_speech_prob": 6.186950366089683e-13,
+      "compression_ratio": 1.678391959798995,
+      "temperature": 0.0
+    },
+    {
+      "start": 144.64,
+      "duration": 6.160000000000025,
+      "text": "So the city had these wealthy nobles and officials is what it says, right?",
+      "avg_logprob": -0.13554568230351316,
+      "no_speech_prob": 7.82003476730575e-13,
+      "compression_ratio": 1.5270935960591132,
+      "temperature": 0.0
+    },
+    {
+      "start": 151.08,
+      "duration": 0.8999999999999773,
+      "text": "Where did these guys come from?",
+      "avg_logprob": -0.13554568230351316,
+      "no_speech_prob": 7.82003476730575e-13,
+      "compression_ratio": 1.5270935960591132,
+      "temperature": 0.0
+    },
+    {
+      "start": 152.1,
+      "duration": 9.900000000000006,
+      "text": "Well, about 13 years prior to this was another wave of exiles that came back from exile in the Persian capital.",
+      "avg_logprob": -0.13554568230351316,
+      "no_speech_prob": 7.82003476730575e-13,
+      "compression_ratio": 1.5270935960591132,
+      "temperature": 0.0
+    },
+    {
+      "start": 162.28,
+      "duration": 7.659999999999997,
+      "text": "And we actually read about this in Ezra chapter 7, where we see that these exiles came back",
+      "avg_logprob": -0.13554568230351316,
+      "no_speech_prob": 7.82003476730575e-13,
+      "compression_ratio": 1.5270935960591132,
+      "temperature": 0.0
+    },
+    {
+      "start": 169.94,
+      "duration": 3.9399999999999977,
+      "text": "and with them, they brought huge amounts of silver and gold",
+      "avg_logprob": -0.12368970212683214,
+      "no_speech_prob": 8.723837082412478e-13,
+      "compression_ratio": 1.8114035087719298,
+      "temperature": 0.0
+    },
+    {
+      "start": 173.88,
+      "duration": 2.219999999999999,
+      "text": "that were given to them by the king of Persia",
+      "avg_logprob": -0.12368970212683214,
+      "no_speech_prob": 8.723837082412478e-13,
+      "compression_ratio": 1.8114035087719298,
+      "temperature": 0.0
+    },
+    {
+      "start": 176.1,
+      "duration": 4.0800000000000125,
+      "text": "and his officials to rebuild the temple",
+      "avg_logprob": -0.12368970212683214,
+      "no_speech_prob": 8.723837082412478e-13,
+      "compression_ratio": 1.8114035087719298,
+      "temperature": 0.0
+    },
+    {
+      "start": 180.18,
+      "duration": 1.3400000000000034,
+      "text": "and rebuild the city.",
+      "avg_logprob": -0.12368970212683214,
+      "no_speech_prob": 8.723837082412478e-13,
+      "compression_ratio": 1.8114035087719298,
+      "temperature": 0.0
+    },
+    {
+      "start": 181.68,
+      "duration": 1.799999999999983,
+      "text": "So they had all this money.",
+      "avg_logprob": -0.12368970212683214,
+      "no_speech_prob": 8.723837082412478e-13,
+      "compression_ratio": 1.8114035087719298,
+      "temperature": 0.0
+    },
+    {
+      "start": 184.29999999999998,
+      "duration": 3.1000000000000227,
+      "text": "So in this community, you have these people",
+      "avg_logprob": -0.12368970212683214,
+      "no_speech_prob": 8.723837082412478e-13,
+      "compression_ratio": 1.8114035087719298,
+      "temperature": 0.0
+    },
+    {
+      "start": 187.4,
+      "duration": 1.2800000000000011,
+      "text": "that have all of this money",
+      "avg_logprob": -0.12368970212683214,
+      "no_speech_prob": 8.723837082412478e-13,
+      "compression_ratio": 1.8114035087719298,
+      "temperature": 0.0
+    },
+    {
+      "start": 188.68,
+      "duration": 4.139999999999986,
+      "text": "and are able to use the money to help the community.",
+      "avg_logprob": -0.12368970212683214,
+      "no_speech_prob": 8.723837082412478e-13,
+      "compression_ratio": 1.8114035087719298,
+      "temperature": 0.0
+    },
+    {
+      "start": 193.44,
+      "duration": 1.759999999999991,
+      "text": "The others that are in the city",
+      "avg_logprob": -0.12368970212683214,
+      "no_speech_prob": 8.723837082412478e-13,
+      "compression_ratio": 1.8114035087719298,
+      "temperature": 0.0
+    },
+    {
+      "start": 195.2,
+      "duration": 1.6400000000000148,
+      "text": "are people who were there before",
+      "avg_logprob": -0.12368970212683214,
+      "no_speech_prob": 8.723837082412478e-13,
+      "compression_ratio": 1.8114035087719298,
+      "temperature": 0.0
+    },
+    {
+      "start": 196.84,
+      "duration": 2.0200000000000102,
+      "text": "or have come back as exiles",
+      "avg_logprob": -0.12368970212683214,
+      "no_speech_prob": 8.723837082412478e-13,
+      "compression_ratio": 1.8114035087719298,
+      "temperature": 0.0
+    },
+    {
+      "start": 199.94,
+      "duration": 0.9200000000000159,
+      "text": "You're common people.",
+      "avg_logprob": -0.18346770604451498,
+      "no_speech_prob": 1.0401254510461477e-12,
+      "compression_ratio": 1.6378600823045268,
+      "temperature": 0.0
+    },
+    {
+      "start": 201.0,
+      "duration": 2.319999999999993,
+      "text": "They're most likely farmers, right?",
+      "avg_logprob": -0.18346770604451498,
+      "no_speech_prob": 1.0401254510461477e-12,
+      "compression_ratio": 1.6378600823045268,
+      "temperature": 0.0
+    },
+    {
+      "start": 203.4,
+      "duration": 1.1200000000000045,
+      "text": "They're just trying to make ends meet.",
+      "avg_logprob": -0.18346770604451498,
+      "no_speech_prob": 1.0401254510461477e-12,
+      "compression_ratio": 1.6378600823045268,
+      "temperature": 0.0
+    },
+    {
+      "start": 205.96,
+      "duration": 1.579999999999984,
+      "text": "I think one of the things that we see,",
+      "avg_logprob": -0.18346770604451498,
+      "no_speech_prob": 1.0401254510461477e-12,
+      "compression_ratio": 1.6378600823045268,
+      "temperature": 0.0
+    },
+    {
+      "start": 207.66,
+      "duration": 3.0,
+      "text": "especially as you guys read the Leviticus passage",
+      "avg_logprob": -0.18346770604451498,
+      "no_speech_prob": 1.0401254510461477e-12,
+      "compression_ratio": 1.6378600823045268,
+      "temperature": 0.0
+    },
+    {
+      "start": 210.66,
+      "duration": 1.6400000000000148,
+      "text": "that you guys read in your homework,",
+      "avg_logprob": -0.18346770604451498,
+      "no_speech_prob": 1.0401254510461477e-12,
+      "compression_ratio": 1.6378600823045268,
+      "temperature": 0.0
+    },
+    {
+      "start": 212.52,
+      "duration": 4.619999999999976,
+      "text": "that God really cares about this dynamic",
+      "avg_logprob": -0.18346770604451498,
+      "no_speech_prob": 1.0401254510461477e-12,
+      "compression_ratio": 1.6378600823045268,
+      "temperature": 0.0
+    },
+    {
+      "start": 217.14,
+      "duration": 3.8400000000000034,
+      "text": "within his community between the rich and the poor.",
+      "avg_logprob": -0.18346770604451498,
+      "no_speech_prob": 1.0401254510461477e-12,
+      "compression_ratio": 1.6378600823045268,
+      "temperature": 0.0
+    },
+    {
+      "start": 221.6,
+      "duration": 3.280000000000001,
+      "text": "He cares about that relationship within God's family.",
+      "avg_logprob": -0.18346770604451498,
+      "no_speech_prob": 1.0401254510461477e-12,
+      "compression_ratio": 1.6378600823045268,
+      "temperature": 0.0
+    },
+    {
+      "start": 225.84,
+      "duration": 1.740000000000009,
+      "text": "So you read in Leviticus 25,",
+      "avg_logprob": -0.18346770604451498,
+      "no_speech_prob": 1.0401254510461477e-12,
+      "compression_ratio": 1.6378600823045268,
+      "temperature": 0.0
+    },
+    {
+      "start": 227.58,
+      "duration": 6.4199999999999875,
+      "text": "this whole thing of not charging interest to other Jews who were poor. And you saw in the",
+      "avg_logprob": -0.06295541437660776,
+      "no_speech_prob": 8.389645315270977e-13,
+      "compression_ratio": 1.6404494382022472,
+      "temperature": 0.0
+    },
+    {
+      "start": 234.0,
+      "duration": 4.1200000000000045,
+      "text": "middle of that passage, at the core of this issue, he says, you should do this because",
+      "avg_logprob": -0.06295541437660776,
+      "no_speech_prob": 8.389645315270977e-13,
+      "compression_ratio": 1.6404494382022472,
+      "temperature": 0.0
+    },
+    {
+      "start": 238.12,
+      "duration": 4.9199999999999875,
+      "text": "you should fear the Lord, right? Like there's a fear of the Lord that's at the heart of this.",
+      "avg_logprob": -0.06295541437660776,
+      "no_speech_prob": 8.389645315270977e-13,
+      "compression_ratio": 1.6404494382022472,
+      "temperature": 0.0
+    },
+    {
+      "start": 244.9,
+      "duration": 4.439999999999998,
+      "text": "This isn't the only time we see this law, actually. This happens in, it's in Exodus 25,",
+      "avg_logprob": -0.06295541437660776,
+      "no_speech_prob": 8.389645315270977e-13,
+      "compression_ratio": 1.6404494382022472,
+      "temperature": 0.0
+    },
+    {
+      "start": 249.78,
+      "duration": 6.52000000000001,
+      "text": "Deuteronomy 23. It's even in Psalm 15. And it's actually in Ezekiel 22 as well,",
+      "avg_logprob": -0.06295541437660776,
+      "no_speech_prob": 8.389645315270977e-13,
+      "compression_ratio": 1.6404494382022472,
+      "temperature": 0.0
+    },
+    {
+      "start": 257.58,
+      "duration": 6.100000000000023,
+      "text": "Ezekiel, this is someone who was prophesying during the time of the exile. Okay. So this is",
+      "avg_logprob": -0.10536364013073492,
+      "no_speech_prob": 7.433498261377736e-13,
+      "compression_ratio": 1.5859030837004404,
+      "temperature": 0.0
+    },
+    {
+      "start": 263.68,
+      "duration": 8.54000000000002,
+      "text": "very close to when Nehemiah is around. So in Ezekiel 22 verse 12, he says this, he says,",
+      "avg_logprob": -0.10536364013073492,
+      "no_speech_prob": 7.433498261377736e-13,
+      "compression_ratio": 1.5859030837004404,
+      "temperature": 0.0
+    },
+    {
+      "start": 272.91999999999996,
+      "duration": 8.220000000000027,
+      "text": "in you, so in your community, they says they take bribes to shed blood. You take interest,",
+      "avg_logprob": -0.10536364013073492,
+      "no_speech_prob": 7.433498261377736e-13,
+      "compression_ratio": 1.5859030837004404,
+      "temperature": 0.0
+    },
+    {
+      "start": 281.6,
+      "duration": 5.479999999999961,
+      "text": "right? There's the interest and you profit and make gain of your neighbors by extortion.",
+      "avg_logprob": -0.10536364013073492,
+      "no_speech_prob": 7.433498261377736e-13,
+      "compression_ratio": 1.5859030837004404,
+      "temperature": 0.0
+    },
+    {
+      "start": 288.58,
+      "duration": 5.259999999999991,
+      "text": "He says, but me, God says, me, you have forgotten, declares the Lord God.",
+      "avg_logprob": -0.10643787682056427,
+      "no_speech_prob": 8.96675908437089e-13,
+      "compression_ratio": 1.6947791164658634,
+      "temperature": 0.0
+    },
+    {
+      "start": 296.38,
+      "duration": 4.699999999999989,
+      "text": "So this is the backdrop of what we're coming into, right?",
+      "avg_logprob": -0.10643787682056427,
+      "no_speech_prob": 8.96675908437089e-13,
+      "compression_ratio": 1.6947791164658634,
+      "temperature": 0.0
+    },
+    {
+      "start": 301.3,
+      "duration": 1.7199999999999704,
+      "text": "So now we get to Nehemiah's time.",
+      "avg_logprob": -0.10643787682056427,
+      "no_speech_prob": 8.96675908437089e-13,
+      "compression_ratio": 1.6947791164658634,
+      "temperature": 0.0
+    },
+    {
+      "start": 303.7,
+      "duration": 1.9399999999999977,
+      "text": "It says there's a famine that's going on.",
+      "avg_logprob": -0.10643787682056427,
+      "no_speech_prob": 8.96675908437089e-13,
+      "compression_ratio": 1.6947791164658634,
+      "temperature": 0.0
+    },
+    {
+      "start": 305.7,
+      "duration": 1.900000000000034,
+      "text": "We don't know why there's a famine, but there's a famine.",
+      "avg_logprob": -0.10643787682056427,
+      "no_speech_prob": 8.96675908437089e-13,
+      "compression_ratio": 1.6947791164658634,
+      "temperature": 0.0
+    },
+    {
+      "start": 307.96,
+      "duration": 2.5,
+      "text": "I appreciated Elton, your thoughts on that.",
+      "avg_logprob": -0.10643787682056427,
+      "no_speech_prob": 8.96675908437089e-13,
+      "compression_ratio": 1.6947791164658634,
+      "temperature": 0.0
+    },
+    {
+      "start": 310.58,
+      "duration": 1.8799999999999955,
+      "text": "Like it could have been from all kinds of different things.",
+      "avg_logprob": -0.10643787682056427,
+      "no_speech_prob": 8.96675908437089e-13,
+      "compression_ratio": 1.6947791164658634,
+      "temperature": 0.0
+    },
+    {
+      "start": 313.96,
+      "duration": 2.5200000000000387,
+      "text": "But if there's a famine, that means there's no food.",
+      "avg_logprob": -0.10643787682056427,
+      "no_speech_prob": 8.96675908437089e-13,
+      "compression_ratio": 1.6947791164658634,
+      "temperature": 0.0
+    },
+    {
+      "start": 316.96,
+      "duration": 1.0,
+      "text": "if they're farmers,",
+      "avg_logprob": -0.19009212370841733,
+      "no_speech_prob": 1.0483139963740618e-12,
+      "compression_ratio": 1.7580071174377223,
+      "temperature": 0.0
+    },
+    {
+      "start": 318.56,
+      "duration": 1.660000000000025,
+      "text": "and I mean, if you guys have been around,",
+      "avg_logprob": -0.19009212370841733,
+      "no_speech_prob": 1.0483139963740618e-12,
+      "compression_ratio": 1.7580071174377223,
+      "temperature": 0.0
+    },
+    {
+      "start": 320.58,
+      "duration": 1.4600000000000364,
+      "text": "you know, we're in farm country here,",
+      "avg_logprob": -0.19009212370841733,
+      "no_speech_prob": 1.0483139963740618e-12,
+      "compression_ratio": 1.7580071174377223,
+      "temperature": 0.0
+    },
+    {
+      "start": 322.74,
+      "duration": 2.659999999999968,
+      "text": "if there's no food, there's no money, right?",
+      "avg_logprob": -0.19009212370841733,
+      "no_speech_prob": 1.0483139963740618e-12,
+      "compression_ratio": 1.7580071174377223,
+      "temperature": 0.0
+    },
+    {
+      "start": 326.38,
+      "duration": 2.0600000000000023,
+      "text": "And so the cycle of poverty begins.",
+      "avg_logprob": -0.19009212370841733,
+      "no_speech_prob": 1.0483139963740618e-12,
+      "compression_ratio": 1.7580071174377223,
+      "temperature": 0.0
+    },
+    {
+      "start": 328.64,
+      "duration": 0.7800000000000296,
+      "text": "They need food.",
+      "avg_logprob": -0.19009212370841733,
+      "no_speech_prob": 1.0483139963740618e-12,
+      "compression_ratio": 1.7580071174377223,
+      "temperature": 0.0
+    },
+    {
+      "start": 330.58,
+      "duration": 0.8600000000000136,
+      "text": "So what do they do?",
+      "avg_logprob": -0.19009212370841733,
+      "no_speech_prob": 1.0483139963740618e-12,
+      "compression_ratio": 1.7580071174377223,
+      "temperature": 0.0
+    },
+    {
+      "start": 331.56,
+      "duration": 1.7799999999999727,
+      "text": "Then they mortgage their land",
+      "avg_logprob": -0.19009212370841733,
+      "no_speech_prob": 1.0483139963740618e-12,
+      "compression_ratio": 1.7580071174377223,
+      "temperature": 0.0
+    },
+    {
+      "start": 334.73999999999995,
+      "duration": 2.000000000000057,
+      "text": "to get money so they can buy food.",
+      "avg_logprob": -0.19009212370841733,
+      "no_speech_prob": 1.0483139963740618e-12,
+      "compression_ratio": 1.7580071174377223,
+      "temperature": 0.0
+    },
+    {
+      "start": 336.9,
+      "duration": 1.8000000000000114,
+      "text": "Well, who are they gonna sell it to?",
+      "avg_logprob": -0.19009212370841733,
+      "no_speech_prob": 1.0483139963740618e-12,
+      "compression_ratio": 1.7580071174377223,
+      "temperature": 0.0
+    },
+    {
+      "start": 338.76,
+      "duration": 1.0600000000000023,
+      "text": "It's the nobles and officials.",
+      "avg_logprob": -0.19009212370841733,
+      "no_speech_prob": 1.0483139963740618e-12,
+      "compression_ratio": 1.7580071174377223,
+      "temperature": 0.0
+    },
+    {
+      "start": 340.08,
+      "duration": 0.8600000000000136,
+      "text": "They're the ones with the money.",
+      "avg_logprob": -0.19009212370841733,
+      "no_speech_prob": 1.0483139963740618e-12,
+      "compression_ratio": 1.7580071174377223,
+      "temperature": 0.0
+    },
+    {
+      "start": 341.62,
+      "duration": 1.0,
+      "text": "And they're probably thinking,",
+      "avg_logprob": -0.19009212370841733,
+      "no_speech_prob": 1.0483139963740618e-12,
+      "compression_ratio": 1.7580071174377223,
+      "temperature": 0.0
+    },
+    {
+      "start": 342.78,
+      "duration": 1.160000000000025,
+      "text": "oh yeah, we're gonna help them out.",
+      "avg_logprob": -0.19009212370841733,
+      "no_speech_prob": 1.0483139963740618e-12,
+      "compression_ratio": 1.7580071174377223,
+      "temperature": 0.0
+    },
+    {
+      "start": 344.46,
+      "duration": 1.4600000000000364,
+      "text": "Absolutely, we're gonna help these guys out.",
+      "avg_logprob": -0.19009212370841733,
+      "no_speech_prob": 1.0483139963740618e-12,
+      "compression_ratio": 1.7580071174377223,
+      "temperature": 0.0
+    },
+    {
+      "start": 346.48,
+      "duration": 3.7199999999999704,
+      "text": "give them the money that they need. But what do they do? They charge interest on the loan.",
+      "avg_logprob": -0.09298772979200932,
+      "no_speech_prob": 1.1423784010769489e-12,
+      "compression_ratio": 1.7950819672131149,
+      "temperature": 0.0
+    },
+    {
+      "start": 350.84,
+      "duration": 3.8600000000000136,
+      "text": "Well, the interest on the loan becomes more than they can pay back. So they can't pay it back,",
+      "avg_logprob": -0.09298772979200932,
+      "no_speech_prob": 1.1423784010769489e-12,
+      "compression_ratio": 1.7950819672131149,
+      "temperature": 0.0
+    },
+    {
+      "start": 354.84,
+      "duration": 5.640000000000043,
+      "text": "which means that they lose their land. And then after that, they still need to eat. They have to",
+      "avg_logprob": -0.09298772979200932,
+      "no_speech_prob": 1.1423784010769489e-12,
+      "compression_ratio": 1.7950819672131149,
+      "temperature": 0.0
+    },
+    {
+      "start": 360.48,
+      "duration": 3.839999999999975,
+      "text": "figure out what to do. They think the best thing to do then is to sell their children",
+      "avg_logprob": -0.09298772979200932,
+      "no_speech_prob": 1.1423784010769489e-12,
+      "compression_ratio": 1.7950819672131149,
+      "temperature": 0.0
+    },
+    {
+      "start": 365.14,
+      "duration": 6.100000000000023,
+      "text": "off into slavery. That's what's going on. This is an awful situation.",
+      "avg_logprob": -0.09298772979200932,
+      "no_speech_prob": 1.1423784010769489e-12,
+      "compression_ratio": 1.7950819672131149,
+      "temperature": 0.0
+    },
+    {
+      "start": 372.62,
+      "duration": 5.639999999999986,
+      "text": "but even even more than that you guys this is undoing the work that nehemiah is trying to do",
+      "avg_logprob": -0.06171964108943939,
+      "no_speech_prob": 7.462836772165193e-13,
+      "compression_ratio": 1.8872549019607843,
+      "temperature": 0.0
+    },
+    {
+      "start": 379.2,
+      "duration": 6.020000000000039,
+      "text": "think about what he's trying to do he's trying to gather the people back together again to bring",
+      "avg_logprob": -0.06171964108943939,
+      "no_speech_prob": 7.462836772165193e-13,
+      "compression_ratio": 1.8872549019607843,
+      "temperature": 0.0
+    },
+    {
+      "start": 385.22,
+      "duration": 8.079999999999984,
+      "text": "god's people back to the land okay look at back in uh nehemiah 5 look at verse uh verse 7 verse 7",
+      "avg_logprob": -0.06171964108943939,
+      "no_speech_prob": 7.462836772165193e-13,
+      "compression_ratio": 1.8872549019607843,
+      "temperature": 0.0
+    },
+    {
+      "start": 393.3,
+      "duration": 5.979999999999961,
+      "text": "um i took counsel with myself i brought charges against the nobles and officials and said to them",
+      "avg_logprob": -0.06171964108943939,
+      "no_speech_prob": 7.462836772165193e-13,
+      "compression_ratio": 1.8872549019607843,
+      "temperature": 0.0
+    },
+    {
+      "start": 401.98,
+      "duration": 5.7999999999999545,
+      "text": "interest each from his brother. And I held a great assembly against them. And I said to them,",
+      "avg_logprob": -0.1226938895459445,
+      "no_speech_prob": 1.4161560379227778e-12,
+      "compression_ratio": 1.641025641025641,
+      "temperature": 0.0
+    },
+    {
+      "start": 409.06,
+      "duration": 5.639999999999986,
+      "text": "we, as far as we are able, have brought back our Jewish brothers who have been sold to the nations.",
+      "avg_logprob": -0.1226938895459445,
+      "no_speech_prob": 1.4161560379227778e-12,
+      "compression_ratio": 1.641025641025641,
+      "temperature": 0.0
+    },
+    {
+      "start": 415.08,
+      "duration": 5.340000000000032,
+      "text": "Okay. So, so this is the goal, right? He's trying to, he's trying to buy these people back to get",
+      "avg_logprob": -0.1226938895459445,
+      "no_speech_prob": 1.4161560379227778e-12,
+      "compression_ratio": 1.641025641025641,
+      "temperature": 0.0
+    },
+    {
+      "start": 420.42,
+      "duration": 4.5,
+      "text": "them back. He's like, we're doing this. We're paying for them to come back. But what does he",
+      "avg_logprob": -0.1226938895459445,
+      "no_speech_prob": 1.4161560379227778e-12,
+      "compression_ratio": 1.641025641025641,
+      "temperature": 0.0
+    },
+    {
+      "start": 424.92,
+      "duration": 8.379999999999995,
+      "text": "say, but you even sell your brothers that they may be sold to us. It's like you're, you're undoing",
+      "avg_logprob": -0.07283893384431538,
+      "no_speech_prob": 7.550580169782273e-13,
+      "compression_ratio": 1.5052631578947369,
+      "temperature": 0.0
+    },
+    {
+      "start": 433.3,
+      "duration": 10.899999999999977,
+      "text": "the work and you're making it harder for us. Right? And so, uh, so this is what we're seeing",
+      "avg_logprob": -0.07283893384431538,
+      "no_speech_prob": 7.550580169782273e-13,
+      "compression_ratio": 1.5052631578947369,
+      "temperature": 0.0
+    },
+    {
+      "start": 444.2,
+      "duration": 7.180000000000007,
+      "text": "in this picture. So the most devastating attacks on the church oftentimes are not enemies from",
+      "avg_logprob": -0.07283893384431538,
+      "no_speech_prob": 7.550580169782273e-13,
+      "compression_ratio": 1.5052631578947369,
+      "temperature": 0.0
+    },
+    {
+      "start": 451.38,
+      "duration": 6.399999999999977,
+      "text": "outside, but they're from within. They're from within. I mean, think about this, you know,",
+      "avg_logprob": -0.13775992578314256,
+      "no_speech_prob": 1.3460051215968827e-12,
+      "compression_ratio": 1.8024193548387097,
+      "temperature": 0.0
+    },
+    {
+      "start": 458.16,
+      "duration": 6.519999999999982,
+      "text": "attacks from the outside, you know, there's things that go on. Sure. There's people, you know,",
+      "avg_logprob": -0.13775992578314256,
+      "no_speech_prob": 1.3460051215968827e-12,
+      "compression_ratio": 1.8024193548387097,
+      "temperature": 0.0
+    },
+    {
+      "start": 465.2,
+      "duration": 3.259999999999991,
+      "text": "20 years ago, you had the new atheist rise up, right? And they're just kind of like,",
+      "avg_logprob": -0.13775992578314256,
+      "no_speech_prob": 1.3460051215968827e-12,
+      "compression_ratio": 1.8024193548387097,
+      "temperature": 0.0
+    },
+    {
+      "start": 468.52,
+      "duration": 4.660000000000025,
+      "text": "oh, you Christians are so stupid and things like that. But like, it didn't, it didn't really,",
+      "avg_logprob": -0.13775992578314256,
+      "no_speech_prob": 1.3460051215968827e-12,
+      "compression_ratio": 1.8024193548387097,
+      "temperature": 0.0
+    },
+    {
+      "start": 474.32000000000005,
+      "duration": 5.479999999999961,
+      "text": "it didn't faze a lot of people. Okay. But what does faze people? It's when you see",
+      "avg_logprob": -0.13775992578314256,
+      "no_speech_prob": 1.3460051215968827e-12,
+      "compression_ratio": 1.8024193548387097,
+      "temperature": 0.0
+    },
+    {
+      "start": 481.38,
+      "duration": 7.660000000000025,
+      "text": "rise up within the church, right? Hypocrisy rise up in the church. Think about heresies that have",
+      "avg_logprob": -0.12469349102098115,
+      "no_speech_prob": 8.456242975816985e-13,
+      "compression_ratio": 1.6968325791855203,
+      "temperature": 0.0
+    },
+    {
+      "start": 489.04,
+      "duration": 4.399999999999977,
+      "text": "happened in church history. Every heresy in church history has come from someone else,",
+      "avg_logprob": -0.12469349102098115,
+      "no_speech_prob": 8.456242975816985e-13,
+      "compression_ratio": 1.6968325791855203,
+      "temperature": 0.0
+    },
+    {
+      "start": 494.24,
+      "duration": 7.4599999999999795,
+      "text": "usually within the church, who's reading the same book, right? Or did you guys know about this?",
+      "avg_logprob": -0.12469349102098115,
+      "no_speech_prob": 8.456242975816985e-13,
+      "compression_ratio": 1.6968325791855203,
+      "temperature": 0.0
+    },
+    {
+      "start": 502.3,
+      "duration": 7.479999999999961,
+      "text": "In the 1600s, there was a war. There was a war, massive war called the 30 years war in Europe,",
+      "avg_logprob": -0.12469349102098115,
+      "no_speech_prob": 8.456242975816985e-13,
+      "compression_ratio": 1.6968325791855203,
+      "temperature": 0.0
+    },
+    {
+      "start": 511.38,
+      "duration": 10.139999999999986,
+      "text": "A militant, two militant groups, a militant group of the Catholics and a militant group of the Protestants that were fighting against each other over basically was the Pope going to reign?",
+      "avg_logprob": -0.20639859713040865,
+      "no_speech_prob": 7.63981000857783e-13,
+      "compression_ratio": 1.6418604651162791,
+      "temperature": 0.0
+    },
+    {
+      "start": 522.66,
+      "duration": 3.9400000000000546,
+      "text": "Who was going to have religious right to all of these nations?",
+      "avg_logprob": -0.20639859713040865,
+      "no_speech_prob": 7.63981000857783e-13,
+      "compression_ratio": 1.6418604651162791,
+      "temperature": 0.0
+    },
+    {
+      "start": 527.18,
+      "duration": 4.180000000000064,
+      "text": "30 years of war, 8 million dead.",
+      "avg_logprob": -0.20639859713040865,
+      "no_speech_prob": 7.63981000857783e-13,
+      "compression_ratio": 1.6418604651162791,
+      "temperature": 0.0
+    },
+    {
+      "start": 532.64,
+      "duration": 0.6000000000000227,
+      "text": "Okay.",
+      "avg_logprob": -0.20639859713040865,
+      "no_speech_prob": 7.63981000857783e-13,
+      "compression_ratio": 1.6418604651162791,
+      "temperature": 0.0
+    },
+    {
+      "start": 535.0,
+      "duration": 1.1000000000000227,
+      "text": "You see the point.",
+      "avg_logprob": -0.20639859713040865,
+      "no_speech_prob": 7.63981000857783e-13,
+      "compression_ratio": 1.6418604651162791,
+      "temperature": 0.0
+    },
+    {
+      "start": 536.96,
+      "duration": 4.219999999999914,
+      "text": "The enemy within is the far greater threat.",
+      "avg_logprob": -0.20639859713040865,
+      "no_speech_prob": 7.63981000857783e-13,
+      "compression_ratio": 1.6418604651162791,
+      "temperature": 0.0
+    },
+    {
+      "start": 542.98,
+      "duration": 4.579999999999927,
+      "text": "there was an old Sunday morning comic strip in the newspaper back in,",
+      "avg_logprob": -0.2171723751621392,
+      "no_speech_prob": 1.0689892981224913e-12,
+      "compression_ratio": 1.7222222222222223,
+      "temperature": 0.0
+    },
+    {
+      "start": 547.7,
+      "duration": 2.17999999999995,
+      "text": "I think it was like in the seventies of a comic strip called Pogo.",
+      "avg_logprob": -0.2171723751621392,
+      "no_speech_prob": 1.0689892981224913e-12,
+      "compression_ratio": 1.7222222222222223,
+      "temperature": 0.0
+    },
+    {
+      "start": 550.2,
+      "duration": 2.67999999999995,
+      "text": "And the most famous one of these,",
+      "avg_logprob": -0.2171723751621392,
+      "no_speech_prob": 1.0689892981224913e-12,
+      "compression_ratio": 1.7222222222222223,
+      "temperature": 0.0
+    },
+    {
+      "start": 552.98,
+      "duration": 0.6399999999999864,
+      "text": "if you guys remember,",
+      "avg_logprob": -0.2171723751621392,
+      "no_speech_prob": 1.0689892981224913e-12,
+      "compression_ratio": 1.7222222222222223,
+      "temperature": 0.0
+    },
+    {
+      "start": 553.74,
+      "duration": 4.139999999999986,
+      "text": "the most famous one where he's sitting there and he's looking at,",
+      "avg_logprob": -0.2171723751621392,
+      "no_speech_prob": 1.0689892981224913e-12,
+      "compression_ratio": 1.7222222222222223,
+      "temperature": 0.0
+    },
+    {
+      "start": 558.04,
+      "duration": 1.6000000000000227,
+      "text": "he's looking at this landscape and he says,",
+      "avg_logprob": -0.2171723751621392,
+      "no_speech_prob": 1.0689892981224913e-12,
+      "compression_ratio": 1.7222222222222223,
+      "temperature": 0.0
+    },
+    {
+      "start": 560.08,
+      "duration": 2.8199999999999363,
+      "text": "we have met the enemy and he is us.",
+      "avg_logprob": -0.2171723751621392,
+      "no_speech_prob": 1.0689892981224913e-12,
+      "compression_ratio": 1.7222222222222223,
+      "temperature": 0.0
+    },
+    {
+      "start": 563.74,
+      "duration": 0.39999999999997726,
+      "text": "Right.",
+      "avg_logprob": -0.2171723751621392,
+      "no_speech_prob": 1.0689892981224913e-12,
+      "compression_ratio": 1.7222222222222223,
+      "temperature": 0.0
+    },
+    {
+      "start": 564.38,
+      "duration": 1.3799999999999955,
+      "text": "I think that's what they're seeing here.",
+      "avg_logprob": -0.2171723751621392,
+      "no_speech_prob": 1.0689892981224913e-12,
+      "compression_ratio": 1.7222222222222223,
+      "temperature": 0.0
+    },
+    {
+      "start": 566.88,
+      "duration": 0.39999999999997726,
+      "text": "Now,",
+      "avg_logprob": -0.2171723751621392,
+      "no_speech_prob": 1.0689892981224913e-12,
+      "compression_ratio": 1.7222222222222223,
+      "temperature": 0.0
+    },
+    {
+      "start": 567.44,
+      "duration": 1.0199999999999818,
+      "text": "what is Nehemiah's response?",
+      "avg_logprob": -0.2171723751621392,
+      "no_speech_prob": 1.0689892981224913e-12,
+      "compression_ratio": 1.7222222222222223,
+      "temperature": 0.0
+    },
+    {
+      "start": 569.78,
+      "duration": 1.080000000000041,
+      "text": "In verse six,",
+      "avg_logprob": -0.2171723751621392,
+      "no_speech_prob": 1.0689892981224913e-12,
+      "compression_ratio": 1.7222222222222223,
+      "temperature": 0.0
+    },
+    {
+      "start": 571.52,
+      "duration": 3.5,
+      "text": "I think it's really interesting because this is first person, right?",
+      "avg_logprob": -0.14931084314982096,
+      "no_speech_prob": 1.011980430010162e-12,
+      "compression_ratio": 1.8504273504273505,
+      "temperature": 0.0
+    },
+    {
+      "start": 575.24,
+      "duration": 2.8999999999999773,
+      "text": "As he's writing it, Nehemiah is writing this with his own hand.",
+      "avg_logprob": -0.14931084314982096,
+      "no_speech_prob": 1.011980430010162e-12,
+      "compression_ratio": 1.8504273504273505,
+      "temperature": 0.0
+    },
+    {
+      "start": 578.26,
+      "duration": 3.4400000000000546,
+      "text": "And what he says is he was very angry.",
+      "avg_logprob": -0.14931084314982096,
+      "no_speech_prob": 1.011980430010162e-12,
+      "compression_ratio": 1.8504273504273505,
+      "temperature": 0.0
+    },
+    {
+      "start": 582.26,
+      "duration": 5.680000000000064,
+      "text": "And I think it's interesting that he says this because there's no other time in the whole story that he ever says this.",
+      "avg_logprob": -0.14931084314982096,
+      "no_speech_prob": 1.011980430010162e-12,
+      "compression_ratio": 1.8504273504273505,
+      "temperature": 0.0
+    },
+    {
+      "start": 588.1,
+      "duration": 3.8600000000000136,
+      "text": "He's not angry at Sanballat and Tobiah or the other nations.",
+      "avg_logprob": -0.14931084314982096,
+      "no_speech_prob": 1.011980430010162e-12,
+      "compression_ratio": 1.8504273504273505,
+      "temperature": 0.0
+    },
+    {
+      "start": 592.06,
+      "duration": 2.4600000000000364,
+      "text": "He's not angry when all this other stuff happens.",
+      "avg_logprob": -0.14931084314982096,
+      "no_speech_prob": 1.011980430010162e-12,
+      "compression_ratio": 1.8504273504273505,
+      "temperature": 0.0
+    },
+    {
+      "start": 594.66,
+      "duration": 3.4600000000000364,
+      "text": "No, he's angry at this moment.",
+      "avg_logprob": -0.14931084314982096,
+      "no_speech_prob": 1.011980430010162e-12,
+      "compression_ratio": 1.8504273504273505,
+      "temperature": 0.0
+    },
+    {
+      "start": 598.9000000000001,
+      "duration": 8.139999999999873,
+      "text": "He's angry that God's own people are not keeping God's law, and it's resulting in the undoing of their community.",
+      "avg_logprob": -0.14994019577183673,
+      "no_speech_prob": 7.23303307439277e-13,
+      "compression_ratio": 1.645933014354067,
+      "temperature": 0.0
+    },
+    {
+      "start": 608.2600000000001,
+      "duration": 4.03999999999985,
+      "text": "It made me start to think, like, it makes a lot of sense.",
+      "avg_logprob": -0.14994019577183673,
+      "no_speech_prob": 7.23303307439277e-13,
+      "compression_ratio": 1.645933014354067,
+      "temperature": 0.0
+    },
+    {
+      "start": 612.62,
+      "duration": 5.600000000000023,
+      "text": "Like, we don't have really a huge right to be angry at nonbelievers.",
+      "avg_logprob": -0.14994019577183673,
+      "no_speech_prob": 7.23303307439277e-13,
+      "compression_ratio": 1.645933014354067,
+      "temperature": 0.0
+    },
+    {
+      "start": 618.48,
+      "duration": 7.659999999999968,
+      "text": "Like, when you think about it, like, unbelievers, they're not going to believe that this is God's word.",
+      "avg_logprob": -0.14994019577183673,
+      "no_speech_prob": 7.23303307439277e-13,
+      "compression_ratio": 1.645933014354067,
+      "temperature": 0.0
+    },
+    {
+      "start": 628.12,
+      "duration": 8.200000000000045,
+      "text": "it, right? So we're kind of operating from a very different baseline, but it's a different thing",
+      "avg_logprob": -0.05486320124732123,
+      "no_speech_prob": 1.0401560255474118e-12,
+      "compression_ratio": 1.6483050847457628,
+      "temperature": 0.0
+    },
+    {
+      "start": 636.32,
+      "duration": 6.8799999999999955,
+      "text": "when it's the people of God, the people who are saying, yeah, yeah, I believe that, and then they",
+      "avg_logprob": -0.05486320124732123,
+      "no_speech_prob": 1.0401560255474118e-12,
+      "compression_ratio": 1.6483050847457628,
+      "temperature": 0.0
+    },
+    {
+      "start": 643.2,
+      "duration": 9.17999999999995,
+      "text": "don't do it. You know, it's a different thing, and it makes him angry. He's angry. I think Nehemiah",
+      "avg_logprob": -0.05486320124732123,
+      "no_speech_prob": 1.0401560255474118e-12,
+      "compression_ratio": 1.6483050847457628,
+      "temperature": 0.0
+    },
+    {
+      "start": 652.38,
+      "duration": 5.220000000000027,
+      "text": "is really reflecting the character of Jesus in a lot of ways here. I mean, think about some of",
+      "avg_logprob": -0.05486320124732123,
+      "no_speech_prob": 1.0401560255474118e-12,
+      "compression_ratio": 1.6483050847457628,
+      "temperature": 0.0
+    },
+    {
+      "start": 658.12,
+      "duration": 1.9600000000000364,
+      "text": "Jesus did, the times when Jesus got angry.",
+      "avg_logprob": -0.11842396042563698,
+      "no_speech_prob": 1.484128141562846e-12,
+      "compression_ratio": 1.7625899280575539,
+      "temperature": 0.0
+    },
+    {
+      "start": 660.24,
+      "duration": 3.9600000000000364,
+      "text": "And you think about the, we just preached on this not too long ago on a Sunday morning",
+      "avg_logprob": -0.11842396042563698,
+      "no_speech_prob": 1.484128141562846e-12,
+      "compression_ratio": 1.7625899280575539,
+      "temperature": 0.0
+    },
+    {
+      "start": 664.2,
+      "duration": 4.519999999999982,
+      "text": "when we were looking at the Gospel of John, when Jesus goes into the temple and he sees",
+      "avg_logprob": -0.11842396042563698,
+      "no_speech_prob": 1.484128141562846e-12,
+      "compression_ratio": 1.7625899280575539,
+      "temperature": 0.0
+    },
+    {
+      "start": 668.72,
+      "duration": 7.3799999999999955,
+      "text": "the money changers and he sees the selling of these animals and how they were just overpriced",
+      "avg_logprob": -0.11842396042563698,
+      "no_speech_prob": 1.484128141562846e-12,
+      "compression_ratio": 1.7625899280575539,
+      "temperature": 0.0
+    },
+    {
+      "start": 676.1,
+      "duration": 1.0799999999999272,
+      "text": "and all the stuff that was going on.",
+      "avg_logprob": -0.11842396042563698,
+      "no_speech_prob": 1.484128141562846e-12,
+      "compression_ratio": 1.7625899280575539,
+      "temperature": 0.0
+    },
+    {
+      "start": 677.26,
+      "duration": 0.36000000000001364,
+      "text": "And what does he do?",
+      "avg_logprob": -0.11842396042563698,
+      "no_speech_prob": 1.484128141562846e-12,
+      "compression_ratio": 1.7625899280575539,
+      "temperature": 0.0
+    },
+    {
+      "start": 677.66,
+      "duration": 3.1800000000000637,
+      "text": "He goes in and he drives them out and he flips over the tables.",
+      "avg_logprob": -0.11842396042563698,
+      "no_speech_prob": 1.484128141562846e-12,
+      "compression_ratio": 1.7625899280575539,
+      "temperature": 0.0
+    },
+    {
+      "start": 681.04,
+      "duration": 0.20000000000004547,
+      "text": "Why?",
+      "avg_logprob": -0.11842396042563698,
+      "no_speech_prob": 1.484128141562846e-12,
+      "compression_ratio": 1.7625899280575539,
+      "temperature": 0.0
+    },
+    {
+      "start": 681.44,
+      "duration": 2.699999999999932,
+      "text": "Because they were exploiting the worshipers of God.",
+      "avg_logprob": -0.11842396042563698,
+      "no_speech_prob": 1.484128141562846e-12,
+      "compression_ratio": 1.7625899280575539,
+      "temperature": 0.0
+    },
+    {
+      "start": 686.0400000000001,
+      "duration": 5.839999999999918,
+      "text": "Jesus even goes to the Pharisees and these, you know, the religious leaders of his day and they,",
+      "avg_logprob": -0.13603110746903854,
+      "no_speech_prob": 6.821372351521748e-13,
+      "compression_ratio": 1.502824858757062,
+      "temperature": 0.0
+    },
+    {
+      "start": 692.06,
+      "duration": 7.600000000000023,
+      "text": "and he repeatedly called them hypocrites because they were making it harder and harder",
+      "avg_logprob": -0.13603110746903854,
+      "no_speech_prob": 6.821372351521748e-13,
+      "compression_ratio": 1.502824858757062,
+      "temperature": 0.0
+    },
+    {
+      "start": 699.66,
+      "duration": 8.139999999999986,
+      "text": "for the people to come to the Lord, right? And so here's the nobles and officials.",
+      "avg_logprob": -0.13603110746903854,
+      "no_speech_prob": 6.821372351521748e-13,
+      "compression_ratio": 1.502824858757062,
+      "temperature": 0.0
+    },
+    {
+      "start": 708.6800000000001,
+      "duration": 1.5799999999999272,
+      "text": "They're disobeying God's law.",
+      "avg_logprob": -0.2833220513312371,
+      "no_speech_prob": 7.065691890080494e-13,
+      "compression_ratio": 1.5510204081632653,
+      "temperature": 0.0
+    },
+    {
+      "start": 711.4000000000001,
+      "duration": 2.7999999999999545,
+      "text": "They're exploiting a really difficult situation.",
+      "avg_logprob": -0.2833220513312371,
+      "no_speech_prob": 7.065691890080494e-13,
+      "compression_ratio": 1.5510204081632653,
+      "temperature": 0.0
+    },
+    {
+      "start": 715.94,
+      "duration": 5.239999999999895,
+      "text": "And they're putting their own personal prosperity over other people's well-being.",
+      "avg_logprob": -0.2833220513312371,
+      "no_speech_prob": 7.065691890080494e-13,
+      "compression_ratio": 1.5510204081632653,
+      "temperature": 0.0
+    },
+    {
+      "start": 722.72,
+      "duration": 1.3999999999999773,
+      "text": "So what does Nehemiah do?",
+      "avg_logprob": -0.2833220513312371,
+      "no_speech_prob": 7.065691890080494e-13,
+      "compression_ratio": 1.5510204081632653,
+      "temperature": 0.0
+    },
+    {
+      "start": 724.34,
+      "duration": 0.5799999999999272,
+      "text": "He's angry.",
+      "avg_logprob": -0.2833220513312371,
+      "no_speech_prob": 7.065691890080494e-13,
+      "compression_ratio": 1.5510204081632653,
+      "temperature": 0.0
+    },
+    {
+      "start": 726.1800000000001,
+      "duration": 1.5799999999999272,
+      "text": "And then he calls them to repentance.",
+      "avg_logprob": -0.2833220513312371,
+      "no_speech_prob": 7.065691890080494e-13,
+      "compression_ratio": 1.5510204081632653,
+      "temperature": 0.0
+    },
+    {
+      "start": 728.6800000000001,
+      "duration": 1.5199999999999818,
+      "text": "He calls them to repentance.",
+      "avg_logprob": -0.2833220513312371,
+      "no_speech_prob": 7.065691890080494e-13,
+      "compression_ratio": 1.5510204081632653,
+      "temperature": 0.0
+    },
+    {
+      "start": 731.22,
+      "duration": 3.0799999999999272,
+      "text": "I think it, now, I'm not totally sure.",
+      "avg_logprob": -0.2833220513312371,
+      "no_speech_prob": 7.065691890080494e-13,
+      "compression_ratio": 1.5510204081632653,
+      "temperature": 0.0
+    },
+    {
+      "start": 734.3,
+      "duration": 6.060000000000059,
+      "text": "but I think he's almost following the Matthew 18 kind of like pattern for how to solve,",
+      "avg_logprob": -0.11030663630759069,
+      "no_speech_prob": 1.0360732454264832e-12,
+      "compression_ratio": 1.6795774647887325,
+      "temperature": 0.0
+    },
+    {
+      "start": 740.54,
+      "duration": 5.300000000000068,
+      "text": "like how to handle conflict. If you remember that Matthew 18 says, first you take it to the person,",
+      "avg_logprob": -0.11030663630759069,
+      "no_speech_prob": 1.0360732454264832e-12,
+      "compression_ratio": 1.6795774647887325,
+      "temperature": 0.0
+    },
+    {
+      "start": 746.08,
+      "duration": 3.8999999999999773,
+      "text": "right? One-on-one, and then you bring someone else with you, and then you bring it to the church.",
+      "avg_logprob": -0.11030663630759069,
+      "no_speech_prob": 1.0360732454264832e-12,
+      "compression_ratio": 1.6795774647887325,
+      "temperature": 0.0
+    },
+    {
+      "start": 750.46,
+      "duration": 5.360000000000014,
+      "text": "Look at what happens. This is, you know, back in, here we are, verse seven again. He says,",
+      "avg_logprob": -0.11030663630759069,
+      "no_speech_prob": 1.0360732454264832e-12,
+      "compression_ratio": 1.6795774647887325,
+      "temperature": 0.0
+    },
+    {
+      "start": 755.98,
+      "duration": 4.399999999999977,
+      "text": "I was, you know, I was angry. I took counsel with myself. And he says, I brought charges against the",
+      "avg_logprob": -0.11030663630759069,
+      "no_speech_prob": 1.0360732454264832e-12,
+      "compression_ratio": 1.6795774647887325,
+      "temperature": 0.0
+    },
+    {
+      "start": 760.38,
+      "duration": 3.8600000000000136,
+      "text": "nobles and officials. And I said to them, you're exacting interest each from his brother. Okay.",
+      "avg_logprob": -0.1038915277496586,
+      "no_speech_prob": 1.4328642439220829e-12,
+      "compression_ratio": 1.7003891050583657,
+      "temperature": 0.0
+    },
+    {
+      "start": 764.42,
+      "duration": 3.5200000000000955,
+      "text": "We don't see anything that happens there, but he, it says that he went to them first.",
+      "avg_logprob": -0.1038915277496586,
+      "no_speech_prob": 1.4328642439220829e-12,
+      "compression_ratio": 1.7003891050583657,
+      "temperature": 0.0
+    },
+    {
+      "start": 768.44,
+      "duration": 3.6399999999999864,
+      "text": "He went to them individually. What's the next thing that happens? He goes,",
+      "avg_logprob": -0.1038915277496586,
+      "no_speech_prob": 1.4328642439220829e-12,
+      "compression_ratio": 1.7003891050583657,
+      "temperature": 0.0
+    },
+    {
+      "start": 772.56,
+      "duration": 4.5,
+      "text": "I held a great assembly against them. What is he doing? He's bringing it to the church.",
+      "avg_logprob": -0.1038915277496586,
+      "no_speech_prob": 1.4328642439220829e-12,
+      "compression_ratio": 1.7003891050583657,
+      "temperature": 0.0
+    },
+    {
+      "start": 777.74,
+      "duration": 7.840000000000032,
+      "text": "He's bringing it in front of everybody. And, um, and so, uh, I, I, anyway, I just think it's",
+      "avg_logprob": -0.1038915277496586,
+      "no_speech_prob": 1.4328642439220829e-12,
+      "compression_ratio": 1.7003891050583657,
+      "temperature": 0.0
+    },
+    {
+      "start": 785.58,
+      "duration": 8.240000000000009,
+      "text": "interesting. And when he does this, it works. Jump down to verse 12. Verse 12 says, then this is",
+      "avg_logprob": -0.11734620730082194,
+      "no_speech_prob": 1.077339497994323e-12,
+      "compression_ratio": 1.6875,
+      "temperature": 0.0
+    },
+    {
+      "start": 793.82,
+      "duration": 4.219999999999914,
+      "text": "their response. He brings all these charges against them and then they respond. They say,",
+      "avg_logprob": -0.11734620730082194,
+      "no_speech_prob": 1.077339497994323e-12,
+      "compression_ratio": 1.6875,
+      "temperature": 0.0
+    },
+    {
+      "start": 798.76,
+      "duration": 5.720000000000027,
+      "text": "we will restore these. So what is he saying? We're going to make sure that the people who",
+      "avg_logprob": -0.11734620730082194,
+      "no_speech_prob": 1.077339497994323e-12,
+      "compression_ratio": 1.6875,
+      "temperature": 0.0
+    },
+    {
+      "start": 804.48,
+      "duration": 4.5,
+      "text": "have been sold off can come back. We're going to restore them. We're going to restore this community.",
+      "avg_logprob": -0.11734620730082194,
+      "no_speech_prob": 1.077339497994323e-12,
+      "compression_ratio": 1.6875,
+      "temperature": 0.0
+    },
+    {
+      "start": 809.4599999999999,
+      "duration": 0.44000000000005457,
+      "text": "Okay?",
+      "avg_logprob": -0.24802820799780673,
+      "no_speech_prob": 7.204823218066869e-13,
+      "compression_ratio": 1.606694560669456,
+      "temperature": 0.0
+    },
+    {
+      "start": 811.06,
+      "duration": 3.080000000000041,
+      "text": "We will restore these and require nothing from them.",
+      "avg_logprob": -0.24802820799780673,
+      "no_speech_prob": 7.204823218066869e-13,
+      "compression_ratio": 1.606694560669456,
+      "temperature": 0.0
+    },
+    {
+      "start": 814.34,
+      "duration": 1.259999999999991,
+      "text": "We will do as you say.",
+      "avg_logprob": -0.24802820799780673,
+      "no_speech_prob": 7.204823218066869e-13,
+      "compression_ratio": 1.606694560669456,
+      "temperature": 0.0
+    },
+    {
+      "start": 815.6,
+      "duration": 0.8799999999999955,
+      "text": "That's what they said.",
+      "avg_logprob": -0.24802820799780673,
+      "no_speech_prob": 7.204823218066869e-13,
+      "compression_ratio": 1.606694560669456,
+      "temperature": 0.0
+    },
+    {
+      "start": 817.86,
+      "duration": 0.9800000000000182,
+      "text": "And so it worked.",
+      "avg_logprob": -0.24802820799780673,
+      "no_speech_prob": 7.204823218066869e-13,
+      "compression_ratio": 1.606694560669456,
+      "temperature": 0.0
+    },
+    {
+      "start": 820.06,
+      "duration": 0.44000000000005457,
+      "text": "Okay?",
+      "avg_logprob": -0.24802820799780673,
+      "no_speech_prob": 7.204823218066869e-13,
+      "compression_ratio": 1.606694560669456,
+      "temperature": 0.0
+    },
+    {
+      "start": 821.16,
+      "duration": 3.1200000000000045,
+      "text": "And not only that, the next part is really interesting too.",
+      "avg_logprob": -0.24802820799780673,
+      "no_speech_prob": 7.204823218066869e-13,
+      "compression_ratio": 1.606694560669456,
+      "temperature": 0.0
+    },
+    {
+      "start": 825.8199999999999,
+      "duration": 3.1400000000001,
+      "text": "Nehemiah brings the priests into it as well",
+      "avg_logprob": -0.24802820799780673,
+      "no_speech_prob": 7.204823218066869e-13,
+      "compression_ratio": 1.606694560669456,
+      "temperature": 0.0
+    },
+    {
+      "start": 829.66,
+      "duration": 2.300000000000068,
+      "text": "to kind of bear witness to what's going on.",
+      "avg_logprob": -0.24802820799780673,
+      "no_speech_prob": 7.204823218066869e-13,
+      "compression_ratio": 1.606694560669456,
+      "temperature": 0.0
+    },
+    {
+      "start": 832.04,
+      "duration": 1.6200000000000045,
+      "text": "They're serving kind of like a notary,",
+      "avg_logprob": -0.24802820799780673,
+      "no_speech_prob": 7.204823218066869e-13,
+      "compression_ratio": 1.606694560669456,
+      "temperature": 0.0
+    },
+    {
+      "start": 833.88,
+      "duration": 1.419999999999959,
+      "text": "if you think of it that way, right?",
+      "avg_logprob": -0.24802820799780673,
+      "no_speech_prob": 7.204823218066869e-13,
+      "compression_ratio": 1.606694560669456,
+      "temperature": 0.0
+    },
+    {
+      "start": 836.2799999999999,
+      "duration": 1.6600000000001955,
+      "text": "So if you keep reading, it says,",
+      "avg_logprob": -0.24802820799780673,
+      "no_speech_prob": 7.204823218066869e-13,
+      "compression_ratio": 1.606694560669456,
+      "temperature": 0.0
+    },
+    {
+      "start": 838.98,
+      "duration": 3.6200000000000045,
+      "text": "and made them swear to do as they had promised.",
+      "avg_logprob": -0.19661668630746695,
+      "no_speech_prob": 7.404804850882907e-13,
+      "compression_ratio": 1.7203791469194314,
+      "temperature": 0.0
+    },
+    {
+      "start": 842.8,
+      "duration": 2.32000000000005,
+      "text": "And so that's what's going on, okay?",
+      "avg_logprob": -0.19661668630746695,
+      "no_speech_prob": 7.404804850882907e-13,
+      "compression_ratio": 1.7203791469194314,
+      "temperature": 0.0
+    },
+    {
+      "start": 848.62,
+      "duration": 1.8999999999999773,
+      "text": "Now, in the last 20 years,",
+      "avg_logprob": -0.19661668630746695,
+      "no_speech_prob": 7.404804850882907e-13,
+      "compression_ratio": 1.7203791469194314,
+      "temperature": 0.0
+    },
+    {
+      "start": 850.6,
+      "duration": 3.0599999999999454,
+      "text": "I wanna think about how do we bring this into our context?",
+      "avg_logprob": -0.19661668630746695,
+      "no_speech_prob": 7.404804850882907e-13,
+      "compression_ratio": 1.7203791469194314,
+      "temperature": 0.0
+    },
+    {
+      "start": 853.86,
+      "duration": 1.2999999999999545,
+      "text": "Now, in the last 20 years,",
+      "avg_logprob": -0.19661668630746695,
+      "no_speech_prob": 7.404804850882907e-13,
+      "compression_ratio": 1.7203791469194314,
+      "temperature": 0.0
+    },
+    {
+      "start": 855.34,
+      "duration": 5.219999999999914,
+      "text": "we have seen the largest shift in church attendance",
+      "avg_logprob": -0.19661668630746695,
+      "no_speech_prob": 7.404804850882907e-13,
+      "compression_ratio": 1.7203791469194314,
+      "temperature": 0.0
+    },
+    {
+      "start": 861.1,
+      "duration": 2.519999999999982,
+      "text": "since the second great awakening, all right?",
+      "avg_logprob": -0.19661668630746695,
+      "no_speech_prob": 7.404804850882907e-13,
+      "compression_ratio": 1.7203791469194314,
+      "temperature": 0.0
+    },
+    {
+      "start": 863.82,
+      "duration": 0.7599999999999909,
+      "text": "Second great awakening,",
+      "avg_logprob": -0.19661668630746695,
+      "no_speech_prob": 7.404804850882907e-13,
+      "compression_ratio": 1.7203791469194314,
+      "temperature": 0.0
+    },
+    {
+      "start": 864.82,
+      "duration": 2.519999999999982,
+      "text": "we had a ton of people come into the church,",
+      "avg_logprob": -0.19661668630746695,
+      "no_speech_prob": 7.404804850882907e-13,
+      "compression_ratio": 1.7203791469194314,
+      "temperature": 0.0
+    },
+    {
+      "start": 868.98,
+      "duration": 6.220000000000027,
+      "text": "leave. In fact, according to the statistics, it's about 40 million people who used to go to church",
+      "avg_logprob": -0.0899751437337775,
+      "no_speech_prob": 6.211167647915405e-13,
+      "compression_ratio": 1.445,
+      "temperature": 0.0
+    },
+    {
+      "start": 875.2,
+      "duration": 9.299999999999955,
+      "text": "before the year 2000. Now do not. That's 15% of the population of the United States of America.",
+      "avg_logprob": -0.0899751437337775,
+      "no_speech_prob": 6.211167647915405e-13,
+      "compression_ratio": 1.445,
+      "temperature": 0.0
+    },
+    {
+      "start": 886.0200000000001,
+      "duration": 9.779999999999859,
+      "text": "15%. Okay. Now the reasons for this are diverse, but according to the data, about 70% of these",
+      "avg_logprob": -0.0899751437337775,
+      "no_speech_prob": 6.211167647915405e-13,
+      "compression_ratio": 1.445,
+      "temperature": 0.0
+    },
+    {
+      "start": 895.8,
+      "duration": 8.660000000000082,
+      "text": "people left because they felt excluded in some way from the church. It could be anything from,",
+      "avg_logprob": -0.14114594989352755,
+      "no_speech_prob": 6.234711098090928e-13,
+      "compression_ratio": 1.643835616438356,
+      "temperature": 0.0
+    },
+    {
+      "start": 905.14,
+      "duration": 5.300000000000068,
+      "text": "oh, it was really hard to make friends. No one was my friend at church and things like that.",
+      "avg_logprob": -0.14114594989352755,
+      "no_speech_prob": 6.234711098090928e-13,
+      "compression_ratio": 1.643835616438356,
+      "temperature": 0.0
+    },
+    {
+      "start": 910.56,
+      "duration": 4.660000000000082,
+      "text": "All the way to things like, well, I felt like the preaching was ostracizing me.",
+      "avg_logprob": -0.14114594989352755,
+      "no_speech_prob": 6.234711098090928e-13,
+      "compression_ratio": 1.643835616438356,
+      "temperature": 0.0
+    },
+    {
+      "start": 915.78,
+      "duration": 8.540000000000077,
+      "text": "Or I felt like what they believed was too political or outside of what I thought about this.",
+      "avg_logprob": -0.14114594989352755,
+      "no_speech_prob": 6.234711098090928e-13,
+      "compression_ratio": 1.643835616438356,
+      "temperature": 0.0
+    },
+    {
+      "start": 926.72,
+      "duration": 4.2999999999999545,
+      "text": "and it tells me that the church in America,",
+      "avg_logprob": -0.28584511280059816,
+      "no_speech_prob": 6.210975744130875e-13,
+      "compression_ratio": 1.6863905325443787,
+      "temperature": 0.0
+    },
+    {
+      "start": 931.4,
+      "duration": 3.2799999999999727,
+      "text": "in some ways, if this is the case,",
+      "avg_logprob": -0.28584511280059816,
+      "no_speech_prob": 6.210975744130875e-13,
+      "compression_ratio": 1.6863905325443787,
+      "temperature": 0.0
+    },
+    {
+      "start": 935.1,
+      "duration": 2.019999999999982,
+      "text": "in some ways the church in America has been focused",
+      "avg_logprob": -0.28584511280059816,
+      "no_speech_prob": 6.210975744130875e-13,
+      "compression_ratio": 1.6863905325443787,
+      "temperature": 0.0
+    },
+    {
+      "start": 937.12,
+      "duration": 4.1200000000000045,
+      "text": "on putting maybe our own status,",
+      "avg_logprob": -0.28584511280059816,
+      "no_speech_prob": 6.210975744130875e-13,
+      "compression_ratio": 1.6863905325443787,
+      "temperature": 0.0
+    },
+    {
+      "start": 941.62,
+      "duration": 1.259999999999991,
+      "text": "our own personal gain,",
+      "avg_logprob": -0.28584511280059816,
+      "no_speech_prob": 6.210975744130875e-13,
+      "compression_ratio": 1.6863905325443787,
+      "temperature": 0.0
+    },
+    {
+      "start": 943.46,
+      "duration": 1.6200000000000045,
+      "text": "having our own little groups,",
+      "avg_logprob": -0.28584511280059816,
+      "no_speech_prob": 6.210975744130875e-13,
+      "compression_ratio": 1.6863905325443787,
+      "temperature": 0.0
+    },
+    {
+      "start": 946.38,
+      "duration": 1.0399999999999636,
+      "text": "we're putting those things",
+      "avg_logprob": -0.28584511280059816,
+      "no_speech_prob": 6.210975744130875e-13,
+      "compression_ratio": 1.6863905325443787,
+      "temperature": 0.0
+    },
+    {
+      "start": 947.42,
+      "duration": 4.940000000000055,
+      "text": "before putting other people's well-being.",
+      "avg_logprob": -0.28584511280059816,
+      "no_speech_prob": 6.210975744130875e-13,
+      "compression_ratio": 1.6863905325443787,
+      "temperature": 0.0
+    },
+    {
+      "start": 953.5400000000001,
+      "duration": 7.399999999999977,
+      "text": "In fact, maybe the way to think about it is that there are groups within the church that are trying to preserve.",
+      "avg_logprob": -0.21465815135410854,
+      "no_speech_prob": 5.744210987944365e-13,
+      "compression_ratio": 1.5803108808290156,
+      "temperature": 0.0
+    },
+    {
+      "start": 961.22,
+      "duration": 10.240000000000009,
+      "text": "They're more concerned about preserving and protecting what we have rather than to include anyone who Jesus is calling to himself.",
+      "avg_logprob": -0.21465815135410854,
+      "no_speech_prob": 5.744210987944365e-13,
+      "compression_ratio": 1.5803108808290156,
+      "temperature": 0.0
+    },
+    {
+      "start": 971.9,
+      "duration": 0.8799999999999955,
+      "text": "To himself.",
+      "avg_logprob": -0.21465815135410854,
+      "no_speech_prob": 5.744210987944365e-13,
+      "compression_ratio": 1.5803108808290156,
+      "temperature": 0.0
+    },
+    {
+      "start": 974.36,
+      "duration": 3.7200000000000273,
+      "text": "Some pastors are preaching in ways that excludes.",
+      "avg_logprob": -0.21465815135410854,
+      "no_speech_prob": 5.744210987944365e-13,
+      "compression_ratio": 1.5803108808290156,
+      "temperature": 0.0
+    },
+    {
+      "start": 978.8000000000001,
+      "duration": 6.079999999999927,
+      "text": "some church members are unwilling to extend themselves to others there seems to be at times",
+      "avg_logprob": -0.051401374496032146,
+      "no_speech_prob": 9.215355258399005e-13,
+      "compression_ratio": 1.8661417322834646,
+      "temperature": 0.0
+    },
+    {
+      "start": 984.88,
+      "duration": 7.82000000000005,
+      "text": "somewhat of an elitism that happens in some churches now i think i think church planting",
+      "avg_logprob": -0.051401374496032146,
+      "no_speech_prob": 9.215355258399005e-13,
+      "compression_ratio": 1.8661417322834646,
+      "temperature": 0.0
+    },
+    {
+      "start": 992.7,
+      "duration": 5.3799999999999955,
+      "text": "is actually a really great way to help solve some of that problem because it it switches things up",
+      "avg_logprob": -0.051401374496032146,
+      "no_speech_prob": 9.215355258399005e-13,
+      "compression_ratio": 1.8661417322834646,
+      "temperature": 0.0
+    },
+    {
+      "start": 998.08,
+      "duration": 5.259999999999991,
+      "text": "it forces people to make new friends and and on top of that um having a new church with a blank",
+      "avg_logprob": -0.051401374496032146,
+      "no_speech_prob": 9.215355258399005e-13,
+      "compression_ratio": 1.8661417322834646,
+      "temperature": 0.0
+    },
+    {
+      "start": 1003.34,
+      "duration": 3.7799999999999727,
+      "text": "slate is actually a really great thing for people who have left the church they're like oh i can i",
+      "avg_logprob": -0.051401374496032146,
+      "no_speech_prob": 9.215355258399005e-13,
+      "compression_ratio": 1.8661417322834646,
+      "temperature": 0.0
+    },
+    {
+      "start": 1008.08,
+      "duration": 5.559999999999945,
+      "text": "new. That'd be great. But when we think about what's going on here, I think it raises some",
+      "avg_logprob": -0.07241423586581616,
+      "no_speech_prob": 9.73330032023878e-13,
+      "compression_ratio": 1.6696428571428572,
+      "temperature": 0.0
+    },
+    {
+      "start": 1013.64,
+      "duration": 7.220000000000027,
+      "text": "questions for me. Number one, are there things that happen in the church? And I'm not talking",
+      "avg_logprob": -0.07241423586581616,
+      "no_speech_prob": 9.73330032023878e-13,
+      "compression_ratio": 1.6696428571428572,
+      "temperature": 0.0
+    },
+    {
+      "start": 1020.86,
+      "duration": 5.919999999999959,
+      "text": "about our church, but the church universal. Are there things that happen that make us angry when",
+      "avg_logprob": -0.07241423586581616,
+      "no_speech_prob": 9.73330032023878e-13,
+      "compression_ratio": 1.6696428571428572,
+      "temperature": 0.0
+    },
+    {
+      "start": 1026.78,
+      "duration": 6.480000000000018,
+      "text": "we see it? Do we see injustices or exploitation, things like that that need to be addressed?",
+      "avg_logprob": -0.07241423586581616,
+      "no_speech_prob": 9.73330032023878e-13,
+      "compression_ratio": 1.6696428571428572,
+      "temperature": 0.0
+    },
+    {
+      "start": 1033.72,
+      "duration": 1.5799999999999272,
+      "text": "Is there something that can be done about them?",
+      "avg_logprob": -0.16366153850890042,
+      "no_speech_prob": 7.669736156942775e-13,
+      "compression_ratio": 1.7932489451476794,
+      "temperature": 0.0
+    },
+    {
+      "start": 1036.8,
+      "duration": 3.3400000000001455,
+      "text": "Maybe another question is, and this is hard to think about.",
+      "avg_logprob": -0.16366153850890042,
+      "no_speech_prob": 7.669736156942775e-13,
+      "compression_ratio": 1.7932489451476794,
+      "temperature": 0.0
+    },
+    {
+      "start": 1040.86,
+      "duration": 2.259999999999991,
+      "text": "I've been thinking on this for a couple weeks.",
+      "avg_logprob": -0.16366153850890042,
+      "no_speech_prob": 7.669736156942775e-13,
+      "compression_ratio": 1.7932489451476794,
+      "temperature": 0.0
+    },
+    {
+      "start": 1043.32,
+      "duration": 5.039999999999964,
+      "text": "I'm like, are there ways that we, that I, contribute to the problem?",
+      "avg_logprob": -0.16366153850890042,
+      "no_speech_prob": 7.669736156942775e-13,
+      "compression_ratio": 1.7932489451476794,
+      "temperature": 0.0
+    },
+    {
+      "start": 1049.58,
+      "duration": 6.039999999999964,
+      "text": "Are there ways that we start to think about, like, am I forming some sort of elitism type of thing",
+      "avg_logprob": -0.16366153850890042,
+      "no_speech_prob": 7.669736156942775e-13,
+      "compression_ratio": 1.7932489451476794,
+      "temperature": 0.0
+    },
+    {
+      "start": 1055.62,
+      "duration": 5.260000000000218,
+      "text": "where I'm excluding some people and trying to keep others inside, you know?",
+      "avg_logprob": -0.16366153850890042,
+      "no_speech_prob": 7.669736156942775e-13,
+      "compression_ratio": 1.7932489451476794,
+      "temperature": 0.0
+    },
+    {
+      "start": 1061.58,
+      "duration": 1.3400000000001455,
+      "text": "Am I part of that problem?",
+      "avg_logprob": -0.16366153850890042,
+      "no_speech_prob": 7.669736156942775e-13,
+      "compression_ratio": 1.7932489451476794,
+      "temperature": 0.0
+    },
+    {
+      "start": 1065.26,
+      "duration": 1.7999999999999545,
+      "text": "And then maybe another question is,",
+      "avg_logprob": -0.23370657771466727,
+      "no_speech_prob": 7.609098355738919e-13,
+      "compression_ratio": 1.5384615384615385,
+      "temperature": 0.0
+    },
+    {
+      "start": 1067.26,
+      "duration": 3.980000000000018,
+      "text": "how can we as a church, for us at the fields,",
+      "avg_logprob": -0.23370657771466727,
+      "no_speech_prob": 7.609098355738919e-13,
+      "compression_ratio": 1.5384615384615385,
+      "temperature": 0.0
+    },
+    {
+      "start": 1071.8600000000001,
+      "duration": 2.479999999999791,
+      "text": "how can we make sure that we are caring",
+      "avg_logprob": -0.23370657771466727,
+      "no_speech_prob": 7.609098355738919e-13,
+      "compression_ratio": 1.5384615384615385,
+      "temperature": 0.0
+    },
+    {
+      "start": 1074.34,
+      "duration": 2.259999999999991,
+      "text": "for all that are in our community,",
+      "avg_logprob": -0.23370657771466727,
+      "no_speech_prob": 7.609098355738919e-13,
+      "compression_ratio": 1.5384615384615385,
+      "temperature": 0.0
+    },
+    {
+      "start": 1077.24,
+      "duration": 2.4200000000000728,
+      "text": "not excluding people or making an elite group?",
+      "avg_logprob": -0.23370657771466727,
+      "no_speech_prob": 7.609098355738919e-13,
+      "compression_ratio": 1.5384615384615385,
+      "temperature": 0.0
+    },
+    {
+      "start": 1080.6000000000001,
+      "duration": 2.479999999999791,
+      "text": "What are some ways that we can do that even better?",
+      "avg_logprob": -0.23370657771466727,
+      "no_speech_prob": 7.609098355738919e-13,
+      "compression_ratio": 1.5384615384615385,
+      "temperature": 0.0
+    },
+    {
+      "start": 1086.78,
+      "duration": 2.2200000000000273,
+      "text": "Now, Nehemiah's reforms,",
+      "avg_logprob": -0.23370657771466727,
+      "no_speech_prob": 7.609098355738919e-13,
+      "compression_ratio": 1.5384615384615385,
+      "temperature": 0.0
+    },
+    {
+      "start": 1090.6599999999999,
+      "duration": 5.620000000000118,
+      "text": "I think are, were so needed and they're really good. And what's interesting is about it is that",
+      "avg_logprob": -0.08880136108398437,
+      "no_speech_prob": 1.0239994616134673e-12,
+      "compression_ratio": 1.6725978647686832,
+      "temperature": 0.0
+    },
+    {
+      "start": 1096.28,
+      "duration": 4.680000000000064,
+      "text": "I think that almost any leader could have done that in a sense, because there's a law, right?",
+      "avg_logprob": -0.08880136108398437,
+      "no_speech_prob": 1.0239994616134673e-12,
+      "compression_ratio": 1.6725978647686832,
+      "temperature": 0.0
+    },
+    {
+      "start": 1101.44,
+      "duration": 3.9400000000000546,
+      "text": "And it's simply, and he sees the problem is like, you guys need to follow the law, fix it, right? So",
+      "avg_logprob": -0.08880136108398437,
+      "no_speech_prob": 1.0239994616134673e-12,
+      "compression_ratio": 1.6725978647686832,
+      "temperature": 0.0
+    },
+    {
+      "start": 1105.38,
+      "duration": 4.819999999999936,
+      "text": "it's pretty cut and dry, but there's something else that happened right here in verse 13 that,",
+      "avg_logprob": -0.08880136108398437,
+      "no_speech_prob": 1.0239994616134673e-12,
+      "compression_ratio": 1.6725978647686832,
+      "temperature": 0.0
+    },
+    {
+      "start": 1110.28,
+      "duration": 7.839999999999918,
+      "text": "that I think changes my perspective of Nehemiah as a leader in a good way. Verse 13,",
+      "avg_logprob": -0.08880136108398437,
+      "no_speech_prob": 1.0239994616134673e-12,
+      "compression_ratio": 1.6725978647686832,
+      "temperature": 0.0
+    },
+    {
+      "start": 1119.08,
+      "duration": 1.9800000000000182,
+      "text": "So he called them to repentance.",
+      "avg_logprob": -0.21992674151670585,
+      "no_speech_prob": 7.233027653381907e-13,
+      "compression_ratio": 1.5681818181818181,
+      "temperature": 0.0
+    },
+    {
+      "start": 1121.22,
+      "duration": 1.2799999999999727,
+      "text": "They said that they would.",
+      "avg_logprob": -0.21992674151670585,
+      "no_speech_prob": 7.233027653381907e-13,
+      "compression_ratio": 1.5681818181818181,
+      "temperature": 0.0
+    },
+    {
+      "start": 1122.62,
+      "duration": 1.900000000000091,
+      "text": "He had the priest be like the notary.",
+      "avg_logprob": -0.21992674151670585,
+      "no_speech_prob": 7.233027653381907e-13,
+      "compression_ratio": 1.5681818181818181,
+      "temperature": 0.0
+    },
+    {
+      "start": 1124.66,
+      "duration": 1.4199999999998454,
+      "text": "They're going to hold him to it.",
+      "avg_logprob": -0.21992674151670585,
+      "no_speech_prob": 7.233027653381907e-13,
+      "compression_ratio": 1.5681818181818181,
+      "temperature": 0.0
+    },
+    {
+      "start": 1126.18,
+      "duration": 1.0,
+      "text": "And then verse 13.",
+      "avg_logprob": -0.21992674151670585,
+      "no_speech_prob": 7.233027653381907e-13,
+      "compression_ratio": 1.5681818181818181,
+      "temperature": 0.0
+    },
+    {
+      "start": 1128.0,
+      "duration": 3.240000000000009,
+      "text": "I also shook out the fold of my garment, he said.",
+      "avg_logprob": -0.21992674151670585,
+      "no_speech_prob": 7.233027653381907e-13,
+      "compression_ratio": 1.5681818181818181,
+      "temperature": 0.0
+    },
+    {
+      "start": 1131.6,
+      "duration": 7.880000000000109,
+      "text": "And I said, so may God shake out every man from his house and from his labor who does not keep this promise.",
+      "avg_logprob": -0.21992674151670585,
+      "no_speech_prob": 7.233027653381907e-13,
+      "compression_ratio": 1.5681818181818181,
+      "temperature": 0.0
+    },
+    {
+      "start": 1140.3,
+      "duration": 3.2200000000000273,
+      "text": "So may he be shaken out and emptied.",
+      "avg_logprob": -0.21992674151670585,
+      "no_speech_prob": 7.233027653381907e-13,
+      "compression_ratio": 1.5681818181818181,
+      "temperature": 0.0
+    },
+    {
+      "start": 1144.5600000000002,
+      "duration": 7.839999999999918,
+      "text": "and what's happening here is nehemiah is displaying faith he's displaying a real fear",
+      "avg_logprob": -0.062438905239105225,
+      "no_speech_prob": 6.067086937011634e-13,
+      "compression_ratio": 1.6956521739130435,
+      "temperature": 0.0
+    },
+    {
+      "start": 1152.4,
+      "duration": 10.179999999999836,
+      "text": "of the lord and a trust in his word they are to obey the command from leviticus 25 and just be",
+      "avg_logprob": -0.062438905239105225,
+      "no_speech_prob": 6.067086937011634e-13,
+      "compression_ratio": 1.6956521739130435,
+      "temperature": 0.0
+    },
+    {
+      "start": 1162.58,
+      "duration": 10.080000000000155,
+      "text": "for the reason that leviticus 25 says for fear of the lord okay i want to go back to that in",
+      "avg_logprob": -0.062438905239105225,
+      "no_speech_prob": 6.067086937011634e-13,
+      "compression_ratio": 1.6956521739130435,
+      "temperature": 0.0
+    },
+    {
+      "start": 1174.38,
+      "duration": 4.439999999999827,
+      "text": "it says, verse 36 in particular,",
+      "avg_logprob": -0.22385149504009047,
+      "no_speech_prob": 7.610021553888791e-13,
+      "compression_ratio": 1.5502392344497609,
+      "temperature": 0.0
+    },
+    {
+      "start": 1179.22,
+      "duration": 2.7999999999999545,
+      "text": "take no interest from him or profit, right?",
+      "avg_logprob": -0.22385149504009047,
+      "no_speech_prob": 7.610021553888791e-13,
+      "compression_ratio": 1.5502392344497609,
+      "temperature": 0.0
+    },
+    {
+      "start": 1182.38,
+      "duration": 0.5199999999999818,
+      "text": "What does it say?",
+      "avg_logprob": -0.22385149504009047,
+      "no_speech_prob": 7.610021553888791e-13,
+      "compression_ratio": 1.5502392344497609,
+      "temperature": 0.0
+    },
+    {
+      "start": 1183.04,
+      "duration": 1.3199999999999363,
+      "text": "But fear your God.",
+      "avg_logprob": -0.22385149504009047,
+      "no_speech_prob": 7.610021553888791e-13,
+      "compression_ratio": 1.5502392344497609,
+      "temperature": 0.0
+    },
+    {
+      "start": 1184.9,
+      "duration": 0.5799999999999272,
+      "text": "Why?",
+      "avg_logprob": -0.22385149504009047,
+      "no_speech_prob": 7.610021553888791e-13,
+      "compression_ratio": 1.5502392344497609,
+      "temperature": 0.0
+    },
+    {
+      "start": 1186.2,
+      "duration": 2.4600000000000364,
+      "text": "That your brother may live beside you.",
+      "avg_logprob": -0.22385149504009047,
+      "no_speech_prob": 7.610021553888791e-13,
+      "compression_ratio": 1.5502392344497609,
+      "temperature": 0.0
+    },
+    {
+      "start": 1191.24,
+      "duration": 2.2000000000000455,
+      "text": "That we can have this beautiful community",
+      "avg_logprob": -0.22385149504009047,
+      "no_speech_prob": 7.610021553888791e-13,
+      "compression_ratio": 1.5502392344497609,
+      "temperature": 0.0
+    },
+    {
+      "start": 1193.44,
+      "duration": 1.0,
+      "text": "that God is putting together,",
+      "avg_logprob": -0.22385149504009047,
+      "no_speech_prob": 7.610021553888791e-13,
+      "compression_ratio": 1.5502392344497609,
+      "temperature": 0.0
+    },
+    {
+      "start": 1194.44,
+      "duration": 1.8999999999998636,
+      "text": "that God's people can be together.",
+      "avg_logprob": -0.22385149504009047,
+      "no_speech_prob": 7.610021553888791e-13,
+      "compression_ratio": 1.5502392344497609,
+      "temperature": 0.0
+    },
+    {
+      "start": 1197.8200000000002,
+      "duration": 2.7799999999997453,
+      "text": "And then what I think is interesting",
+      "avg_logprob": -0.22385149504009047,
+      "no_speech_prob": 7.610021553888791e-13,
+      "compression_ratio": 1.5502392344497609,
+      "temperature": 0.0
+    },
+    {
+      "start": 1200.6,
+      "duration": 1.6800000000000637,
+      "text": "is after this passage,",
+      "avg_logprob": -0.22385149504009047,
+      "no_speech_prob": 7.610021553888791e-13,
+      "compression_ratio": 1.5502392344497609,
+      "temperature": 0.0
+    },
+    {
+      "start": 1203.52,
+      "duration": 1.6200000000001182,
+      "text": "unless you kept reading,",
+      "avg_logprob": -0.20405926996347856,
+      "no_speech_prob": 9.695029067752214e-13,
+      "compression_ratio": 1.6407766990291262,
+      "temperature": 0.0
+    },
+    {
+      "start": 1205.34,
+      "duration": 2.5,
+      "text": "but you were only asked to read to verse 37,",
+      "avg_logprob": -0.20405926996347856,
+      "no_speech_prob": 9.695029067752214e-13,
+      "compression_ratio": 1.6407766990291262,
+      "temperature": 0.0
+    },
+    {
+      "start": 1207.84,
+      "duration": 1.1400000000001,
+      "text": "but look at verse 38.",
+      "avg_logprob": -0.20405926996347856,
+      "no_speech_prob": 9.695029067752214e-13,
+      "compression_ratio": 1.6407766990291262,
+      "temperature": 0.0
+    },
+    {
+      "start": 1210.46,
+      "duration": 5.539999999999964,
+      "text": "He gives this command to not take profit or interest.",
+      "avg_logprob": -0.20405926996347856,
+      "no_speech_prob": 9.695029067752214e-13,
+      "compression_ratio": 1.6407766990291262,
+      "temperature": 0.0
+    },
+    {
+      "start": 1216.36,
+      "duration": 2.400000000000091,
+      "text": "Verse 38, God reminds them,",
+      "avg_logprob": -0.20405926996347856,
+      "no_speech_prob": 9.695029067752214e-13,
+      "compression_ratio": 1.6407766990291262,
+      "temperature": 0.0
+    },
+    {
+      "start": 1219.34,
+      "duration": 1.540000000000191,
+      "text": "I am the Lord your God",
+      "avg_logprob": -0.20405926996347856,
+      "no_speech_prob": 9.695029067752214e-13,
+      "compression_ratio": 1.6407766990291262,
+      "temperature": 0.0
+    },
+    {
+      "start": 1220.88,
+      "duration": 1.5599999999999454,
+      "text": "who brought you out of the land of Egypt",
+      "avg_logprob": -0.20405926996347856,
+      "no_speech_prob": 9.695029067752214e-13,
+      "compression_ratio": 1.6407766990291262,
+      "temperature": 0.0
+    },
+    {
+      "start": 1222.44,
+      "duration": 4.1599999999998545,
+      "text": "to give you the land of Canaan and to be your God.",
+      "avg_logprob": -0.20405926996347856,
+      "no_speech_prob": 9.695029067752214e-13,
+      "compression_ratio": 1.6407766990291262,
+      "temperature": 0.0
+    },
+    {
+      "start": 1227.76,
+      "duration": 4.6400000000001,
+      "text": "He reminds them of the reason for their obedience",
+      "avg_logprob": -0.20405926996347856,
+      "no_speech_prob": 9.695029067752214e-13,
+      "compression_ratio": 1.6407766990291262,
+      "temperature": 0.0
+    },
+    {
+      "start": 1235.08,
+      "duration": 9.759999999999991,
+      "text": "it's grace that they were once the outcast they were once the sojourner they were once the poor",
+      "avg_logprob": -0.09481766074895859,
+      "no_speech_prob": 8.228120333513e-13,
+      "compression_ratio": 1.8955223880597014,
+      "temperature": 0.0
+    },
+    {
+      "start": 1244.84,
+      "duration": 6.160000000000082,
+      "text": "they were once the one that was excluded and what did god do he brought them in",
+      "avg_logprob": -0.09481766074895859,
+      "no_speech_prob": 8.228120333513e-13,
+      "compression_ratio": 1.8955223880597014,
+      "temperature": 0.0
+    },
+    {
+      "start": 1252.4,
+      "duration": 3.7999999999999545,
+      "text": "you guys this is what has happened with us too we were the ones on the outside",
+      "avg_logprob": -0.09481766074895859,
+      "no_speech_prob": 8.228120333513e-13,
+      "compression_ratio": 1.8955223880597014,
+      "temperature": 0.0
+    },
+    {
+      "start": 1257.3000000000002,
+      "duration": 7.419999999999845,
+      "text": "right we were once the poor the friendless the excluded our sin and rebellion you know we we did",
+      "avg_logprob": -0.12002187093098958,
+      "no_speech_prob": 6.982522199328045e-13,
+      "compression_ratio": 1.7976878612716762,
+      "temperature": 0.0
+    },
+    {
+      "start": 1264.72,
+      "duration": 7.5,
+      "text": "we did those things and we excluded ourselves from the family of god but god loved us more",
+      "avg_logprob": -0.12002187093098958,
+      "no_speech_prob": 6.982522199328045e-13,
+      "compression_ratio": 1.7976878612716762,
+      "temperature": 0.0
+    },
+    {
+      "start": 1273.1000000000001,
+      "duration": 2.4999999999997726,
+      "text": "and what did he do he sent his son",
+      "avg_logprob": -0.12002187093098958,
+      "no_speech_prob": 6.982522199328045e-13,
+      "compression_ratio": 1.7976878612716762,
+      "temperature": 0.0
+    },
+    {
+      "start": 1277.3600000000001,
+      "duration": 7.679999999999836,
+      "text": "to be excluded to be put outside the city walls to be removed from the fellowship of god",
+      "avg_logprob": -0.12002187093098958,
+      "no_speech_prob": 6.982522199328045e-13,
+      "compression_ratio": 1.7976878612716762,
+      "temperature": 0.0
+    },
+    {
+      "start": 1286.2,
+      "duration": 3.1800000000000637,
+      "text": "And he did that so that we could be included.",
+      "avg_logprob": -0.2183359009878976,
+      "no_speech_prob": 5.655156247799664e-13,
+      "compression_ratio": 1.5257731958762886,
+      "temperature": 0.0
+    },
+    {
+      "start": 1291.32,
+      "duration": 1.1600000000000819,
+      "text": "With this in mind,",
+      "avg_logprob": -0.2183359009878976,
+      "no_speech_prob": 5.655156247799664e-13,
+      "compression_ratio": 1.5257731958762886,
+      "temperature": 0.0
+    },
+    {
+      "start": 1294.6,
+      "duration": 2.1400000000001,
+      "text": "I want to challenge us tonight",
+      "avg_logprob": -0.2183359009878976,
+      "no_speech_prob": 5.655156247799664e-13,
+      "compression_ratio": 1.5257731958762886,
+      "temperature": 0.0
+    },
+    {
+      "start": 1296.74,
+      "duration": 3.5799999999999272,
+      "text": "to think a little bit about how we can do,",
+      "avg_logprob": -0.2183359009878976,
+      "no_speech_prob": 5.655156247799664e-13,
+      "compression_ratio": 1.5257731958762886,
+      "temperature": 0.0
+    },
+    {
+      "start": 1301.8999999999999,
+      "duration": 4.420000000000073,
+      "text": "maybe do something to care for those in our community,",
+      "avg_logprob": -0.2183359009878976,
+      "no_speech_prob": 5.655156247799664e-13,
+      "compression_ratio": 1.5257731958762886,
+      "temperature": 0.0
+    },
+    {
+      "start": 1306.32,
+      "duration": 1.9800000000000182,
+      "text": "to not create an elite group,",
+      "avg_logprob": -0.2183359009878976,
+      "no_speech_prob": 5.655156247799664e-13,
+      "compression_ratio": 1.5257731958762886,
+      "temperature": 0.0
+    },
+    {
+      "start": 1309.32,
+      "duration": 2.0,
+      "text": "but to be a place where we would welcome",
+      "avg_logprob": -0.2183359009878976,
+      "no_speech_prob": 5.655156247799664e-13,
+      "compression_ratio": 1.5257731958762886,
+      "temperature": 0.0
+    },
+    {
+      "start": 1311.32,
+      "duration": 2.660000000000082,
+      "text": "all of our brothers and sisters",
+      "avg_logprob": -0.2183359009878976,
+      "no_speech_prob": 5.655156247799664e-13,
+      "compression_ratio": 1.5257731958762886,
+      "temperature": 0.0
+    },
+    {
+      "start": 1314.58,
+      "duration": 2.900000000000091,
+      "text": "who Christ has called to himself to live beside us.",
+      "avg_logprob": -0.19372695626564396,
+      "no_speech_prob": 6.715842075163958e-13,
+      "compression_ratio": 1.6143497757847534,
+      "temperature": 0.0
+    },
+    {
+      "start": 1318.9,
+      "duration": 1.5,
+      "text": "That's what we're gonna talk about in your groups",
+      "avg_logprob": -0.19372695626564396,
+      "no_speech_prob": 6.715842075163958e-13,
+      "compression_ratio": 1.6143497757847534,
+      "temperature": 0.0
+    },
+    {
+      "start": 1320.4,
+      "duration": 0.7199999999997999,
+      "text": "for a couple of minutes.",
+      "avg_logprob": -0.19372695626564396,
+      "no_speech_prob": 6.715842075163958e-13,
+      "compression_ratio": 1.6143497757847534,
+      "temperature": 0.0
+    },
+    {
+      "start": 1321.36,
+      "duration": 0.36000000000012733,
+      "text": "Let's pray.",
+      "avg_logprob": -0.19372695626564396,
+      "no_speech_prob": 6.715842075163958e-13,
+      "compression_ratio": 1.6143497757847534,
+      "temperature": 0.0
+    },
+    {
+      "start": 1324.94,
+      "duration": 2.1599999999998545,
+      "text": "Lord, I thank you that this,",
+      "avg_logprob": -0.19372695626564396,
+      "no_speech_prob": 6.715842075163958e-13,
+      "compression_ratio": 1.6143497757847534,
+      "temperature": 0.0
+    },
+    {
+      "start": 1329.48,
+      "duration": 3.5799999999999272,
+      "text": "that your word brings some of these things out.",
+      "avg_logprob": -0.19372695626564396,
+      "no_speech_prob": 6.715842075163958e-13,
+      "compression_ratio": 1.6143497757847534,
+      "temperature": 0.0
+    },
+    {
+      "start": 1333.2,
+      "duration": 4.440000000000055,
+      "text": "I think it's very helpful for us as a community",
+      "avg_logprob": -0.19372695626564396,
+      "no_speech_prob": 6.715842075163958e-13,
+      "compression_ratio": 1.6143497757847534,
+      "temperature": 0.0
+    },
+    {
+      "start": 1337.64,
+      "duration": 1.2199999999998,
+      "text": "to think about these things.",
+      "avg_logprob": -0.19372695626564396,
+      "no_speech_prob": 6.715842075163958e-13,
+      "compression_ratio": 1.6143497757847534,
+      "temperature": 0.0
+    },
+    {
+      "start": 1339.48,
+      "duration": 2.7000000000000455,
+      "text": "I pray, Lord, that your spirit would lead",
+      "avg_logprob": -0.19372695626564396,
+      "no_speech_prob": 6.715842075163958e-13,
+      "compression_ratio": 1.6143497757847534,
+      "temperature": 0.0
+    },
+    {
+      "start": 1342.18,
+      "duration": 1.6199999999998909,
+      "text": "and guide our discussion.",
+      "avg_logprob": -0.19372695626564396,
+      "no_speech_prob": 6.715842075163958e-13,
+      "compression_ratio": 1.6143497757847534,
+      "temperature": 0.0
+    },
+    {
+      "start": 1345.1799999999998,
+      "duration": 7.320000000000164,
+      "text": "help us to follow you to see you and follow you lord we pray all this in jesus name amen",
+      "avg_logprob": -0.13117088874181113,
+      "no_speech_prob": 4.74353195611954e-13,
+      "compression_ratio": 1.2222222222222223,
+      "temperature": 0.0
+    }
+  ]
+}
