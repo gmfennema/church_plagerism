@@ -2,6 +2,18 @@
 
 This folder is a transcript store for the user's requested collection. Do not create a church record, plagiarism finding, site report, or Convex task for this work. The requested deliverables are individual sermon text files and one combined text file in this folder. Keep source audio and video out of Git.
 
+## Completed collection — 2026-10-04
+
+**All 99 manifest recordings are complete:** 27 YouTube auto-caption transcripts and 72 local Whisper transcriptions, totaling **547,733 transcript words**. These cover the 70 Sunday sermons and 29 other teaching sessions in the inventory. The earlier archive display discrepancy (105 displayed versus 99 retrievable items) remains unresolved; completion refers to the 99 identified recordings.
+
+For an AI agent, use [`chris-mclaughlin-query.txt`](chris-mclaughlin-query.txt): one chronological UTF-8 text file with a contents list, clear START/END boundaries, stable recording IDs, titles, dates, passages, original URLs, and transcription provenance. It preserves every transcript word, normalizes whitespace into paragraphs, and omits per-segment timestamps. It contains **664,770 tokens using `o200k_base`** (about 2.95 MB). Token counts differ with other tokenizers; leave room for the agent's instructions and response.
+
+[`chris-mclaughlin-all.txt`](chris-mclaughlin-all.txt) retains segment timestamps for tracing quotations and contains 1,238,699 tokens with the same tokenizer. Individual timestamped text and original caption/local segment metadata are in [`items/`](items/).
+
+Final verification checked all 99 IDs, both files' 99 matching boundaries, preservation of every transcript word in the query copy, unchanged original caption files, monotonic timestamps, duration consistency, and temporary audio deletion. No automated quality flags or significant endpoint discrepancies were found. This is not a manual word-for-word verification of the recordings; machine recognition errors may remain. See [`verification.json`](verification.json), [`coverage.md`](coverage.md), and [`coverage.json`](coverage.json).
+
+Seven batches of 10 local transcripts were committed and pushed, followed by the final single-recording remainders and the compact query-copy completion update. No source audio, video, model, local environment, or credentials were committed.
+
 ## Sources and scope
 
 - Speaker archive: https://fieldspres.org/media/speaker/Chris+McLaughlin
@@ -19,7 +31,7 @@ The remaining recordings are processed with **Whisper large-v3-turbo through MLX
 
 The worker downloads one public MP3 at a time, checks its duration against the manifest, transcribes it locally, saves timestamped text and segment metadata, rebuilds and checks the combined file, and deletes the temporary audio. For the single item without an MP3, it reads a public audio-only HLS stream and saves temporary audio. No video file is saved. Sermon audio is not uploaded to an AI service. Model and library downloads require network access during setup; Hugging Face telemetry is disabled and the worker loads the model offline.
 
-Source recovery: “Enjoyment Restored” initially failed because its original MP4 URL returned 403. Its public Subsplash page advertises a playable master playlist with an audio-only rendition. That audio playlist was verified on 2026-10-04 (2,640.1 seconds, matching the manifest), and its URL/provenance were added to the manifest. The failed item will be retried after the currently running queue finishes; do not start a concurrent worker.
+Source recovery: “Enjoyment Restored” initially failed because its original MP4 URL returned 403. Its public Subsplash page advertises a playable master playlist with an audio-only rendition. That audio playlist was verified on 2026-10-04 (2,640.1 seconds, matching the manifest), and its URL/provenance were added to the manifest. The recovery run successfully transcribed it, deleted temporary audio, and pushed the final recording to GitHub.
 
 Machine transcriptions are labeled separately from YouTube captions, with engine/model versions, pinned model revision, processing time, and quality flags. They are not manually corrected. Repetition, unusually sparse output, decoder scores, and early transcript endings are checked; consequential quotations should still be verified against the recording.
 

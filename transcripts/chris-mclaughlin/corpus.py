@@ -117,6 +117,27 @@ def rebuild():
     assert combined.count('\nSTART SERMON ') == combined.count('\nEND SERMON ') == len(complete)
     assert all((BASE / r['transcript_file']).read_text().rstrip() in combined for r in complete)
     save_text(BASE / 'chris-mclaughlin-all.txt', combined)
+    query_lines = ['CHRIS MCLAUGHLIN — QUERY TRANSCRIPT COLLECTION',
+                   f"Included: {len(complete)} of {len(items)} manifest recordings.",
+                   'All transcript words are preserved; segment timestamps are omitted to reduce context size.',
+                   'Use stable recording IDs to find timestamped originals in items/ or chris-mclaughlin-all.txt.',
+                   'Machine-generated text may contain recognition errors; verify consequential quotations against the recording.',
+                   '', 'CONTENTS']
+    for n, r in enumerate(complete, 1):
+        query_lines.append(f"{n:03d} | {r['short_code']} | {r['date'][:10]} | {r['title']}")
+    for n, r in enumerate(complete, 1):
+        metadata = json.loads((BASE / r['metadata_file']).read_text())
+        words = [word for s in metadata['snippets'] for word in s['text'].split()]
+        # Only whitespace is normalized; no caption words, music labels, or repetitions are removed.
+        paragraphs = [' '.join(words[offset:offset+150]) for offset in range(0, len(words), 150)]
+        body = '\n\n'.join(paragraphs)
+        assert body.split() == words
+        header = (BASE / r['transcript_file']).read_text().split('\n\n', 1)[0]
+        marker = f"SERMON {n:03d} | {r['short_code']}"
+        query_lines.extend(['', '='*80, f'START {marker}', '='*80, header, '', body, '='*80, f'END {marker}', '='*80])
+    query = '\n'.join(query_lines) + '\n'
+    assert query.count('\nSTART SERMON ') == query.count('\nEND SERMON ') == len(complete)
+    save_text(BASE / 'chris-mclaughlin-query.txt', query)
     coverage = {'generated_at': now(), 'manifest_count': len(items), 'status_counts': counts,
                 'transcript_sources': sources, 'transcript_word_count': sum(r['word_count'] for r in complete), 'items': records}
     save_json(coverage_path, coverage)
@@ -130,6 +151,8 @@ def rebuild():
               'all_individual_files_in_combined': True, 'timestamps_monotonic': True, 'caption_segments_preserved_exactly': True,
               'combined_bytes': len(combined.encode()), 'transcript_words': coverage['transcript_word_count'],
               'combined_sha256': hashlib.sha256(combined.encode()).hexdigest(),
+              'query_copy_words_preserved': True, 'query_bytes': len(query.encode()),
+              'query_sha256': hashlib.sha256(query.encode()).hexdigest(),
               'duration_discrepancies_over_10_percent_or_60_seconds': [s['id'] for s in samples if abs(s['transcript_end_seconds']-s['archive_duration_seconds']) > max(60, s['archive_duration_seconds']*.1)],
               'verification_scope': 'Structural and text-sample checks. Not a manual word-for-word audio verification. Names and references may be misrecognized.',
               'text_samples': samples})

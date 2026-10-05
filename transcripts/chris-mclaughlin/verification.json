@@ -7,6 +7,9 @@
   "combined_bytes": 3864115,
   "transcript_words": 547733,
   "combined_sha256": "56ae5111928d953a3f77f0d0eb71a4a255d09316deef21eeda295383b2bf5dc6",
+  "query_copy_words_preserved": true,
+  "query_bytes": 2951103,
+  "query_sha256": "9e055654f2134aae8b44ac39e2ded92cba98237f26ce116616e08856b19e6632",
   "duration_discrepancies_over_10_percent_or_60_seconds": [],
   "verification_scope": "Structural and text-sample checks. Not a manual word-for-word audio verification. Names and references may be misrecognized.",
   "text_samples": [
@@ -901,5 +904,13 @@
       "transcript_end_seconds": 2098.26,
       "archive_duration_seconds": 2099.069
     }
-  ]
+  ],
+  "token_encoding": "o200k_base",
+  "token_counts": {
+    "chris-mclaughlin-all.txt": 1238699,
+    "chris-mclaughlin-query.txt": 664770
+  },
+  "all_manifest_items_complete": true,
+  "original_caption_files_unchanged": true,
+  "temporary_audio_deleted": true
 }
