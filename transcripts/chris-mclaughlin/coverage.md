@@ -1,8 +1,8 @@
 # Transcript coverage
 
 Manifest recordings: 99
-Completed transcripts: 98
-Sources: {"Local Whisper large-v3-turbo (MLX)": 71, "YouTube auto captions": 27}
+Completed transcripts: 99
+Sources: {"Local Whisper large-v3-turbo (MLX)": 72, "YouTube auto captions": 27}
 
 Machine transcripts are not manually corrected. See verification.json for integrity checks and text samples.
 
@@ -44,7 +44,7 @@ Machine transcripts are not manually corrected. See verification.json for integr
 | 2024-03-10 | 9h9fj9h | Face Suffering With Hope | complete | Local Whisper large-v3-turbo (MLX) |
 | 2024-03-13 | k8nfv57 | Session 7 - The Case For The Resurrection | complete | Local Whisper large-v3-turbo (MLX) |
 | 2024-03-20 | 5pmrrpf | Session 8 - The Problem of Evil | complete | Local Whisper large-v3-turbo (MLX) |
-| 2024-04-07 | t5rb8xc | Enjoyment Restored | transcription_failed |  |
+| 2024-04-07 | t5rb8xc | Enjoyment Restored | complete | Local Whisper large-v3-turbo (MLX) |
 | 2024-05-05 | zpz5gqr | Will You Listen? | complete | Local Whisper large-v3-turbo (MLX) |
 | 2024-05-19 | b9cwrfn | The Word Does The Work | complete | Local Whisper large-v3-turbo (MLX) |
 | 2024-06-02 | 3zzcgwt | Who Are You? | complete | Local Whisper large-v3-turbo (MLX) |
